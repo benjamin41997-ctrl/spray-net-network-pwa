@@ -1,0 +1,22 @@
+import { readFile,writeFile,mkdir,readdir,copyFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+import { join } from 'node:path';
+const root=new URL('../',import.meta.url);
+const data=JSON.parse(await readFile(new URL('site/data/directory.json',root),'utf8'));
+if(data.schemaVersion!==1||!data.companies.length)throw Error('Directory snapshot required');
+const companyKeys=new Set(['id','name','category','subcategory','city','state','zip','website','email','phone','services','serviceArea','verified','people','sources','shortlist']);
+const personKeys=new Set(['id','name','role','email','phone','sources']);
+const ids=new Set();
+for(const c of data.companies){if(ids.has(c.id)||!c.name||/^(Unresearched|DEMO)/.test(c.name))throw Error('Invalid company identity');ids.add(c.id);if(Object.keys(c).some(k=>!companyKeys.has(k)))throw Error('Unapproved company field');for(const p of c.people)if(Object.keys(p).some(k=>!personKeys.has(k)))throw Error('Unapproved contact field');}
+if(data.counts.companies!==ids.size||data.counts.people!==data.companies.reduce((n,c)=>n+c.people.length,0))throw Error('Snapshot counts mismatch');
+const files=[];async function copy(rel=''){for(const entry of await readdir(new URL('site/'+rel,root),{withFileTypes:true})){const path=join(rel,entry.name).replaceAll('\\','/');if(entry.isDirectory())await copy(path+'/');else{files.push(path);await mkdir(new URL('dist/'+rel,root),{recursive:true});await copyFile(new URL('site/'+path,root),new URL('dist/'+path,root));}}}await copy();
+const hash=createHash('sha256');for(const path of files.sort()){hash.update(path);hash.update(await readFile(new URL('site/'+path,root)));}const version=hash.digest('hex').slice(0,16);
+const cache='spray-net-network-'+version;
+await writeFile(new URL('dist/sw.js',root),`const CACHE=${JSON.stringify(cache)};const FILES=${JSON.stringify(['./',...files.map(f=>'./'+f)])};
+self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(FILES))));
+self.addEventListener('activate',event=>event.waitUntil((async()=>{for(const key of await caches.keys())if(key.startsWith('spray-net-network-')&&key!==CACHE)await caches.delete(key);await self.clients.claim();})()));
+self.addEventListener('message',event=>{if(event.data?.type==='SKIP_WAITING')self.skipWaiting();});
+self.addEventListener('fetch',event=>{const url=new URL(event.request.url);if(event.request.method!=='GET'||url.origin!==self.location.origin||!url.href.startsWith(self.registration.scope))return;event.respondWith((async()=>{const cache=await caches.open(CACHE);const cached=await cache.match(event.request,{ignoreSearch:true});if(cached)return cached;if(event.request.mode==='navigate')return cache.match('./index.html');return fetch(event.request);})());});
+`);
+await writeFile(new URL('dist/.nojekyll',root),'');
+console.log(`Built ${data.counts.companies} companies / ${data.counts.people} people / ${data.counts.shortlist} priorities. Release ${version}.`);
