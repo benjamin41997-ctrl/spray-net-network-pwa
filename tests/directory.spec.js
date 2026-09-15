@@ -1,7 +1,10 @@
 import {test,expect} from '@playwright/test';
+import {readFileSync} from 'node:fs';
+const snapshot=JSON.parse(readFileSync(new URL('../site/data/directory.json',import.meta.url),'utf8'));
+const companyCount=snapshot.counts.companies.toLocaleString('en-US');
 test('search, priority filters, contacts and profile links work under a repository path',async({page})=>{
  const errors=[];page.on('pageerror',e=>errors.push(e.message));await page.goto('./');
- await expect(page.locator('#company-count')).toHaveText('554');
+ await expect(page.locator('#company-count')).toHaveText(companyCount);
  await page.getByRole('button',{name:'Priority 30',exact:true}).click();
  await expect(page.locator('#result-count')).toHaveText('30 companies');
  await page.getByLabel('Search the network').fill('Whitney');
@@ -18,7 +21,7 @@ test('search, priority filters, contacts and profile links work under a reposito
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
 });
 test('category, email and pagination filter correctly',async({page})=>{
- await page.goto('./');await expect(page.locator('#company-count')).toHaveText('554');
+ await page.goto('./');await expect(page.locator('#company-count')).toHaveText(companyCount);
  await page.locator('#category').selectOption('kitchen');await page.locator('#contact').selectOption('email');
  const names=await page.locator('.company-card h2').allTextContents();expect(names.length).toBeGreaterThan(0);
  await expect(page.locator('.company-card .category').first()).toHaveText('Cabinet / Kitchen Industry');
@@ -33,7 +36,7 @@ test('installation manifest and entire snapshot remain available offline',async(
  expect(manifest.display).toBe('standalone');expect(manifest.start_url).toBe('./');expect(manifest.icons.some(i=>i.purpose==='maskable')).toBe(true);
  // WebKit emulation does not reliably reproduce service-worker offline routing.
  if(browserName==='webkit')return;
- await context.setOffline(true);await page.reload();await expect(page.locator('#company-count')).toHaveText('554');
+ await context.setOffline(true);await page.reload();await expect(page.locator('#company-count')).toHaveText(companyCount);
  await page.getByLabel('Search the network').fill('Dawson');await page.getByRole('link',{name:'Dawson Property Management',exact:true}).click();
  await expect(page.getByRole('heading',{name:'Derek Dawson',exact:true})).toBeVisible();
  await expect(page.locator('#connection')).toContainText('Offline');
