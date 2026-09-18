@@ -1,12 +1,14 @@
 import { readFile,writeFile,mkdir,readdir,copyFile } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { join } from 'node:path';
+import { validateVisit } from '../site/visits.js';
 const root=new URL('../',import.meta.url);
 const data=JSON.parse(await readFile(new URL('site/data/directory.json',root),'utf8'));
 if(data.schemaVersion!==1||!data.companies.length)throw Error('Directory snapshot required');
-const companyKeys=new Set(['id','name','category','subcategory','city','state','zip','website','email','phone','services','serviceArea','verified','people','sources','shortlist']);
+const companyKeys=new Set(['id','name','category','subcategory','city','state','zip','website','email','phone','services','serviceArea','verified','people','sources','shortlist','visit']);
 const personKeys=new Set(['id','name','role','email','phone','sources']);
 const ids=new Set();
+for(const c of data.companies)validateVisit(c.visit);
 for(const c of data.companies){if(ids.has(c.id)||!c.name||/^(Unresearched|DEMO)/.test(c.name))throw Error('Invalid company identity');ids.add(c.id);if(Object.keys(c).some(k=>!companyKeys.has(k)))throw Error('Unapproved company field');for(const p of c.people)if(Object.keys(p).some(k=>!personKeys.has(k)))throw Error('Unapproved contact field');}
 if(data.counts.companies!==ids.size||data.counts.people!==data.companies.reduce((n,c)=>n+c.people.length,0))throw Error('Snapshot counts mismatch');
 const files=[];async function copy(rel=''){for(const entry of await readdir(new URL('site/'+rel,root),{withFileTypes:true})){const path=join(rel,entry.name).replaceAll('\\','/');if(entry.isDirectory())await copy(path+'/');else{files.push(path);await mkdir(new URL('dist/'+rel,root),{recursive:true});await copyFile(new URL('site/'+path,root),new URL('dist/'+path,root));}}}await copy();

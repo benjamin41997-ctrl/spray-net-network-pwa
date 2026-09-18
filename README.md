@@ -8,13 +8,15 @@ App: https://benjamin41997-ctrl.github.io/spray-net-network-pwa/
 
 ## Use
 
-Search companies, people, locations and services; filter by category, office location and available contacts. Priority 30 shows the curated referral list. Profiles include source dates, research gaps, vendor routing, and links for calling or emailing. The app never sends messages automatically.
+Search companies, people, locations and services; filter by category, city, visit suitability and available contacts. Use **Drop-in stops** with a city when you have time between quotes. This shows reviewed public visitor locations; the shortcut clears Priority 30 while retaining the city and other filters. Priority 30 remains a separate referral list. Profiles include source dates, research gaps, vendor routing, and links for calling or emailing. The app never sends messages automatically.
+
+Visit badges distinguish drop-in stops, call-first businesses, appointment-only offices, home-based businesses, no visitor office, closed locations and unverified records. A registration address or business category never implies visitor access. Reviewed profiles show visit restrictions, source links and the check date; only reviewed public visitor addresses get directions. Published hours are not an “open now” service and do not guarantee that a networking contact is available. Weekend appointment restrictions remain visible on drop-in cards. Unreviewed businesses are excluded from Drop-in stops.
 
 Android: open the site in Chrome and choose Install app / Add to Home screen. iOS/iPadOS: Safari → Share → Add to Home Screen. Keep the app open online until it says **Ready offline**. External websites and communications still need connectivity. Use **Update now** when a new release is available; About also provides **Check for updates**.
 
 ## Publishing scope
 
-This site and its JSON are publicly accessible, matching the portfolio's Pages setup. `noindex` discourages indexing and is not access control. Only public business directory fields are exported. Raw database files, private CRM notes, relationship history, credentials, street addresses and unresearched Google placeholders are excluded. The public priority list contains suggested partnership fit and vendor routing; unsent CRM messages remain local. No Google Places API content or key is distributed.
+This site and its JSON are publicly accessible, matching the portfolio's Pages setup. `noindex` discourages indexing and is not access control. Only public business directory fields are exported. Raw database files, private CRM notes, relationship history, credentials, residential/registration addresses and unresearched Google placeholders are excluded. Reviewed public visitor addresses are explicitly allowlisted in visit policies. The public priority list contains suggested partnership fit and vendor routing; unsent CRM messages remain local. No Google Places API content or key is distributed.
 
 The company/contact IDs are stable and the snapshot has a schema version. A separate data-loading function can later be replaced with a Microsoft-authenticated OneDrive adapter. There is no cross-device editing in this release.
 
@@ -27,6 +29,8 @@ The source of truth is the sibling `spray-net-networking` application. Run from 
 ```
 
 The exporter allowlists public fields and requires matching public source evidence for contact details. Review the changed `site/data/directory.json`, then in this repository run:
+
+Visit research is persisted in the CRM's `sources` table as dated `visit_policy` evidence, rather than overwriting office identity or inferring visitor access from addresses. Review a batch shaped like `exports/visit-policies-20260918.json` and import it with `python -m tools.import_visit_policies <batch>` before exporting. The importer validates company IDs/names, public fields and sources and makes a database backup. The newest accepted policy wins; repeated imports of an unchanged policy are skipped. The build independently validates visit metadata before publication.
 
 ```sh
 pnpm install --frozen-lockfile
