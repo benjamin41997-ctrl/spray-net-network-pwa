@@ -1,6 +1,6 @@
 # Spray-Net Partner Network PWA
 
-A mobile, tablet and desktop directory for Spray-Net South Charlotte. GitHub Pages serves the app and a reviewed snapshot; the desktop does not need to stay on. No hosted Python server, account, tracking, paid service or API key is required for browsing.
+A mobile, tablet and desktop directory and private outreach tracker for Spray-Net South Charlotte. GitHub Pages serves the app and a reviewed directory snapshot; the desktop does not need to stay on. No hosted Python server, account, analytics, paid service or API key is required for browsing.
 
 Repository: https://github.com/benjamin41997-ctrl/spray-net-network-pwa
 
@@ -18,7 +18,19 @@ Android: open the site in Chrome and choose Install app / Add to Home screen. iO
 
 This site and its JSON are publicly accessible, matching the portfolio's Pages setup. `noindex` discourages indexing and is not access control. Only public business directory fields are exported. Raw database files, private CRM notes, relationship history, credentials, residential/registration addresses and unresearched Google placeholders are excluded. Reviewed public visitor addresses are explicitly allowlisted in visit policies. The public priority list contains suggested partnership fit and vendor routing; unsent CRM messages remain local. No Google Places API content or key is distributed.
 
-The company/contact IDs are stable and the snapshot has a schema version. A separate data-loading function can later be replaced with a Microsoft-authenticated OneDrive adapter. There is no cross-device editing in this release.
+The company/contact IDs are stable and the snapshot has a schema version. Automatic cross-device sync is not configured. Private activity records live in IndexedDB under `spray-net-partner-outreach`, separate from the public directory and service-worker cache. The site has no API for uploading history and no analytics. Browser storage is not encrypted by this app and is accessible to anyone using the same browser profile. GitHub Pages projects under the same account share a web origin; this is browser-local privacy, not authenticated account isolation.
+
+## Networking tracker
+
+Use **Tracker** for all activity history, or **Networking history → Log completed activity** on a business profile. Record the recipient, completed date, channel, material/email subject, notes, outcome and optional follow-up. Types include visits, calls, sent emails, delivered one-pagers, direct mail, texts, social messages and events. One-pagers require a delivery method and material name; direct mail requires a material name. Opening `mailto:` or phone links never counts as sent/contacted, and CRM outreach drafts are not imported as completed activities.
+
+Directory cards show the latest touch, number of completed activities and due follow-ups. Combine city/visit filters with **No activity logged**, **Follow-ups due**, **Contacted in last 30 days**, or **Not contacted in 30+ days**; **Oldest contact first** sorts unlogged businesses first, then older touches. No activity logged means no history on this browser, not proof you have never contacted the company. Activity history can be searched by business, recipient, material or notes and filtered by type. Repeating a material name for the same business raises a reminder, without preventing legitimate repeat deliveries.
+
+Edit saved entries, complete/reopen follow-ups, or remove an entry. Removal preserves a tombstone with Undo and **Show removed entries → Restore**. Company/person names are snapshotted on entries so changes to the public directory do not erase the original record. Concurrent stale edits in different tabs are rejected rather than silently overwriting another change. The app requests persistent storage after saving where browsers support it; you must still keep backups.
+
+**Export backup** downloads private JSON. Save it in your private OneDrive or another safe location. **Import tracker backup → Merge backup** restores or transfers history across devices, keeping new/newer versions by stable activity ID and retaining unrelated history. Export/import is manual, not automatic synchronization. Clock differences between devices affect which version is newest. **Export spreadsheet CSV** is for review and does not support re-import. Clearing browser/site data or uninstalling in some browsers can erase local activity. App deployments update public assets without clearing IndexedDB. The private desktop CRM activity table is not synchronized with this tracker.
+
+Future OneDrive sync needs a registered Microsoft SPA application and authenticated access to a private app folder. No client secret belongs in a static PWA. This release does not advertise a working sign-in or sync button before that integration is configured and tested.
 
 ## Update research
 

@@ -6,3 +6,5 @@ playwright-report/
 *.db
 *.sqlite*
 *.log
+spray-net-outreach-*.json
+spray-net-outreach-*.csv

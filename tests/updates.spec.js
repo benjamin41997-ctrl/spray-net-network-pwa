@@ -6,11 +6,19 @@ test('an existing installed client can activate a new published snapshot',async(
  const originalSw=await readFile(swPath,'utf8'),originalData=await readFile(dataPath,'utf8');
  try{
   await page.goto('./');await expect(page.locator('#connection')).toHaveText('Ready offline');await page.reload();
+  await page.getByRole('button',{name:'Tracker',exact:true}).click();
+  await page.locator('#tracker .log-details > summary').click();
+  await page.locator('#tracker [name=companyId]').selectOption('2');
+  await page.locator('#tracker [name=notes]').fill('Keep this private activity through the app update.');
+  await page.getByRole('button',{name:'Save activity',exact:true}).click();
+  await expect(page.locator('#tracker .form-message')).toContainText('Activity saved');
   const next=JSON.parse(originalData);next.companies[0].name='Updated published company';
   await writeFile(dataPath,JSON.stringify(next));await writeFile(swPath,originalSw.replace(/spray-net-network-([a-f0-9]+)/g,'spray-net-network-test-update'));
   await page.getByRole('button',{name:'About',exact:true}).click();await page.getByRole('button',{name:'Check for updates',exact:true}).click();
   await expect(page.getByRole('button',{name:'Update now',exact:true})).toBeVisible();await page.getByRole('button',{name:'Update now',exact:true}).click();
   await expect(page.locator('#connection')).toHaveText('Ready offline');await page.getByRole('button',{name:'Back to directory'}).click();
   await page.getByLabel('Search the network').fill('Updated published company');await expect(page.locator('#result-count')).toHaveText('1 company');
+  await page.getByRole('button',{name:'Tracker',exact:true}).click();
+  await expect(page.locator('#tracker .activity-entry')).toContainText('Keep this private activity through the app update.');
  }finally{await writeFile(swPath,originalSw);await writeFile(dataPath,originalData);}
 });
