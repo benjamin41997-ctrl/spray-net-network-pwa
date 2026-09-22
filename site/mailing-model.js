@@ -1,4 +1,5 @@
-export const mailingCategories = {dentist:'Dentist offices',school:'Schools',district:'School district offices',veterinary:'Veterinary clinics',funeral:'Funeral homes',childcare:'Private childcare / preschools',church:'Churches / religious facilities',venue:'Wedding / event venues',medical:'Medical offices',med_spa:'Med spas',restaurant:'Standalone restaurants',lodging:'Independent lodging',professional:'Professional offices',property_management:'Property Management',real_estate:'Real Estate',kitchen:'Cabinet / Kitchen Industry',other:'Other businesses'};
+import {ratingOptions,validateProspect,validateProperty,prospectRatings,approvalRoute} from './prospect-model.js';
+export const mailingCategories = {dentist:'Dentist offices',school:'Schools',district:'School district offices',veterinary:'Veterinary clinics',funeral:'Funeral homes',childcare:'Private childcare / preschools',church:'Churches / religious facilities',venue:'Wedding / event venues',medical:'Medical offices',med_spa:'Med spas',restaurant:'Restaurants / dining locations',lodging:'Independent lodging',professional:'Professional offices',property_management:'Property Management',real_estate:'Real Estate',kitchen:'Cabinet / Kitchen Industry',other:'Other businesses'};
 import {mailingArea,mailingAreas} from './mailing-territory.js';
 export const exteriorRoutes = {likely_business:'Likely business / owner route',likely_landlord:'Likely landlord approval',central_facilities:'Central facilities / district',unknown:'Approval route unknown'};
 export const addressSourceTypes = {company_website:'Business website',licensing:'Business registry',industry_association:'Industry association',official_directory:'Official organization directory',healthcare_registry:'CMS organization registry'};
@@ -7,7 +8,9 @@ const clean = v => String(v ?? '').trim();
 const day = v => typeof v === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(v) && Number.isFinite(Date.parse(v+'T12:00:00Z')) && new Date(v+'T12:00:00Z').toISOString().slice(0,10) === v;
 export function validateRecipient(r) {
   const fields = ['id','name','category','attention','address1','address2','city','state','zip','country','source','reviewedOn','status'];
-  if (!r || fields.some(k => !Object.hasOwn(r,k)) || Object.keys(r).some(k => !fields.includes(k) && !['prospectNotes','exterior','addressSourceType'].includes(k))) throw Error('Invalid mailing recipient fields.');
+  if (!r || fields.some(k => !Object.hasOwn(r,k)) || Object.keys(r).some(k => !fields.includes(k) && !['prospectNotes','exterior','addressSourceType','prospect','property'].includes(k))) throw Error('Invalid mailing recipient fields.');
+  if (Object.hasOwn(r,'prospect')) validateProspect(r.prospect);
+  if (Object.hasOwn(r,'property')) validateProperty(r.property);
   if (Object.hasOwn(r,'prospectNotes') && (typeof r.prospectNotes !== 'string' || r.prospectNotes.length > 500)) throw Error('Invalid prospect notes.');
   if (Object.hasOwn(r,'addressSourceType') && !Object.hasOwn(addressSourceTypes,r.addressSourceType)) throw Error('Invalid address source type.');
   if (Object.hasOwn(r,'exterior')) {
@@ -27,14 +30,20 @@ export function completeAddress(r) { return !!(clean(r.name) && clean(r.address1
 export function mergeMailingCatalog(recipients,companies){
   const byId=new Map(companies.map(c=>[c.id,c])),seen=new Set();
   for(const r of recipients){validateRecipient(r);if(seen.has(r.id))throw Error('Duplicate mailing identity.');seen.add(r.id);const c=byId.get(r.id);if(r.id<1000000&&(!c||c.name!==r.name||c.category!==r.category))throw Error('Mailing record does not match its CRM company.');if(r.id>=1000000&&c)throw Error('Mailing identity collides with CRM.');}
-  return [...recipients,...companies.filter(c=>!seen.has(c.id)).map(c=>({id:c.id,name:c.name,category:c.category,attention:'',address1:'',address2:'',city:c.city||'',state:c.state||'',zip:c.zip||'',country:'US',source:'',reviewedOn:'',status:'needs_review'}))];
+  return [...recipients,...companies.filter(c=>!seen.has(c.id)).map(c=>({id:c.id,name:c.name,category:c.category,attention:'',address1:'',address2:'',city:c.city||'',state:c.state||'',zip:c.zip||'',country:'US',source:'',reviewedOn:'',status:'needs_review'}))].map(r=>{
+    const v=byId.get(r.id)?.visit;
+    if(r.prospect?.visit||!v?.checkedAt||!v.sources?.length)return r;
+    const value=({walk_in:'walk_in',appointment_only:'appointment',home_based:'home_based'})[v.status]||'unknown';
+    return {...r,prospect:{...r.prospect,visit:{value,reason:v.summary,source:v.sources[0],reviewedOn:v.checkedAt}}};
+  });
 }
 const norm = v => clean(v).toUpperCase().replace(/[.,]/g,'').replace(/\b(STREET|ROAD|AVENUE|BOULEVARD|DRIVE|LANE|PARKWAY|HIGHWAY|SUITE)\b/g,v=>({STREET:'ST',ROAD:'RD',AVENUE:'AVE',BOULEVARD:'BLVD',DRIVE:'DR',LANE:'LN',PARKWAY:'PKWY',HIGHWAY:'HWY',SUITE:'STE'}[v])).replace(/#/g,'STE ').replace(/\s+/g,' ').trim();
 export const addressKey = r => [norm([r.address1,r.address2].filter(Boolean).join(' ')).replace(/\b(?:STE|SUITE)\s*(?=[A-Z0-9])/g,'STE ').replace(/\bSTE\s+STE\b/g,'STE'),norm(r.city),clean(r.state),clean(r.zip).slice(0,5)].join('|');
 export const recipientKey = r => norm(r.name)+'|'+addressKey(r);
 export const exportRow = r => [r.name,r.attention,r.address1,r.address2,r.city,r.state,r.zip,r.country];
-export const defaultFilters = () => ({categories:['dentist','school'],cities:[],zips:'',search:'',excludeDays:0,onePerAddress:false,excluded:[],area:'',exterior:'',sourceType:''});
+export const defaultFilters = () => ({categories:['dentist','school'],cities:[],zips:'',search:'',excludeDays:0,onePerAddress:false,excluded:[],area:'',exterior:'',sourceType:'',opportunity:'',access:'',evidence:'',visit:''});
 export function validateFilters(f) {
+  for(const k of Object.keys(ratingOptions))if(f?.[k]!==undefined&&f[k]!==''&&!Object.hasOwn(ratingOptions[k],f[k]))throw Error('Invalid prospect rating filter.');
   if(f?.area!==undefined&&f.area!==''&&!mailingAreas.some(a=>a.id===f.area))throw Error('Invalid research area.');
   if(f?.exterior!==undefined&&f.exterior!==''&&!Object.hasOwn(exteriorRoutes,f.exterior))throw Error('Invalid exterior approval filter.');
   if(f?.sourceType!==undefined&&f.sourceType!==''&&!Object.hasOwn(addressSourceTypes,f.sourceType))throw Error('Invalid address source filter.');
@@ -46,10 +55,10 @@ export function parseZips(value) {
   if (zips.some(z=>!/^\d{5}$/.test(z))) throw Error('Enter five-digit ZIP codes separated by commas or spaces.');
   return zips;
 }
-export function selectRecipients(catalog, filters, suppressed=[], lastMailed=()=>null, today) {
+export function selectRecipients(catalog, filters, suppressed=[], lastMailed=()=>null, today, findingsFor=()=>({})) {
   validateFilters(filters); const zips=parseZips(filters.zips), blocked=new Set(suppressed), excluded=new Set(filters.excluded), seen=new Set(), rows=[], held=[];
   const blockedKeys=new Set(catalog.filter(r=>blocked.has(r.id)).map(recipientKey));
-  const candidates = catalog.filter(r=>(!filters.sourceType||r.addressSourceType===filters.sourceType)&&filters.categories.includes(r.category) && (!filters.area||mailingArea(r)===filters.area) && (!filters.exterior||(r.exterior?.route||'unknown')===filters.exterior) && (!filters.cities.length||filters.cities.includes(r.city)) && (!zips.length||zips.includes(r.zip.slice(0,5))) && (!filters.search||[r.name,r.city,r.address1,r.address2].join(' ').toLowerCase().includes(filters.search.toLowerCase()))).sort((a,b)=>a.name.localeCompare(b.name)||a.id-b.id);
+  const candidates = catalog.filter(r=>Object.keys(ratingOptions).every(k=>!filters[k]||prospectRatings(r,findingsFor(r.id))[k].value===filters[k])&&(!filters.sourceType||r.addressSourceType===filters.sourceType)&&filters.categories.includes(r.category) && (!filters.area||mailingArea(r)===filters.area) && (!filters.exterior||approvalRoute(r,findingsFor(r.id))===filters.exterior) && (!filters.cities.length||filters.cities.includes(r.city)) && (!zips.length||zips.includes(r.zip.slice(0,5))) && (!filters.search||[r.name,r.city,r.address1,r.address2].join(' ').toLowerCase().includes(filters.search.toLowerCase()))).sort((a,b)=>a.name.localeCompare(b.name)||a.id-b.id);
   for (const r of candidates) {
     let reason=''; const last=lastMailed(r.id);
     if (blocked.has(r.id)||blockedKeys.has(recipientKey(r))) reason='Do not mail';

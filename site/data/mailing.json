@@ -2342,7 +2342,8 @@
         "reason": "Suite/unit address suggests a shared property. Landlord or association approval may be needed; tenancy and ownership are unverified.",
         "source": "https://www.adorskinlab.com/",
         "reviewedOn": "2026-09-22"
-      }
+      },
+      "prospect": {}
     },
     {
       "id": 1000107,
@@ -2365,7 +2366,8 @@
         "reason": "Suite/unit address suggests a shared property. Landlord or association approval may be needed; tenancy and ownership are unverified.",
         "source": "https://www.wdfplasticsurgery.com/theaestheticspa",
         "reviewedOn": "2026-09-22"
-      }
+      },
+      "prospect": {}
     },
     {
       "id": 1000108,
@@ -2388,6 +2390,14 @@
         "reason": "Suite/unit address suggests a shared property. Landlord or association approval may be needed; tenancy and ownership are unverified.",
         "source": "https://www.legacyhealthwellness.com/",
         "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "access": {
+          "value": "local_owner",
+          "reason": "Business website identifies physician ownership. This identifies a business contact route, not building title or exterior authority.",
+          "source": "https://www.legacyhealthwellness.com/",
+          "reviewedOn": "2026-09-22"
+        }
       }
     },
     {
@@ -2411,7 +2421,8 @@
         "reason": "Suite/unit address suggests a shared property. Landlord or association approval may be needed; tenancy and ownership are unverified.",
         "source": "https://merakiaestheticsandco.com/contact/",
         "reviewedOn": "2026-09-22"
-      }
+      },
+      "prospect": {}
     },
     {
       "id": 1000110,
@@ -2434,6 +2445,14 @@
         "reason": "Published business address only. Building ownership, exterior approval authority and walk-in access have not been established.",
         "source": "https://sesculpting.com/",
         "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "access": {
+          "value": "local_owner",
+          "reason": "Business website identifies physician ownership. This identifies a business contact route, not building title or exterior authority.",
+          "source": "https://sesculpting.com/",
+          "reviewedOn": "2026-09-22"
+        }
       }
     },
     {
@@ -2470,7 +2489,7 @@
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://vitalitymedicalspa.com/medical-spa-in-belmont/",
+      "source": "https://vitalitymedicalspa.com/location/belmont/",
       "reviewedOn": "2026-09-22",
       "status": "published",
       "prospectNotes": "Suite address; confirm the building owner or landlord responsible for exterior work. A mailing address does not establish walk-in access.",
@@ -2480,6 +2499,14 @@
         "reason": "Suite/unit address suggests a shared property. Landlord or association approval may be needed; tenancy and ownership are unverified.",
         "source": "https://vitalitymedicalspa.com/medical-spa-in-belmont/",
         "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "evidence": {
+          "value": "website",
+          "reason": "Official location page rechecked; street address and Suite 100 agree with the catalog.",
+          "source": "https://vitalitymedicalspa.com/location/belmont/",
+          "reviewedOn": "2026-09-22"
+        }
       }
     },
     {
@@ -2595,6 +2622,41 @@
         "reason": "Published business address only. Building ownership, exterior approval authority and walk-in access have not been established.",
         "source": "https://eastmainguesthouse.com/contact-us/",
         "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "access": {
+          "value": "local_owner",
+          "reason": "Tourism bureau identifies Scott and Heidi as the inn purchasers/operators; county parcel names John Scott and Heidi Reynolds. Confirm current exterior authority before quoting.",
+          "source": "https://www.visityorkcounty.com/blog/post/love-in-the-heart-of-rock-hill/",
+          "reviewedOn": "2026-09-22"
+        },
+        "opportunity": {
+          "value": "moderate",
+          "reason": "Tourism bureau documents a guesthouse with garden and pergola. Customer-facing exterior merits assessment; current surface condition and coating suitability are unknown.",
+          "source": "https://www.visityorkcounty.com/blog/post/love-in-the-heart-of-rock-hill/",
+          "reviewedOn": "2026-09-22"
+        },
+        "visit": {
+          "value": "appointment",
+          "reason": "Residential guesthouse setting: arrange an introduction with the innkeepers rather than dropping in unannounced. This is a research recommendation, not a published access policy.",
+          "source": "https://www.visityorkcounty.com/blog/post/love-in-the-heart-of-rock-hill/",
+          "reviewedOn": "2026-09-22"
+        },
+        "evidence": {
+          "value": "corroborated",
+          "reason": "Business/tourism location evidence is corroborated by a county address-point and parcel match. This does not verify current occupancy, business ownership, or exterior permission.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%276270703003%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "property": {
+        "status": "matched",
+        "owner": "REYNOLDS JOHN SCOTT; REYNOLDS HEIDI",
+        "parcelId": "6270703003",
+        "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%276270703003%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+        "reviewedOn": "2026-09-22",
+        "relationship": "documented",
+        "notes": "County address point matched by street, city and ZIP, then intersected with this parcel. County reports Residential use and 4,685 total building square feet; this is not exterior paintable area. Recorded owner name does not by itself establish the business relationship or authority to approve work."
       }
     },
     {
@@ -2618,6 +2680,20 @@
         "reason": "Published business address only. Building ownership, exterior approval authority and walk-in access have not been established.",
         "source": "https://www.thevillaatwatersedge.com/",
         "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "opportunity": {
+          "value": "moderate",
+          "reason": "Published lodging description includes a lake-facing veranda. Potential exterior assessment; material condition and approval authority are unknown.",
+          "source": "https://www.thevillaatwatersedge.com/",
+          "reviewedOn": "2026-09-22"
+        },
+        "visit": {
+          "value": "appointment",
+          "reason": "Small private lodging property; arrange an introduction. This is a research recommendation, not a confirmed visitor policy.",
+          "source": "https://www.thevillaatwatersedge.com/",
+          "reviewedOn": "2026-09-22"
+        }
       }
     },
     {
@@ -2884,10 +2960,18 @@
       "state": "",
       "zip": "",
       "country": "US",
-      "source": "",
-      "reviewedOn": "",
+      "source": "https://elite-team-realty.com/contact-us",
+      "reviewedOn": "2026-09-22",
       "status": "needs_review",
-      "prospectNotes": "Held: Missing street_address; Missing city; Missing state; Missing zip. No address has been guessed."
+      "prospectNotes": "Current contact page has a form but no usable street address.",
+      "prospect": {
+        "evidence": {
+          "value": "unresolved",
+          "reason": "Current contact page has a form but no usable street address.",
+          "source": "https://elite-team-realty.com/contact-us",
+          "reviewedOn": "2026-09-22"
+        }
+      }
     },
     {
       "id": 4,
@@ -3100,10 +3184,18 @@
       "state": "",
       "zip": "",
       "country": "US",
-      "source": "",
-      "reviewedOn": "",
+      "source": "https://broadconnectionpm.com/contact-us",
+      "reviewedOn": "2026-09-22",
       "status": "needs_review",
-      "prospectNotes": "Held: Missing street_address; Missing city; Missing state; Missing zip. No address has been guessed."
+      "prospectNotes": "Contact page lists the Greater Charlotte service area, email and phone but no office street address.",
+      "prospect": {
+        "evidence": {
+          "value": "unresolved",
+          "reason": "Contact page lists the Greater Charlotte service area, email and phone but no office street address.",
+          "source": "https://broadconnectionpm.com/contact-us",
+          "reviewedOn": "2026-09-22"
+        }
+      }
     },
     {
       "id": 14,
@@ -3185,10 +3277,18 @@
       "state": "",
       "zip": "",
       "country": "US",
-      "source": "",
-      "reviewedOn": "",
+      "source": "https://www.rentnowsolutions.com/more/about-us/our-location",
+      "reviewedOn": "2026-09-22",
       "status": "needs_review",
-      "prospectNotes": "Held: Missing street_address; Missing city; Missing state; Missing zip. No address has been guessed."
+      "prospectNotes": "Location page could not be retrieved in this pass; no address promoted.",
+      "prospect": {
+        "evidence": {
+          "value": "unresolved",
+          "reason": "Location page could not be retrieved in this pass; no address promoted.",
+          "source": "https://www.rentnowsolutions.com/more/about-us/our-location",
+          "reviewedOn": "2026-09-22"
+        }
+      }
     },
     {
       "id": 18,
@@ -3257,16 +3357,37 @@
       "name": "Muse Realty LLC",
       "category": "property_management",
       "attention": "",
-      "address1": "",
+      "address1": "1538 Ebenezer Road",
       "address2": "",
       "city": "Rock Hill",
       "state": "SC",
       "zip": "29732",
       "country": "US",
-      "source": "",
-      "reviewedOn": "",
-      "status": "needs_review",
-      "prospectNotes": "Held: Unresolved address conflict. No address has been guessed."
+      "source": "https://www.muserealtyrentals.com/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "prospectNotes": "Current company website publishes this street location separately from PO Box 37780. Street location retained for business targeting; no walk-in permission established.",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "The business identifies a local owner, but building ownership and exterior approval are not established.",
+        "source": "https://www.muserealtyrentals.com/our-team",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "access": {
+          "value": "local_owner",
+          "reason": "Company team page identifies Linda Muse as owner; this is business ownership, not proof of property title.",
+          "source": "https://www.muserealtyrentals.com/our-team",
+          "reviewedOn": "2026-09-22"
+        },
+        "evidence": {
+          "value": "corroborated",
+          "reason": "Company website and BBB profile agree on 1538 Ebenezer Road. The separate PO Box is not combined into the street address.",
+          "source": "https://www.bbb.org/us/sc/rock-hill/profile/real-estate-rentals/muse-realty-llc-0473-125406",
+          "reviewedOn": "2026-09-22"
+        }
+      }
     },
     {
       "id": 23,
@@ -3279,10 +3400,18 @@
       "state": "SC",
       "zip": "29732",
       "country": "US",
-      "source": "",
-      "reviewedOn": "",
+      "source": "https://rentwithreeves.managebuilding.com/Resident/public/contact",
+      "reviewedOn": "2026-09-22",
       "status": "needs_review",
-      "prospectNotes": "Held: Public HTTPS evidence needed: zip; Unresolved address conflict. No address has been guessed."
+      "prospectNotes": "Rechecked: current operator portal publishes 1462 Ebenezer Road; BBB specifies unit 101. Prior conflicting address evidence is not fully resolved. Confirm the current office and suite before publishing.",
+      "prospect": {
+        "evidence": {
+          "value": "unresolved",
+          "reason": "Operator portal and BBB differ in unit detail; current office/unit still needs confirmation.",
+          "source": "https://rentwithreeves.managebuilding.com/Resident/public/contact",
+          "reviewedOn": "2026-09-22"
+        }
+      }
     },
     {
       "id": 24,
@@ -3380,10 +3509,18 @@
       "state": "SC",
       "zip": "",
       "country": "US",
-      "source": "",
-      "reviewedOn": "",
+      "source": "https://www.albrightrealty.com/about-us",
+      "reviewedOn": "2026-09-22",
       "status": "needs_review",
-      "prospectNotes": "Held: Missing street_address; Missing zip. No address has been guessed."
+      "prospectNotes": "Reviewed about page does not establish a complete street/city/ZIP delivery address.",
+      "prospect": {
+        "evidence": {
+          "value": "unresolved",
+          "reason": "Reviewed about page does not establish a complete street/city/ZIP delivery address.",
+          "source": "https://www.albrightrealty.com/about-us",
+          "reviewedOn": "2026-09-22"
+        }
+      }
     },
     {
       "id": 31,
@@ -23509,6 +23646,879 @@
         "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1558048611",
         "reviewedOn": "2026-09-22"
       }
+    },
+    {
+      "name": "Fish Market Bar & Grill",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "990 Market Street",
+      "address2": "",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29708",
+      "country": "US",
+      "source": "https://www.fishmarketbarandgrill.com/location/fish-market/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "A published street address does not establish who owns the building or can approve exterior work.",
+        "source": "https://www.fishmarketbarandgrill.com/location/fish-market/",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "visit": {
+          "value": "walk_in",
+          "reason": "The restaurant advertises public dining hours. A brief front-desk introduction may be possible off peak; staff availability and permission to solicit are not confirmed.",
+          "source": "https://www.fishmarketbarandgrill.com/location/fish-market/",
+          "reviewedOn": "2026-09-22"
+        },
+        "evidence": {
+          "value": "corroborated",
+          "reason": "Business/tourism location evidence is corroborated by a county address-point and parcel match. This does not verify current occupancy, business ownership, or exterior permission.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%276550000089%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        },
+        "opportunity": {
+          "value": "moderate",
+          "reason": "Customer-facing restaurant at a matched parcel with 6,725 building square feet. Potential assessment target; exterior materials, condition, scope and budget remain unknown.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%276550000089%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "property": {
+        "status": "matched",
+        "owner": "990 MARKET ST LLC; KELEMEN SELENA  TRUSTEE",
+        "parcelId": "6550000089",
+        "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%276550000089%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "County address point matched by street, city and ZIP, then intersected with this parcel. County reports RESTAURANT use and 6,725 total building square feet; this is not exterior paintable area. Recorded owner name does not by itself establish the business relationship or authority to approve work."
+      },
+      "id": 1000539
+    },
+    {
+      "name": "The Flipside Cafe",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "3150 Highway 21 North",
+      "address2": "",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29715",
+      "country": "US",
+      "source": "https://www.theflipsiderestaurant.com/the-flipside-cafe",
+      "reviewedOn": "2026-09-22",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Business website omits a suite. York County lists multiple suites at 3150 Highway 21; confirm the delivery unit before mailing. Exterior responsibility also needs review.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "A published street address does not establish who owns the building or can approve exterior work.",
+        "source": "https://www.theflipsiderestaurant.com/the-flipside-cafe",
+        "reviewedOn": "2026-09-22"
+      },
+      "id": 1000540
+    },
+    {
+      "name": "Kounter",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "135 E Main Street",
+      "address2": "Suite 101",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29730",
+      "country": "US",
+      "source": "https://www.kounterdining.com/menus",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "likely_landlord",
+        "reason": "Suite address suggests shared premises; ownership and landlord approval are unconfirmed.",
+        "source": "https://www.kounterdining.com/menus",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "visit": {
+          "value": "walk_in",
+          "reason": "The restaurant advertises public dining hours. A brief front-desk introduction may be possible off peak; staff availability and permission to solicit are not confirmed.",
+          "source": "https://www.kounterdining.com/menus",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000541
+    },
+    {
+      "name": "Towne Tavern at Indian Land",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "9789 Charlotte Hwy",
+      "address2": "",
+      "city": "Indian Land",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://indianland.townetavernrestaurants.com/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "A published street address does not establish who owns the building or can approve exterior work.",
+        "source": "https://indianland.townetavernrestaurants.com/",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "visit": {
+          "value": "walk_in",
+          "reason": "The restaurant advertises public dining hours. A brief front-desk introduction may be possible off peak; staff availability and permission to solicit are not confirmed.",
+          "source": "https://indianland.townetavernrestaurants.com/",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000542,
+      "property": {
+        "status": "unresolved",
+        "owner": "",
+        "parcelId": "",
+        "source": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "Lancaster County official parcel service was searched by street number and road name. No exact business-address match was returned. A map/address-point search is still needed; no owner or tenancy is inferred from the empty result."
+      }
+    },
+    {
+      "name": "521 BBQ & Grill - Indian Land",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "6257 Carolina Commons Drive",
+      "address2": "Suite 300-400",
+      "city": "Indian Land",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://www.521bbqil.com/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "likely_landlord",
+        "reason": "Suite address suggests shared premises; ownership and landlord approval are unconfirmed.",
+        "source": "https://www.521bbqil.com/",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "visit": {
+          "value": "walk_in",
+          "reason": "The restaurant advertises public dining hours. A brief front-desk introduction may be possible off peak; staff availability and permission to solicit are not confirmed.",
+          "source": "https://www.521bbqil.com/",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000543,
+      "property": {
+        "status": "unresolved",
+        "owner": "",
+        "parcelId": "",
+        "source": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "Lancaster County official parcel service was searched by street number and road name. No exact business-address match was returned. A map/address-point search is still needed; no owner or tenancy is inferred from the empty result."
+      }
+    },
+    {
+      "name": "Rendezbrew",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "2012 Bridgemill Drive",
+      "address2": "Suite 100",
+      "city": "Indian Land",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://www.rendezbrewcafe.com/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "likely_landlord",
+        "reason": "Suite address suggests shared premises; ownership and landlord approval are unconfirmed.",
+        "source": "https://www.rendezbrewcafe.com/",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "visit": {
+          "value": "walk_in",
+          "reason": "The restaurant advertises public dining hours. A brief front-desk introduction may be possible off peak; staff availability and permission to solicit are not confirmed.",
+          "source": "https://www.rendezbrewcafe.com/",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000544,
+      "property": {
+        "status": "unresolved",
+        "owner": "",
+        "parcelId": "",
+        "source": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "Lancaster County official parcel service was searched by street number and road name. No exact business-address match was returned. A map/address-point search is still needed; no owner or tenancy is inferred from the empty result."
+      }
+    },
+    {
+      "name": "Palmetto Breeze Med Spa",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "1563 Health Care Drive",
+      "address2": "",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29732",
+      "country": "US",
+      "source": "https://palmettoskinandlasercenter.com/contact/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "A published street address does not establish who owns the building or can approve exterior work.",
+        "source": "https://palmettoskinandlasercenter.com/contact/",
+        "reviewedOn": "2026-09-22"
+      },
+      "property": {
+        "status": "matched",
+        "owner": "LADY GRACE PROPERTIES LLC",
+        "parcelId": "5931001011",
+        "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%275931001011%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "County address point matched by street, city and ZIP, then intersected with this parcel. County reports MEDICAL OFFICE use and 11,968 total building square feet; this is not exterior paintable area. Recorded owner name does not by itself establish the business relationship or authority to approve work."
+      },
+      "prospect": {
+        "evidence": {
+          "value": "corroborated",
+          "reason": "Business/tourism location evidence is corroborated by a county address-point and parcel match. This does not verify current occupancy, business ownership, or exterior permission.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%275931001011%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        },
+        "opportunity": {
+          "value": "moderate",
+          "reason": "Customer-facing medical office at a matched parcel with 11,968 building square feet. Potential assessment target; exterior materials, condition, scope and budget remain unknown.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%275931001011%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000545
+    },
+    {
+      "name": "Metrolina Medical Spa",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "2670 Mills Park Drive",
+      "address2": "",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29732",
+      "country": "US",
+      "source": "https://www.metrolinamedicalspa.com/location.php",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Business publishes the building address; county also has a suite-200 address point at the same building. Confirm the appropriate recipient/unit with the practice before a large mailing.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "A published street address does not establish who owns the building or can approve exterior work.",
+        "source": "https://www.metrolinamedicalspa.com/location.php",
+        "reviewedOn": "2026-09-22"
+      },
+      "property": {
+        "status": "matched",
+        "owner": "METROLINA LAND LLC",
+        "parcelId": "6330801014",
+        "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%276330801014%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "County address point matched by street, city and ZIP, then intersected with this parcel. County reports MEDICAL OFFICE use and 23,040 total building square feet; this is not exterior paintable area. Recorded owner name does not by itself establish the business relationship or authority to approve work."
+      },
+      "prospect": {
+        "evidence": {
+          "value": "corroborated",
+          "reason": "Business/tourism location evidence is corroborated by a county address-point and parcel match. This does not verify current occupancy, business ownership, or exterior permission.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%276330801014%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        },
+        "opportunity": {
+          "value": "moderate",
+          "reason": "Customer-facing medical office at a matched parcel with 23,040 building square feet. Potential assessment target; exterior materials, condition, scope and budget remain unknown.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%276330801014%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000546
+    },
+    {
+      "name": "Pennington Med Spa",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "1721 Ebenezer Rd",
+      "address2": "Suite 205",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29732",
+      "country": "US",
+      "source": "https://penningtonmedspa.com/contact-us/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "likely_landlord",
+        "reason": "Suite address suggests shared premises; ownership and landlord approval are unconfirmed.",
+        "source": "https://penningtonmedspa.com/contact-us/",
+        "reviewedOn": "2026-09-22"
+      },
+      "id": 1000547
+    },
+    {
+      "name": "MINT MedSpa & Laser Studio",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "1028 Edgewater Corporate Parkway",
+      "address2": "Suite 103",
+      "city": "Indian Land",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://www.mintmedspa.com/contact",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "likely_landlord",
+        "reason": "Suite address suggests shared premises; ownership and landlord approval are unconfirmed.",
+        "source": "https://www.mintmedspa.com/contact",
+        "reviewedOn": "2026-09-22"
+      },
+      "id": 1000548,
+      "property": {
+        "status": "unresolved",
+        "owner": "",
+        "parcelId": "",
+        "source": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "Lancaster County official parcel service was searched by street number and road name. No exact business-address match was returned. A map/address-point search is still needed; no owner or tenancy is inferred from the empty result."
+      }
+    },
+    {
+      "name": "Carolina Medical Partners - MedSpa",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "1040 Edgewater Corporate Parkway",
+      "address2": "Suite 104",
+      "city": "Indian Land",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://carolinamedicalpartners.com/home-classic/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "likely_landlord",
+        "reason": "Suite address suggests shared premises; ownership and landlord approval are unconfirmed.",
+        "source": "https://carolinamedicalpartners.com/home-classic/",
+        "reviewedOn": "2026-09-22"
+      },
+      "id": 1000549,
+      "property": {
+        "status": "unresolved",
+        "owner": "",
+        "parcelId": "",
+        "source": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "Lancaster County official parcel service was searched by street number and road name. No exact business-address match was returned. A map/address-point search is still needed; no owner or tenancy is inferred from the empty result."
+      }
+    },
+    {
+      "name": "Infinite Medical Spa",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "1698 Highway 160 West",
+      "address2": "Suite 200",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29708",
+      "country": "US",
+      "source": "https://www.waynemoliver.com/Home.htm",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "likely_landlord",
+        "reason": "Suite address suggests shared premises; ownership and landlord approval are unconfirmed.",
+        "source": "https://www.waynemoliver.com/Home.htm",
+        "reviewedOn": "2026-09-22"
+      },
+      "id": 1000550
+    },
+    {
+      "name": "Bice Law - Fort Mill",
+      "category": "professional",
+      "attention": "",
+      "address1": "406 Tom Hall St",
+      "address2": "",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29715",
+      "country": "US",
+      "source": "https://bicelaw.us/contact/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "A published street address does not establish who owns the building or can approve exterior work.",
+        "source": "https://bicelaw.us/contact/",
+        "reviewedOn": "2026-09-22"
+      },
+      "property": {
+        "status": "matched",
+        "owner": "BICE JUSTIN D",
+        "parcelId": "0200612004",
+        "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%270200612004%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "County address point matched by street, city and ZIP, then intersected with this parcel. County reports OFFICE use and 2,152 total building square feet; this is not exterior paintable area. Recorded owner name does not by itself establish the business relationship or authority to approve work."
+      },
+      "prospect": {
+        "evidence": {
+          "value": "corroborated",
+          "reason": "Business/tourism location evidence is corroborated by a county address-point and parcel match. This does not verify current occupancy, business ownership, or exterior permission.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%270200612004%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        },
+        "opportunity": {
+          "value": "moderate",
+          "reason": "Customer-facing office at a matched parcel with 2,152 building square feet. Potential assessment target; exterior materials, condition, scope and budget remain unknown.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%270200612004%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        },
+        "access": {
+          "value": "local_owner",
+          "reason": "Firm identifies Justin Bice; parcel records BICE JUSTIN D. The name match supports asking him about the property but is not a confirmed identity/title relationship or approval commitment.",
+          "source": "https://bicelaw.us/justin-bice/",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000551
+    },
+    {
+      "name": "Bice Law - Rock Hill",
+      "category": "professional",
+      "attention": "",
+      "address1": "2237 Celanese Road",
+      "address2": "",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29732",
+      "country": "US",
+      "source": "https://bicelaw.us/contact/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "A published street address does not establish who owns the building or can approve exterior work.",
+        "source": "https://bicelaw.us/contact/",
+        "reviewedOn": "2026-09-22"
+      },
+      "property": {
+        "status": "matched",
+        "owner": "ROCKVIEW LLC",
+        "parcelId": "6341109011",
+        "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%276341109011%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "County address point matched by street, city and ZIP, then intersected with this parcel. County reports OFFICE use and 1,106 total building square feet; this is not exterior paintable area. Recorded owner name does not by itself establish the business relationship or authority to approve work."
+      },
+      "prospect": {
+        "evidence": {
+          "value": "corroborated",
+          "reason": "Business/tourism location evidence is corroborated by a county address-point and parcel match. This does not verify current occupancy, business ownership, or exterior permission.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%276341109011%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        },
+        "opportunity": {
+          "value": "moderate",
+          "reason": "Customer-facing office at a matched parcel with 1,106 building square feet. Potential assessment target; exterior materials, condition, scope and budget remain unknown.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%276341109011%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000552
+    },
+    {
+      "name": "Nantz Law - Fort Mill",
+      "category": "professional",
+      "attention": "",
+      "address1": "235 Main Street",
+      "address2": "",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29715",
+      "country": "US",
+      "source": "https://nantzlawfirm.com/contact/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "A published street address does not establish who owns the building or can approve exterior work.",
+        "source": "https://nantzlawfirm.com/contact/",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "visit": {
+          "value": "appointment",
+          "reason": "The firm explicitly states that its offices are by appointment only.",
+          "source": "https://nantzlawfirm.com/contact/",
+          "reviewedOn": "2026-09-22"
+        },
+        "evidence": {
+          "value": "corroborated",
+          "reason": "Business/tourism location evidence is corroborated by a county address-point and parcel match. This does not verify current occupancy, business ownership, or exterior permission.",
+          "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%270200201015%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "property": {
+        "status": "matched",
+        "owner": "REAPER PROPERTIES LLC",
+        "parcelId": "0200201015",
+        "source": "https://services1.arcgis.com/2AGLxyiJoNiVHKwq/arcgis/rest/services/Parcels/FeatureServer/0/query?where=ParcelID%3D%270200201015%27&outFields=ParcelID%2CPropertyAddress%2COwner1%2COwner2%2CLandUseDesc%2CBldgTypeDesc%2CFinishedSQFT&returnGeometry=false&f=pjson",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "County address point matched by street, city and ZIP, then intersected with this parcel. County reports RESTAURANT use and 1,726 total building square feet; this is not exterior paintable area. Recorded owner name does not by itself establish the business relationship or authority to approve work. County use is RESTAURANT while the business advertises a law office; occupancy/use needs reconciling."
+      },
+      "id": 1000553
+    },
+    {
+      "name": "Nantz Law - Rock Hill",
+      "category": "professional",
+      "attention": "",
+      "address1": "1236 Ebenezer Rd",
+      "address2": "Suite 210",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29732",
+      "country": "US",
+      "source": "https://nantzlawfirm.com/contact/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "likely_landlord",
+        "reason": "Suite address suggests shared premises; ownership and landlord approval are unconfirmed.",
+        "source": "https://nantzlawfirm.com/contact/",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "visit": {
+          "value": "appointment",
+          "reason": "The firm explicitly states that its offices are by appointment only.",
+          "source": "https://nantzlawfirm.com/contact/",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000554
+    },
+    {
+      "name": "Robert J. Wilson, P.A.",
+      "category": "professional",
+      "attention": "",
+      "address1": "4184 Dobys Bridge Road",
+      "address2": "Suite 103",
+      "city": "Indian Land",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://www.rjwcpa.com/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "likely_landlord",
+        "reason": "Suite address suggests shared premises; ownership and landlord approval are unconfirmed.",
+        "source": "https://www.rjwcpa.com/",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "visit": {
+          "value": "appointment",
+          "reason": "The CPA website states that the practice is available by appointment.",
+          "source": "https://www.rjwcpa.com/",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000555,
+      "property": {
+        "status": "unresolved",
+        "owner": "",
+        "parcelId": "",
+        "source": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "Lancaster County official parcel service was searched by street number and road name. No exact business-address match was returned. A map/address-point search is still needed; no owner or tenancy is inferred from the empty result."
+      }
+    },
+    {
+      "name": "Lando Law Firm - Indian Land",
+      "category": "professional",
+      "attention": "",
+      "address1": "7612 Charlotte Highway",
+      "address2": "",
+      "city": "Indian Land",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://www.landolawfirm.com/staff/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "A published street address does not establish who owns the building or can approve exterior work.",
+        "source": "https://www.landolawfirm.com/staff/",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "access": {
+          "value": "local_owner",
+          "reason": "The firm identifies Shannon Lando as founder and CEO. Property ownership and authority to approve exterior work are not established.",
+          "source": "https://www.landolawfirm.com/staff/",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000556,
+      "property": {
+        "status": "unresolved",
+        "owner": "",
+        "parcelId": "",
+        "source": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "Lancaster County official parcel service was searched by street number and road name. No exact business-address match was returned. A map/address-point search is still needed; no owner or tenancy is inferred from the empty result."
+      }
+    },
+    {
+      "name": "David Blackwell Law - Indian Land",
+      "category": "professional",
+      "attention": "",
+      "address1": "107 Jenkins Drive",
+      "address2": "",
+      "city": "Indian Land",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://davidblackwelllaw.com/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "A published street address does not establish who owns the building or can approve exterior work.",
+        "source": "https://davidblackwelllaw.com/",
+        "reviewedOn": "2026-09-22"
+      },
+      "id": 1000557,
+      "property": {
+        "status": "unresolved",
+        "owner": "",
+        "parcelId": "",
+        "source": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "Lancaster County official parcel service was searched by street number and road name. No exact business-address match was returned. A map/address-point search is still needed; no owner or tenancy is inferred from the empty result."
+      }
+    },
+    {
+      "name": "Shaw & Cannon",
+      "category": "professional",
+      "attention": "",
+      "address1": "1169 Ebenezer Road",
+      "address2": "",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29732",
+      "country": "US",
+      "source": "https://shawlawfirm.net/index.aspx?TypeContent=CONTACTUS",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "A published street address does not establish who owns the building or can approve exterior work.",
+        "source": "https://shawlawfirm.net/index.aspx?TypeContent=CONTACTUS",
+        "reviewedOn": "2026-09-22"
+      },
+      "id": 1000558
+    },
+    {
+      "name": "Palmetto Law Associates - Fort Mill",
+      "category": "professional",
+      "attention": "",
+      "address1": "1171 Market Street",
+      "address2": "Suite 204",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29708",
+      "country": "US",
+      "source": "https://www.palmetto-law.com/contact",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "likely_landlord",
+        "reason": "Suite address suggests shared premises; ownership and landlord approval are unconfirmed.",
+        "source": "https://www.palmetto-law.com/contact",
+        "reviewedOn": "2026-09-22"
+      },
+      "id": 1000559
+    },
+    {
+      "name": "Michael Johnson, P.C. & Associates - Indian Land",
+      "category": "professional",
+      "attention": "",
+      "address1": "4184 Doby's Bridge Road",
+      "address2": "Suite 104",
+      "city": "Indian Land",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://www.johnsonsclaw.com/r-michael-johnson-jr",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Public business contact address. Exterior materials, condition, building ownership and approval authority still need qualification.",
+      "exterior": {
+        "route": "likely_landlord",
+        "reason": "Suite address suggests shared premises; ownership and landlord approval are unconfirmed.",
+        "source": "https://www.johnsonsclaw.com/r-michael-johnson-jr",
+        "reviewedOn": "2026-09-22"
+      },
+      "id": 1000560,
+      "property": {
+        "status": "unresolved",
+        "owner": "",
+        "parcelId": "",
+        "source": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48",
+        "reviewedOn": "2026-09-22",
+        "relationship": "unknown",
+        "notes": "Lancaster County official parcel service was searched by street number and road name. No exact business-address match was returned. A map/address-point search is still needed; no owner or tenancy is inferred from the empty result."
+      }
+    },
+    {
+      "name": "Old Stone Steakhouse",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "23 S Main St",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.oldstonesteakhouse.com/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Customer-facing dining location. Standalone structure, property title and exterior approval are separate research questions.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business location verified; owner and exterior authority not established.",
+        "source": "https://www.oldstonesteakhouse.com/",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "opportunity": {
+          "value": "moderate",
+          "reason": "The business describes a restored historic police building and large patio. Potential exterior assessment target; materials, condition and approval restrictions need inspection.",
+          "source": "https://www.oldstonesteakhouse.com/",
+          "reviewedOn": "2026-09-22"
+        },
+        "visit": {
+          "value": "walk_in",
+          "reason": "Public dining hours are advertised. A short off-peak introduction may be possible; decision-maker availability and solicitation permission are not established.",
+          "source": "https://www.oldstonesteakhouse.com/",
+          "reviewedOn": "2026-09-22"
+        },
+        "evidence": {
+          "value": "corroborated",
+          "reason": "Official restaurant page and Downtown Belmont directory agree on 23 S Main Street. Current exterior condition and ownership are unverified.",
+          "source": "https://downtownbelmont.org/directory/old-stone-steakhouse/",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000561
+    },
+    {
+      "name": "STATION",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "4 N Main St",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.stationbelmont.com/",
+      "reviewedOn": "2026-09-22",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Customer-facing dining location. Standalone structure, property title and exterior approval are separate research questions.",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business location verified; owner and exterior authority not established.",
+        "source": "https://www.stationbelmont.com/",
+        "reviewedOn": "2026-09-22"
+      },
+      "prospect": {
+        "opportunity": {
+          "value": "moderate",
+          "reason": "Business describes a historic railway depot, patio and outdoor bar. Potential exterior scope; historic-building restrictions, condition and materials are unverified.",
+          "source": "https://www.stationbelmont.com/",
+          "reviewedOn": "2026-09-22"
+        },
+        "visit": {
+          "value": "walk_in",
+          "reason": "Public dining hours are advertised. A short off-peak introduction may be possible; decision-maker availability and solicitation permission are not established.",
+          "source": "https://www.stationbelmont.com/",
+          "reviewedOn": "2026-09-22"
+        }
+      },
+      "id": 1000562
     }
   ]
 }

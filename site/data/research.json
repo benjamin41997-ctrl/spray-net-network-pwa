@@ -1,0 +1,518 @@
+{
+  "schemaVersion": 1,
+  "passes": [
+    {
+      "id": "2026-09-22-fort_mill-restaurant",
+      "area": "fort_mill",
+      "category": "restaurant",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Fish Market Bar & Grill",
+          "url": "https://www.fishmarketbarandgrill.com/location/fish-market/"
+        },
+        {
+          "label": "The Flipside Cafe",
+          "url": "https://www.theflipsiderestaurant.com/the-flipside-cafe"
+        }
+      ],
+      "unresolved": [
+        "The Flipside Cafe: Business website omits a suite. York County lists multiple suites at 3150 Highway 21; confirm the delivery unit before mailing. Exterior responsibility also needs review."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000539,
+        1000540
+      ]
+    },
+    {
+      "id": "2026-09-22-fort_mill-lodging",
+      "area": "fort_mill",
+      "category": "lodging",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Discover Fort Mill lodging directory",
+          "url": "https://discoverfortmill.org/stay/"
+        }
+      ],
+      "unresolved": [
+        "Directory text lists lodging sections without usable named B&B addresses; direct retrieval returned HTTP 403. No independent lodging address accepted."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": []
+    },
+    {
+      "id": "2026-09-22-fort_mill-med_spa",
+      "area": "fort_mill",
+      "category": "med_spa",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Infinite Medical Spa",
+          "url": "https://www.waynemoliver.com/Home.htm"
+        },
+        {
+          "label": "Ador Skin Lab",
+          "url": "https://www.adorskinlab.com/"
+        },
+        {
+          "label": "The Aesthetic Spa at WDF",
+          "url": "https://www.wdfplasticsurgery.com/theaestheticspa"
+        },
+        {
+          "label": "Legacy Health & Wellness",
+          "url": "https://www.legacyhealthwellness.com/"
+        },
+        {
+          "label": "Meraki Aesthetics & Co. - Fort Mill",
+          "url": "https://merakiaestheticsandco.com/contact/"
+        },
+        {
+          "label": "Southeast Sculpting + Rejuvenation",
+          "url": "https://sesculpting.com/"
+        }
+      ],
+      "unresolved": [],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000550,
+        1000106,
+        1000107,
+        1000108,
+        1000109,
+        1000110
+      ]
+    },
+    {
+      "id": "2026-09-22-fort_mill-professional",
+      "area": "fort_mill",
+      "category": "professional",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Bice Law - Fort Mill",
+          "url": "https://bicelaw.us/contact/"
+        },
+        {
+          "label": "Nantz Law - Fort Mill",
+          "url": "https://nantzlawfirm.com/contact/"
+        },
+        {
+          "label": "Palmetto Law Associates - Fort Mill",
+          "url": "https://www.palmetto-law.com/contact"
+        }
+      ],
+      "unresolved": [
+        "Nantz parcel match has restaurant land-use coding; reconcile with the currently advertised law-office use."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000551,
+        1000553,
+        1000559
+      ]
+    },
+    {
+      "id": "2026-09-22-rock_hill-restaurant",
+      "area": "rock_hill",
+      "category": "restaurant",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Kounter",
+          "url": "https://www.kounterdining.com/menus"
+        }
+      ],
+      "unresolved": [],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000541
+      ]
+    },
+    {
+      "id": "2026-09-22-rock_hill-lodging",
+      "area": "rock_hill",
+      "category": "lodging",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "East Main Guest House",
+          "url": "https://eastmainguesthouse.com/contact-us/"
+        },
+        {
+          "label": "Tourism bureau inn/operator profile",
+          "url": "https://www.visityorkcounty.com/blog/post/love-in-the-heart-of-rock-hill/"
+        }
+      ],
+      "unresolved": [
+        "Inn contact page returned HTTP 406 on direct retrieval; existing address was corroborated with tourism and county records. Additional independent lodging still needs discovery."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000117
+      ]
+    },
+    {
+      "id": "2026-09-22-rock_hill-med_spa",
+      "area": "rock_hill",
+      "category": "med_spa",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Palmetto Breeze Med Spa",
+          "url": "https://palmettoskinandlasercenter.com/contact/"
+        },
+        {
+          "label": "Metrolina Medical Spa",
+          "url": "https://www.metrolinamedicalspa.com/location.php"
+        },
+        {
+          "label": "Pennington Med Spa",
+          "url": "https://penningtonmedspa.com/contact-us/"
+        }
+      ],
+      "unresolved": [
+        "Metrolina advertises a building address while county includes a suite 200 point. Confirm delivery unit and shared-building responsibilities."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000545,
+        1000546,
+        1000547
+      ]
+    },
+    {
+      "id": "2026-09-22-rock_hill-professional",
+      "area": "rock_hill",
+      "category": "professional",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Bice Law - Rock Hill",
+          "url": "https://bicelaw.us/contact/"
+        },
+        {
+          "label": "Nantz Law - Rock Hill",
+          "url": "https://nantzlawfirm.com/contact/"
+        },
+        {
+          "label": "Shaw & Cannon",
+          "url": "https://shawlawfirm.net/index.aspx?TypeContent=CONTACTUS"
+        }
+      ],
+      "unresolved": [],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000552,
+        1000554,
+        1000558
+      ]
+    },
+    {
+      "id": "2026-09-22-indian_land-restaurant",
+      "area": "indian_land",
+      "category": "restaurant",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Towne Tavern at Indian Land",
+          "url": "https://indianland.townetavernrestaurants.com/"
+        },
+        {
+          "label": "521 BBQ & Grill - Indian Land",
+          "url": "https://www.521bbqil.com/"
+        },
+        {
+          "label": "Rendezbrew",
+          "url": "https://www.rendezbrewcafe.com/"
+        },
+        {
+          "label": "Lancaster County official parcel map: address queries checked",
+          "url": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48"
+        }
+      ],
+      "unresolved": [
+        "Lancaster County parcel matching remains pending; York County parcel data does not cover this area.",
+        "Exact street-number/road-name queries did not match the reviewed Indian Land addresses in the linked parcel service. Coordinate/address-point matching remains to be done; parcel ownership is unresolved."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000542,
+        1000543,
+        1000544
+      ]
+    },
+    {
+      "id": "2026-09-22-indian_land-lodging",
+      "area": "indian_land",
+      "category": "lodging",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Indian Land accommodation discovery",
+          "url": "https://www.tripadvisor.com.au/Hotels-g1968674-Indian_Land_South_Carolina-Hotels.html"
+        },
+        {
+          "label": "Laurel Haven official location context",
+          "url": "https://laurelhavenestate.com/the-ultimate-vineyard-bed-and-breakfast-near-charlotte-a-romantic-escape-to-laurel-haven-estate/"
+        }
+      ],
+      "unresolved": [
+        "Search surfaced nearby chain hotels, apartments and a Lancaster venue. No independent inn with an in-area verified business address accepted. This is not evidence that none exist.",
+        "Lancaster County parcel matching remains pending; York County parcel data does not cover this area."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": []
+    },
+    {
+      "id": "2026-09-22-indian_land-med_spa",
+      "area": "indian_land",
+      "category": "med_spa",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "MINT MedSpa & Laser Studio",
+          "url": "https://www.mintmedspa.com/contact"
+        },
+        {
+          "label": "Carolina Medical Partners - MedSpa",
+          "url": "https://carolinamedicalpartners.com/home-classic/"
+        },
+        {
+          "label": "Lancaster County official parcel map: address queries checked",
+          "url": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48"
+        }
+      ],
+      "unresolved": [
+        "Lancaster County parcel matching remains pending; York County parcel data does not cover this area.",
+        "Exact street-number/road-name queries did not match the reviewed Indian Land addresses in the linked parcel service. Coordinate/address-point matching remains to be done; parcel ownership is unresolved."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000548,
+        1000549
+      ]
+    },
+    {
+      "id": "2026-09-22-indian_land-professional",
+      "area": "indian_land",
+      "category": "professional",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Robert J. Wilson, P.A.",
+          "url": "https://www.rjwcpa.com/"
+        },
+        {
+          "label": "Lando Law Firm - Indian Land",
+          "url": "https://www.landolawfirm.com/staff/"
+        },
+        {
+          "label": "David Blackwell Law - Indian Land",
+          "url": "https://davidblackwelllaw.com/"
+        },
+        {
+          "label": "Michael Johnson, P.C. & Associates - Indian Land",
+          "url": "https://www.johnsonsclaw.com/r-michael-johnson-jr"
+        },
+        {
+          "label": "Lancaster County official parcel map: address queries checked",
+          "url": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48"
+        }
+      ],
+      "unresolved": [
+        "Lancaster County parcel matching remains pending; York County parcel data does not cover this area.",
+        "Exact street-number/road-name queries did not match the reviewed Indian Land addresses in the linked parcel service. Coordinate/address-point matching remains to be done; parcel ownership is unresolved."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000555,
+        1000556,
+        1000557,
+        1000560
+      ]
+    },
+    {
+      "id": "2026-09-22-rock_hill-held-crm",
+      "area": "rock_hill",
+      "category": "property_management",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Muse Realty LLC",
+          "url": "https://www.muserealtyrentals.com/"
+        },
+        {
+          "label": "Reeves Property Management LLC",
+          "url": "https://rentwithreeves.managebuilding.com/Resident/public/contact"
+        }
+      ],
+      "unresolved": [
+        "Reeves Property Management LLC: Rechecked: current operator portal publishes 1462 Ebenezer Road; BBB specifies unit 101. Prior conflicting address evidence is not fully resolved. Confirm the current office and suite before publishing."
+      ],
+      "notes": "Focused recheck of six held CRM companies. Muse street address resolved; remaining incomplete/conflicting addresses retained for review.",
+      "nextAction": "Research the remaining held CRM addresses; confirm office and delivery-unit conflicts with the business when public sources do not resolve them.",
+      "reviewedIds": [
+        21,
+        23
+      ]
+    },
+    {
+      "id": "2026-09-22-regional-held-crm",
+      "area": "regional",
+      "category": "property_management",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Elite Team Realty & Property Management",
+          "url": "https://elite-team-realty.com/contact-us"
+        },
+        {
+          "label": "Broad Connection Property Management",
+          "url": "https://broadconnectionpm.com/contact-us"
+        },
+        {
+          "label": "Rent Now Solutions",
+          "url": "https://www.rentnowsolutions.com/more/about-us/our-location"
+        }
+      ],
+      "unresolved": [
+        "Elite Team Realty & Property Management: Current contact page has a form but no usable street address.",
+        "Broad Connection Property Management: Contact page lists the Greater Charlotte service area, email and phone but no office street address.",
+        "Rent Now Solutions: Location page could not be retrieved in this pass; no address promoted."
+      ],
+      "notes": "Focused recheck of six held CRM companies. Muse street address resolved; remaining incomplete/conflicting addresses retained for review.",
+      "nextAction": "Research the remaining held CRM addresses; confirm office and delivery-unit conflicts with the business when public sources do not resolve them.",
+      "reviewedIds": [
+        3,
+        13,
+        17
+      ]
+    },
+    {
+      "id": "2026-09-22-belmont-restaurant",
+      "area": "belmont",
+      "category": "restaurant",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Old Stone Steakhouse",
+          "url": "https://www.oldstonesteakhouse.com/"
+        },
+        {
+          "label": "STATION",
+          "url": "https://www.stationbelmont.com/"
+        },
+        {
+          "label": "Downtown Belmont directory",
+          "url": "https://downtownbelmont.org/directory/old-stone-steakhouse/"
+        }
+      ],
+      "unresolved": [
+        "Historic-building coating and approval restrictions have not been researched."
+      ],
+      "notes": "Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.",
+      "nextAction": "Continue category discovery; match properties and confirm exterior authority, condition and visitor access.",
+      "reviewedIds": [
+        1000561,
+        1000562
+      ]
+    },
+    {
+      "id": "2026-09-22-belmont-med_spa",
+      "area": "belmont",
+      "category": "med_spa",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Vitality Belmont location",
+          "url": "https://vitalitymedicalspa.com/location/belmont/"
+        }
+      ],
+      "unresolved": [
+        "One existing practice rechecked; broader discovery and property-owner matching remain."
+      ],
+      "notes": "Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.",
+      "nextAction": "Continue category discovery; match properties and confirm exterior authority, condition and visitor access.",
+      "reviewedIds": [
+        1000112
+      ]
+    },
+    {
+      "id": "2026-09-22-belmont-lodging",
+      "area": "belmont",
+      "category": "lodging",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "The Villa at Waters Edge",
+          "url": "https://www.thevillaatwatersedge.com/"
+        }
+      ],
+      "unresolved": [
+        "Existing lodging address rechecked; additional independent inns and actual owner authority need research."
+      ],
+      "notes": "Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.",
+      "nextAction": "Continue category discovery; match properties and confirm exterior authority, condition and visitor access.",
+      "reviewedIds": [
+        1000118
+      ]
+    },
+    {
+      "id": "2026-09-22-belmont-professional",
+      "area": "belmont",
+      "category": "professional",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Hester & Payseur contact page",
+          "url": "https://www.belmontlawyer.com/contact-us/"
+        },
+        {
+          "label": "Stott Hollowell locations",
+          "url": "https://shws.law/"
+        }
+      ],
+      "unresolved": [
+        "Hester & Payseur page timed out in web retrieval and returned HTTP 406 directly. Existing record retained at its prior review date.",
+        "Stott Hollowell lists Gastonia and Mount Holly offices, not a verified Belmont office; not imported into Belmont."
+      ],
+      "notes": "Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.",
+      "nextAction": "Continue category discovery; match properties and confirm exterior authority, condition and visitor access.",
+      "reviewedIds": []
+    },
+    {
+      "id": "2026-09-22-held-29",
+      "area": "rock_hill",
+      "category": "real_estate",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Albright Realty",
+          "url": "https://www.albrightrealty.com/about-us"
+        }
+      ],
+      "unresolved": [
+        "Reviewed about page does not establish a complete street/city/ZIP delivery address."
+      ],
+      "notes": "Existing held CRM record rechecked; no uncertain address was promoted.",
+      "nextAction": "Find an authoritative complete business address or confirm with the business.",
+      "reviewedIds": [
+        29
+      ]
+    }
+  ]
+}

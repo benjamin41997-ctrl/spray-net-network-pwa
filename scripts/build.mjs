@@ -2,6 +2,8 @@ import { readFile,writeFile,mkdir,readdir,copyFile } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { join } from 'node:path';
 import { validateVisit } from '../site/visits.js';
+import {validateResearch} from '../site/research-model.js';
+import {mailingCategories} from '../site/mailing-model.js';
 import {mergeMailingCatalog} from '../site/mailing-model.js';
 const root=new URL('../',import.meta.url);
 const data=JSON.parse(await readFile(new URL('site/data/directory.json',root),'utf8'));
@@ -14,7 +16,8 @@ for(const c of data.companies){if(ids.has(c.id)||!c.name||/^(Unresearched|DEMO)/
 if(data.counts.companies!==ids.size||data.counts.people!==data.companies.reduce((n,c)=>n+c.people.length,0))throw Error('Snapshot counts mismatch');
 const mailing=JSON.parse(await readFile(new URL('site/data/mailing.json',root),'utf8'));
 if(mailing.schemaVersion!==1||!Array.isArray(mailing.recipients))throw Error('Mailing catalog required');
-mergeMailingCatalog(mailing.recipients,data.companies);
+const catalog=mergeMailingCatalog(mailing.recipients,data.companies);
+validateResearch(JSON.parse(await readFile(new URL('site/data/research.json',root),'utf8')),catalog,mailingCategories);
 const files=[];async function copy(rel=''){for(const entry of await readdir(new URL('site/'+rel,root),{withFileTypes:true})){const path=join(rel,entry.name).replaceAll('\\','/');if(entry.isDirectory())await copy(path+'/');else{files.push(path);await mkdir(new URL('dist/'+rel,root),{recursive:true});await copyFile(new URL('site/'+path,root),new URL('dist/'+path,root));}}}await copy();
 await mkdir(new URL('dist/vendor/',root),{recursive:true});
 for(const [source,target]of [['dist/exceljs.min.js','exceljs.min.js'],['LICENSE','exceljs-LICENSE.txt']]){await copyFile(new URL('node_modules/exceljs/'+source,root),new URL('dist/vendor/'+target,root));files.push('vendor/'+target);}

@@ -1,10 +1,11 @@
+import {validateFindings} from './prospect-model.js';
 export const activityTypes={visit:'In-person meeting / visit',call:'Phone call',email:'Email sent',one_pager:'One-pager delivered',direct_mail:'Direct mail sent',text:'Text sent',social:'Social / LinkedIn message',event:'Networking event',other:'Other contact'};
 export const deliveries={email:'Email',in_person:'In person',postal:'Postal mail',other:'Other'};
 export const today=()=>{const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`};
 const dateOnly=v=>typeof v==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(v)&&Number.isFinite(Date.parse(v+'T12:00:00Z'))&&new Date(v+'T12:00:00Z').toISOString().slice(0,10)===v;
 const keys=['id','companyId','companyName','contactId','contactName','recipient','type','delivery','occurredOn','material','notes','outcome','followUpOn','followUpDone','createdAt','updatedAt','deletedAt'];
 export function validateActivity(r){
- if(!r||typeof r!=='object'||Object.keys(r).length!==keys.length||Object.keys(r).some(k=>!keys.includes(k)))throw Error('Invalid activity fields. Choose an exported tracker backup.');
+ if(!r||typeof r!=='object'||keys.some(k=>!Object.hasOwn(r,k))||Object.keys(r).some(k=>!keys.includes(k)&&k!=='findings'))throw Error('Invalid activity fields. Choose an exported tracker backup.');
  if(typeof r.id!=='string'||!/^[a-zA-Z0-9-]{1,80}$/.test(r.id)||!Number.isSafeInteger(r.companyId)||r.companyId<1||!Object.hasOwn(activityTypes,r.type))throw Error('Invalid company or activity type.');
  for(const k of ['companyName','contactName','recipient','delivery','material','notes','outcome'])if(typeof r[k]!=='string'||r[k].length>(k==='notes'?5000:500))throw Error('Activity text is missing or too long.');
  if(!r.companyName.trim()||(r.contactId!==null&&(!Number.isSafeInteger(r.contactId)||r.contactId<1)))throw Error('Choose a business.');
@@ -16,6 +17,7 @@ export function validateActivity(r){
  if(['one_pager','direct_mail'].includes(r.type)&&!r.material.trim())throw Error('Name the one-pager or mailer so you can avoid sending it twice.');
  for(const k of ['createdAt','updatedAt'])if(typeof r[k]!=='string'||!Number.isFinite(Date.parse(r[k])))throw Error('Invalid activity timestamp.');
  if(r.deletedAt!==null&&(typeof r.deletedAt!=='string'||!Number.isFinite(Date.parse(r.deletedAt))))throw Error('Invalid removed activity.');
+ if(Object.hasOwn(r,'findings'))validateFindings(r.findings);
  return structuredClone(r);
 }
 export function summary(records,companyId,day=today()){

@@ -70,7 +70,7 @@ test('medical, spa, restaurant, lodging and office prospects retain notes and ex
   await page.goto('./#mailing');
   await page.getByLabel('Dentist offices',{exact:true}).uncheck();
   await page.getByLabel('Schools',{exact:true}).uncheck();
-  for(const label of ['Medical offices','Med spas','Standalone restaurants','Independent lodging','Professional offices'])await page.getByLabel(label,{exact:true}).check();
+  for(const label of ['Medical offices','Med spas','Restaurants / dining locations','Independent lodging','Professional offices'])await page.getByLabel(label,{exact:true}).check();
   await expect(page.locator('#mail-count')).toContainText(`${nextCount} recipients selected`);
   await expect(page.locator('#mail-rows .mail-recipient').filter({hasText:'Long Cove Resort'})).toContainText('members and registered guests');
   await expect(page.locator('#mail-rows .mail-recipient').filter({hasText:'Rock Hill Dermatology Center'})).toContainText('Appointments only');

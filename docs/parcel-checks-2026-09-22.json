@@ -1,0 +1,156 @@
+[
+  {
+    "address": {
+      "WHOLE_ADDRESS": "406 TOM HALL ST",
+      "POST_COMM": "FORT MILL",
+      "POST_CODE": 29715,
+      "UNIT": null
+    },
+    "parcels": [
+      {
+        "ParcelID": "0200612004",
+        "PropertyAddress": "406 TOM HALL ST ",
+        "Owner1": "BICE JUSTIN D",
+        "Owner2": "",
+        "LandUseDesc": "COMMERCIAL IMPROVED",
+        "BldgTypeDesc": "OFFICE",
+        "FinishedSQFT": 2152,
+        "YearBuilt": 1907,
+        "BuildingCount": 1
+      }
+    ],
+    "error": null
+  },
+  {
+    "address": {
+      "WHOLE_ADDRESS": "2237 CELANESE RD",
+      "POST_COMM": "ROCK HILL",
+      "POST_CODE": 29732,
+      "UNIT": null
+    },
+    "parcels": [
+      {
+        "ParcelID": "6341109011",
+        "PropertyAddress": "2237 CELANESE RD",
+        "Owner1": "ROCKVIEW LLC",
+        "Owner2": "",
+        "LandUseDesc": "COMMERCIAL IMPROVED",
+        "BldgTypeDesc": "OFFICE",
+        "FinishedSQFT": 1106,
+        "YearBuilt": null,
+        "BuildingCount": 1
+      }
+    ],
+    "error": null
+  },
+  {
+    "address": {
+      "WHOLE_ADDRESS": "1563 HEALTH CARE DR",
+      "POST_COMM": "ROCK HILL",
+      "POST_CODE": 29732,
+      "UNIT": null
+    },
+    "parcels": [
+      {
+        "ParcelID": "5931001011",
+        "PropertyAddress": "1563 HEALTH CARE DR ",
+        "Owner1": "LADY GRACE PROPERTIES LLC",
+        "Owner2": "",
+        "LandUseDesc": "COMMERCIAL IMPROVED",
+        "BldgTypeDesc": "MEDICAL OFFICE",
+        "FinishedSQFT": 11968,
+        "YearBuilt": 2005,
+        "BuildingCount": 1
+      }
+    ],
+    "error": null
+  },
+  {
+    "address": {
+      "WHOLE_ADDRESS": "2670 MILLS PARK DR",
+      "POST_COMM": "ROCK HILL",
+      "POST_CODE": 29732,
+      "UNIT": null
+    },
+    "parcels": [
+      {
+        "ParcelID": "6330801014",
+        "PropertyAddress": null,
+        "Owner1": "METROLINA LAND LLC",
+        "Owner2": "",
+        "LandUseDesc": "COMMERCIAL IMPROVED",
+        "BldgTypeDesc": "MEDICAL OFFICE",
+        "FinishedSQFT": 23040,
+        "YearBuilt": 2003,
+        "BuildingCount": 1
+      }
+    ],
+    "error": null
+  },
+  {
+    "address": {
+      "WHOLE_ADDRESS": "990 MARKET ST",
+      "POST_COMM": "FORT MILL",
+      "POST_CODE": 29708,
+      "UNIT": null
+    },
+    "parcels": [
+      {
+        "ParcelID": "6550000089",
+        "PropertyAddress": "990 MARKET ST",
+        "Owner1": "990 MARKET ST LLC",
+        "Owner2": "KELEMEN SELENA  TRUSTEE",
+        "LandUseDesc": "COMMERCIAL IMPROVED",
+        "BldgTypeDesc": "RESTAURANT",
+        "FinishedSQFT": 6725,
+        "YearBuilt": 2005,
+        "BuildingCount": 1
+      }
+    ],
+    "error": null
+  },
+  {
+    "address": {
+      "WHOLE_ADDRESS": "600 MAIN ST E",
+      "POST_COMM": "ROCK HILL",
+      "POST_CODE": 29730,
+      "UNIT": null
+    },
+    "parcels": [
+      {
+        "ParcelID": "6270703003",
+        "PropertyAddress": "600 MAIN ST E",
+        "Owner1": "REYNOLDS JOHN SCOTT",
+        "Owner2": "REYNOLDS HEIDI",
+        "LandUseDesc": "RESIDENTIAL IMPROVED OC",
+        "BldgTypeDesc": "Residential",
+        "FinishedSQFT": 4685,
+        "YearBuilt": 1920,
+        "BuildingCount": 2
+      }
+    ],
+    "error": null
+  },
+  {
+    "address": {
+      "WHOLE_ADDRESS": "235 MAIN ST",
+      "POST_COMM": "FORT MILL",
+      "POST_CODE": 29715,
+      "UNIT": null
+    },
+    "parcels": [
+      {
+        "ParcelID": "0200201015",
+        "PropertyAddress": "235 MAIN ST",
+        "Owner1": "REAPER PROPERTIES LLC",
+        "Owner2": "",
+        "LandUseDesc": "COMMERCIAL IMPROVED",
+        "BldgTypeDesc": "RESTAURANT",
+        "FinishedSQFT": 1726,
+        "YearBuilt": null,
+        "BuildingCount": 1
+      }
+    ],
+    "error": null
+  }
+]
