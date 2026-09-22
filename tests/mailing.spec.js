@@ -13,6 +13,34 @@ async function chooseRockHillDentists(page){
 }
 async function download(page,label){const pending=page.waitForEvent('download');await page.getByRole('button',{name:label,exact:true}).click();return await pending;}
 
+test('new exterior prospect categories combine, persist and export their exact mailing addresses',async({page})=>{
+  await page.goto('./#mailing');
+  await page.getByLabel('Dentist offices',{exact:true}).uncheck();
+  await page.getByLabel('Schools',{exact:true}).uncheck();
+  for(const label of ['Veterinary clinics','Funeral homes','Private childcare / preschools','Churches / religious facilities','Wedding / event venues']){
+    await page.getByLabel(label,{exact:true}).check();
+  }
+  await expect(page.locator('#mail-count')).toContainText('35 recipients selected');
+  await page.getByLabel('List name',{exact:true}).fill('Exterior prospects');
+  await page.getByRole('button',{name:'Save list filters',exact:true}).click();
+  await expect(page.locator('#mailing-status')).toContainText('List filters saved');
+  await page.reload();
+  await page.getByLabel('Load a saved list').selectOption('Exterior prospects');
+  await expect(page.locator('#mail-count')).toContainText('35 recipients selected');
+  const file=await download(page,'Export Excel (.xlsx)');
+  const book=new ExcelJS.Workbook();await book.xlsx.readFile(await file.path());
+  const sheet=book.getWorksheet('Mailing List'),rows=[];
+  sheet.eachRow((row,n)=>{if(n>1)rows.push(row.values.slice(1));});
+  const catalog=JSON.parse(await readFile(new URL('../site/data/mailing.json',import.meta.url),'utf8'));
+  const expected=catalog.recipients.filter(r=>['veterinary','funeral','childcare','church','venue'].includes(r.category));
+  expect(rows).toHaveLength(expected.length);
+  expect(rows.map(r=>r[0]).sort()).toEqual(expected.map(r=>r.name).sort());
+  expect(rows.find(r=>r[0]==='Unity Presbyterian Church').slice(2,7)).toEqual(['PO Box 1267','','Fort Mill','SC','29716-1267']);
+  expect(rows.find(r=>r[0]==='Waxhaw Animal Hospital')[2]).toBe('PO Box 275');
+  expect(rows.find(r=>r[0]==='Carolina Place Animal Hospital - Fort Mill')[3]).toBe('Suite 101');
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+});
+
 test('combines categories and locations, saves exclusions and exports real Excel with text ZIPs',async({page})=>{
   const errors=[];page.on('pageerror',e=>errors.push(e.message));
   await page.goto('./#mailing');await expect(page.locator('#mail-count')).toContainText('60 recipients selected');
