@@ -1,0 +1,50 @@
+export const mailingCategories = {dentist:'Dentist offices',school:'Schools',district:'School district offices',property_management:'Property Management',real_estate:'Real Estate',kitchen:'Cabinet / Kitchen Industry',other:'Other businesses'};
+export const exportHeaders = ['Company','Attention','Address 1','Address 2','City','State','ZIP','Country'];
+const clean = v => String(v ?? '').trim();
+const day = v => typeof v === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(v) && Number.isFinite(Date.parse(v+'T12:00:00Z')) && new Date(v+'T12:00:00Z').toISOString().slice(0,10) === v;
+export function validateRecipient(r) {
+  const fields = ['id','name','category','attention','address1','address2','city','state','zip','country','source','reviewedOn','status'];
+  if (!r || Object.keys(r).length !== fields.length || Object.keys(r).some(k => !fields.includes(k))) throw Error('Invalid mailing recipient fields.');
+  if (!Number.isSafeInteger(r.id) || r.id < 1 || !Object.hasOwn(mailingCategories,r.category)) throw Error('Invalid mailing recipient identity.');
+  for (const k of fields.filter(k => k !== 'id')) if (typeof r[k] !== 'string' || r[k].length > 500) throw Error('Invalid mailing recipient text.');
+  if (!r.name.trim() || !['published','needs_review'].includes(r.status) || r.country !== 'US') throw Error('Invalid mailing recipient.');
+  if (r.source) { const u = new URL(r.source); if (u.protocol !== 'https:' || u.username || u.password) throw Error('Mailing sources must be public HTTPS URLs.'); }
+  if (r.reviewedOn && !day(r.reviewedOn)) throw Error('Invalid address review date.');
+  if (r.status === 'published' && (!r.source || !r.reviewedOn || !completeAddress(r))) throw Error('Reviewed addresses require complete fields, a source and a review date.');
+  return r;
+}
+export function completeAddress(r) { return !!(clean(r.name) && clean(r.address1) && clean(r.city) && /^[A-Z]{2}$/.test(r.state) && /^\d{5}(-\d{4})?$/.test(r.zip)); }
+const norm = v => clean(v).toUpperCase().replace(/[.,]/g,'').replace(/\b(STREET|ROAD|AVENUE|BOULEVARD|DRIVE|LANE|PARKWAY|HIGHWAY|SUITE)\b/g,v=>({STREET:'ST',ROAD:'RD',AVENUE:'AVE',BOULEVARD:'BLVD',DRIVE:'DR',LANE:'LN',PARKWAY:'PKWY',HIGHWAY:'HWY',SUITE:'STE'}[v])).replace(/#/g,'STE ').replace(/\s+/g,' ').trim();
+export const addressKey = r => [norm(r.address1),norm(r.address2),norm(r.city),clean(r.state),clean(r.zip).slice(0,5)].join('|');
+export const recipientKey = r => norm(r.name)+'|'+addressKey(r);
+export const exportRow = r => [r.name,r.attention,r.address1,r.address2,r.city,r.state,r.zip,r.country];
+export const defaultFilters = () => ({categories:['dentist','school'],cities:[],zips:'',search:'',excludeDays:0,onePerAddress:false,excluded:[]});
+export function validateFilters(f) {
+  if (!f || !Array.isArray(f.categories) || f.categories.some(k=>!Object.hasOwn(mailingCategories,k)) || !Array.isArray(f.cities) || f.cities.some(c=>typeof c!=='string'||c.length>100) || typeof f.zips!=='string' || f.zips.length>500 || typeof f.search!=='string' || f.search.length>500 || ![0,30,60,90,180].includes(f.excludeDays) || typeof f.onePerAddress!=='boolean' || !Array.isArray(f.excluded) || f.excluded.some(id=>!Number.isSafeInteger(id)||id<1)) throw Error('Invalid saved mailing filters.');
+  parseZips(f.zips); return f;
+}
+export function parseZips(value) {
+  const zips = value.split(/[\s,;]+/).filter(Boolean);
+  if (zips.some(z=>!/^\d{5}$/.test(z))) throw Error('Enter five-digit ZIP codes separated by commas or spaces.');
+  return zips;
+}
+export function selectRecipients(catalog, filters, suppressed=[], lastMailed=()=>null, today) {
+  validateFilters(filters); const zips=parseZips(filters.zips), blocked=new Set(suppressed), excluded=new Set(filters.excluded), seen=new Set(), rows=[], held=[];
+  const blockedKeys=new Set(catalog.filter(r=>blocked.has(r.id)).map(recipientKey));
+  const candidates = catalog.filter(r=>filters.categories.includes(r.category) && (!filters.cities.length||filters.cities.includes(r.city)) && (!zips.length||zips.includes(r.zip.slice(0,5))) && (!filters.search||[r.name,r.city,r.address1,r.address2].join(' ').toLowerCase().includes(filters.search.toLowerCase()))).sort((a,b)=>a.name.localeCompare(b.name)||a.id-b.id);
+  for (const r of candidates) {
+    let reason=''; const last=lastMailed(r.id);
+    if (blocked.has(r.id)||blockedKeys.has(recipientKey(r))) reason='Do not mail';
+    else if (!completeAddress(r)||r.status!=='published') reason='Address needs review';
+    else if (filters.excludeDays&&last&&(Date.parse(today+'T12:00:00Z')-Date.parse(last+'T12:00:00Z'))/86400000<=filters.excludeDays) reason='Recently mailed';
+    else if (excluded.has(r.id)) reason='Excluded from this list';
+    const key=filters.onePerAddress?addressKey(r):recipientKey(r);
+    if (!reason&&seen.has(key)) reason=filters.onePerAddress?'Same delivery address':'Duplicate business/address';
+    if (reason) held.push({recipient:r,reason}); else { seen.add(key); rows.push(r); }
+  }
+  return {rows,held,candidates};
+}
+export function csvFor(rows) {
+  const cell = v => '"'+String(v??'').replace(/^[\s]*[=+@-]/,"'$&").replaceAll('"','""')+'"';
+  return '\ufeff'+[exportHeaders,...rows.map(exportRow)].map(row=>row.map(cell).join(',')).join('\r\n');
+}

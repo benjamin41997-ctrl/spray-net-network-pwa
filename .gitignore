@@ -8,3 +8,5 @@ playwright-report/
 *.log
 spray-net-outreach-*.json
 spray-net-outreach-*.csv
+
+spray-net-mailing-*

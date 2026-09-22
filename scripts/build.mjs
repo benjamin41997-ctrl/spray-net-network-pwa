@@ -2,6 +2,7 @@ import { readFile,writeFile,mkdir,readdir,copyFile } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { join } from 'node:path';
 import { validateVisit } from '../site/visits.js';
+import {validateRecipient} from '../site/mailing-model.js';
 const root=new URL('../',import.meta.url);
 const data=JSON.parse(await readFile(new URL('site/data/directory.json',root),'utf8'));
 if(data.schemaVersion!==1||!data.companies.length)throw Error('Directory snapshot required');
@@ -11,8 +12,13 @@ const ids=new Set();
 for(const c of data.companies)validateVisit(c.visit);
 for(const c of data.companies){if(ids.has(c.id)||!c.name||/^(Unresearched|DEMO)/.test(c.name))throw Error('Invalid company identity');ids.add(c.id);if(Object.keys(c).some(k=>!companyKeys.has(k)))throw Error('Unapproved company field');for(const p of c.people)if(Object.keys(p).some(k=>!personKeys.has(k)))throw Error('Unapproved contact field');}
 if(data.counts.companies!==ids.size||data.counts.people!==data.companies.reduce((n,c)=>n+c.people.length,0))throw Error('Snapshot counts mismatch');
+const mailing=JSON.parse(await readFile(new URL('site/data/mailing.json',root),'utf8'));
+if(mailing.schemaVersion!==1||!Array.isArray(mailing.recipients))throw Error('Mailing catalog required');
+for(const r of mailing.recipients){validateRecipient(r);if(r.id<1000000||ids.has(r.id))throw Error('Mailing IDs must be unique and reserved from 1000000 upward');ids.add(r.id);}
 const files=[];async function copy(rel=''){for(const entry of await readdir(new URL('site/'+rel,root),{withFileTypes:true})){const path=join(rel,entry.name).replaceAll('\\','/');if(entry.isDirectory())await copy(path+'/');else{files.push(path);await mkdir(new URL('dist/'+rel,root),{recursive:true});await copyFile(new URL('site/'+path,root),new URL('dist/'+path,root));}}}await copy();
-const hash=createHash('sha256');for(const path of files.sort()){hash.update(path);hash.update(await readFile(new URL('site/'+path,root)));}const version=hash.digest('hex').slice(0,16);
+await mkdir(new URL('dist/vendor/',root),{recursive:true});
+for(const [source,target]of [['dist/exceljs.min.js','exceljs.min.js'],['LICENSE','exceljs-LICENSE.txt']]){await copyFile(new URL('node_modules/exceljs/'+source,root),new URL('dist/vendor/'+target,root));files.push('vendor/'+target);}
+const hash=createHash('sha256');for(const path of files.sort()){hash.update(path);hash.update(await readFile(new URL('dist/'+path,root)));}const version=hash.digest('hex').slice(0,16);
 const cache='spray-net-network-'+version;
 await writeFile(new URL('dist/sw.js',root),`const CACHE=${JSON.stringify(cache)};const FILES=${JSON.stringify(['./',...files.map(f=>'./'+f)])};
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(FILES))));

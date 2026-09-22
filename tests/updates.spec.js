@@ -12,6 +12,10 @@ test('an existing installed client can activate a new published snapshot',async(
   await page.locator('#tracker [name=notes]').fill('Keep this private activity through the app update.');
   await page.getByRole('button',{name:'Save activity',exact:true}).click();
   await expect(page.locator('#tracker .form-message')).toContainText('Activity saved');
+  await page.getByRole('button',{name:'Mailing Lists',exact:true}).click();
+  await page.getByLabel('List name',{exact:true}).fill('Keep mailing filters through update');
+  await page.getByRole('button',{name:'Save list filters',exact:true}).click();
+  await expect(page.locator('#mailing-status')).toContainText('List filters saved');
   const next=JSON.parse(originalData);next.companies[0].name='Updated published company';
   await writeFile(dataPath,JSON.stringify(next));await writeFile(swPath,originalSw.replace(/spray-net-network-([a-f0-9]+)/g,'spray-net-network-test-update'));
   await page.getByRole('button',{name:'About',exact:true}).click();await page.getByRole('button',{name:'Check for updates',exact:true}).click();
@@ -20,5 +24,8 @@ test('an existing installed client can activate a new published snapshot',async(
   await page.getByLabel('Search the network').fill('Updated published company');await expect(page.locator('#result-count')).toHaveText('1 company');
   await page.getByRole('button',{name:'Tracker',exact:true}).click();
   await expect(page.locator('#tracker .activity-entry')).toContainText('Keep this private activity through the app update.');
+  await page.getByRole('button',{name:'Mailing Lists',exact:true}).click();
+  await page.getByLabel('Load a saved list').selectOption('Keep mailing filters through update');
+  await expect(page.getByLabel('List name',{exact:true})).toHaveValue('Keep mailing filters through update');
  }finally{await writeFile(swPath,originalSw);await writeFile(dataPath,originalData);}
 });

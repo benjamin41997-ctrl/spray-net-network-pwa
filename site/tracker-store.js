@@ -54,3 +54,12 @@ export async function importActivities(records){
  tx.oncomplete=()=>resolve(changed);tx.onabort=tx.onerror=()=>reject(Error('Import failed. No changes were saved.'));
  });
 }
+// A mailed batch is one transaction. Stable IDs make retries safe without duplicating contacts.
+export async function saveMailingActivities(records){
+ records.forEach(r=>{validateActivity(r);if(r.occurredOn>today())throw Error('A sent mailing must be dated today or earlier.');});
+ const db=await open();
+ return new Promise((resolve,reject)=>{const tx=db.transaction('activities','readwrite'),store=tx.objectStore('activities');let existing=0,checked=0,conflict=false;
+  for(const r of records){const get=store.get(r.id);get.onsuccess=()=>{if(get.result)existing++;checked++;if(checked===records.length){if(existing&&existing!==records.length){conflict=true;tx.abort();}else if(!existing)for(const value of records)store.add(value);}};}
+  tx.oncomplete=()=>resolve(existing?0:records.length);tx.onabort=tx.onerror=()=>reject(Error(conflict?'Part of this mailing is already in the tracker. Review its history before logging more entries.':'Mailing was not logged. No activities were saved.'));
+ });
+}
