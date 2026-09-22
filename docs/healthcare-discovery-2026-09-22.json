@@ -1,0 +1,386 @@
+[
+  {
+    "zip": "29708",
+    "state": "SC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 29
+  },
+  {
+    "zip": "29708",
+    "state": "SC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 11
+  },
+  {
+    "zip": "29715",
+    "state": "SC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 18
+  },
+  {
+    "zip": "29715",
+    "state": "SC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 6
+  },
+  {
+    "zip": "29707",
+    "state": "SC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 11
+  },
+  {
+    "zip": "29707",
+    "state": "SC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 5
+  },
+  {
+    "zip": "29732",
+    "state": "SC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 41
+  },
+  {
+    "zip": "29732",
+    "state": "SC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 20
+  },
+  {
+    "zip": "29730",
+    "state": "SC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 13
+  },
+  {
+    "zip": "29730",
+    "state": "SC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 13
+  },
+  {
+    "zip": "29733",
+    "state": "SC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 0
+  },
+  {
+    "zip": "29733",
+    "state": "SC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 0
+  },
+  {
+    "zip": "29710",
+    "state": "SC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 8
+  },
+  {
+    "zip": "29710",
+    "state": "SC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 4
+  },
+  {
+    "zip": "28012",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 16
+  },
+  {
+    "zip": "28012",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 6
+  },
+  {
+    "zip": "28032",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 0
+  },
+  {
+    "zip": "28032",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 0
+  },
+  {
+    "zip": "28054",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 35
+  },
+  {
+    "zip": "28054",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 36
+  },
+  {
+    "zip": "28056",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 8
+  },
+  {
+    "zip": "28056",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 5
+  },
+  {
+    "zip": "28098",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 0
+  },
+  {
+    "zip": "28098",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 1
+  },
+  {
+    "zip": "28101",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 0
+  },
+  {
+    "zip": "28101",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 0
+  },
+  {
+    "zip": "28104",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 10
+  },
+  {
+    "zip": "28104",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 6
+  },
+  {
+    "zip": "28173",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 18
+  },
+  {
+    "zip": "28173",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 5
+  },
+  {
+    "zip": "28277",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 55
+  },
+  {
+    "zip": "28277",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 27
+  },
+  {
+    "zip": "28278",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 9
+  },
+  {
+    "zip": "28278",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 7
+  },
+  {
+    "zip": "28214",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 5
+  },
+  {
+    "zip": "28214",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 2
+  },
+  {
+    "zip": "28134",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 7
+  },
+  {
+    "zip": "28134",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 3
+  },
+  {
+    "zip": "28227",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 22
+  },
+  {
+    "zip": "28227",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 15
+  },
+  {
+    "zip": "28079",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 10
+  },
+  {
+    "zip": "28079",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 3
+  },
+  {
+    "zip": "28120",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 4
+  },
+  {
+    "zip": "28120",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 3
+  },
+  {
+    "zip": "28052",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 8
+  },
+  {
+    "zip": "28052",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 8
+  },
+  {
+    "zip": "28105",
+    "state": "NC",
+    "category": "dentist",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 31
+  },
+  {
+    "zip": "28105",
+    "state": "NC",
+    "category": "medical",
+    "reviewedOn": "2026-09-22",
+    "status": "complete_for_query",
+    "found": 24
+  }
+]

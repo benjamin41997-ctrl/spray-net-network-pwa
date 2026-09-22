@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Belmont Central Elementary School",
+    "address1": "310 Eagle Road",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Brookside Elementary School",
+    "address1": "1925 Auten Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Catawba Heights Elementary School",
+    "address1": "101 Ivey Street",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Chapel Grove Elementary School",
+    "address1": "5201 Lewis Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Gardner Park Elementary School",
+    "address1": "738 Armstrong Park Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "H.H. Beam Elementary School",
+    "address1": "200 Davis Park Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Hawks Nest STEAM Academy",
+    "address1": "3430 Robinwood Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Lingerfeldt Elementary School",
+    "address1": "1601 Madison Street",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Lowell Elementary School",
+    "address1": "1500 Power Drive",
+    "address2": "",
+    "city": "Lowell",
+    "state": "NC",
+    "zip": "28098",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "McAdenville Elementary School",
+    "address1": "275 East Wesleyan Drive",
+    "address2": "",
+    "city": "McAdenville",
+    "state": "NC",
+    "zip": "28101",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "New Hope Elementary School",
+    "address1": "137 Stowe Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "North Belmont Elementary School",
+    "address1": "210 School Street",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Page Primary School",
+    "address1": "215 Ewing Drive",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Pinewood Elementary School",
+    "address1": "1925 North Main Street",
+    "address2": "",
+    "city": "Mount Holly",
+    "state": "NC",
+    "zip": "28120",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Pleasant Ridge Elementary School",
+    "address1": "1260 Floyd Lane",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Rankin Elementary School",
+    "address1": "301 West Central Avenue",
+    "address2": "",
+    "city": "Mount Holly",
+    "state": "NC",
+    "zip": "28120",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Robinson Elementary School",
+    "address1": "3122 Union Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Sadler Elementary School",
+    "address1": "3950 West Franklin Boulevard",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Sherwood Elementary School",
+    "address1": "1744 Dixon Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "W.A. Bess Elementary School",
+    "address1": "4340 Beaty Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Woodhill Elementary School",
+    "address1": "1027 Woodhill Drive",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/elementary"
+  },
+  {
+    "name": "Belmont Middle School",
+    "address1": "1020 South Point Road",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/middle"
+  },
+  {
+    "name": "Cramerton Middle School",
+    "address1": "601 Cramer Mountain Road",
+    "address2": "",
+    "city": "Cramerton",
+    "state": "NC",
+    "zip": "28032",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/middle"
+  },
+  {
+    "name": "Grier Middle School",
+    "address1": "1622 East Garrison Boulevard",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/middle"
+  },
+  {
+    "name": "Holbrook Middle School",
+    "address1": "418 South Church Street",
+    "address2": "",
+    "city": "Lowell",
+    "state": "NC",
+    "zip": "28098",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/middle"
+  },
+  {
+    "name": "Mount Holly Middle School",
+    "address1": "124 South Hawthorne Street",
+    "address2": "",
+    "city": "Mount Holly",
+    "state": "NC",
+    "zip": "28120",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/middle"
+  },
+  {
+    "name": "Southwest Middle School",
+    "address1": "No. 1 Roadrunner Drive",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/middle"
+  },
+  {
+    "name": "Warlick Academy",
+    "address1": "1316 Spencer Mountain Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/high"
+  },
+  {
+    "name": "York Chester Middle School",
+    "address1": "601 South Clay Street",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/middle"
+  },
+  {
+    "name": "Ashbrook High School",
+    "address1": "2222 South New Hope Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/high"
+  },
+  {
+    "name": "Stuart W. Cramer High School",
+    "address1": "101 Lakewood Road",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/high"
+  },
+  {
+    "name": "East Gaston High School",
+    "address1": "1744 Lane Road",
+    "address2": "",
+    "city": "Mount Holly",
+    "state": "NC",
+    "zip": "28120",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/high"
+  },
+  {
+    "name": "Forestview High School",
+    "address1": "5545 Union Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/high"
+  },
+  {
+    "name": "Highland School of Technology",
+    "address1": "1600 North Morris Street",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/high"
+  },
+  {
+    "name": "Hunter Huss High School",
+    "address1": "1518 Edgefield Avenue",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/high"
+  },
+  {
+    "name": "South Point High School",
+    "address1": "906 South Point Road",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/high"
+  },
+  {
+    "name": "Webb Street School",
+    "address1": "1623 North Webb Street",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "category": "school",
+    "source": "https://www.gaston.k12.nc.us/high"
+  },
+  {
+    "name": "Antioch Elementary School",
+    "address1": "3101 Antioch Church Road",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28104",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Cuthbertson High School",
+    "address1": "1400 Cuthbertson Road",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Cuthbertson Middle School",
+    "address1": "1520 Cuthbertson Road",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Hemby Bridge Elementary School",
+    "address1": "6701 Indian Trail Fairview Rd",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Indian Trail Elementary School",
+    "address1": "200 Education Road",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Kensington Elementary School",
+    "address1": "8701 Kensington Drive",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Marvin Elementary School",
+    "address1": "9700 Marvin School Road",
+    "address2": "",
+    "city": "Marvin",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Marvin Ridge High School",
+    "address1": "2825 Crane Road",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Marvin Ridge Middle School",
+    "address1": "2831 Crane Road",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "New Town Elementary School",
+    "address1": "1100 Waxhaw Indian Trail Road",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Poplin Elementary School",
+    "address1": "5627 Poplin Road",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Porter Ridge Elementary School",
+    "address1": "2843 Ridge Road",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Porter Ridge High School",
+    "address1": "2839 Ridge Road",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Porter Ridge Middle School",
+    "address1": "2827 Ridge Road",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Rea View Elementary School",
+    "address1": "320 Reid Dairy Road",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Sandy Ridge Elementary School",
+    "address1": "10101 Waxhaw Manor Drive",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "South Providence School",
+    "address1": "500 S Providence Street",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Sun Valley Middle School",
+    "address1": "1409 Wesley Chapel Road",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Waxhaw Elementary School",
+    "address1": "1101 Old Providence Road",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Weddington Elementary School",
+    "address1": "3927 Twelve Mile Creek Road",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28104",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Weddington High School",
+    "address1": "4901 Monroe Weddington Road",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28104",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Weddington Middle School",
+    "address1": "5903 Deal Road",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28104",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  },
+  {
+    "name": "Western Union Elementary School",
+    "address1": "4111 Western Union School Road",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "category": "school",
+    "source": "https://www.ucpsnc.org/about/contact-us"
+  }
+]

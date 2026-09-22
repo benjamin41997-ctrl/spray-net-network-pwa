@@ -1,0 +1,5522 @@
+[
+  {
+    "npi": "1952965345",
+    "name": "GOKIDS PEDIATRIC DENTISTRY FORT MILL",
+    "legalName": "ALIGN AMERICA SC, LLC",
+    "category": "dentist",
+    "address1": "130 BEN CASEY DR STE 105",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-6566",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1952965345",
+    "registryUpdatedOn": "2023-08-14",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1922431600",
+    "name": "BEAM ENDODONTICS",
+    "legalName": "BEAM ENDODONTICS",
+    "category": "dentist",
+    "address1": "936 MARKET ST",
+    "address2": "SUITE 206",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-6562",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1922431600",
+    "registryUpdatedOn": "2013-08-16",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1851087811",
+    "name": "BIEHL AND FARMER FAMILY DENTISTRY",
+    "legalName": "BIEHL AND FARMER FAMILY DENTISTRY",
+    "category": "dentist",
+    "address1": "105 BEN CASEY DR STE 139",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-8557",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1851087811",
+    "registryUpdatedOn": "2023-04-13",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1295279180",
+    "name": "BIEHL AND WELCH COSMETIC AND FAMILY DENTISTRY",
+    "legalName": "BIEHL AND WELCH COSMETIC AND FAMILY DENTISTRY",
+    "category": "dentist",
+    "address1": "105 BEN CASEY DR",
+    "address2": "SUITE 139",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-8561",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1295279180",
+    "registryUpdatedOn": "2016-12-12",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1982175170",
+    "name": "SOUTHLAKE FAMILY DENTISTRY",
+    "legalName": "CHOUGULE DENTAL CARE LLC",
+    "category": "dentist",
+    "address1": "1741 GOLD HILL RD",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-8202",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1982175170",
+    "registryUpdatedOn": "2018-12-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1578034369",
+    "name": "DENTAL CARE AT MILLS CROSSING",
+    "legalName": "DENTAL PROFESSIONAL OF SOUTH CAROLINA, P.C.",
+    "category": "dentist",
+    "address1": "2373 LEN PATTERSON RD STE 103",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-8266",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1578034369",
+    "registryUpdatedOn": "2019-03-29",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1497172076",
+    "name": "WEST TOWN DENTAL CARE",
+    "legalName": "DENTAL PROFESSIONALS OF SC, PC",
+    "category": "dentist",
+    "address1": "1751 PLEASANT ROAD SUITE101",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1497172076",
+    "registryUpdatedOn": "2014-03-21",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1639717010",
+    "name": "ANGEL DENTAL FORT MILL",
+    "legalName": "DENTAL WELLNESS CENTER EB5 INVESTMENT VI LLC",
+    "category": "dentist",
+    "address1": "749 STOCKBRIDGE DR",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-7200",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1639717010",
+    "registryUpdatedOn": "2020-01-12",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1003140930",
+    "name": "DENTALWORKS",
+    "legalName": "DR. RICHARD-JAMES M. HANSEN & ASSOCIATES (FORT MILL), P.C.",
+    "category": "dentist",
+    "address1": "2435 W HIGHWAY 160",
+    "address2": "SUITE 101",
+    "city": "Tega Cay",
+    "state": "SC",
+    "zip": "29708",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1003140930",
+    "registryUpdatedOn": "2016-12-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1700451028",
+    "name": "FORT MILL SMILES DENTISTRY",
+    "legalName": "FORT MILL SMILES DENTISTRY, PC",
+    "category": "dentist",
+    "address1": "810 BRAYDEN PARKWAY",
+    "address2": "SUITE 109",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1700451028",
+    "registryUpdatedOn": "2021-05-20",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1861851883",
+    "name": "DENTALSMART",
+    "legalName": "GAMBLE DENTALSMART PC",
+    "category": "dentist",
+    "address1": "749 STOCKBRIDGE DR",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-7200",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1861851883",
+    "registryUpdatedOn": "2016-04-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1114287042",
+    "name": "GOLD HILL DENTISTRY, PLLC",
+    "legalName": "GOLD HILL DENTISTRY, PLLC",
+    "category": "dentist",
+    "address1": "2848 PLEASANT RD",
+    "address2": "SUITE 104",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-9215",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1114287042",
+    "registryUpdatedOn": "2012-05-25",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1376951525",
+    "name": "JASPER DENTISTRY",
+    "legalName": "JASPER DENTISTRY",
+    "category": "dentist",
+    "address1": "2752 PLEASANT RD",
+    "address2": "SUITE 106",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-7227",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1376951525",
+    "registryUpdatedOn": "2014-07-31",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1760356604",
+    "name": "JD CONNECT OF SOUTH CAROLINA LLC",
+    "legalName": "JD CONNECT OF SOUTH CAROLINA LLC",
+    "category": "dentist",
+    "address1": "1726 GOLD HILL RD # 1072",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-6990",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1760356604",
+    "registryUpdatedOn": "2025-10-02",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1457463572",
+    "name": "JONNA J MORESCHI DMD PC",
+    "legalName": "JONNA J MORESCHI DMD PC",
+    "category": "dentist",
+    "address1": "1021 MAXWELL MILL ROAD",
+    "address2": "SUITE #E",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1457463572",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223P0106X"
+    ]
+  },
+  {
+    "npi": "1255832549",
+    "name": "LAKESHORE DENTAL INC.",
+    "legalName": "LAKESHORE DENTAL INC.",
+    "category": "dentist",
+    "address1": "1200 GOLD HILL ROAD",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1255832549",
+    "registryUpdatedOn": "2021-11-01",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1124237763",
+    "name": "LAWRENCE J. LORENZI, D.M.D., L.L.C.",
+    "legalName": "LAWRENCE J. LORENZI, D.M.D., L.L.C.",
+    "category": "dentist",
+    "address1": "2999 EPPINGTON SOUTH DR",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-6949",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1124237763",
+    "registryUpdatedOn": "2015-05-06",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1295183317",
+    "name": "MONARCH DENTISTRY OF GOLD HILL",
+    "legalName": "MONARCH DENTISTRY, INC",
+    "category": "dentist",
+    "address1": "1515 ONYX RDG",
+    "address2": "SUITE 108",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-8990",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1295183317",
+    "registryUpdatedOn": "2016-05-31",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1275016263",
+    "name": "FORT MILL PERIODONTICS & IMPLANT DENTISTRY",
+    "legalName": "R.E. OFFUTT, DDS, MS AND B.L. COCKERHAM DDS, MSP, PLLC",
+    "category": "dentist",
+    "address1": "929 MARKET ST",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1275016263",
+    "registryUpdatedOn": "2018-09-18",
+    "taxonomy": [
+      "1223P0300X"
+    ]
+  },
+  {
+    "npi": "1548759244",
+    "name": "SMILE DOCTORS OF SOUTH CAROLINA, P.C.",
+    "legalName": "SMILE DOCTORS OF SOUTH CAROLINA, P.C.",
+    "category": "dentist",
+    "address1": "105 BEN CASEY DR STE 109",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-8557",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1548759244",
+    "registryUpdatedOn": "2022-05-04",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1316092653",
+    "name": "SMILES BY DESIGN, PA",
+    "legalName": "SMILES BY DESIGN, PA",
+    "category": "dentist",
+    "address1": "1096 ASSEMBLY DR",
+    "address2": "SUITE 216",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-6447",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1316092653",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1487670667",
+    "name": "SOUTHLAKE FAMILY DENTISTRY LLC",
+    "legalName": "SOUTHLAKE FAMILY DENTISTRY LLC",
+    "category": "dentist",
+    "address1": "1741 GOLD HILL RD",
+    "address2": "SUITE 2010",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-8202",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1487670667",
+    "registryUpdatedOn": "2007-07-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1174112387",
+    "name": "TEGA CAY FAMILY DENTISTRY",
+    "legalName": "TEGA CAY FAMILY DENTISTRY",
+    "category": "dentist",
+    "address1": "1188 STONECREST BLVD",
+    "address2": "",
+    "city": "Tega Cay",
+    "state": "SC",
+    "zip": "29708-6632",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1174112387",
+    "registryUpdatedOn": "2021-01-12",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1932040540",
+    "name": "THE DENTAL OFFICE AT FORT MILL",
+    "legalName": "THE DENTAL OFFICE AT FORT MILL",
+    "category": "dentist",
+    "address1": "765 CROSSROADS PLZ",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-8017",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1932040540",
+    "registryUpdatedOn": "2026-04-13",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1770426926",
+    "name": "THE DENTAL OFFICE AT FORT MILL",
+    "legalName": "THE DENTAL OFFICE AT FORT MILL",
+    "category": "dentist",
+    "address1": "765 CROSSROADS PLZ",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-8017",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1770426926",
+    "registryUpdatedOn": "2026-04-13",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1528235330",
+    "name": "WILLIAM S. BURNS, D.M.D, P.A.",
+    "legalName": "WILLIAM S. BURNS, D.M.D, P.A.",
+    "category": "dentist",
+    "address1": "264 ROCKMONT DR",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708-6477",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1528235330",
+    "registryUpdatedOn": "2008-05-12",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1326808114",
+    "name": "803 DENTAL LLC",
+    "legalName": "803 DENTAL LLC",
+    "category": "dentist",
+    "address1": "1344 HIGHWAY 160 E",
+    "address2": "#101",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1326808114",
+    "registryUpdatedOn": "2024-03-20",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1982596995",
+    "name": "LINEBERGER DENTISTRY FORT MILL",
+    "legalName": "ADRIAN S LINEBERGER IV DDS III LLC",
+    "category": "dentist",
+    "address1": "117 SPRATT ST STE A",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715-4111",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1982596995",
+    "registryUpdatedOn": "2025-07-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1841073798",
+    "name": "GOCLEAR ORTHODONTICS FORT MILL",
+    "legalName": "ALIGN AMERICA SC, LLC",
+    "category": "dentist",
+    "address1": "259 TEXTILE WAY STE 103",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715-4550",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1841073798",
+    "registryUpdatedOn": "2023-08-15",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1659654382",
+    "name": "ARNOLD L. BATCHELOR, JR., D.M.D., PA",
+    "legalName": "ARNOLD L. BATCHELOR, JR., D.M.D., PA",
+    "category": "dentist",
+    "address1": "117-A SPRATT STREET",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1659654382",
+    "registryUpdatedOn": "2011-09-20",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1649451410",
+    "name": "CAROLINA PROFESSIONAL DENTISTRY,LLC",
+    "legalName": "CAROLINA PROFESSIONAL DENTISTRY,LLC",
+    "category": "dentist",
+    "address1": "200 DOBYS BRIDGE RD",
+    "address2": "SUITE 108",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715-2083",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1649451410",
+    "registryUpdatedOn": "2007-11-20",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1255113932",
+    "name": "CATAWBA RIVER DENTISTRY, LLC",
+    "legalName": "CATAWBA RIVER DENTISTRY, LLC",
+    "category": "dentist",
+    "address1": "200 N DOBYS BRIDGE RD STE 108",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715-2084",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1255113932",
+    "registryUpdatedOn": "2023-10-18",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1508023649",
+    "name": "DOMINGUEZ & RUCKER FAMILY DENTISTRY LLC",
+    "legalName": "DOMINGUEZ & RUCKER FAMILY DENTISTRY LLC",
+    "category": "dentist",
+    "address1": "575 SPRINGCREST DRIVE",
+    "address2": "SUITE A",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715-7307",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1508023649",
+    "registryUpdatedOn": "2017-01-23",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1609769710",
+    "name": "FAMILY DENTAL HEALTH OF FORT MILL",
+    "legalName": "FAMILY DENTAL HEALTH GROUP",
+    "category": "dentist",
+    "address1": "1860 COLTHARP RD",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715-8978",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1609769710",
+    "registryUpdatedOn": "2025-05-29",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1295405819",
+    "name": "FORT MILL DENTISTRY",
+    "legalName": "FT MILL DENTISTRY LLC",
+    "category": "dentist",
+    "address1": "133 CLEBOURNE ST",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715-1742",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1295405819",
+    "registryUpdatedOn": "2021-09-15",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1437313780",
+    "name": "FORT MILL DENTISTRY",
+    "legalName": "J. NATHAN TEMPLETON, DMD, PA",
+    "category": "dentist",
+    "address1": "133 CLEBOURNE ST",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715-1742",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1437313780",
+    "registryUpdatedOn": "2008-07-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1972006682",
+    "name": "MUNDO DENTISTRY",
+    "legalName": "MUNDO DENTAL GROUP, PA",
+    "category": "dentist",
+    "address1": "3463 HIGHWAY 21 BYP STE 101",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715-7210",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1972006682",
+    "registryUpdatedOn": "2018-03-09",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1922480060",
+    "name": "MUNDO MANAGEMENT GROUP, LLC",
+    "legalName": "MUNDO MANAGEMENT GROUP, LLC",
+    "category": "dentist",
+    "address1": "3463 HIGHWAY 21 BYP STE 1",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715-7245",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1922480060",
+    "registryUpdatedOn": "2015-06-25",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1619750494",
+    "name": "RICCOBENE & ASSOCIATES FAMILY DENTISTRY - FORT MILL",
+    "legalName": "RICCOBENE & ASSOCIATES CCC, DDS, PC",
+    "category": "dentist",
+    "address1": "360 FORT MILL PARKWAY STE 101",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1619750494",
+    "registryUpdatedOn": "2023-11-29",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1851170906",
+    "name": "SATYAM DENTAL INFRASTRUCTURE LLC",
+    "legalName": "SATYAM DENTAL INFRASTRUCTURE LLC",
+    "category": "dentist",
+    "address1": "5527 ARDEN MILL DRIVE",
+    "address2": "SUITE 105",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1851170906",
+    "registryUpdatedOn": "2023-09-27",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1730624115",
+    "name": "SPRINGFIELD DENTISTRY",
+    "legalName": "SPRINGFIELD DENTISTRY",
+    "category": "dentist",
+    "address1": "452 MERCANTILE PLACE",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1730624115",
+    "registryUpdatedOn": "2016-12-21",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1568114528",
+    "name": "VAC ORTHODONTICS",
+    "legalName": "VAC ORTHODONTICS",
+    "category": "dentist",
+    "address1": "482 MERCANTILE PL STE 104",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715-2102",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1568114528",
+    "registryUpdatedOn": "2022-01-21",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1144674631",
+    "name": "CAROLINA SMILE DENTISTRY, LLC",
+    "legalName": "CAROLINA SMILE DENTISTRY, LLC",
+    "category": "dentist",
+    "address1": "8390 CHARLOTTE HWY STE 300",
+    "address2": "",
+    "city": "Indian Land",
+    "state": "SC",
+    "zip": "29707-6563",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1144674631",
+    "registryUpdatedOn": "2016-04-20",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1326532268",
+    "name": "INDIAN LAND DENTAL CARE",
+    "legalName": "DENTAL PROFESSIONAL OF SOUTH CAROLINA, P.C.",
+    "category": "dentist",
+    "address1": "7748 CHARLOTTE HWY",
+    "address2": "",
+    "city": "Indian Land",
+    "state": "SC",
+    "zip": "29707-9654",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1326532268",
+    "registryUpdatedOn": "2018-10-03",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1871964015",
+    "name": "EDGEWATER FAMILY DENTAL",
+    "legalName": "DENTAL PROFESSIONALS OF SOUTH CAROLINA, PC",
+    "category": "dentist",
+    "address1": "1028 EDGEWATER CORP. PKWY",
+    "address2": "SUITE 101",
+    "city": "Indian Land",
+    "state": "SC",
+    "zip": "29707",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1871964015",
+    "registryUpdatedOn": "2015-10-14",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1215575774",
+    "name": "DOBY'S BRIDGE DENTISTRY",
+    "legalName": "DOBY'S BRIDGE DENTISTRY",
+    "category": "dentist",
+    "address1": "4174 DOBYS BRIGE ROAD STE 100",
+    "address2": "",
+    "city": "Indian Land",
+    "state": "SC",
+    "zip": "29707",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1215575774",
+    "registryUpdatedOn": "2020-09-02",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1386903995",
+    "name": "G. ABRAMS & R. COHEN S.C. 2 PC",
+    "legalName": "G. ABRAMS & R. COHEN S.C. 2 PC",
+    "category": "dentist",
+    "address1": "10092 CHARLOTTE HWY",
+    "address2": "SUITE 107",
+    "city": "Indian Land",
+    "state": "SC",
+    "zip": "29707-7135",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1386903995",
+    "registryUpdatedOn": "2012-05-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1629873898",
+    "name": "IDEAL DENTAL INDIAN LAND PC",
+    "legalName": "IDEAL DENTAL INDIAN LAND PC",
+    "category": "dentist",
+    "address1": "2089 PARKWAY DR STE 102",
+    "address2": "",
+    "city": "Indian Land",
+    "state": "SC",
+    "zip": "29707-8089",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1629873898",
+    "registryUpdatedOn": "2025-02-13",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1750141271",
+    "name": "OPULENT ORTHODONTICS",
+    "legalName": "QUARTERMAN DENTAL ASSOCIATES",
+    "category": "dentist",
+    "address1": "9787 CHARLOTTE HWY STE 203",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29707-5511",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1750141271",
+    "registryUpdatedOn": "2024-03-21",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1346895141",
+    "name": "REDSTONE MODERN DENTISTRY",
+    "legalName": "REDSTONE MODERN DENTISTRY, PC",
+    "category": "dentist",
+    "address1": "9709 REDSTONE DR.",
+    "address2": "SUITE 500",
+    "city": "Indian Land",
+    "state": "SC",
+    "zip": "29707",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1346895141",
+    "registryUpdatedOn": "2022-02-08",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1053251892",
+    "name": "REVIVE DENTAL AESTHETICS",
+    "legalName": "REVIVE DENTAL AESTHETICS LLC",
+    "category": "dentist",
+    "address1": "2220 DAISY LANE",
+    "address2": "SUITE D105",
+    "city": "Indian Land",
+    "state": "SC",
+    "zip": "29707",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1053251892",
+    "registryUpdatedOn": "2026-03-31",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1376483917",
+    "name": "REVIVE DENTAL AESTHETICS",
+    "legalName": "REVIVE DENTAL AESTHETICS LLC",
+    "category": "dentist",
+    "address1": "2220 DAISY LANE",
+    "address2": "SUITE D105",
+    "city": "Indian Land",
+    "state": "SC",
+    "zip": "29707",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1376483917",
+    "registryUpdatedOn": "2026-04-01",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1346489564",
+    "name": "SMILES IN THE SUN",
+    "legalName": "VALERIE L. YANISZEWSKI, DMD, PC",
+    "category": "dentist",
+    "address1": "6237 CAROLINA COMMONS DR",
+    "address2": "SUITE 301",
+    "city": "Indian Land",
+    "state": "SC",
+    "zip": "29707-6014",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1346489564",
+    "registryUpdatedOn": "2015-07-17",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1780348789",
+    "name": "PHOENIX WELLNESS LLC",
+    "legalName": "PHOENIX WELLNESS LLC",
+    "category": "medical",
+    "address1": "1040 EDGEWATER CORPORATE PKWY STE 106",
+    "address2": "",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29707-4526",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1780348789",
+    "registryUpdatedOn": "2021-10-26",
+    "taxonomy": [
+      "261QM1300X"
+    ]
+  },
+  {
+    "npi": "1669874053",
+    "name": "A HEALTHY SMILE",
+    "legalName": "A HEALTHY SMILE",
+    "category": "dentist",
+    "address1": "1658 CRANIUM DR",
+    "address2": "SUITE NUMBER 106",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-3506",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1669874053",
+    "registryUpdatedOn": "2014-09-17",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1003124215",
+    "name": "FRIENDLY NEIGHBORHOOD DENTAL CENTERS",
+    "legalName": "ABRAMS PATEL COHEN AND ASSOCIATES INC",
+    "category": "dentist",
+    "address1": "1417 RIVERCHASE BLVD",
+    "address2": "SUITE 104",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1003124215",
+    "registryUpdatedOn": "2010-09-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1629379177",
+    "name": "AFFORDABLE DENTURES - ROCK HILL, P.C.",
+    "legalName": "AFFORDABLE DENTURES - ROCK HILL, P.C.",
+    "category": "dentist",
+    "address1": "2441 CHERRY RD",
+    "address2": "SUITE B",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2171",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1629379177",
+    "registryUpdatedOn": "2012-12-03",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1275702979",
+    "name": "ANNA M. CHACKNES DMD PA",
+    "legalName": "ANNA M. CHACKNES DMD PA",
+    "category": "dentist",
+    "address1": "1447 EBENEZER RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2338",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1275702979",
+    "registryUpdatedOn": "2011-07-13",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1992211007",
+    "name": "APEX DENTAL PA",
+    "legalName": "APEX DENTAL PA",
+    "category": "dentist",
+    "address1": "1505 EBENEZER RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-1806",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1992211007",
+    "registryUpdatedOn": "2017-12-27",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1457666471",
+    "name": "CAROLINA PERIODONTICS & ENDODONTICS LLC",
+    "legalName": "CAROLINA PERIODONTICS & ENDODONTICS LLC",
+    "category": "dentist",
+    "address1": "1033 BAYSHORE DR",
+    "address2": "SUITE A",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-1569",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1457666471",
+    "registryUpdatedOn": "2010-08-13",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1942159439",
+    "name": "COOMBS FAMILY ORTHODONTICS",
+    "legalName": "COOMBS FAMILY ORTHODONTICS",
+    "category": "dentist",
+    "address1": "2460 INDIA HOOK RD STE 201",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-3530",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1942159439",
+    "registryUpdatedOn": "2026-01-27",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1063097624",
+    "name": "CULP DENTAL PA",
+    "legalName": "CULP DENTAL PA",
+    "category": "dentist",
+    "address1": "1334 EBENEZER RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2337",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1063097624",
+    "registryUpdatedOn": "2021-06-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1306118815",
+    "name": "DENTALWORKS",
+    "legalName": "DENTAL ASSOCIATES OF ROCK HILL CROSSING, P.C.",
+    "category": "dentist",
+    "address1": "4891 OLD YORK RD.",
+    "address2": "SUITE #104",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-8376",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1306118815",
+    "registryUpdatedOn": "2014-12-30",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1043827314",
+    "name": "WEDGEWOOD SQUARE DENTAL",
+    "legalName": "DENTAL PROFESSIONALS OF SOUTH CAROLINA, P.C.",
+    "category": "dentist",
+    "address1": "1767 HECKLE BLVD STE 102",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-1878",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1043827314",
+    "registryUpdatedOn": "2021-01-15",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1467547695",
+    "name": "DRS. COOMBS AND ROSS,LLC",
+    "legalName": "DRS. COOMBS AND ROSS,LLC",
+    "category": "dentist",
+    "address1": "1144 INDIA HOOK RD",
+    "address2": "SUITE C",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2783",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1467547695",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1629355045",
+    "name": "FAMILY DENTAL LLC",
+    "legalName": "FAMILY DENTAL LLC",
+    "category": "dentist",
+    "address1": "2022-2024 CHERRY ROAD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2627",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1629355045",
+    "registryUpdatedOn": "2011-11-14",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1023518271",
+    "name": "FALKO FAMILY DENTAL",
+    "legalName": "FAMILY DENTAL SPA PC",
+    "category": "dentist",
+    "address1": "1251 EBENEZER RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2353",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1023518271",
+    "registryUpdatedOn": "2018-02-20",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1174648505",
+    "name": "GOODWIN G. THOMAS, JR., D.M.D., P.A.",
+    "legalName": "GOODWIN G. THOMAS, JR., D.M.D., P.A.",
+    "category": "dentist",
+    "address1": "1033 BAYSHORE DR",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-1569",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1174648505",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1922131713",
+    "name": "H. DRUMMOND SHARP, III, DMD, PA",
+    "legalName": "H. DRUMMOND SHARP, III, DMD, PA",
+    "category": "dentist",
+    "address1": "1381 EBENEZER RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2336",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1922131713",
+    "registryUpdatedOn": "2009-05-19",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1053956805",
+    "name": "MILLWOOD FAMILY & COSMETIC DENTISTRY",
+    "legalName": "HDV DENTAL LLC",
+    "category": "dentist",
+    "address1": "744 ARDEN LN STE 150",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-3203",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1053956805",
+    "registryUpdatedOn": "2021-02-10",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1508694126",
+    "name": "IDEAL DENTAL ROCK HILL PC",
+    "legalName": "IDEAL DENTAL ROCK HILL PC",
+    "category": "dentist",
+    "address1": "2320 CHERRY ROAD",
+    "address2": "STE 102",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1508694126",
+    "registryUpdatedOn": "2024-09-11",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1245434364",
+    "name": "INDIA HOOK DENTAL CARE",
+    "legalName": "INDIA HOOK DENTAL CARE",
+    "category": "dentist",
+    "address1": "1144 INDIA HOOK RD",
+    "address2": "SUITE E",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2783",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1245434364",
+    "registryUpdatedOn": "2017-05-09",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1356554208",
+    "name": "JOHN W FLOREN DMD PA",
+    "legalName": "JOHN W FLOREN DMD PA",
+    "category": "dentist",
+    "address1": "1307 EBENEZER RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2336",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1356554208",
+    "registryUpdatedOn": "2008-02-22",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1952685810",
+    "name": "KOOL SMILES",
+    "legalName": "KOOL SMILES SC-2, PC",
+    "category": "dentist",
+    "address1": "2349 CHERRY RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-3169",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1952685810",
+    "registryUpdatedOn": "2014-12-18",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1275764326",
+    "name": "LAURA J. MCLAUGHLIN, DMD, LLC",
+    "legalName": "LAURA J. MCLAUGHLIN, DMD, LLC",
+    "category": "dentist",
+    "address1": "1342 EBENEZER RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2337",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1275764326",
+    "registryUpdatedOn": "2009-08-06",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1407159312",
+    "name": "MCW DENTISTRY",
+    "legalName": "MCW DENTISTRY",
+    "category": "dentist",
+    "address1": "744 ARDEN LN",
+    "address2": "SUITE 150",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-3286",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1407159312",
+    "registryUpdatedOn": "2010-12-15",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1013118561",
+    "name": "MILLER AND DIXON ORTHODONTICS LLC",
+    "legalName": "MILLER AND DIXON ORTHODONTICS LLC",
+    "category": "dentist",
+    "address1": "1564 CONSTITUTION BLVD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-3004",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1013118561",
+    "registryUpdatedOn": "2012-01-03",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1053513598",
+    "name": "MILLER ORTHODONTICS",
+    "legalName": "MILLER ORTHODONTICS",
+    "category": "dentist",
+    "address1": "1507 EBENEZER RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-1806",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1053513598",
+    "registryUpdatedOn": "2008-01-03",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1093951022",
+    "name": "MURDOCH & GEARY DENTAL",
+    "legalName": "MURDOCH & GEARY DENTAL",
+    "category": "dentist",
+    "address1": "1562 CONSTITUTION BLVD",
+    "address2": "SUITE 103",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-3004",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1093951022",
+    "registryUpdatedOn": "2008-12-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1154535276",
+    "name": "MURDOCH DENTAL",
+    "legalName": "MURDOCH DENTAL",
+    "category": "dentist",
+    "address1": "1562 CONSTITUTION BLVD",
+    "address2": "SUITE 103",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-3004",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1154535276",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1982468153",
+    "name": "NEW KIDS DENTAL",
+    "legalName": "NEW KIDS DENTAL",
+    "category": "dentist",
+    "address1": "316 OLD POINTE SCHOOL RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-8978",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1982468153",
+    "registryUpdatedOn": "2024-02-16",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1659333581",
+    "name": "PALMETTO DENTAL PA",
+    "legalName": "PALMETTO DENTAL PA",
+    "category": "dentist",
+    "address1": "1578-01 CONSTITUTION BLVD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1659333581",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1275908923",
+    "name": "PALMETTO DENTAL",
+    "legalName": "PARK DENTAL GROUP, LLC",
+    "category": "dentist",
+    "address1": "1578 CONSTITUTION BLVD",
+    "address2": "STE 01",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-3543",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1275908923",
+    "registryUpdatedOn": "2015-12-07",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1295743128",
+    "name": "PIEDMONT DENTAL PARTNERS LLC",
+    "legalName": "PIEDMONT DENTAL PARTNERS LLC",
+    "category": "dentist",
+    "address1": "1562-101 CONSTITUTION BLVD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1295743128",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1962877357",
+    "name": "PIEDMONT DENTAL",
+    "legalName": "PIEDMONT DENTAL PARTNERS LLC",
+    "category": "dentist",
+    "address1": "1562 CONSTITUTION BLVD STE 101",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-3540",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1962877357",
+    "registryUpdatedOn": "2023-08-24",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1053957621",
+    "name": "PREMIER SMILES AND IMPLANT DENTISTRY LLC",
+    "legalName": "PREMIER SMILES AND IMPLANT DENTISTRY LLC",
+    "category": "dentist",
+    "address1": "1461 EBENEZER RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2338",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1053957621",
+    "registryUpdatedOn": "2019-11-19",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1063581270",
+    "name": "WILLIS AND HOOK DENTAL ASSOCIATES",
+    "legalName": "R. GLEN WILLIS, DMD, PA",
+    "category": "dentist",
+    "address1": "1144 INDIA HOOK RD STE F",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2400",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1063581270",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1366087371",
+    "name": "ROCK HILL MODERN DENTISTRY",
+    "legalName": "ROCK HILL MODERN DENTISTRY, PC",
+    "category": "dentist",
+    "address1": "128 S HERLONG AVE STE 120",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-1156",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1366087371",
+    "registryUpdatedOn": "2022-02-08",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1326853805",
+    "name": "CAROLINA SMILE DESIGN",
+    "legalName": "SC SOUTHERN DENTAL PC",
+    "category": "dentist",
+    "address1": "1721 EBENEZER RD STE 105",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-1119",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1326853805",
+    "registryUpdatedOn": "2025-02-11",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1760633259",
+    "name": "STEPHEN S. VALIS, DDS, LLC",
+    "legalName": "STEPHEN S. VALIS, DDS, LLC",
+    "category": "dentist",
+    "address1": "1144 INDIA HOOK RD",
+    "address2": "SUITE B",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2783",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1760633259",
+    "registryUpdatedOn": "2008-10-02",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1013184548",
+    "name": "SUSAN M COLLINS DMD PA",
+    "legalName": "SUSAN M COLLINS DMD PA",
+    "category": "dentist",
+    "address1": "1251 EBENEZER RD",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-2353",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1013184548",
+    "registryUpdatedOn": "2008-05-14",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1942486287",
+    "name": "THOMAS & LEITNER ORTHODONTICS LLC",
+    "legalName": "THOMAS & LEITNER ORTHODONTICS LLC",
+    "category": "dentist",
+    "address1": "1033 BAYSHORE DR",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-1569",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1942486287",
+    "registryUpdatedOn": "2008-01-17",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1811263874",
+    "name": "WILLIAM D. CRANFORD, JR., DMD",
+    "legalName": "WILLIAM D. CRANFORD, JR., DMD",
+    "category": "dentist",
+    "address1": "1721 EBENEZER RD.",
+    "address2": "SUITE 135",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732-1119",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1811263874",
+    "registryUpdatedOn": "2012-03-23",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1932690989",
+    "name": "AFFINITY HEALTH CENTER- DENTAL",
+    "legalName": "AFFINITY HEALTH CENTER",
+    "category": "dentist",
+    "address1": "455 LAKESHORE PKWY",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730-4205",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1932690989",
+    "registryUpdatedOn": "2026-04-28",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1083834972",
+    "name": "DENTAL ACCESS CAROLINA, LLC",
+    "legalName": "DENTAL ACCESS CAROLINA, LLC",
+    "category": "dentist",
+    "address1": "454 S. ANDERSON RD",
+    "address2": "SUITE 126",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1083834972",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1457836918",
+    "name": "DENTAL CARE AT CROSS POINTE",
+    "legalName": "DENTAL PROFESSIONAL OF SOUTH CAROLINA, P.C.",
+    "category": "dentist",
+    "address1": "2427 CROSS POINTE DR STE 101",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730-8268",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1457836918",
+    "registryUpdatedOn": "2018-10-01",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1497901623",
+    "name": "DENTALWORKS",
+    "legalName": "DENTALWORKS AT ROCK HILL, P.C.",
+    "category": "dentist",
+    "address1": "2391 DAVE LYLE BLVD.",
+    "address2": "SUITE #101",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730-8238",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1497901623",
+    "registryUpdatedOn": "2014-12-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1750419370",
+    "name": "KIROL WILSON FAMILY DENTISTRY",
+    "legalName": "DOUGLAS L. KIROL, DDS, PA",
+    "category": "dentist",
+    "address1": "219 OAKLAND AVE.",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1750419370",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1841504115",
+    "name": "FAMILY DENTISTRY BY DR. MOORE",
+    "legalName": "DR. AISHA O MOORE DDS PC",
+    "category": "dentist",
+    "address1": "636 CROWN POINTE LANE",
+    "address2": "SUITE 105",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1841504115",
+    "registryUpdatedOn": "2010-07-29",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1164697405",
+    "name": "DR. TRACY L. DURANT, INC.",
+    "legalName": "DR. TRACY L. DURANT, INC.",
+    "category": "dentist",
+    "address1": "1125 ANDERSON RD N",
+    "address2": "SUTIE 104",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730-2776",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1164697405",
+    "registryUpdatedOn": "2008-04-28",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1376683102",
+    "name": "FAMILY DENTISTRY, PC",
+    "legalName": "FAMILY DENTISTRY, PC",
+    "category": "dentist",
+    "address1": "427 DAVE LYLE BLVD S",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730-4402",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1376683102",
+    "registryUpdatedOn": "2008-06-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1184320954",
+    "name": "RIVER DISTRICT SMILES",
+    "legalName": "MATTHEW L. HUBIS DMD, PA",
+    "category": "dentist",
+    "address1": "652 HERRONS FERRY RD UNIT 105",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730-0185",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1184320954",
+    "registryUpdatedOn": "2023-02-03",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1730862947",
+    "name": "RICCOBENE & ASSOCIATES FAMILY DENTISTRY - ROCK HILL",
+    "legalName": "RICCOBENE & ASSOCIATES CCC, DDS, PC",
+    "category": "dentist",
+    "address1": "2391 DAVE LYLE BLVD UNIT 101",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730-8238",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1730862947",
+    "registryUpdatedOn": "2023-11-29",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1780564625",
+    "name": "RIVERWALK DENTAL ARTS LLC",
+    "legalName": "RIVERWALK DENTAL ARTS LLC",
+    "category": "dentist",
+    "address1": "998 RIVERWALK PKWY STE 203",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730-0117",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1780564625",
+    "registryUpdatedOn": "2025-09-03",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1730629627",
+    "name": "RIVERWALK SMILE DENTISTRY, LLC",
+    "legalName": "RIVERWALK SMILE DENTISTRY, LLC",
+    "category": "dentist",
+    "address1": "998 RIVERWALK PKWY",
+    "address2": "SUITE 203",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730-0116",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1730629627",
+    "registryUpdatedOn": "2017-02-27",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1609372440",
+    "name": "TRANQUILITY DENTAL SPA",
+    "legalName": "TAWANA FEIMSTER, DDS, MS, PLLC",
+    "category": "dentist",
+    "address1": "775 ADDISON DR STE 111",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730-7061",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1609372440",
+    "registryUpdatedOn": "2023-07-18",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1346461563",
+    "name": "CLOVER FAMILY DENTISTRY, LLC",
+    "legalName": "CLOVER FAMILY DENTISTRY, LLC",
+    "category": "dentist",
+    "address1": "203 CHURCH ST",
+    "address2": "",
+    "city": "Clover",
+    "state": "SC",
+    "zip": "29710-1008",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1346461563",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1619423449",
+    "name": "DENTAL CARE OF LAKE WYLIE",
+    "legalName": "DENTAL PROFESSIONALS OF SOUTH CAROLINA, P.C.",
+    "category": "dentist",
+    "address1": "209 LATITUDE LANE",
+    "address2": "",
+    "city": "Clover",
+    "state": "SC",
+    "zip": "29710",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1619423449",
+    "registryUpdatedOn": "2017-01-09",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1154187565",
+    "name": "CLOVER ORTHODONTICS",
+    "legalName": "JACKSON CLOVER ORTHODONTICS LLC",
+    "category": "dentist",
+    "address1": "1474 HIGHWAY 55 E STE 100",
+    "address2": "",
+    "city": "Clover",
+    "state": "SC",
+    "zip": "29710-9218",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1154187565",
+    "registryUpdatedOn": "2024-02-23",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1063088847",
+    "name": "JOSEPH H HOURIHAN",
+    "legalName": "JOSEPH H HOURIHAN",
+    "category": "dentist",
+    "address1": "201 CHURCH ST",
+    "address2": "",
+    "city": "Clover",
+    "state": "SC",
+    "zip": "29710-1008",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1063088847",
+    "registryUpdatedOn": "2021-06-02",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1437370798",
+    "name": "LAKE WYLIE FAMILY DENTISTRY PA",
+    "legalName": "LAKE WYLIE FAMILY DENTISTRY PA",
+    "category": "dentist",
+    "address1": "1100 VILLAGE HARBOR DR",
+    "address2": "",
+    "city": "Lake Wylie",
+    "state": "SC",
+    "zip": "29710",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1437370798",
+    "registryUpdatedOn": "2008-02-04",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1194376491",
+    "name": "LAKE WYLIE MODERN DENTISTRY",
+    "legalName": "LAKE WYLIE MODERN DENTISTRY, PC",
+    "category": "dentist",
+    "address1": "140 HIGHWAY 274",
+    "address2": "",
+    "city": "Lake Wylie",
+    "state": "SC",
+    "zip": "29710-6045",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1194376491",
+    "registryUpdatedOn": "2022-06-14",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1508733825",
+    "name": "CAROLINA FAMILY DENTISTRY AT LAKE WYLIE",
+    "legalName": "MODLIN & LONDRY XVI DDS LLC",
+    "category": "dentist",
+    "address1": "244 LATITUDE LN STE 103",
+    "address2": "",
+    "city": "Lake Wylie",
+    "state": "SC",
+    "zip": "29710-8125",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1508733825",
+    "registryUpdatedOn": "2025-10-21",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1023367430",
+    "name": "BLOWE FAMILY DENTISTRY",
+    "legalName": "ABBY C BLOWE DDS PA",
+    "category": "dentist",
+    "address1": "8024 WATER VIEW DRIVE",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1023367430",
+    "registryUpdatedOn": "2012-08-30",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1386854230",
+    "name": "DANNIE G. BENJAMIN, JR. D.D.S. JAMES H. GUDGER D.D. S.",
+    "legalName": "DANNIE G. BENJAMIN, JR. D.D.S. JAMES H. GUDGER D.D. S.",
+    "category": "dentist",
+    "address1": "203 S MAIN ST",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-3831",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1386854230",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1184803942",
+    "name": "FBC DENTAL MISSION INC",
+    "legalName": "FBC DENTAL MISSION INC",
+    "category": "dentist",
+    "address1": "203 S MAIN ST",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-3831",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1184803942",
+    "registryUpdatedOn": "2007-10-31",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1235895111",
+    "name": "BELMONT ORTHODONTICS",
+    "legalName": "G. ABRAMS AND R. COHEN XXV, P.C.",
+    "category": "dentist",
+    "address1": "974 S POINT ROAD",
+    "address2": "SUITE G",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1235895111",
+    "registryUpdatedOn": "2021-11-15",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1124175351",
+    "name": "GARY E. MCCORD D.D.S., P.A.",
+    "legalName": "GARY E. MCCORD D.D.S., P.A.",
+    "category": "dentist",
+    "address1": "1215 SPRUCE ST",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-3371",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1124175351",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1710526116",
+    "name": "STOWE POINT DENTAL CARE",
+    "legalName": "K. JASINSKI, D.M.D., P.C.",
+    "category": "dentist",
+    "address1": "965 SOUTH POINT RD",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-9520",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1710526116",
+    "registryUpdatedOn": "2024-10-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1528905361",
+    "name": "KETTLE & OLSEN PLLC",
+    "legalName": "KETTLE & OLSEN PLLC",
+    "category": "dentist",
+    "address1": "203 S MAIN ST",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-3831",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1528905361",
+    "registryUpdatedOn": "2026-04-30",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1063301224",
+    "name": "KRISTOPHER LEE ZAMORA, PLLC",
+    "legalName": "KRISTOPHER LEE ZAMORA, PLLC",
+    "category": "dentist",
+    "address1": "210 BEATTY DR STE 270",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-2716",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1063301224",
+    "registryUpdatedOn": "2025-07-01",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1659664084",
+    "name": "M YAGHI DDS & ASSOCIATES PLLC",
+    "legalName": "M YAGHI DDS & ASSOCIATES PLLC",
+    "category": "dentist",
+    "address1": "1212 SPRUCE ST",
+    "address2": "STE 201",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-3385",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1659664084",
+    "registryUpdatedOn": "2012-01-24",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1841336500",
+    "name": "M YAGHI DDS PA",
+    "legalName": "M YAGHI DDS PA",
+    "category": "dentist",
+    "address1": "1212 SPRUCE ST",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-3370",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1841336500",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1417665464",
+    "name": "MARSHALL A FLEMING DMD PLLC",
+    "legalName": "MARSHALL A FLEMING DMD PLLC",
+    "category": "dentist",
+    "address1": "1220 RIVER DR APT 110",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-3975",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1417665464",
+    "registryUpdatedOn": "2022-12-06",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1821341470",
+    "name": "BELMONT DENTAL ASSOCIATES",
+    "legalName": "MICHAEL O REIMELS DDS PA IV",
+    "category": "dentist",
+    "address1": "1212 SPRUCE ST",
+    "address2": "SUITE 201",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-3385",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1821341470",
+    "registryUpdatedOn": "2012-10-30",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1780560565",
+    "name": "TWO RIVERS DENTAL",
+    "legalName": "MODLIN & LONDRY XV DDS PLLC",
+    "category": "dentist",
+    "address1": "1030 MCKEE FARM LN",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-8687",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1780560565",
+    "registryUpdatedOn": "2025-08-15",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1902575863",
+    "name": "R. COHEN AND G. ABRAMS, PC",
+    "legalName": "R. COHEN AND G. ABRAMS, PC",
+    "category": "dentist",
+    "address1": "974 S POINT ROAD",
+    "address2": "SUITE G",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1902575863",
+    "registryUpdatedOn": "2021-09-13",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1952748584",
+    "name": "VOLOSHYN & KINGSBURY DMD PLLC",
+    "legalName": "VOLOSHYN & KINGSBURY DMD PLLC",
+    "category": "dentist",
+    "address1": "6655 E WILKINSON BLVD",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-4706",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1952748584",
+    "registryUpdatedOn": "2013-05-22",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1750585154",
+    "name": "ALAN A. GODEL, D.D.S.",
+    "legalName": "ALAN A. GODEL, D.D.S.",
+    "category": "dentist",
+    "address1": "2557 PEMBROKE RD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4712",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1750585154",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1427549807",
+    "name": "ALTERMAN & DHILLON CHARLOTTE METRO, PPLC",
+    "legalName": "ALTERMAN & DHILLON CHARLOTTE METRO, PPLC",
+    "category": "dentist",
+    "address1": "2205 E. FRANKLIN BLVD",
+    "address2": "STE 110",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1427549807",
+    "registryUpdatedOn": "2018-05-22",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1740522333",
+    "name": "GODEL FAMILY DENTISTRY",
+    "legalName": "BLAKE KINGSBURY DMD PLLC",
+    "category": "dentist",
+    "address1": "2557 PEMBROKE RD",
+    "address2": "2557 PEMBROKE RD",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4712",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1740522333",
+    "registryUpdatedOn": "2013-03-21",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1174793251",
+    "name": "SUNNY DENTAL CENTER",
+    "legalName": "DR SUNNY OKOROJI, MS,DDS,PA",
+    "category": "dentist",
+    "address1": "1312 E GARRISON BLVD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-5129",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1174793251",
+    "registryUpdatedOn": "2008-03-05",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1710538418",
+    "name": "GASTONIA FAMILY DENTISTRY",
+    "legalName": "DR. CAMERON AND ASSOCIATES OF GASTONIA, PLLC",
+    "category": "dentist",
+    "address1": "649 N NEW HOPE RD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1710538418",
+    "registryUpdatedOn": "2022-07-20",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1013123777",
+    "name": "FARID HANACHI DDS PA",
+    "legalName": "FARID HANACHI DDS PA",
+    "category": "dentist",
+    "address1": "1377A E GARRISON BLVD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-5127",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1013123777",
+    "registryUpdatedOn": "2008-08-12",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1154693455",
+    "name": "G ABRAMS AND R COHEN III PC",
+    "legalName": "G ABRAMS AND R COHEN III PC",
+    "category": "dentist",
+    "address1": "401 COX RD",
+    "address2": "188",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-0647",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1154693455",
+    "registryUpdatedOn": "2012-02-01",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1326659897",
+    "name": "GASTONIA DENTAL GROUP",
+    "legalName": "GANGLANI DMD PLLC",
+    "category": "dentist",
+    "address1": "2205 E FRANKLIN BLVD STE 110",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4984",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1326659897",
+    "registryUpdatedOn": "2020-08-10",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1912079930",
+    "name": "GARY P WELLER DDS PA",
+    "legalName": "GARY P WELLER DDS PA",
+    "category": "dentist",
+    "address1": "825 MAJESTIC CT",
+    "address2": "SUITE C",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-5186",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1912079930",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1558733410",
+    "name": "GASTONIA FAMILY DENTISTRY",
+    "legalName": "GASTONIA FAMILY DENTISTRY",
+    "category": "dentist",
+    "address1": "2557 PEMBROKE RD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4712",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1558733410",
+    "registryUpdatedOn": "2015-10-30",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1538626361",
+    "name": "DENTISTRY OF THE CAROLINAS - GASTONIA",
+    "legalName": "HAMMOCK, DMD & LOTAKIS, DDS III, PLLC",
+    "category": "dentist",
+    "address1": "2641 COURT DR STE B",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-1478",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1538626361",
+    "registryUpdatedOn": "2019-02-28",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1427330992",
+    "name": "HANNON ORTHODONTICS",
+    "legalName": "HANNON ORTHODONTICS",
+    "category": "dentist",
+    "address1": "525 S NEW HOPE RD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4040",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1427330992",
+    "registryUpdatedOn": "2011-09-12",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1841925898",
+    "name": "HANNON ORTHODONTICS",
+    "legalName": "HANNON, PLLC",
+    "category": "dentist",
+    "address1": "525 S NEW HOPE RD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4040",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1841925898",
+    "registryUpdatedOn": "2022-07-22",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1659408722",
+    "name": "JAMES B. MACOMSON DDS, MSO,PA",
+    "legalName": "JAMES B. MACOMSON DDS, MSO,PA",
+    "category": "dentist",
+    "address1": "1601 B EAST GARRISON BLVD.",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1659408722",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1831593656",
+    "name": "JAMES HOUSTON KELLY DDS PA",
+    "legalName": "JAMES HOUSTON KELLY DDS PA",
+    "category": "dentist",
+    "address1": "1725 S NEW HOPE RD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-5850",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1831593656",
+    "registryUpdatedOn": "2014-10-22",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1326226176",
+    "name": "THE SMILE ZONE",
+    "legalName": "JOHN A. LYONS, DDS, PA",
+    "category": "dentist",
+    "address1": "816 E FRANKLIN BLVD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4241",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1326226176",
+    "registryUpdatedOn": "2008-02-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1285761338",
+    "name": "DENTISTRY OF THE CAROLINAS",
+    "legalName": "JOHN WALSH DDS PA",
+    "category": "dentist",
+    "address1": "2641 COURT DR",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-1478",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1285761338",
+    "registryUpdatedOn": "2013-07-23",
+    "taxonomy": [
+      "1223P0221X"
+    ]
+  },
+  {
+    "npi": "1275258089",
+    "name": "DENTAL CARE AT GASTON DAY",
+    "legalName": "K. JASINSKI, D.M.D., P.C.",
+    "category": "dentist",
+    "address1": "1917 HOFFMAN RD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-6574",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1275258089",
+    "registryUpdatedOn": "2024-10-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1568452530",
+    "name": "LANZ & NASON, DDS, MS, PA",
+    "legalName": "LANZ & NASON, DDS, MS, PA",
+    "category": "dentist",
+    "address1": "1601 E GARRISON BLVD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-5139",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1568452530",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223P0300X"
+    ]
+  },
+  {
+    "npi": "1780158295",
+    "name": "LOWRY & LOWRY , DMD, PA",
+    "legalName": "LOWRY & LOWRY , DMD, PA",
+    "category": "dentist",
+    "address1": "210 WILLOW ST",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-7116",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1780158295",
+    "registryUpdatedOn": "2019-01-17",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1528145042",
+    "name": "MARK E. TAYLOR, DDS, PA",
+    "legalName": "MARK E. TAYLOR, DDS, PA",
+    "category": "dentist",
+    "address1": "640 HUNTSMAN CT",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-6060",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1528145042",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1841628518",
+    "name": "MATTHEW W LINEBERGER, DDS,MS C. SCHNEIDER DDS & M. REIMELS DDS PLLC",
+    "legalName": "MATTHEW W LINEBERGER, DDS,MS C. SCHNEIDER DDS & M. REIMELS DDS PLLC",
+    "category": "dentist",
+    "address1": "816 E FRANKLIN BLVD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4241",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1841628518",
+    "registryUpdatedOn": "2013-10-16",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1114951670",
+    "name": "MICHAEL E ARLIN DDS PA",
+    "legalName": "MICHAEL E ARLIN DDS PA",
+    "category": "dentist",
+    "address1": "224 SOUTH NEW HOPE ROAD",
+    "address2": "SUITE D",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1114951670",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1861828022",
+    "name": "SMILE ZONE",
+    "legalName": "MICHAEL O REIMELS DDS & CATHERINE K SCHNEIDER DDS PLLC",
+    "category": "dentist",
+    "address1": "816 E FRANKLIN BLVD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4241",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1861828022",
+    "registryUpdatedOn": "2013-09-19",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1588090344",
+    "name": "SMILE ZONE",
+    "legalName": "MICHAEL O REIMELS DDS & CATHERINE SCHENIDER DDS PLLC",
+    "category": "dentist",
+    "address1": "816 E FRANKLIN BLVD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4241",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1588090344",
+    "registryUpdatedOn": "2013-09-24",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1730094962",
+    "name": "OSCAR RAUL SUAREZ SANCHEZ PLLC",
+    "legalName": "OSCAR RAUL SUAREZ SANCHEZ PLLC",
+    "category": "dentist",
+    "address1": "1536 PLYLER LAKE RD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-2634",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1730094962",
+    "registryUpdatedOn": "2026-08-13",
+    "taxonomy": [
+      "1223P0700X"
+    ]
+  },
+  {
+    "npi": "1043991243",
+    "name": "MCINTYRE ENDODONTICS",
+    "legalName": "PATRICK MCINTYRE, DDS, PLLC",
+    "category": "dentist",
+    "address1": "571 COX RD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-0632",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1043991243",
+    "registryUpdatedOn": "2026-09-20",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1942391370",
+    "name": "ROY WILLIAM KELLY JR DDS PA",
+    "legalName": "ROY WILLIAM KELLY JR DDS PA",
+    "category": "dentist",
+    "address1": "1601C EAST GARRISON BLVD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1942391370",
+    "registryUpdatedOn": "2008-08-11",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1780692970",
+    "name": "SCOTT M. CLINARD, D.D.S., P.A.",
+    "legalName": "SCOTT M. CLINARD, D.D.S., P.A.",
+    "category": "dentist",
+    "address1": "571 COX RD",
+    "address2": "SUITE A",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1780692970",
+    "registryUpdatedOn": "2018-07-09",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1821183583",
+    "name": "STOVER & STOVER DDS PA",
+    "legalName": "STOVER & STOVER DDS PA",
+    "category": "dentist",
+    "address1": "1367 E GARRISON BLVD",
+    "address2": "STE A",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-5144",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1821183583",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1417812058",
+    "name": "STOVER FAMILY DENTISTRY",
+    "legalName": "STOVER FAMILY DENTISTRY",
+    "category": "dentist",
+    "address1": "1367 E GARRISON BLVD STE A",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-5144",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1417812058",
+    "registryUpdatedOn": "2025-12-17",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1538189469",
+    "name": "SUSAN M. MCKINLEY, DDS, PA",
+    "legalName": "SUSAN M. MCKINLEY, DDS, PA",
+    "category": "dentist",
+    "address1": "224 S NEW HOPE RD STE I",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4873",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1538189469",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1659427474",
+    "name": "VALERIE HOLMES WADDELL, DDS, PA",
+    "legalName": "VALERIE HOLMES WADDELL, DDS, PA",
+    "category": "dentist",
+    "address1": "1601 EAST GARRISON BOULEVARD",
+    "address2": "SUITE C",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-5153",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1659427474",
+    "registryUpdatedOn": "2010-01-25",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1427776244",
+    "name": "CROSSROADS TREATMENT CENTERS GASTONIA",
+    "legalName": "CROSSROADS TREATMENT CENTERS OF NORTH CAROLINA, P.C.",
+    "category": "medical",
+    "address1": "609 S NEW HOPE RD STE 200A",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-4870",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1427776244",
+    "registryUpdatedOn": "2022-08-17",
+    "taxonomy": [
+      "261QM1300X"
+    ]
+  },
+  {
+    "npi": "1396251948",
+    "name": "DENTALWORKS",
+    "legalName": "A. K. RICHARDSON AND ASSSOCIATES, P.A.",
+    "category": "dentist",
+    "address1": "2924 E FRANKLIN BLVD STE 3",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056-9448",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1396251948",
+    "registryUpdatedOn": "2022-06-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1972775740",
+    "name": "DR. W. DAVID WHITE, DDS, PA",
+    "legalName": "DR. W. DAVID WHITE, DDS, PA",
+    "category": "dentist",
+    "address1": "3044 E FRANKLIN BLVD",
+    "address2": "STE. 4",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056-5400",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1972775740",
+    "registryUpdatedOn": "2008-04-01",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1609846179",
+    "name": "DENTALWORKS",
+    "legalName": "DRS. JOHAL, DUNNING & ASSOCIATES, P.A.",
+    "category": "dentist",
+    "address1": "2924 E FRANKLIN BLVD",
+    "address2": "SUITE 3",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056-7202",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1609846179",
+    "registryUpdatedOn": "2015-04-02",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1083336564",
+    "name": "G ABRAMS & R COHEN XXIV PC",
+    "legalName": "G ABRAMS & R COHEN XXIV PC",
+    "category": "dentist",
+    "address1": "2930 E FRANKLIN BLVD STE 3",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056-7225",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1083336564",
+    "registryUpdatedOn": "2022-11-17",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1093326555",
+    "name": "FRESH DENTAL GASTONIA",
+    "legalName": "GANGLANI DMD PLLC",
+    "category": "dentist",
+    "address1": "4008 E FRANKLIN BLVD STE 100",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056-8537",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1093326555",
+    "registryUpdatedOn": "2020-08-10",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1588590855",
+    "name": "THAD PIERCE JOHNSTON DDS PA",
+    "legalName": "THAD PIERCE JOHNSTON DDS PA",
+    "category": "dentist",
+    "address1": "4126 S NEW HOPE RD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056-8452",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1588590855",
+    "registryUpdatedOn": "2026-06-23",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1285154179",
+    "name": "CHRISTMASTOWN DENTISTRY",
+    "legalName": "TRAVIS L. NIXON, DDS, PA",
+    "category": "dentist",
+    "address1": "309 WESLEYAN DR",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056-9492",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1285154179",
+    "registryUpdatedOn": "2022-07-21",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1457637621",
+    "name": "WHITE SMILES",
+    "legalName": "WHITE SMILES",
+    "category": "dentist",
+    "address1": "3044 E FRANKLIN BLVD",
+    "address2": "SUITE 4",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056-5400",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1457637621",
+    "registryUpdatedOn": "2011-11-01",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1780082461",
+    "name": "LANDMARK DENTISTRY OF WESLEY CHAPEL",
+    "legalName": "BALASANYAN & ASSOCIATES PLLC",
+    "category": "dentist",
+    "address1": "5922 WEDDINGTON-MONROE RD",
+    "address2": "SUITE A2",
+    "city": "Wesley Chapel",
+    "state": "NC",
+    "zip": "28104",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1780082461",
+    "registryUpdatedOn": "2014-12-12",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1033461967",
+    "name": "PRO DENTAL",
+    "legalName": "ESE ASSOCIATES, INC.",
+    "category": "dentist",
+    "address1": "5409 POTTER RD.",
+    "address2": "#100",
+    "city": "Stallings",
+    "state": "NC",
+    "zip": "28104",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1033461967",
+    "registryUpdatedOn": "2012-10-02",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1548615511",
+    "name": "GREAT SMILES DENTAL GROUP",
+    "legalName": "GREAT SMILES DENTAL GROUP",
+    "category": "dentist",
+    "address1": "15060 IDLEWILD RD",
+    "address2": "ST F",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28104-3602",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1548615511",
+    "registryUpdatedOn": "2016-08-10",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1568386217",
+    "name": "DENTAL CARE AT VILLAGE COMMONS",
+    "legalName": "K. JASINSKI, D.M.D., P.C.",
+    "category": "dentist",
+    "address1": "6400J WEDDINGTON RD",
+    "address2": "",
+    "city": "Wesley Chapel",
+    "state": "NC",
+    "zip": "28104-6277",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1568386217",
+    "registryUpdatedOn": "2026-08-06",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1508082421",
+    "name": "M. BRAD FORREST & STACY OLLER FORREST, DMD, PA",
+    "legalName": "M. BRAD FORREST & STACY OLLER FORREST, DMD, PA",
+    "category": "dentist",
+    "address1": "7900 STEVENS MILL ROAD",
+    "address2": "STE I",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28104-2929",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1508082421",
+    "registryUpdatedOn": "2008-07-28",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1801394432",
+    "name": "MURDOCK ORTHODONTICS",
+    "legalName": "MURDOCK AND MURDOCK, DDS, MS, PA",
+    "category": "dentist",
+    "address1": "6400 WEDDINGTON MONROE RD STE D",
+    "address2": "",
+    "city": "Wesley Chapel",
+    "state": "NC",
+    "zip": "28104-6295",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1801394432",
+    "registryUpdatedOn": "2018-01-29",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1528634862",
+    "name": "SP ORTHODONTICS",
+    "legalName": "PATEL AND SAYANIA DMD PLLC",
+    "category": "dentist",
+    "address1": "5614 POTTER ROAD",
+    "address2": "SUITE A",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28104",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1528634862",
+    "registryUpdatedOn": "2021-05-28",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1659676278",
+    "name": "RICAHRD E. GRAHAM DMD PLLC",
+    "legalName": "RICAHRD E. GRAHAM DMD PLLC",
+    "category": "dentist",
+    "address1": "6400 MONROE-WEDDINGTON RD.",
+    "address2": "SUITE D",
+    "city": "Wesley Chapel",
+    "state": "NC",
+    "zip": "28104",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1659676278",
+    "registryUpdatedOn": "2011-01-12",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1174634638",
+    "name": "RICHARD M. ROTCHSTEIN,D.D.S. & CHRISTOPHER W. WASULKO D.M.D.",
+    "legalName": "RICHARD M. ROTCHSTEIN,D.D.S. & CHRISTOPHER W. WASULKO D.M.D.",
+    "category": "dentist",
+    "address1": "13721 PROVIDENCE RD",
+    "address2": "",
+    "city": "Weddington",
+    "state": "NC",
+    "zip": "28104-8615",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1174634638",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1538374095",
+    "name": "ANDREW J. BRANCH, D.D.S.,P.A.",
+    "legalName": "ANDREW J. BRANCH, D.D.S.,P.A.",
+    "category": "dentist",
+    "address1": "514 NORTH BROOME STREET",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1538374095",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1154981371",
+    "name": "CAROLIN KIDS DENTISTRY 2",
+    "legalName": "BEVIN K MALLE DDS PA II",
+    "category": "dentist",
+    "address1": "9817 SUZANNE CT.",
+    "address2": "SUITE B",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-8848",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1154981371",
+    "registryUpdatedOn": "2019-06-19",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1104514777",
+    "name": "NEW TOWN DENTISTRY",
+    "legalName": "DOUGLAS A. WOLFE DDS PLLC",
+    "category": "dentist",
+    "address1": "1532 PROVIDENCE RD S STE 220",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-8313",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1104514777",
+    "registryUpdatedOn": "2024-04-09",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1033021456",
+    "name": "BLUE SKY DENTISTRY",
+    "legalName": "ELIZABETH LAPENNA, DMD, PLLC",
+    "category": "dentist",
+    "address1": "3719 PROVIDENCE RD S",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1033021456",
+    "registryUpdatedOn": "2026-09-21",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1023697836",
+    "name": "G. ABRAMS AND R. COHEN XX, PC",
+    "legalName": "G. ABRAMS AND R. COHEN XX, PC",
+    "category": "dentist",
+    "address1": "1619 PROVIDENCE RD S",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-0424",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1023697836",
+    "registryUpdatedOn": "2021-04-07",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1124720982",
+    "name": "REAFIELD DENTAL",
+    "legalName": "GANGLANI REAFIELD PLLC",
+    "category": "dentist",
+    "address1": "9925 REA RD STE 104",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-6441",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1124720982",
+    "registryUpdatedOn": "2023-03-17",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1053072611",
+    "name": "WAXHAW DENTAL CENTER",
+    "legalName": "GANGLANI WAXHAW PLLC",
+    "category": "dentist",
+    "address1": "2514 CUTHBERTSON RD STE A",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-6417",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1053072611",
+    "registryUpdatedOn": "2022-01-06",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1164571550",
+    "name": "JOHN AND SANDRA RUOCCO DDS PA",
+    "legalName": "JOHN AND SANDRA RUOCCO DDS PA",
+    "category": "dentist",
+    "address1": "8418 NEWTOWN RD",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-8302",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1164571550",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1578413449",
+    "name": "WOODSIDE VIEW DENTAL CARE",
+    "legalName": "K. JASINSKI, D.M.D., P.C.",
+    "category": "dentist",
+    "address1": "3214 S PROVIDENCE RD STE B",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-8976",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1578413449",
+    "registryUpdatedOn": "2026-01-30",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1275396384",
+    "name": "DENTAL CARE AT MEADOW RIDGE",
+    "legalName": "K. JASINSKI, D.M.D., P.C.",
+    "category": "dentist",
+    "address1": "1610 PROVIDENCE RD S STE 102",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-8314",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1275396384",
+    "registryUpdatedOn": "2024-10-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1689427767",
+    "name": "CAROLINA KIDS DENTISTRY - BLAKENEY",
+    "legalName": "LONDRY, MODLIN, TUCKER IV DDS PLLC",
+    "category": "dentist",
+    "address1": "9817 SUZANNE CT STE B",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-6976",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1689427767",
+    "registryUpdatedOn": "2026-04-09",
+    "taxonomy": [
+      "1223P0221X"
+    ]
+  },
+  {
+    "npi": "1588248645",
+    "name": "N MAHALE DDS PLLC",
+    "legalName": "N MAHALE DDS PLLC",
+    "category": "dentist",
+    "address1": "8418 NEW TOWN RD",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-8302",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1588248645",
+    "registryUpdatedOn": "2025-06-03",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1609235183",
+    "name": "UNION PERIODONTICS & IMPLANT DENTISTRY",
+    "legalName": "RICHARD OFFUTT, DDS & BOBBY COCKERHAM, DDS",
+    "category": "dentist",
+    "address1": "514 N BROOME ST",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-7376",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1609235183",
+    "registryUpdatedOn": "2016-02-12",
+    "taxonomy": [
+      "1223P0300X"
+    ]
+  },
+  {
+    "npi": "1710163571",
+    "name": "CURETON COSMETIC AND FAMILY DENTISTRY",
+    "legalName": "SCHIMPFHAUSER AND HALLER, PLLC",
+    "category": "dentist",
+    "address1": "8175 KENSINGTON DR. SUITE A",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1710163571",
+    "registryUpdatedOn": "2008-01-11",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1225507320",
+    "name": "SHANE MARKEY DDS MS PLLC",
+    "legalName": "SHANE MARKEY DDS MS PLLC",
+    "category": "dentist",
+    "address1": "8412 NEW TOWN RD STE A",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1225507320",
+    "registryUpdatedOn": "2018-11-19",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1225710445",
+    "name": "YOUNG AND POLITE CHILDREN'S DENTISTRY WAXHAW",
+    "legalName": "THOME & YOUNG DDS PLLC II",
+    "category": "dentist",
+    "address1": "2514 CUTHBERTSON RD",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-6416",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1225710445",
+    "registryUpdatedOn": "2023-08-07",
+    "taxonomy": [
+      "1223P0221X"
+    ]
+  },
+  {
+    "npi": "1194515528",
+    "name": "W HAYS DDS PLLC",
+    "legalName": "W HAYS DDS PLLC",
+    "category": "dentist",
+    "address1": "1002 ASPINAL STREET",
+    "address2": "SUITE C",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1194515528",
+    "registryUpdatedOn": "2025-05-08",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1245625813",
+    "name": "PREMIER CARDIOVASCULAR CARE PLLC",
+    "legalName": "PREMIER CARDIOVASCULAR CARE PLLC",
+    "category": "medical",
+    "address1": "1600 CHURCHILL DOWNS DR",
+    "address2": "",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173-6627",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1245625813",
+    "registryUpdatedOn": "2025-11-10",
+    "taxonomy": [
+      "261QM2500X"
+    ]
+  },
+  {
+    "npi": "1225579998",
+    "name": "AKASH M. AGHERA, DMD, PLLC",
+    "legalName": "AKASH M. AGHERA, DMD, PLLC",
+    "category": "dentist",
+    "address1": "16928 LANCASTER HWY",
+    "address2": "UNIT 101",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2016",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1225579998",
+    "registryUpdatedOn": "2021-01-13",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1194591289",
+    "name": "PIPER GLEN DENTAL GROUP",
+    "legalName": "ALI SHAHRESTANI, D.M.D., PLLC",
+    "category": "dentist",
+    "address1": "6414 REA RD STE C5",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-4165",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1194591289",
+    "registryUpdatedOn": "2023-11-29",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1265201503",
+    "name": "QUEEN CITY DENTISTRY",
+    "legalName": "ALVEY & SOBIN PROVIDENCE PLLC",
+    "category": "dentist",
+    "address1": "8035 PROVIDENCE RD",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-9716",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1265201503",
+    "registryUpdatedOn": "2023-12-28",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1447881529",
+    "name": "BLAKENEY SMILE DENTISTRY",
+    "legalName": "ANJALI SETH DDS PLLC",
+    "category": "dentist",
+    "address1": "9216 ARDREY KELL RD STE 400",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-4954",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1447881529",
+    "registryUpdatedOn": "2020-01-28",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1669807152",
+    "name": "BALLANTYNE CENTER FOR DENTISTRY",
+    "legalName": "BALLANTYNE CENTER FOR DENTISTRY",
+    "category": "dentist",
+    "address1": "15105 JOHN J DELANEY DR",
+    "address2": "SUITE K",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2847",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1669807152",
+    "registryUpdatedOn": "2013-09-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1407321250",
+    "name": "ISMILE ORTHODONTICS",
+    "legalName": "C JOHNSON DDS PLLC",
+    "category": "dentist",
+    "address1": "8840 BLAKENEY PROFESSIONAL DR STE 202",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-6718",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1407321250",
+    "registryUpdatedOn": "2018-10-08",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1154581932",
+    "name": "CEDAR WALK FAMILY AND COSMETIC DENTISTRY",
+    "legalName": "CEDAR WALK FAMILY AND COSMETIC DENTISTRY",
+    "category": "dentist",
+    "address1": "16615 RIVERSTONE WAY",
+    "address2": "SUITE 200",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-5746",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1154581932",
+    "registryUpdatedOn": "2008-06-15",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1871951715",
+    "name": "BALLANTYNE ENDODONTICS",
+    "legalName": "CHOPRA & TADRISSI PLLC",
+    "category": "dentist",
+    "address1": "14135 BALLANTYNE CORPORATE PL",
+    "address2": "#215",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-3383",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1871951715",
+    "registryUpdatedOn": "2016-02-07",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1407211550",
+    "name": "DEBORAH ATEN DDS & ANTHONY GAROFALO DDS PLLC",
+    "legalName": "DEBORAH ATEN DDS & ANTHONY GAROFALO DDS PLLC",
+    "category": "dentist",
+    "address1": "3420 TORINGDON WAY",
+    "address2": "SUITE 310",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2438",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1407211550",
+    "registryUpdatedOn": "2015-12-16",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1679750848",
+    "name": "DEBORAH J. ATEN, DDS, PLLC",
+    "legalName": "DEBORAH J. ATEN, DDS, PLLC",
+    "category": "dentist",
+    "address1": "3420 TORINGDON WAY",
+    "address2": "SUITE 310",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2438",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1679750848",
+    "registryUpdatedOn": "2008-01-29",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1295188480",
+    "name": "DUC TANG DDS PLLC",
+    "legalName": "DUC TANG DDS PLLC",
+    "category": "dentist",
+    "address1": "10844 PROVIDENCE RD",
+    "address2": "STE 270",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-3596",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1295188480",
+    "registryUpdatedOn": "2022-07-12",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1902662687",
+    "name": "PROMENADE CENTER FOR DENTISTRY",
+    "legalName": "DUC TANG DDS PLLC",
+    "category": "dentist",
+    "address1": "10844 PROVIDENCE RD",
+    "address2": "SUITE 270",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1902662687",
+    "registryUpdatedOn": "2024-02-21",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1457800880",
+    "name": "FAMILY DENTAL CHOICE",
+    "legalName": "FAMILY DENTAL CHOICE",
+    "category": "dentist",
+    "address1": "16049 JOHNSTON RD STE I",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2605",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1457800880",
+    "registryUpdatedOn": "2016-09-27",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1700236023",
+    "name": "G ABRAMS & R COHEN XV PC",
+    "legalName": "G ABRAMS & R COHEN XV PC",
+    "category": "dentist",
+    "address1": "11840 SOUTHMORE DR",
+    "address2": "SUITE 150",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-4466",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1700236023",
+    "registryUpdatedOn": "2016-06-17",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1215171822",
+    "name": "G. ABRAMS R. COHEN & ASSOCIATES P.A.",
+    "legalName": "G. ABRAMS R. COHEN & ASSOCIATES P.A.",
+    "category": "dentist",
+    "address1": "7868 REA RD STE B",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-6548",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1215171822",
+    "registryUpdatedOn": "2009-04-27",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1144922907",
+    "name": "CEDAR WALK FAMILY DENTAL",
+    "legalName": "GANGLANI CEDAR WALK PLLC",
+    "category": "dentist",
+    "address1": "16615 RIVERSTONE WAY STE 200",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-5748",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1144922907",
+    "registryUpdatedOn": "2023-03-17",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1316805740",
+    "name": "PAIN AND SLEEP THERAPY CENTER",
+    "legalName": "GREG D. LARSON, D.D.S, P.L.L.C.",
+    "category": "dentist",
+    "address1": "6235 BLAKENEY PARK DR STE 101",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-5658",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1316805740",
+    "registryUpdatedOn": "2026-01-14",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1598983199",
+    "name": "JAMES B SCHWARTZ, DDS, PC",
+    "legalName": "JAMES B SCHWARTZ, DDS, PC",
+    "category": "dentist",
+    "address1": "17214 LANCASTER HWY",
+    "address2": "SUITE #306",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2008",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1598983199",
+    "registryUpdatedOn": "2014-06-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1073715363",
+    "name": "JAMES R GARDEN DDS PA",
+    "legalName": "JAMES R GARDEN DDS PA",
+    "category": "dentist",
+    "address1": "8161 ARDREY KELL RD.",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1073715363",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1538091897",
+    "name": "JARED M LITTLE DDS MSD",
+    "legalName": "JARED M LITTLE DDS MSD",
+    "category": "dentist",
+    "address1": "16049 JOHNSTON RD STE I",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2605",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1538091897",
+    "registryUpdatedOn": "2026-06-01",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1528514726",
+    "name": "CHAD JOHNSON ORTHODONTICS",
+    "legalName": "JEFFREY CHAD JOHNSON DDS PLLC",
+    "category": "dentist",
+    "address1": "8840 BLAKENEY PROFESSIONAL DR STE 202",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-6718",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1528514726",
+    "registryUpdatedOn": "2016-08-28",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1194067009",
+    "name": "PROMENADE CENTER FOR DENTISTRY",
+    "legalName": "JOHN RUOCCO & ASSOCIATES PA",
+    "category": "dentist",
+    "address1": "10844 PROVIDENCE RD",
+    "address2": "SUITE 270",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-3596",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1194067009",
+    "registryUpdatedOn": "2013-03-19",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1376310714",
+    "name": "CAPSTONE DENTAL",
+    "legalName": "K. JASINSKI, D.M.D., P.C.",
+    "category": "dentist",
+    "address1": "16011 LANCASTER HWY STE D",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2845",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1376310714",
+    "registryUpdatedOn": "2024-10-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1073225918",
+    "name": "SOUTH CHARLOTTE FAMILY & COSMETIC DENTISTRY",
+    "legalName": "K. JASINSKI, D.M.D., P.C.",
+    "category": "dentist",
+    "address1": "7741 BALLANTYNE COMMONS PKWY STE 102",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-4140",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1073225918",
+    "registryUpdatedOn": "2024-10-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1477268852",
+    "name": "KANUPRIYA TEWARI DMD PLLC",
+    "legalName": "KANUPRIYA TEWARI DMD PLLC",
+    "category": "dentist",
+    "address1": "9216 ARDREY KELL RD STE 200",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-4954",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1477268852",
+    "registryUpdatedOn": "2023-01-19",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1265876528",
+    "name": "PREMIER DENTISTRY",
+    "legalName": "KEYVAN JALALI D.D.S., PLLC",
+    "category": "dentist",
+    "address1": "16640 HAWFIELD WAY DRIVE",
+    "address2": "SUITE 101",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1265876528",
+    "registryUpdatedOn": "2013-04-17",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1205205762",
+    "name": "CAROLINA DENTAL ARTS @ BLAKENEY",
+    "legalName": "KYLE J ROTH VIII DDS PA",
+    "category": "dentist",
+    "address1": "9336 BLAKENEY CENTRE DR",
+    "address2": "SUITE 100-A",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-6666",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1205205762",
+    "registryUpdatedOn": "2015-09-15",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1558360974",
+    "name": "LONG ,LAXER & SAVAGE DDS, PLLC",
+    "legalName": "LONG ,LAXER & SAVAGE DDS, PLLC",
+    "category": "dentist",
+    "address1": "7820 BALLANTYNE COMMONS PKWY",
+    "address2": "SUITE 200",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2841",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1558360974",
+    "registryUpdatedOn": "2023-03-07",
+    "taxonomy": [
+      "1223P0221X"
+    ]
+  },
+  {
+    "npi": "1336764083",
+    "name": "CAROLINA DENTISTRY @ THE STATELINE",
+    "legalName": "M. AVEY & ASSOCIATES NC PC II",
+    "category": "dentist",
+    "address1": "17214 LANCASTER HWY STE 306",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2093",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1336764083",
+    "registryUpdatedOn": "2023-09-26",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1437775749",
+    "name": "GOKIDS PEDIATRIC DENTISTRY",
+    "legalName": "M. AVEY & ASSOCIATES NC PC IV",
+    "category": "dentist",
+    "address1": "17214 LANCASTER HWY STE 301",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2093",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1437775749",
+    "registryUpdatedOn": "2023-09-26",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1225234958",
+    "name": "MINDYRGOINSDDSPLLC",
+    "legalName": "MINDYRGOINSDDSPLLC",
+    "category": "dentist",
+    "address1": "9336 BLAKENEY CENTRE DR",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1225234958",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1821569732",
+    "name": "GHORSHI FAMILY DENTISTRY",
+    "legalName": "MODLIN& LONDRY IV DDS PLLC",
+    "category": "dentist",
+    "address1": "11301 GOLF LINKS DR N STE 201",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-8014",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1821569732",
+    "registryUpdatedOn": "2018-12-17",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1649388489",
+    "name": "ADVANCED DENTISTRY OF BLAKENEY",
+    "legalName": "PINNIX AND BETANCOURT PLLC",
+    "category": "dentist",
+    "address1": "8918 BLAKENEY PROFESSIONAL DRIVE",
+    "address2": "SUITE 100",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1649388489",
+    "registryUpdatedOn": "2012-02-15",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1174735443",
+    "name": "QUIMBY AND COLLINS ORTHODONTICS",
+    "legalName": "QUIMBY AND COLLINS PLLC",
+    "category": "dentist",
+    "address1": "8125 ARDREY KELL RD",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1174735443",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1306566963",
+    "name": "QC SOUTH DENTISTRY",
+    "legalName": "REBECCA BRADLEY, DDS, PLLC",
+    "category": "dentist",
+    "address1": "11210 GOLF LINKS DRIVE NORTH",
+    "address2": "SUITE 201",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1306566963",
+    "registryUpdatedOn": "2022-09-01",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1215589148",
+    "name": "RICCOBENE ASSOCIATES FAMILY DENTISTRY- BALLANTYNE",
+    "legalName": "RICCOBENE & ASSOCIATES I, DDS, P.A.",
+    "category": "dentist",
+    "address1": "7940 WILLIAMS POND LN",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-8766",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1215589148",
+    "registryUpdatedOn": "2023-11-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1700626835",
+    "name": "BRUSH AND FLOSS SPECIALTY - BALLANTYNE",
+    "legalName": "RICCOBENE & ASSOCIATES XIII, DDS, P.A.",
+    "category": "dentist",
+    "address1": "7940 WILLIAMS POND LN STE 200",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-8413",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1700626835",
+    "registryUpdatedOn": "2024-05-28",
+    "taxonomy": [
+      "1223P0700X"
+    ]
+  },
+  {
+    "npi": "1669907317",
+    "name": "SOUTH CHARLOTTE ENDODONTICS",
+    "legalName": "ROBERT R HAGLUND JR DMD, MDS,II,PA",
+    "category": "dentist",
+    "address1": "8912 BLAKENEY PROFESSIONAL DR",
+    "address2": "SUITE 300",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-6734",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1669907317",
+    "registryUpdatedOn": "2017-05-01",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1568790673",
+    "name": "CAROLINA DENTAL ARTS OF BALLATYNE",
+    "legalName": "ROTH & COX DDS PA",
+    "category": "dentist",
+    "address1": "14825 BALLANTYNE VILLAGE WAY",
+    "address2": "SUITE 280",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-4268",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1568790673",
+    "registryUpdatedOn": "2009-12-01",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1396460705",
+    "name": "S CHIMENTI & ASSOCIATES P.C.",
+    "legalName": "S CHIMENTI & ASSOCIATES P.C.",
+    "category": "dentist",
+    "address1": "8128 PROVIDENCE RD STE 300",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-9730",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1396460705",
+    "registryUpdatedOn": "2023-05-18",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1912770843",
+    "name": "DENTAL WELLNESS OF CHARLOTTE",
+    "legalName": "SERGEI SHIRMAN DMD PLLC",
+    "category": "dentist",
+    "address1": "9915 SANDY ROCK PL",
+    "address2": "STE 200",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1912770843",
+    "registryUpdatedOn": "2023-11-02",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1275854572",
+    "name": "SEYED GHORSHI DDS PLLC",
+    "legalName": "SEYED GHORSHI DDS PLLC",
+    "category": "dentist",
+    "address1": "11024 GOLF LINKS DR N",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-8013",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1275854572",
+    "registryUpdatedOn": "2010-06-21",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1942015433",
+    "name": "CAROLINA PERIODONTICS",
+    "legalName": "SHANNON G. PARSONS OF NORTH CAROLINA P.A",
+    "category": "dentist",
+    "address1": "7751 BALLANTYNE COMMONS PKWY STE 101",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-2442",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1942015433",
+    "registryUpdatedOn": "2025-02-11",
+    "taxonomy": [
+      "1223P0300X"
+    ]
+  },
+  {
+    "npi": "1326210147",
+    "name": "HOLT FAMILY DENTISTRY",
+    "legalName": "SHEILA GORDON-HOLT, D.D.S., P.A.",
+    "category": "dentist",
+    "address1": "12105 COPPER WAY",
+    "address2": "SUITE 200",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1326210147",
+    "registryUpdatedOn": "2008-06-19",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1699580506",
+    "name": "THE SMILE PORTAL",
+    "legalName": "STARKS & ASSOCIATES PC",
+    "category": "dentist",
+    "address1": "11210 GOLF LINKS DR N STE 203",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-8049",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1699580506",
+    "registryUpdatedOn": "2025-02-08",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1093597551",
+    "name": "SUZANNE BIRD PLLC",
+    "legalName": "SUZANNE BIRD PLLC",
+    "category": "dentist",
+    "address1": "16607 RIVERSTONE WAY STE 300",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-5750",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1093597551",
+    "registryUpdatedOn": "2023-10-19",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1083525687",
+    "name": "QUEEN CITY ENDODONTICS - SOUTH CHARLOTTE",
+    "legalName": "TADRISSI DDS, PLLC",
+    "category": "dentist",
+    "address1": "8912 BLAKENEY PROFESSIONAL DR STE 300",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-6735",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1083525687",
+    "registryUpdatedOn": "2026-09-14",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1841647682",
+    "name": "TORI IRVINE DDS, PC",
+    "legalName": "TORI IRVINE DDS, PC",
+    "category": "dentist",
+    "address1": "9804 SANDY ROCK PL",
+    "address2": "SUITE B",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1841647682",
+    "registryUpdatedOn": "2025-02-28",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1558205682",
+    "name": "SCOTT A YOUNG DDS",
+    "legalName": "VICTOR CHENG DMD PLLC",
+    "category": "dentist",
+    "address1": "7810 BALLANTYNE COMMONS PKWY",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-3415",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1558205682",
+    "registryUpdatedOn": "2026-04-17",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1396250973",
+    "name": "BALLANTYNE FAMILY DENTAL",
+    "legalName": "VINITA PATEL, DMD, P.A.",
+    "category": "dentist",
+    "address1": "12312 COPPER WAY STE 202",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-4855",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1396250973",
+    "registryUpdatedOn": "2017-12-05",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1861286619",
+    "name": "IDEAL DENTAL BLAKENEY",
+    "legalName": "WORKMAN DDS & ASSOCIATES CHARLOTTE PLLC",
+    "category": "dentist",
+    "address1": "9941D REA RD",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-6710",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1861286619",
+    "registryUpdatedOn": "2025-04-07",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1306133491",
+    "name": "HAPPY MINDS",
+    "legalName": "HAPPY MINDS",
+    "category": "medical",
+    "address1": "9221 ARBOURGATE MEADOWS LN",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-9074",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1306133491",
+    "registryUpdatedOn": "2011-07-08",
+    "taxonomy": [
+      "261QM1300X"
+    ]
+  },
+  {
+    "npi": "1821180795",
+    "name": "SOUTHEAST NEUROLOGY & SLEEP DISORDERS",
+    "legalName": "SLEEP SUCCESS TECHNOLOGY, INC.",
+    "category": "medical",
+    "address1": "15830 JOHN J DELANEY DR",
+    "address2": "SUITE 125",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277-3294",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1821180795",
+    "registryUpdatedOn": "2025-09-11",
+    "taxonomy": [
+      "261QM1300X"
+    ]
+  },
+  {
+    "npi": "1942968078",
+    "name": "IDEAL DENTAL CHARLOTTE STEEL CREEK",
+    "legalName": "ALLES & ASSOCIATES NORTH CAROLINA",
+    "category": "dentist",
+    "address1": "4815 BEREWICK TOWN CENTER DR STE J",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28278-6733",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1942968078",
+    "registryUpdatedOn": "2023-05-24",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1942819222",
+    "name": "THE STEELE CREEK DENTIST",
+    "legalName": "ALTERMAN & DHILLON CHARLOTTE METRO, PPLC",
+    "category": "dentist",
+    "address1": "4815 BEREWICK TOWN CENTER DR STE I&J",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28278-6733",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1942819222",
+    "registryUpdatedOn": "2020-07-23",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1265052070",
+    "name": "THE STEELE CREEK DENTIST",
+    "legalName": "ALTERMAN DHILLON AND ASSOCIATES",
+    "category": "dentist",
+    "address1": "4815 BEREWICK TOWN CENTER DR STE I&J",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28278-6733",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1265052070",
+    "registryUpdatedOn": "2020-04-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1588089650",
+    "name": "CATAWBA VALLEY DENTAL CARE",
+    "legalName": "CHAD J VANOURNY DDS, PLLC",
+    "category": "dentist",
+    "address1": "13557 STEELECROFT PKWY",
+    "address2": "STE. 2400",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28278-7550",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1588089650",
+    "registryUpdatedOn": "2014-02-26",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1639746621",
+    "name": "STEELE CREEK ORTHODONTICS",
+    "legalName": "G. ABRAMS AND R. COHEN XXIII, PC",
+    "category": "dentist",
+    "address1": "13527 STEELECROFT PKWY STE C",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28278-7887",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1639746621",
+    "registryUpdatedOn": "2021-09-20",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1699476010",
+    "name": "RIVER VISTA DENTISTRY",
+    "legalName": "JAMES RANDALL MARSHALL DMD PLLC",
+    "category": "dentist",
+    "address1": "4715 DIXIE RIVER RD STE A",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28278-6737",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1699476010",
+    "registryUpdatedOn": "2023-03-13",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1982234357",
+    "name": "DENTAL CARE AT BEREWICK",
+    "legalName": "K. JASINSKI, D.M.D., P.C.",
+    "category": "dentist",
+    "address1": "8680 RACHEL FREEMAN WAY STE A",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28278-9567",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1982234357",
+    "registryUpdatedOn": "2024-10-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1144809773",
+    "name": "RIVERGATE DENTAL CARE",
+    "legalName": "K. JASINSKI, D.M.D., P.C.",
+    "category": "dentist",
+    "address1": "13113 S TRYON ST",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28278-7619",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1144809773",
+    "registryUpdatedOn": "2024-10-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1487251344",
+    "name": "STEELE CREEK ORTHODONTICS",
+    "legalName": "ZAMMITTI GIDALY ABRAMS COHEN AND ASSOCIATES V",
+    "category": "dentist",
+    "address1": "13527 STEELECROFT PKWY STE C",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28278-7887",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1487251344",
+    "registryUpdatedOn": "2021-05-21",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1790862696",
+    "name": "BRIAN A MCMURTRY DDS PA",
+    "legalName": "BRIAN A MCMURTRY DDS PA",
+    "category": "dentist",
+    "address1": "10816 BLACK DOG LN, SUITE 100",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28214",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1790862696",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1982340691",
+    "name": "CAROLINA DENTURES MOORES CHAPEL",
+    "legalName": "CATHERINE B. LAWS, D.D.S., P.L.L.C.",
+    "category": "dentist",
+    "address1": "7920 MOORES CHAPEL RD STE A",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28214-8924",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1982340691",
+    "registryUpdatedOn": "2022-05-06",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1457710717",
+    "name": "MOORES CHAPEL DENTISTRY",
+    "legalName": "CHUN W. PENG DMD, PLLC",
+    "category": "dentist",
+    "address1": "9115 SAMLEN LN",
+    "address2": "SUITE 105",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28214-3360",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1457710717",
+    "registryUpdatedOn": "2016-02-15",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1447829726",
+    "name": "DRS REIMELS AND RONCAGLIONE PLLC",
+    "legalName": "DRS REIMELS AND RONCAGLIONE PLLC",
+    "category": "dentist",
+    "address1": "9115 SAMLEN LN APT 105",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28214-3359",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1447829726",
+    "registryUpdatedOn": "2021-06-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1104096502",
+    "name": "JASON R. NELSEN DDS PLLC",
+    "legalName": "JASON R. NELSEN DDS PLLC",
+    "category": "dentist",
+    "address1": "7920 MOORES CHAPEL RD STE A",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28214-8924",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1104096502",
+    "registryUpdatedOn": "2008-03-03",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1295425171",
+    "name": "DOGWOOD FAMILY DENTISTRY",
+    "legalName": "BURROW WELCHEL CULP PLLC - 6",
+    "category": "dentist",
+    "address1": "14746 LANCASTER HWY",
+    "address2": "SUITE C",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1295425171",
+    "registryUpdatedOn": "2023-05-12",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1811161441",
+    "name": "DOUGLAS F. GEIGER",
+    "legalName": "DOUGLAS F. GEIGER",
+    "category": "dentist",
+    "address1": "321 S POLK ST",
+    "address2": "SUITE 2A",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134-7448",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1811161441",
+    "registryUpdatedOn": "2022-07-21",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1114775004",
+    "name": "PARKWAY DENTISTRY",
+    "legalName": "JOSHUA D MILLER DMD PLLC",
+    "category": "dentist",
+    "address1": "11940 CAROLINA PLACE PKWY STE 103",
+    "address2": "",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134-7473",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1114775004",
+    "registryUpdatedOn": "2024-05-08",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1467610865",
+    "name": "ROBERT C PHILLILPS JR DDS PA",
+    "legalName": "ROBERT C PHILLILPS JR DDS PA",
+    "category": "dentist",
+    "address1": "526 MAIN STREET",
+    "address2": "",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1467610865",
+    "registryUpdatedOn": "2008-06-02",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1255171104",
+    "name": "DOGWOOD FAMILY DENTISTRY-BALLANTYNE",
+    "legalName": "ROUPAS SULLIVAN TREMONT PLLC-2",
+    "category": "dentist",
+    "address1": "14746 LANCASTER HWY # B",
+    "address2": "",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134-9313",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1255171104",
+    "registryUpdatedOn": "2024-05-29",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1215206933",
+    "name": "MAIN STREET DENTISTRY",
+    "legalName": "STACEY L. NORRIS, D.M.D., P.A.",
+    "category": "dentist",
+    "address1": "526 MAIN STREET",
+    "address2": "",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1215206933",
+    "registryUpdatedOn": "2011-12-27",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1407465784",
+    "name": "TOWN DENTAL GROUP",
+    "legalName": "ALTERMAN & DHILLON CHARLOTTE METRO, PPLC",
+    "category": "dentist",
+    "address1": "6820 MATTHEWS MINT HILL RD STE 204",
+    "address2": "",
+    "city": "Mint Hill",
+    "state": "NC",
+    "zip": "28227-9492",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1407465784",
+    "registryUpdatedOn": "2020-07-23",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1083234892",
+    "name": "TOWN DENTAL GROUP",
+    "legalName": "ALTERMAN DHILLON AND ASSOCIATES",
+    "category": "dentist",
+    "address1": "6820 MATTHEWS MINT HILL RD STE 204",
+    "address2": "",
+    "city": "Mint Hill",
+    "state": "NC",
+    "zip": "28227-9492",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1083234892",
+    "registryUpdatedOn": "2020-04-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1689289423",
+    "name": "TOWN DENTAL GROUP",
+    "legalName": "CATHERINE B. LAWS, D.D.S., P.L.L.C.",
+    "category": "dentist",
+    "address1": "6820 MATTHEWS MINT HILL RD STE 204",
+    "address2": "",
+    "city": "Mint Hill",
+    "state": "NC",
+    "zip": "28227-9492",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1689289423",
+    "registryUpdatedOn": "2020-09-09",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1245574318",
+    "name": "DENTIST-SALUD",
+    "legalName": "CLARA LUCIA NUNEZ-ROMERO, DDS PLLC",
+    "category": "dentist",
+    "address1": "2331 CROWNPOINT EXECUTIVE DR STE A",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227-7749",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1245574318",
+    "registryUpdatedOn": "2012-11-15",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1386094613",
+    "name": "G ABRAMS & R COHEN XVII PC",
+    "legalName": "G ABRAMS & R COHEN XVII PC",
+    "category": "dentist",
+    "address1": "7128 LAWYERS RD",
+    "address2": "",
+    "city": "Mint Hill",
+    "state": "NC",
+    "zip": "28227-3906",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1386094613",
+    "registryUpdatedOn": "2016-06-17",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1295258648",
+    "name": "G. ABRAMS AND R. COHEN XIX PC",
+    "legalName": "G. ABRAMS AND R. COHEN XIX PC",
+    "category": "dentist",
+    "address1": "8620 CROWN CRESCENT CT",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227-6783",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1295258648",
+    "registryUpdatedOn": "2022-07-21",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1043891997",
+    "name": "MINT HILL ORTHODONTICS",
+    "legalName": "J LITTLE MINT HILL PLLC",
+    "category": "dentist",
+    "address1": "11300 CRESTHILL DR STE 115",
+    "address2": "",
+    "city": "Mint Hill",
+    "state": "NC",
+    "zip": "28227-7924",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1043891997",
+    "registryUpdatedOn": "2026-08-24",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1306959655",
+    "name": "JOAN P. DIEHL, DMD, PA",
+    "legalName": "JOAN P. DIEHL, DMD, PA",
+    "category": "dentist",
+    "address1": "11235 LAWYERS ROAD",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1306959655",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1932444668",
+    "name": "PARK DENTAL",
+    "legalName": "JP ASSOCIATE, INC.",
+    "category": "dentist",
+    "address1": "4520 MINT HILL VILLAGE LN",
+    "address2": "UNIT 107",
+    "city": "Mint Hill",
+    "state": "NC",
+    "zip": "28227-7796",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1932444668",
+    "registryUpdatedOn": "2012-12-06",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1821970534",
+    "name": "DENTAL CARE AT CLEAR CROSSINGS",
+    "legalName": "K. JASINSKI, D.M.D., P.C.",
+    "category": "dentist",
+    "address1": "12915 ALBEMARLE RD",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227-7996",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1821970534",
+    "registryUpdatedOn": "2025-07-23",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1437321148",
+    "name": "LAWRENCE A. SLADEK, DDS",
+    "legalName": "LAWRENCE A. SLADEK, DDS",
+    "category": "dentist",
+    "address1": "7332 MATTHEWS MINT HILL RD.",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1437321148",
+    "registryUpdatedOn": "2008-04-02",
+    "taxonomy": [
+      "1223D0001X"
+    ]
+  },
+  {
+    "npi": "1164281275",
+    "name": "CAROLINA KIDS DENTISTRY MINT HILL",
+    "legalName": "LONDRY, MODLIN, TUCKER III DDS PLLC",
+    "category": "dentist",
+    "address1": "5829 PHYLISS LN",
+    "address2": "",
+    "city": "Mint Hill",
+    "state": "NC",
+    "zip": "28227-9031",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1164281275",
+    "registryUpdatedOn": "2024-08-13",
+    "taxonomy": [
+      "1223P0221X"
+    ]
+  },
+  {
+    "npi": "1265424345",
+    "name": "MINT HILL DENTISTRY, LLP",
+    "legalName": "MINT HILL DENTISTRY, LLP",
+    "category": "dentist",
+    "address1": "5833 PHYLISS LANE",
+    "address2": "",
+    "city": "Mint Hill",
+    "state": "NC",
+    "zip": "28227-9031",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1265424345",
+    "registryUpdatedOn": "2021-04-19",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1518426006",
+    "name": "MINT HILL SMILES",
+    "legalName": "MINT HILL SMILES",
+    "category": "dentist",
+    "address1": "11300 CRESTHILL DR",
+    "address2": "",
+    "city": "Mint Hill",
+    "state": "NC",
+    "zip": "28227-7924",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1518426006",
+    "registryUpdatedOn": "2019-04-01",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1528199106",
+    "name": "CROWN POINT",
+    "legalName": "RAYMOND GARRISON DDS PA - UDA",
+    "category": "dentist",
+    "address1": "2300 SARDIS RD N",
+    "address2": "SUITE G",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227-7715",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1528199106",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1598205031",
+    "name": "PRECISION DENTAL CENTER",
+    "legalName": "SHANE LU, D.D.S. PLLC",
+    "category": "dentist",
+    "address1": "8620 CROWN CRESCENT CT",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227-6783",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1598205031",
+    "registryUpdatedOn": "2017-03-02",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1609206580",
+    "name": "SMILES FOR LIFE ORTHODONTICS",
+    "legalName": "SMILES FOR LIFE ORTHODONTICS",
+    "category": "dentist",
+    "address1": "7215 LEBANON RD.",
+    "address2": "SUITE B",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1609206580",
+    "registryUpdatedOn": "2023-08-03",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1508025495",
+    "name": "EAST CHARLOTTE DENTAL CLINIC",
+    "legalName": "SULLIVAN BURD ROUPAS & ROSS DDS PLLC",
+    "category": "dentist",
+    "address1": "7128 LAWYERS RD",
+    "address2": "",
+    "city": "Mint Hill",
+    "state": "NC",
+    "zip": "28227-3906",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1508025495",
+    "registryUpdatedOn": "2012-06-07",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1598893505",
+    "name": "CAROLINA DENTAL CARE",
+    "legalName": "TARA HOWELL, DMD, PA",
+    "category": "dentist",
+    "address1": "8620 CROWN CRESCENT CT",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227-6783",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1598893505",
+    "registryUpdatedOn": "2008-07-01",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1720213705",
+    "name": "MORRIS CENTER FOR DENTISTRY",
+    "legalName": "THEODORE H. MORRIS JR DDS. PLLC",
+    "category": "dentist",
+    "address1": "7201 LEBANON ROAD",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227-9027",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1720213705",
+    "registryUpdatedOn": "2020-02-04",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1699940957",
+    "name": "THOMAS N. TRIPLETT, DDS, PLLC",
+    "legalName": "THOMAS N. TRIPLETT, DDS, PLLC",
+    "category": "dentist",
+    "address1": "11349 BAIN SCHOOL ROAD",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227-7536",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1699940957",
+    "registryUpdatedOn": "2008-04-28",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1255772802",
+    "name": "YAKEIKA L VANN DDS PLLC",
+    "legalName": "YAKEIKA L VANN DDS PLLC",
+    "category": "dentist",
+    "address1": "5716 WYALONG DR",
+    "address2": "STE C",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227-7847",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1255772802",
+    "registryUpdatedOn": "2023-06-01",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1063301612",
+    "name": "RENEWED AXIS TELEHEALTH PLLC",
+    "legalName": "RENEWED AXIS TELEHEALTH PLLC",
+    "category": "medical",
+    "address1": "2101 SARDIS RD N STE 120B",
+    "address2": "",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28227-7711",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1063301612",
+    "registryUpdatedOn": "2026-02-02",
+    "taxonomy": [
+      "261QP2300X"
+    ]
+  },
+  {
+    "npi": "1720857063",
+    "name": "INFINITY DENTAL ARTS",
+    "legalName": "ALVEY & SOBIN INDIAN TRAIL PLLC",
+    "category": "dentist",
+    "address1": "6611 OLD MONROE RD",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079-5352",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1720857063",
+    "registryUpdatedOn": "2023-12-28",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1518327634",
+    "name": "FRESH DENTAL",
+    "legalName": "DRS. GANGLANI, JOHAL, DUNNING & ASSOCIATES PLLC, II",
+    "category": "dentist",
+    "address1": "331 INDIAN TRAIL RD N",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079-7624",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1518327634",
+    "registryUpdatedOn": "2016-03-02",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1285262667",
+    "name": "GANGLANI DMD PLLC",
+    "legalName": "GANGLANI DMD PLLC",
+    "category": "dentist",
+    "address1": "6611 OLD MONROE RD",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079-5352",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1285262667",
+    "registryUpdatedOn": "2020-03-31",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1619677853",
+    "name": "INDIAN TRAIL DENTAL STUDIO",
+    "legalName": "HASMI RAMESH PATEL, DMD, PLLC",
+    "category": "dentist",
+    "address1": "4514 OLD MONROE RD STE E",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079-5308",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1619677853",
+    "registryUpdatedOn": "2023-04-05",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1649783119",
+    "name": "IDLEWILD FAMILY DENTISTRY",
+    "legalName": "IDLEWILD FAMILY DENTISTRY, LLC",
+    "category": "dentist",
+    "address1": "4801 INDIAN TRAIL FAIRVIEW RD",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079-8865",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1649783119",
+    "registryUpdatedOn": "2017-11-07",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1366857989",
+    "name": "INFINITY DENTAL ARTS",
+    "legalName": "INFINITY DENTAL ARTS",
+    "category": "dentist",
+    "address1": "6611 OLD MONROE ROAD",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079-5352",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1366857989",
+    "registryUpdatedOn": "2014-06-23",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1417062019",
+    "name": "JED E LEVITAS DMD PA",
+    "legalName": "JED E LEVITAS DMD PA",
+    "category": "dentist",
+    "address1": "251 POST OFFICE DR",
+    "address2": "#A1",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079-7686",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1417062019",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1912136664",
+    "name": "R BARROWS & ASSOCIATES PA",
+    "legalName": "R BARROWS & ASSOCIATES PA",
+    "category": "dentist",
+    "address1": "323 UNIONVILLE INDIAN TRL RD W",
+    "address2": "SUITE A",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079-7817",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1912136664",
+    "registryUpdatedOn": "2009-07-02",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1689716599",
+    "name": "INDIAN TRAIL DENTAL ASSOCIATES",
+    "legalName": "RICHARD M HOLMES DMD, PA",
+    "category": "dentist",
+    "address1": "136 INDIAN TRAIL RD S",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079-9669",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1689716599",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1548119357",
+    "name": "RUTVIK PATEL DMD PLLC",
+    "legalName": "RUTVIK PATEL DMD PLLC",
+    "category": "dentist",
+    "address1": "6611 OLD MONROE RD",
+    "address2": "",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079-5352",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1548119357",
+    "registryUpdatedOn": "2026-01-26",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1568822104",
+    "name": "ANDREW R. OBLINGER, DDS, PA",
+    "legalName": "ANDREW R. OBLINGER, DDS, PA",
+    "category": "dentist",
+    "address1": "225 WEST HAWTHORNE STREET",
+    "address2": "",
+    "city": "Mt. Holly",
+    "state": "NC",
+    "zip": "28120-1603",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1568822104",
+    "registryUpdatedOn": "2016-02-24",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1548106289",
+    "name": "MADISON HOMESLEY, DMD, PLLC",
+    "legalName": "MADISON HOMESLEY, DMD, PLLC",
+    "category": "dentist",
+    "address1": "549 HIGHLAND ST",
+    "address2": "",
+    "city": "Mt Holly",
+    "state": "NC",
+    "zip": "28120-2188",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1548106289",
+    "registryUpdatedOn": "2026-04-27",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1386047512",
+    "name": "MOUNT HOLLY DENTISTRY",
+    "legalName": "MOUNT HOLLY DENTISTRY",
+    "category": "dentist",
+    "address1": "126 W CHARLOTTE AVE",
+    "address2": "",
+    "city": "Mount Holly",
+    "state": "NC",
+    "zip": "28120-1776",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1386047512",
+    "registryUpdatedOn": "2014-10-02",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1639341225",
+    "name": "RAYMOND A. JOKUBAITIS, D.M.D., P.A.",
+    "legalName": "RAYMOND A. JOKUBAITIS, D.M.D., P.A.",
+    "category": "dentist",
+    "address1": "126 W CHARLOTTE AVE",
+    "address2": "",
+    "city": "Mount Holly",
+    "state": "NC",
+    "zip": "28120-1776",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1639341225",
+    "registryUpdatedOn": "2008-03-24",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1013189653",
+    "name": "ENHANCED SMILES",
+    "legalName": "ALEX HD PHAM DDS, PA",
+    "category": "dentist",
+    "address1": "414 S YORK ST",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052-4098",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1013189653",
+    "registryUpdatedOn": "2011-09-28",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1356191779",
+    "name": "THIRD AVENUE DENTISTRY",
+    "legalName": "ARIEL KUNDE, DMD, PLLC",
+    "category": "dentist",
+    "address1": "107 E THIRD AVE",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052-4317",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1356191779",
+    "registryUpdatedOn": "2024-03-26",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1427326867",
+    "name": "G. ABRAMS & R. COHEN IV PC",
+    "legalName": "G. ABRAMS & R. COHEN IV PC",
+    "category": "dentist",
+    "address1": "117 N MYRTLE SCHOOL RD",
+    "address2": "SUITE 170",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052-1394",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1427326867",
+    "registryUpdatedOn": "2011-12-13",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1629210174",
+    "name": "GFHS PEDIATRIC DENTISTRY",
+    "legalName": "GASTON FAMILY HEALTH SERVICES DENTAL",
+    "category": "dentist",
+    "address1": "991 W HUDSON BLVD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052-6430",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1629210174",
+    "registryUpdatedOn": "2018-11-27",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1730320698",
+    "name": "GFS GENERAL DENTAL CLINIC",
+    "legalName": "GASTON FAMILY HEALTH SERVICES, INC.",
+    "category": "dentist",
+    "address1": "991 W HUDSON BLVD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052-6430",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1730320698",
+    "registryUpdatedOn": "2009-03-23",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1013635176",
+    "name": "AFFORDABLE DENTURES & IMPLANTS - GASTONIA",
+    "legalName": "HOLLIS LEE JONES, DDS, P.A",
+    "category": "dentist",
+    "address1": "3860 W FRANKLIN BLVD",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052-7417",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1013635176",
+    "registryUpdatedOn": "2022-08-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1518973155",
+    "name": "WOODY & COOPER DDS, PA",
+    "legalName": "WOODY & COOPER DDS, PA",
+    "category": "dentist",
+    "address1": "414 S YORK ST",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052-4036",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1518973155",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1093221640",
+    "name": "DENTALWORKS",
+    "legalName": "A. K. RICHARDSON AND ASSSOCIATES, P.A.",
+    "category": "dentist",
+    "address1": "2335 MATTHEWS TOWNSHIP PKWY STE 111",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-2403",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1093221640",
+    "registryUpdatedOn": "2022-06-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1679905350",
+    "name": "ABRAMS,BARROWS,COHEN & ASSOCIATES II PA",
+    "legalName": "ABRAMS,BARROWS,COHEN & ASSOCIATES II PA",
+    "category": "dentist",
+    "address1": "3326 SISKEY PKWY",
+    "address2": "SUITE 310",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-3225",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1679905350",
+    "registryUpdatedOn": "2013-08-05",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1497900559",
+    "name": "ALAN GODEL D.D.S PA",
+    "legalName": "ALAN GODEL D.D.S PA",
+    "category": "dentist",
+    "address1": "417 WILLOW BROOK DR",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-1831",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1497900559",
+    "registryUpdatedOn": "2014-03-19",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1558543330",
+    "name": "ANISH N PATEL DMD PA",
+    "legalName": "ANISH N PATEL DMD PA",
+    "category": "dentist",
+    "address1": "10550 INDEPENDENCE POINTE PKWY",
+    "address2": "SUITE 202",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-2690",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1558543330",
+    "registryUpdatedOn": "2007-12-03",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1194301226",
+    "name": "DAWSON MODERN DENTISTRY",
+    "legalName": "ASHLEY DAWSON, DDS, PLLC",
+    "category": "dentist",
+    "address1": "3555 MATTHEWS MINT HILL RD STE 2",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-4174",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1194301226",
+    "registryUpdatedOn": "2021-03-19",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1679932776",
+    "name": "SIX SIGMA DENTAL CARE",
+    "legalName": "B. NABA, DDS PLLC",
+    "category": "dentist",
+    "address1": "9709 NORTHEAST PKWY",
+    "address2": "#100",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-9705",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1679932776",
+    "registryUpdatedOn": "2016-02-17",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1811178379",
+    "name": "BALDWIN DENTAL",
+    "legalName": "BALDWIN DENTAL",
+    "category": "dentist",
+    "address1": "1230 MANN DR",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5535",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1811178379",
+    "registryUpdatedOn": "2007-11-26",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1497763155",
+    "name": "BARONE AND FORD DDS PA",
+    "legalName": "BARONE AND FORD DDS PA",
+    "category": "dentist",
+    "address1": "452 MATTHEWS MINT HILL RD",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-2793",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1497763155",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1477212421",
+    "name": "BELLASERA FAMILY DENTISTRY",
+    "legalName": "BELLASERA FAMILY DENTISTRY",
+    "category": "dentist",
+    "address1": "3041 SENNA DR",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-6727",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1477212421",
+    "registryUpdatedOn": "2021-12-16",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1174071229",
+    "name": "KNOWLTON DENTISTRY",
+    "legalName": "DONNA C KNOWLTON DDS PLLC",
+    "category": "dentist",
+    "address1": "1401 MATTHEWS TOWNSHIP PKWY",
+    "address2": "STE 210",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5402",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1174071229",
+    "registryUpdatedOn": "2016-09-19",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1720657794",
+    "name": "DRS REIMELS PAINE AND PATERRA PLLC",
+    "legalName": "DRS REIMELS PAINE AND PATERRA PLLC",
+    "category": "dentist",
+    "address1": "9607 NORTHEAST PKWY",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-6883",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1720657794",
+    "registryUpdatedOn": "2021-06-23",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1134344609",
+    "name": "DENTALWORKS",
+    "legalName": "DRS. PATEL, ALSTON & ASSOCIATES I, P.A.",
+    "category": "dentist",
+    "address1": "2335 MATTHEWS TWP PARKWAY",
+    "address2": "SUITE #111",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-2360",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1134344609",
+    "registryUpdatedOn": "2014-10-27",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1083884688",
+    "name": "MATTHEWS FAMILY DENTISTRY",
+    "legalName": "DRS. PATEL, KASHYAP & ASSOCIATES, P.A.",
+    "category": "dentist",
+    "address1": "1340 MATTHEWS TOWNSHIP PKWY",
+    "address2": "SUITE 101",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5580",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1083884688",
+    "registryUpdatedOn": "2008-03-11",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1649415340",
+    "name": "DUNBAR AND CONNOLLY DDS",
+    "legalName": "DUNBAR AND CONNOLLY DDS",
+    "category": "dentist",
+    "address1": "9609 E INDEPENDENCE BLVD",
+    "address2": "SUITE V",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-8603",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1649415340",
+    "registryUpdatedOn": "2008-12-09",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1518668011",
+    "name": "MATHEWS FAMILY DENTISTRY",
+    "legalName": "GANGLANI MATTHEWS PLLC",
+    "category": "dentist",
+    "address1": "1340 MATTHEWS TOWNSHIP PKWY STE 101",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-4681",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1518668011",
+    "registryUpdatedOn": "2023-03-13",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1215109426",
+    "name": "ADVANCED DENTISTRY OF BLAKENEY AND MATTHEWS",
+    "legalName": "GRIMES, PHELPS, PINNIX, BETANCOURT, DDS PLLC",
+    "category": "dentist",
+    "address1": "510 W JOHN ST",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5353",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1215109426",
+    "registryUpdatedOn": "2008-03-27",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1003316464",
+    "name": "HAN O DDS AND M REIMELS DDS PLLC",
+    "legalName": "HAN O DDS AND M REIMELS DDS PLLC",
+    "category": "dentist",
+    "address1": "9912 MONROE RD",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5416",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1003316464",
+    "registryUpdatedOn": "2018-02-12",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1679750137",
+    "name": "JAMES DUNBAR DDS PA",
+    "legalName": "JAMES DUNBAR DDS PA",
+    "category": "dentist",
+    "address1": "9609 E INDEPENDENCE BLVD STE V",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-8603",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1679750137",
+    "registryUpdatedOn": "2008-01-28",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1508067125",
+    "name": "JAMES R GARDEN DDS PA",
+    "legalName": "JAMES R GARDEN DDS PA",
+    "category": "dentist",
+    "address1": "2505 PLANTATION CENTER DR",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5298",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1508067125",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1467890301",
+    "name": "ALL FAMILY DENTISTRY PC",
+    "legalName": "LUZ A CHAVEZ DDS PC",
+    "category": "dentist",
+    "address1": "9912 MONROE RD",
+    "address2": "SUITE 100",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5416",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1467890301",
+    "registryUpdatedOn": "2013-06-13",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1386253904",
+    "name": "MCKEE DENTAL",
+    "legalName": "M. AVEY & ASSOCIATES NC PC VII",
+    "category": "dentist",
+    "address1": "3320 SISKEY PKWY STE 100",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-3224",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1386253904",
+    "registryUpdatedOn": "2023-09-26",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1083938203",
+    "name": "MARK A. TRIPP & ASSOCIATES",
+    "legalName": "MARK A. TRIPP & ASSOCIATES",
+    "category": "dentist",
+    "address1": "1230 MANN DR",
+    "address2": "SUITE 100",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5535",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1083938203",
+    "registryUpdatedOn": "2012-01-23",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1083768600",
+    "name": "MATTHEWS DENTAL CARE",
+    "legalName": "MATTHEWS DENTAL CARE",
+    "category": "dentist",
+    "address1": "2435 PLANTATION CENTER DR",
+    "address2": "SUITE 100",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5147",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1083768600",
+    "registryUpdatedOn": "2020-08-22",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1598072001",
+    "name": "Q.M. CHEN, D.M.D., PH.D, P.A.",
+    "legalName": "Q.M. CHEN, D.M.D., PH.D, P.A.",
+    "category": "dentist",
+    "address1": "2504 PLANTATION CENTER DR",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5298",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1598072001",
+    "registryUpdatedOn": "2010-09-03",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1740878586",
+    "name": "QUEEN CITY ENDODONTICS AT MATTHEWS",
+    "legalName": "ROBERT R. HAGLUND, JR, DMD, MDS",
+    "category": "dentist",
+    "address1": "510 W JOHN ST",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5353",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1740878586",
+    "registryUpdatedOn": "2021-01-07",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1326217001",
+    "name": "MCKEE DENTAL",
+    "legalName": "RYAN C WOODMAN DMD AND VICTORIA L MALZ DMD PLLC",
+    "category": "dentist",
+    "address1": "3320 SISKEY PKWY",
+    "address2": "SUITE 100",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-3223",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1326217001",
+    "registryUpdatedOn": "2008-02-26",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  },
+  {
+    "npi": "1467619338",
+    "name": "SEAN E. PATRICK, DDS, PA",
+    "legalName": "SEAN E. PATRICK, DDS, PA",
+    "category": "dentist",
+    "address1": "2522 PLANTATION CENTER DR",
+    "address2": "SUITE A",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5298",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1467619338",
+    "registryUpdatedOn": "2012-10-02",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1144452772",
+    "name": "STEFAN A. PLOSZAK DDS, PA",
+    "legalName": "STEFAN A. PLOSZAK DDS, PA",
+    "category": "dentist",
+    "address1": "3321 ZELDA LN",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-3888",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1144452772",
+    "registryUpdatedOn": "2009-08-15",
+    "taxonomy": [
+      "122300000X"
+    ]
+  },
+  {
+    "npi": "1194095786",
+    "name": "STARR AND DICKENS ORTHODONTICS",
+    "legalName": "STEVEN DICKENS DDS, MS, PA",
+    "category": "dentist",
+    "address1": "1326 MATTHEWS TOWNSHIP PARKWAY",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-4600",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1194095786",
+    "registryUpdatedOn": "2016-06-27",
+    "taxonomy": [
+      "1223X0400X"
+    ]
+  },
+  {
+    "npi": "1548171143",
+    "name": "QUEEN CITY ENDODONTICS - MATTHEWS",
+    "legalName": "TADRISSI DDS, PLLC",
+    "category": "dentist",
+    "address1": "510 W JOHN ST",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-5353",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1548171143",
+    "registryUpdatedOn": "2026-09-14",
+    "taxonomy": [
+      "1223E0200X"
+    ]
+  },
+  {
+    "npi": "1558048611",
+    "name": "MATTEWS DENTAL SPA",
+    "legalName": "TRAN & JAVED 2 DDS PA",
+    "category": "dentist",
+    "address1": "3090 SENNA DR",
+    "address2": "",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105-6726",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1558048611",
+    "registryUpdatedOn": "2023-08-24",
+    "taxonomy": [
+      "1223G0001X"
+    ]
+  }
+]

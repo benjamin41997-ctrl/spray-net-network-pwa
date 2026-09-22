@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Albert G. Myers, Jr. Pediatric Care Center",
+    "category": "medical",
+    "address1": "2525 Court Drive",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/albert-g-myers-jr-pediatric-care-center"
+  },
+  {
+    "name": "Belmont Surgery Center",
+    "category": "medical",
+    "address1": "2000 CaroMont Parkway",
+    "address2": "Suite 100",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/belmont-surgery-center"
+  },
+  {
+    "name": "Carolina NeuroSurgery & Spine",
+    "category": "medical",
+    "address1": "811 Cox Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/carolina-neurosurgery-spine"
+  },
+  {
+    "name": "Carolinas Plastic Surgery Center",
+    "category": "medical",
+    "address1": "2391 Court Drive",
+    "address2": "Suite 120B",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/carolinas-plastic-surgery-center"
+  },
+  {
+    "name": "CaroMont Breast Surgical Specialists",
+    "category": "medical",
+    "address1": "2391 Court Drive",
+    "address2": "Suite 105",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-breast-surgical-specialists"
+  },
+  {
+    "name": "CaroMont Breast Surgical Specialists - Belmont",
+    "category": "medical",
+    "address1": "2000 CaroMont Parkway",
+    "address2": "Suite 202",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-breast-surgical-specialists-belmont"
+  },
+  {
+    "name": "CaroMont Coagulation Management Services",
+    "category": "medical",
+    "address1": "2555 Court Drive",
+    "address2": "Suite 100",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-coagulation-management-services"
+  },
+  {
+    "name": "CaroMont Diabetes Center",
+    "category": "medical",
+    "address1": "640 Summit Crossing Place",
+    "address2": "Suite 205",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-diabetes-center"
+  },
+  {
+    "name": "CaroMont Endoscopy Center - Belmont",
+    "category": "medical",
+    "address1": "1212 Spruce Street",
+    "address2": "Suite 101",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-endoscopy-center-belmont"
+  },
+  {
+    "name": "CaroMont Family Medicine - Cramerton",
+    "category": "medical",
+    "address1": "4235 South New Hope Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056",
+    "source": "https://caromonthealth.org/locations/caromont-family-medicine-cramerton"
+  },
+  {
+    "name": "CaroMont Family Medicine - Garrison",
+    "category": "medical",
+    "address1": "1381 East Garrison Boulevard",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-family-medicine-garrison"
+  },
+  {
+    "name": "CaroMont Family Medicine - Gaston Day",
+    "category": "medical",
+    "address1": "1895 Hoffman Road",
+    "address2": "Suite A",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-family-medicine-gaston-day"
+  },
+  {
+    "name": "CaroMont Family Medicine - Gastonia",
+    "category": "medical",
+    "address1": "2711 X-Ray Drive",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-family-medicine-gastonia"
+  },
+  {
+    "name": "CaroMont Family Medicine - Lake Wylie",
+    "category": "medical",
+    "address1": "519 Nautical Drive",
+    "address2": "Suite 100A",
+    "city": "Clover",
+    "state": "SC",
+    "zip": "29710",
+    "source": "https://caromonthealth.org/locations/caromont-family-medicine-lake-wylie"
+  },
+  {
+    "name": "CaroMont Family Medicine - McAdenville",
+    "category": "medical",
+    "address1": "105 Elm Street",
+    "address2": "",
+    "city": "McAdenville",
+    "state": "NC",
+    "zip": "28101",
+    "source": "https://caromonthealth.org/locations/caromont-family-medicine-mcadenville"
+  },
+  {
+    "name": "CaroMont Family Medicine - Moores Chapel",
+    "category": "medical",
+    "address1": "9310 Strause Drive",
+    "address2": "Suite A",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28214",
+    "source": "https://caromonthealth.org/locations/caromont-family-medicine-moores-chapel"
+  },
+  {
+    "name": "CaroMont Gastroenterology & Hepatology - Belmont",
+    "category": "medical",
+    "address1": "1212 Spruce Street",
+    "address2": "Suite 307",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-gastroenterology-hepatology-belmont"
+  },
+  {
+    "name": "CaroMont Gastroenterology & Hepatology - Gastonia",
+    "category": "medical",
+    "address1": "2544 Court Drive",
+    "address2": "Suite G",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-gastroenterology-hepatology-gastonia"
+  },
+  {
+    "name": "CaroMont Health Breast Imaging Center-Belmont",
+    "category": "medical",
+    "address1": "2000\u00a0CaroMont\u00a0Parkway",
+    "address2": "Suite 150",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-health-breast-imaging-center-belmont"
+  },
+  {
+    "name": "CaroMont Health Breast Imaging Center-Summit",
+    "category": "medical",
+    "address1": "620 Summit Crossing Place",
+    "address2": "Suite 107",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-health-breast-imaging-center-summit"
+  },
+  {
+    "name": "CaroMont Health Imaging Center-Belmont",
+    "category": "medical",
+    "address1": "1212 Spruce Street",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-health-imaging-center-belmont"
+  },
+  {
+    "name": "CaroMont Health Imaging Center-Summit",
+    "category": "medical",
+    "address1": "620 Summit Crossing Place",
+    "address2": "Suite 106",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-health-imaging-center-summit"
+  },
+  {
+    "name": "CaroMont Health Maternity Clinic",
+    "category": "medical",
+    "address1": "991 West Hudson Boulevard",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052",
+    "source": "https://caromonthealth.org/locations/caromont-health-maternity-clinic"
+  },
+  {
+    "name": "CaroMont Health Retail Pharmacy",
+    "category": "medical",
+    "address1": "2525 Court Drive",
+    "address2": "Suite C",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-health-retail-pharmacy"
+  },
+  {
+    "name": "CaroMont Heart & Vascular - Belmont",
+    "category": "medical",
+    "address1": "2000 CaroMont Parkway",
+    "address2": "Suite 200",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-heart-vascular-belmont"
+  },
+  {
+    "name": "CaroMont Heart & Vascular - Gastonia",
+    "category": "medical",
+    "address1": "2555 Court Drive",
+    "address2": "Suite 200 & 300",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-heart-vascular-gastonia"
+  },
+  {
+    "name": "CaroMont Heart & Vascular - Lake Wylie",
+    "category": "medical",
+    "address1": "1200 Village Harbor Drive",
+    "address2": "",
+    "city": "Lake Wylie",
+    "state": "SC",
+    "zip": "29710",
+    "source": "https://caromonthealth.org/locations/caromont-heart-vascular-lake-wylie"
+  },
+  {
+    "name": "CaroMont Hematology & Oncology - Belmont",
+    "category": "medical",
+    "address1": "2000 CaroMont Parkway",
+    "address2": "Suite 300",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-hematology-oncology-belmont"
+  },
+  {
+    "name": "CaroMont Hyperbaric & Wound Center",
+    "category": "medical",
+    "address1": "660 Summit Crossing Place",
+    "address2": "Suite 306",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-hyberbaric-wound-center"
+  },
+  {
+    "name": "CaroMont ID Associates",
+    "category": "medical",
+    "address1": "2555 Court Drive",
+    "address2": "Suite 350",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-id-associates"
+  },
+  {
+    "name": "CaroMont Integrated Pain Specialists - Belmont",
+    "category": "medical",
+    "address1": "1212 Spruce Street",
+    "address2": "Suite 305A",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-integrated-pain-specialists-belmont"
+  },
+  {
+    "name": "CaroMont Integrated Pain Specialists - Gastonia",
+    "category": "medical",
+    "address1": "640 Summit Crossing Place",
+    "address2": "Suite 200",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-integrated-pain-specialists-gastonia"
+  },
+  {
+    "name": "CaroMont Internal Medicine",
+    "category": "medical",
+    "address1": "660 Summit Crossing Place",
+    "address2": "Suite 301",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-internal-medicine"
+  },
+  {
+    "name": "CaroMont Neurology - Belmont",
+    "category": "medical",
+    "address1": "1212 Spruce Street",
+    "address2": "Suite 305B",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-neurology-belmont"
+  },
+  {
+    "name": "CaroMont Neurology - Gastonia",
+    "category": "medical",
+    "address1": "815 Cox Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-neurology-gastonia"
+  },
+  {
+    "name": "CaroMont Occupational Medicine",
+    "category": "medical",
+    "address1": "2555 Court Drive",
+    "address2": "Suite 120",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-occupational-medicine"
+  },
+  {
+    "name": "CaroMont Orthopedic & Sports Medicine Center",
+    "category": "medical",
+    "address1": "2345 Court Drive",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-orthopedic-sports-medicine-center"
+  },
+  {
+    "name": "CaroMont Outpatient Surgery",
+    "category": "medical",
+    "address1": "2545 Court Drive",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-outpatient-surgery"
+  },
+  {
+    "name": "CaroMont Pediatric Partners - Belmont",
+    "category": "medical",
+    "address1": "1212 Spruce Street",
+    "address2": "Suite 201",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-pediatric-partners-belmont"
+  },
+  {
+    "name": "CaroMont Pediatric Partners - Gastonia",
+    "category": "medical",
+    "address1": "705 Summit Crossing Place",
+    "address2": "Suite 150",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-pediatric-partners-gastonia"
+  },
+  {
+    "name": "CaroMont Pediatric Partners - Lake Wylie",
+    "category": "medical",
+    "address1": "519 Nautical Drive",
+    "address2": "Suite 100B",
+    "city": "Clover",
+    "state": "SC",
+    "zip": "29710",
+    "source": "https://caromonthealth.org/locations/caromont-pediatric-partners-lake-wylie"
+  },
+  {
+    "name": "CaroMont Physical Therapy",
+    "category": "medical",
+    "address1": "1212 Spruce Street",
+    "address2": "Suite 305D",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-physical-therapy"
+  },
+  {
+    "name": "CaroMont Psychiatric Associates - Belmont",
+    "category": "medical",
+    "address1": "1212 Spruce Street",
+    "address2": "Suite 315",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-psychiatric-associates-belmont"
+  },
+  {
+    "name": "CaroMont Psychiatric Associates - Gastonia",
+    "category": "medical",
+    "address1": "1337 East Garrison Boulevard",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-psychiatric-associates-gastonia"
+  },
+  {
+    "name": "CaroMont Pulmonary Medicine",
+    "category": "medical",
+    "address1": "934 Cox Road",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-pulmonary-medicine"
+  },
+  {
+    "name": "CaroMont Pulmonary Medicine - Belmont",
+    "category": "medical",
+    "address1": "2000 CaroMont Parkway",
+    "address2": "Suite 203",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-pulmonary-medicine-belmont"
+  },
+  {
+    "name": "CaroMont Regional Medical Center - Mount Holly",
+    "category": "medical",
+    "address1": "451 East Charlotte Avenue",
+    "address2": "",
+    "city": "Mount Holly",
+    "state": "NC",
+    "zip": "28120",
+    "source": "https://caromonthealth.org/locations/caromont-regional-medical-center-mount-holly"
+  },
+  {
+    "name": "CaroMont Regional Medical Center-Belmont",
+    "category": "medical",
+    "address1": "1000 CaroMont Parkway",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-regional-medical-center-belmont"
+  },
+  {
+    "name": "CaroMont Rehab & Sports Medicine",
+    "category": "medical",
+    "address1": "640 Summit Crossing Place",
+    "address2": "Suite 208",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-rehab-sports-medicine"
+  },
+  {
+    "name": "CaroMont Rheumatology",
+    "category": "medical",
+    "address1": "660 Summit Crossing Place",
+    "address2": "Suite 302",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-rheumatology"
+  },
+  {
+    "name": "CaroMont Sleep Medicine Center",
+    "category": "medical",
+    "address1": "2555 Court Drive",
+    "address2": "Suite 330",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-sleep-medicine-center"
+  },
+  {
+    "name": "CaroMont Surgical Associates",
+    "category": "medical",
+    "address1": "2555 Court Drive",
+    "address2": "Suite 450 & 460",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-surgical-associates"
+  },
+  {
+    "name": "CaroMont Surgical Associates - Belmont",
+    "category": "medical",
+    "address1": "2000 CaroMont Parkway",
+    "address2": "Suite 201",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-surgical-associates-belmont"
+  },
+  {
+    "name": "CaroMont Urgent Care - Belmont",
+    "category": "medical",
+    "address1": "1223 Spruce Street",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-urgent-care-belmont"
+  },
+  {
+    "name": "CaroMont Urgent Care - Gaston Day",
+    "category": "medical",
+    "address1": "1895 Hoffman Road",
+    "address2": "Suite B",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-urgent-care-gaston-day"
+  },
+  {
+    "name": "CaroMont Urgent Care - Lake Wylie",
+    "category": "medical",
+    "address1": "1201 Village Harbor Drive",
+    "address2": "Suite 104",
+    "city": "Lake Wylie",
+    "state": "SC",
+    "zip": "29710",
+    "source": "https://caromonthealth.org/locations/caromont-urgent-care-lake-wylie"
+  },
+  {
+    "name": "CaroMont Urgent Care - Moores Chapel ",
+    "category": "medical",
+    "address1": "9310 Strause Drive",
+    "address2": "Suite B",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28214",
+    "source": "https://caromonthealth.org/locations/caromont-urgent-care-moores-chapel"
+  },
+  {
+    "name": "CaroMont Women's Health - Ashley",
+    "category": "medical",
+    "address1": "1225 East Garrison Boulevard",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-womens-health-ashley"
+  },
+  {
+    "name": "CaroMont Women's Health - Belmont",
+    "category": "medical",
+    "address1": "2000 CaroMont Parkway",
+    "address2": "Suite 400",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/caromont-womens-health-belmont"
+  },
+  {
+    "name": "CaroMont Women's Health - Lake Wylie",
+    "category": "medical",
+    "address1": "519 Nautical Drive",
+    "address2": "Suite 100C",
+    "city": "Clover",
+    "state": "SC",
+    "zip": "29710",
+    "source": "https://caromonthealth.org/locations/caromont-womens-health-lake-wylie"
+  },
+  {
+    "name": "CaroMont Women's Health - Maternal-Fetal Medicine",
+    "category": "medical",
+    "address1": "620 Summit Crossing Place",
+    "address2": "Suite 108C",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-womens-health-maternal-fetal-medicine"
+  },
+  {
+    "name": "CaroMont Women's Health - Summit",
+    "category": "medical",
+    "address1": "620 Summit Crossing Place",
+    "address2": "Suite 108",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/caromont-womens-health-summit"
+  },
+  {
+    "name": "Courtland Terrace",
+    "category": "medical",
+    "address1": "2300 Aberdeen Boulevard",
+    "address2": "",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/courtland-terrace"
+  },
+  {
+    "name": "Endocrinology Associates - Belmont",
+    "category": "medical",
+    "address1": "1212 Spruce Street",
+    "address2": "Suite 305",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/endocrinology-associates-belmont"
+  },
+  {
+    "name": "Endocrinology Associates - Gastonia",
+    "category": "medical",
+    "address1": "2544 Court Drive",
+    "address2": "Suite A",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/endocrinology-associates-gastonia"
+  },
+  {
+    "name": "Imaging at CaroMont Regional Medical Center-Belmont",
+    "category": "medical",
+    "address1": "1000\u00a0CaroMont\u00a0Parkway",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/imaging-at-caromont-regional-medical-center-belmont"
+  },
+  {
+    "name": "South Point Family Practice - Belmont",
+    "category": "medical",
+    "address1": "1220 Spruce Street",
+    "address2": "",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012",
+    "source": "https://caromonthealth.org/locations/south-point-family-practice-belmont"
+  },
+  {
+    "name": "The Hand Center of the Carolinas - Gastonia",
+    "category": "medical",
+    "address1": "2391 Court Drive",
+    "address2": "Suite 120A",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054",
+    "source": "https://caromonthealth.org/locations/the-hand-center-of-the-carolinas-gastonia"
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "name": "CaroMont Health Retail Pharmacy",
+    "source": "https://caromonthealth.org/locations/caromont-health-retail-pharmacy",
+    "reason": "Hospital, pharmacy or residential care; outside medical-office scope"
+  },
+  {
+    "name": "CaroMont Regional Medical Center - Mount Holly",
+    "source": "https://caromonthealth.org/locations/caromont-regional-medical-center-mount-holly",
+    "reason": "Hospital, pharmacy or residential care; outside medical-office scope"
+  },
+  {
+    "name": "CaroMont Regional Medical Center-Belmont",
+    "source": "https://caromonthealth.org/locations/caromont-regional-medical-center-belmont",
+    "reason": "Hospital, pharmacy or residential care; outside medical-office scope"
+  },
+  {
+    "name": "Courtland Terrace",
+    "source": "https://caromonthealth.org/locations/courtland-terrace",
+    "reason": "Hospital, pharmacy or residential care; outside medical-office scope"
+  },
+  {
+    "name": "Imaging at CaroMont Regional Medical Center-Belmont",
+    "source": "https://caromonthealth.org/locations/imaging-at-caromont-regional-medical-center-belmont",
+    "reason": "Hospital, pharmacy or residential care; outside medical-office scope"
+  },
+  {
+    "name": "BIEHL AND WELCH COSMETIC AND FAMILY DENTISTRY",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1295279180",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "DENTALSMART",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1861851883",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "THE DENTAL OFFICE AT FORT MILL",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1770426926",
+    "reason": "Shared registry delivery address; represented once"
+  },
+  {
+    "name": "FORT MILL DENTISTRY",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1295405819",
+    "reason": "Existing delivery address in category; retained existing record"
+  },
+  {
+    "name": "FORT MILL DENTISTRY",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1437313780",
+    "reason": "Existing delivery address in category; retained existing record"
+  },
+  {
+    "name": "REVIVE DENTAL AESTHETICS",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1053251892",
+    "reason": "Shared registry delivery address; represented once"
+  },
+  {
+    "name": "SUSAN M COLLINS DMD PA",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1013184548",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "THOMAS & LEITNER ORTHODONTICS LLC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1942486287",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "MCW DENTISTRY",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1407159312",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "MURDOCH & GEARY DENTAL",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1093951022",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "WILLIAM D. CRANFORD, JR., DMD",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1811263874",
+    "reason": "Existing delivery address in category; retained existing record"
+  },
+  {
+    "name": "RIVERWALK SMILE DENTISTRY, LLC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1730629627",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "DANNIE G. BENJAMIN, JR. D.D.S. JAMES H. GUDGER D.D. S.",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1386854230",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "FBC DENTAL MISSION INC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1184803942",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "R. COHEN AND G. ABRAMS, PC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1902575863",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "M YAGHI DDS & ASSOCIATES PLLC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1659664084",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "GASTONIA FAMILY DENTISTRY",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1558733410",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "ALTERMAN & DHILLON CHARLOTTE METRO, PPLC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1427549807",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "HANNON ORTHODONTICS",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1427330992",
+    "reason": "Shared registry delivery address; represented once"
+  },
+  {
+    "name": "SMILE ZONE",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1588090344",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "SMILE ZONE",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1861828022",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "THE SMILE ZONE",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1326226176",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "STOVER & STOVER DDS PA",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1821183583",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "DENTALWORKS",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1609846179",
+    "reason": "Shared registry delivery address; represented once"
+  },
+  {
+    "name": "DR. W. DAVID WHITE, DDS, PA",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1972775740",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "UNION PERIODONTICS & IMPLANT DENTISTRY",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1609235183",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "CAROLIN KIDS DENTISTRY 2",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1154981371",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "NEW TOWN DENTISTRY",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1104514777",
+    "reason": "Existing delivery address in category; retained existing record"
+  },
+  {
+    "name": "WAXHAW DENTAL CENTER",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1053072611",
+    "reason": "Existing delivery address in category; retained existing record"
+  },
+  {
+    "name": "BALLANTYNE CENTER FOR DENTISTRY",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1669807152",
+    "reason": "Existing delivery address in category; retained existing record"
+  },
+  {
+    "name": "CHAD JOHNSON ORTHODONTICS",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1528514726",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "CEDAR WALK FAMILY AND COSMETIC DENTISTRY",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1154581932",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "DEBORAH J. ATEN, DDS, PLLC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1679750848",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "DUC TANG DDS PLLC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1295188480",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "PROMENADE CENTER FOR DENTISTRY",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1194067009",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "FAMILY DENTAL CHOICE",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1457800880",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "SOUTH CHARLOTTE ENDODONTICS",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1669907317",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "THE STEELE CREEK DENTIST",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1265052070",
+    "reason": "Shared registry delivery address; represented once"
+  },
+  {
+    "name": "STEELE CREEK ORTHODONTICS",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1487251344",
+    "reason": "Shared registry delivery address; represented once"
+  },
+  {
+    "name": "JASON R. NELSEN DDS PLLC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1104096502",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "ROBERT C PHILLILPS JR DDS PA",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1467610865",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "TOWN DENTAL GROUP",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1407465784",
+    "reason": "Shared registry delivery address; represented once"
+  },
+  {
+    "name": "TOWN DENTAL GROUP",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1083234892",
+    "reason": "Shared registry delivery address; represented once"
+  },
+  {
+    "name": "EAST CHARLOTTE DENTAL CLINIC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1508025495",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "PRECISION DENTAL CENTER",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1598205031",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "CAROLINA DENTAL CARE",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1598893505",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "INFINITY DENTAL ARTS",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1720857063",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "GANGLANI DMD PLLC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1285262667",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "INFINITY DENTAL ARTS",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1366857989",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "RAYMOND A. JOKUBAITIS, D.M.D., P.A.",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1639341225",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "ENHANCED SMILES",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1013189653",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "GFS GENERAL DENTAL CLINIC",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1730320698",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "MATTHEWS FAMILY DENTISTRY",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1083884688",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "JAMES DUNBAR DDS PA",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1679750137",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "QUEEN CITY ENDODONTICS AT MATTHEWS",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1740878586",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "ADVANCED DENTISTRY OF BLAKENEY AND MATTHEWS",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1215109426",
+    "reason": "Shared registry delivery address; represented once and held for identity review"
+  },
+  {
+    "name": "MCKEE DENTAL",
+    "source": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1326217001",
+    "reason": "Shared registry delivery address; represented once"
+  }
+]

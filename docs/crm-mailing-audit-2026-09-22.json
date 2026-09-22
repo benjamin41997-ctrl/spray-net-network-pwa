@@ -1,0 +1,4368 @@
+{
+  "reviewedOn": "2026-09-22",
+  "total": 557,
+  "published": 337,
+  "held": 220,
+  "records": [
+    {
+      "id": 1,
+      "name": "MoveZen Property Management - Rock Hill",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 2,
+      "name": "Tailored Homes Property Management",
+      "status": "needs_review",
+      "reasons": [
+        "Unresolved address conflict"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Elite Team Realty & Property Management",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Red Rock Management",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 5,
+      "name": "Rinehart Property Management",
+      "status": "needs_review",
+      "reasons": [
+        "Unresolved address conflict"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Kuester Management Group - Fort Mill",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 7,
+      "name": "TouchPoint Property Management",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 8,
+      "name": "First Properties of the Carolinas, Inc.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 9,
+      "name": "Carolina Property Management, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 10,
+      "name": "Bottom Line Property Management",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 11,
+      "name": "CS PROPERTY MANAGEMENT SERVICES LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Public HTTPS evidence needed: street_address",
+        "Public HTTPS evidence needed: city",
+        "Public HTTPS evidence needed: state",
+        "Public HTTPS evidence needed: zip"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Real Property Management Charlotte Metro",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 13,
+      "name": "Broad Connection Property Management",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "MoveZen Property Management - Charlotte",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 15,
+      "name": "First Choice Property Management",
+      "status": "needs_review",
+      "reasons": [
+        "Unresolved address conflict"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Dawson Property Management",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 17,
+      "name": "Rent Now Solutions",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Greenlight Residential",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 19,
+      "name": "SMG Property Management and Construction",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 20,
+      "name": "Titan Property Management LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Muse Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Unresolved address conflict"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Reeves Property Management LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Public HTTPS evidence needed: zip",
+        "Unresolved address conflict"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Martins Property Management of SC LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 25,
+      "name": "Carolinas Properties Services LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Rinehart Realty Corporation - Rock Hill",
+      "status": "needs_review",
+      "reasons": [
+        "Unresolved address conflict"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "RealManage - Rock Hill",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 29,
+      "name": "Albright Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Gable Oaks Apartment Homes - Morgan Properties",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 33,
+      "name": "Goldeneye Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Talley Properties Inc.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 35,
+      "name": "Real Property Management Experts",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Alarca Realty",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 37,
+      "name": "Hawthorne Management Company",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 38,
+      "name": "Wilkinson Property Management Inc.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 39,
+      "name": "Four Seasons Property Management Inc.",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Dynasty Property Management and Sales LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 41,
+      "name": "Sunnon Property Management",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 43,
+      "name": "Tide Property Management",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 44,
+      "name": "HomeRiver Group - Charlotte",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 45,
+      "name": "Property Management Solutions of the Carolinas",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Associa Carolinas - Charlotte",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 47,
+      "name": "Henderson Properties",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 48,
+      "name": "Ambassador Real Estate Consult",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Andrew R Cypcar",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Benoy Real Estate, Inc.",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Blessed Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Blue Real Estate Group LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Bob Ipock & Associates",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Brively Homes LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Buddy Harper Team Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Carolina Premier Properties",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Carolinas Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Centra Properties, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Century 21 Echelon",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "CF INC.",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Champion Properties",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Chip Wilson Team",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "CKW Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Coldwell Banker Carver-Pressle",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Coldwell Banker MTN View RE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 67,
+      "name": "Coldwell Banker Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Concierge Realty, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Connor McSpadden",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "COTTAGE KEEPERS OF GASTON COUNTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 71,
+      "name": "Crown First Homes LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Dalton Wade, Inc.",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Dean Carpenters Real Estate, I",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "DeVoe Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Dickson Stillwell Real Estate LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "DK Pruitt Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Doster Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "DSM Properties Inc",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "EXP REALTY LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "EXP Realty LLC Mooresville",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Farmers Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Fathom Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Ferguson Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Garibaldi Realty, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "George Mason Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Ginger Black Real Estate",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Hammond Real Estate",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Hawkins Real Estate Group Inc",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Hill Real Estate Group",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Holland-Holland Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Howard Hanna Allen Tate Gastonia",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Huntsinger Real Estate",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Hurdt Homes Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Innovate Real Estate SC LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Jackson Property Management",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Jerry Kellar-Real Estate",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Johnson Real Estate Group Inc",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Jones Real Estate Services",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "JPAC Management Group LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "KAJI REALTY LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Katherine Nolley LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Keller Williams Ballantyne Area",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Keller Williams Connected",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Kelly Properties",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "KH Real Estate & Construction",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Kovach Real Estate Inc",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Larry Johnson Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Les McLean Development Co",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "LPT Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Main Street RE / Carolinas",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Marley Homes Construction",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Matthew Hanks Real Estate Team",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "McAferty Real Estate Group",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "McClure Group Realty, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "McHenry Rosemond Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "McKenzie Property Management",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "McSpadden Development",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "McSpadden Homes",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "MEA and Associates",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "MECA Commercial",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Michael D. Dodgin & Assoc, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Miles L Hamrick Real Est Svc",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Miranda Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Miranda Realty of North Caroli",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Moss Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Multifamily Property Management",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "NorthGroup Real Estate LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Northstar Real Estate",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "OPI Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Phyllis Long Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Premier South",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "PREMIER SOUTH",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 133,
+      "name": "Property Matters Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Providence Management & Invest",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Provision Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "R2R Realty, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Real Broker LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Real Broker LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Realty Concepts",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Rebhan & Associates LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Results Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Robert J Yatko Advisors",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Rockin Realty Inc",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Rockin Realty INC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Rudy Pomeroy",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Scott Farmer Properties, Inc.",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Sell and Buy Now Realty, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Sinko Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 149,
+      "name": "Southern Home Group Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Stonewright Realty INC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Sutton Real Estate",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Tailor Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Tammy Parker Realty, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "Terry Summey Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "The Ivie House Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "The J Bouvier RE Group LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "The Ledford Group Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "The Simpson Group Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "The Stoltz Group",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Titan Properties & Sales LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Vickie Spurling Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Weichert Realtors - PMI Group",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Wilcox Real Estate Group",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Willmac Services LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Bordignon Services LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 166,
+      "name": "Brock Cabinets",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 167,
+      "name": "BuildNow Corp.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 168,
+      "name": "Charlotte Closet & Blind",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 169,
+      "name": "Costner Building Group",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 170,
+      "name": "DASH Builder Services",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 171,
+      "name": "DiFabion Remodeling, Inc.",
+      "status": "needs_review",
+      "reasons": [
+        "Public HTTPS evidence needed: street_address",
+        "Public HTTPS evidence needed: zip"
+      ]
+    },
+    {
+      "id": 172,
+      "name": "Envision Millwork, Inc.",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Eudy's Cabinet Shop",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Floor Cabinetry",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 175,
+      "name": "Imagen Cabinets, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 176,
+      "name": "Interior Logic Group",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 177,
+      "name": "L & C Cabinetry - Charlotte",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 178,
+      "name": "Marsh Kitchen & Bath",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 179,
+      "name": "Metro Woodcrafter of NC, Inc.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 180,
+      "name": "Pro Garage Renovations of South Charlotte",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 181,
+      "name": "Prosource of Charlotte",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 182,
+      "name": "QC General Contractors, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 183,
+      "name": "Roomaven",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 184,
+      "name": "Signature Custom Cabinets",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 185,
+      "name": "Sims Lohman",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 186,
+      "name": "Taube Enterprises Inc",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 187,
+      "name": "The Designery South Charlotte",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 188,
+      "name": "Timberlake Cabinet Company",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 189,
+      "name": "National Design Mart",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 190,
+      "name": "5TH STREET REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 191,
+      "name": "AH CAPITAL LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 192,
+      "name": "ANGELIA BLACK PROPERTIES INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 193,
+      "name": "ANNE BRADE REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 194,
+      "name": "ARMSTEAD REALTY GROUP LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 195,
+      "name": "BCC REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 196,
+      "name": "BCH ENTERPRISES INC.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 197,
+      "name": "BRANDON C KAUFFMAN LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 198,
+      "name": "CANNON REAL ESTATE LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 199,
+      "name": "CENTRA PROPERTIES LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "CHYRCH REALTY LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 202,
+      "name": "DEBRA ANN PEARSON INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 203,
+      "name": "DENNIS COFFEY INC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 204,
+      "name": "EARLEY REALTY INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 205,
+      "name": "EVERAKES REALTY INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 206,
+      "name": "FARRELL ENTERPRISES INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 207,
+      "name": "FINIAL CONSTRUCTION LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 208,
+      "name": "GARIBALDI REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 209,
+      "name": "HOMES WITH HEART REAL ESTATE INC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 210,
+      "name": "HOUSEWINS INVESTMENTS LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 211,
+      "name": "HOWE REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 212,
+      "name": "HP PROPERTIES & DEVELOPMENT LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 213,
+      "name": "LAPLAGE MSP LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 214,
+      "name": "LEGACY REAL ESTATE VENTURES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 215,
+      "name": "LKI REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 216,
+      "name": "LOOK REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 217,
+      "name": "MCGOWAN REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 218,
+      "name": "MCKENZIE PROPERTY MANAGEMENT LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 219,
+      "name": "MECA REALTY GASTON LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 220,
+      "name": "MEGAN D TRIPLETT LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 221,
+      "name": "MUSHK DREAM HOMES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 222,
+      "name": "NC ESTATE AND LAND SALES L.L.C",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 223,
+      "name": "NEXT HOME PROPERTY MANAGEMENT LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 224,
+      "name": "NORTHSTAR REAL ESTATE LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 225,
+      "name": "OWN IT WITH AMY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 226,
+      "name": "PEAR TREE REAL ESTATE LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 227,
+      "name": "PRESTON HARRIS REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 228,
+      "name": "PROVIDENCE REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 229,
+      "name": "RABBU PROPERTIES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 230,
+      "name": "RANIMAL REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 231,
+      "name": "REFLECTION PROPERTIES INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 232,
+      "name": "REGATTA REALTY INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 233,
+      "name": "ROBY REALTY INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 234,
+      "name": "RUSHING REALTY INC.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 235,
+      "name": "SOUTHERN HOME GROUP REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 236,
+      "name": "STEPKEN REALTY SERVICES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 237,
+      "name": "SUE A AMELL REAL ESTATE LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 238,
+      "name": "THE SIMPSON GROUP REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 239,
+      "name": "THE STOLTZ GROUP S CORP",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 240,
+      "name": "WILKINSON PROPERTY MANAGEMENT INC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 241,
+      "name": "WITHAM REALTY GROUP LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 242,
+      "name": "bodesign Studio",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 243,
+      "name": "Brooke Adler Interiors",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 244,
+      "name": "Charlotte In-Vironments, Inc.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 245,
+      "name": "CoCreative Interiors",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 246,
+      "name": "Completely Personal Homes, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 247,
+      "name": "DesignLoft, Inc",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 248,
+      "name": "Distinctive Design + Build + Remodel",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 249,
+      "name": "Dobson Interiors",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 250,
+      "name": "Dwell By Cheryl Interiors",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 251,
+      "name": "Dwell Style Interiors LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 252,
+      "name": "Elkins Interiors",
+      "status": "needs_review",
+      "reasons": [
+        "State outside NC/SC"
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Gracious Home Interiors",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 254,
+      "name": "Home Theory",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 255,
+      "name": "Impact Fine Design",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 256,
+      "name": "Kitchen & Bath Designs by Leah",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Palmer Custom Builders",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Saltzman Agency DBA Samantha Rachel Interiors",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 259,
+      "name": "Stephanie Calderon Interiors",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 260,
+      "name": "Tyler Interiors",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 261,
+      "name": "Aguilar Design Studio",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 262,
+      "name": "DGK Design + Build Corporation",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 263,
+      "name": "Dream Home Builders and Remodelers",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 264,
+      "name": "GC Design Build",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 265,
+      "name": "Hummingbird Home Renovation",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 266,
+      "name": "Spain Construction Inc",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 267,
+      "name": "Susan Hill Design Group",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 268,
+      "name": "TRI-SQUARE CONSTRUCTION, INC.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 269,
+      "name": "Turner Design Build",
+      "status": "needs_review",
+      "reasons": [
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 270,
+      "name": "Alair Homes",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 271,
+      "name": "Andrew Roby, Inc.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 272,
+      "name": "Artisan Kitchen & Bath LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 273,
+      "name": "C.S. Brown Tile and Marble LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 274,
+      "name": "DeRhodes Construction",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 275,
+      "name": "Detailed Interiors NC Inc.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 277,
+      "name": "Hansens Renovations",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 278,
+      "name": "Paul Kowalski Builders, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 279,
+      "name": "ReVision Design + Build",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 280,
+      "name": "Simonini Homes, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 281,
+      "name": "Dacor",
+      "status": "needs_review",
+      "reasons": [
+        "State outside NC/SC"
+      ]
+    },
+    {
+      "id": 282,
+      "name": "Electrolux Major Appliance",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 283,
+      "name": "Ferguson Enterprises, Inc.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 284,
+      "name": "LG Electronics USA, Inc.",
+      "status": "needs_review",
+      "reasons": [
+        "State outside NC/SC"
+      ]
+    },
+    {
+      "id": 285,
+      "name": "Queen City Homestore",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 286,
+      "name": "Sub-Zero Group Southeast",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 287,
+      "name": "Boa Vista",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 288,
+      "name": "Cabinet IQ of Charlotte",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 289,
+      "name": "CLASSIC CABINET DESIGNS",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 290,
+      "name": "Forest Kitchen Design",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 291,
+      "name": "Garage Living of Charlotte",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 292,
+      "name": "GLR Custom Cabinetry",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 293,
+      "name": "Qwikkit",
+      "status": "needs_review",
+      "reasons": [
+        "State outside NC/SC"
+      ]
+    },
+    {
+      "id": 294,
+      "name": "Spring Forest Cabinetry",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 295,
+      "name": "Rinehart Realty Corporation",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 296,
+      "name": "Keller Williams Connected",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 297,
+      "name": "CENTURY 21 FIRST CHOICE",
+      "status": "needs_review",
+      "reasons": [
+        "Public HTTPS evidence needed: street_address",
+        "Public HTTPS evidence needed: city",
+        "Public HTTPS evidence needed: state",
+        "Public HTTPS evidence needed: zip"
+      ]
+    },
+    {
+      "id": 298,
+      "name": "Howard Hanna Allen Tate Fort M",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 299,
+      "name": "Rinehart Realty Corporation",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 300,
+      "name": "Rinehart Realty Corporation",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 301,
+      "name": "Austin Barnett Realty, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Showcase Realty, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 303,
+      "name": "FAM LEE REALTY, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Public HTTPS evidence needed: street_address",
+        "Public HTTPS evidence needed: city",
+        "Public HTTPS evidence needed: state",
+        "Public HTTPS evidence needed: zip"
+      ]
+    },
+    {
+      "id": 304,
+      "name": "Howard Hanna Allen Tate Realtors - RH",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 305,
+      "name": "Northgroup Real Estate",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 306,
+      "name": "Coldwell Banker Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 307,
+      "name": "BON TEMPS REAL ESTATE, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Public HTTPS evidence needed: street_address",
+        "Public HTTPS evidence needed: city",
+        "Public HTTPS evidence needed: state",
+        "Public HTTPS evidence needed: zip"
+      ]
+    },
+    {
+      "id": 308,
+      "name": "Premier South",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 309,
+      "name": "REMAX Executive",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 310,
+      "name": "Blueview Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 311,
+      "name": "LPT Realty, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 312,
+      "name": "BENMARK REALTY LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Public HTTPS evidence needed: street_address",
+        "Public HTTPS evidence needed: city",
+        "Public HTTPS evidence needed: state",
+        "Public HTTPS evidence needed: zip"
+      ]
+    },
+    {
+      "id": 313,
+      "name": "Highgarden Real Estate",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 314,
+      "name": "Keller Williams Ballantyne Area",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 315,
+      "name": "Better Homes and Gardens Paracle, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 316,
+      "name": "Heartland Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 317,
+      "name": "Hawkins Realty Inc.",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 318,
+      "name": "All Seasons Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 319,
+      "name": "EXP Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 320,
+      "name": "Rinehart Realty Corporation",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 321,
+      "name": "Howard Hanna Allen Tate Lake W",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 322,
+      "name": "A Goal Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 323,
+      "name": "Realty One Group Revolution",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 324,
+      "name": "Coldwell Banker Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 325,
+      "name": "Reeves Realty And Assoc.",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 326,
+      "name": "Rinehart Realty Corp",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 327,
+      "name": "Carolina Realty Solutions",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 328,
+      "name": "Douglas Carson Realtors",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 329,
+      "name": "Homeland Realty Group LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 330,
+      "name": "Bloom Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 331,
+      "name": "Faith Funderburke Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 332,
+      "name": "Petrovich Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 333,
+      "name": "Gibbs Realty/Fort Mill",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Five Star Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 335,
+      "name": "A Carolina Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 336,
+      "name": "Allen Tate Company-Providence",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 337,
+      "name": "Heritage Group Realty, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 338,
+      "name": "Ware Land And Timber, Llc",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 339,
+      "name": "Lightner Real Estate Services",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 340,
+      "name": "Alexander Realty & Constructio",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 341,
+      "name": "DW Owens Real Estate Consultan",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 342,
+      "name": "Coastal Real Estate Services",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 343,
+      "name": "Ouzts Realty Company, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 344,
+      "name": "Talford Realty International",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 345,
+      "name": "Huckabee Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 346,
+      "name": "Jet Real Estate",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 347,
+      "name": "EXP Realty, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 348,
+      "name": "RE/MAX Executive Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 349,
+      "name": "Fitts Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Sona Realty LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 351,
+      "name": "Carolinas Dynamic Realty",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 352,
+      "name": "Key Realty of Charlotte Inc",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 353,
+      "name": "A CAROLINA REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 354,
+      "name": "A HELPFUL REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 355,
+      "name": "AGENT REFERRAL SERVICE OF S.C. LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 357,
+      "name": "ALLEN & LOPES PROPERTY MANAGEMENT",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 358,
+      "name": "APPLE TREE CONTRACTORS",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 359,
+      "name": "ATLAS EQUITY GROUP, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 360,
+      "name": "AURA INVESTEMENTS LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 361,
+      "name": "AUSTIN-BARNETT REALTY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 362,
+      "name": "AVENCIA HOMES",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 363,
+      "name": "B GREEN REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 364,
+      "name": "BLOOM REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 365,
+      "name": "BLU J AGENCY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 366,
+      "name": "CAM PROPERTIES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 367,
+      "name": "CAROLINA AGAPE REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 368,
+      "name": "CAROLINA DREAM REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 369,
+      "name": "CAROLINA FARMS & ESTATES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 370,
+      "name": "CAROLINA GREENE REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 371,
+      "name": "CAROLINA LAND & HOMES, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 372,
+      "name": "CAROLINA PROPERTY MANAGEMENT PARTNERS LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 373,
+      "name": "CAROLINA TIMBERLAND SALES, INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 374,
+      "name": "CAROLINAS PROPERTIES SERVICES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 375,
+      "name": "CHARLES R HENRICH",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 376,
+      "name": "CMS PROPERTIES",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 377,
+      "name": "COASTAL REAL ESTATE SERVICES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 378,
+      "name": "D C PROPERTY SERVICES",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 379,
+      "name": "D W OWENS REAL ESTATE CONSULTANTS",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 380,
+      "name": "DAEDALUS REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 381,
+      "name": "DEEP DIVE CRE LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 382,
+      "name": "DREAMERS REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 383,
+      "name": "E CURRY REAL ESTATE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 384,
+      "name": "ECE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 385,
+      "name": "ELKINS REFERAL SERVICE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 386,
+      "name": "EXP REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 387,
+      "name": "FAITH FUNDERBURKE REALTY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 389,
+      "name": "FARROW PLACE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 391,
+      "name": "FIRST CHOICE REALTY GROUP, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 392,
+      "name": "FIVE STAR REALTY INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 393,
+      "name": "FRANKLIN GROUP",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 394,
+      "name": "GIBBS REALTY AND AUCTION CO INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 395,
+      "name": "GOFF ASSOCIATES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 396,
+      "name": "GOLDENEYE REALTY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 397,
+      "name": "GRAY REALTY",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 398,
+      "name": "HANK FUTCH REAL ESTATE, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 399,
+      "name": "HEART HOMES INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 400,
+      "name": "HERITAGE GROUP REALTY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 401,
+      "name": "HOUSING DEVELOPMENT CORPORATION OF ROCK HILL",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 402,
+      "name": "HOWARD HANNA ALLEN TATE ROCK HILL",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 403,
+      "name": "HUCKABEE REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 404,
+      "name": "J R DILL & ASSOCIATES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 405,
+      "name": "JEFF COOK REAL ESTATE LPT REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 406,
+      "name": "KELLER WILLIAMS CONNECTED: BIGACH 2 FOLLOW",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 407,
+      "name": "KELLER WILLIAMS CONNECTED: TIMOTHY GARLAND GROUP",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 408,
+      "name": "KEY GROUP SC, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 409,
+      "name": "KIMBERLY GAFFNEY & ASSOCIATES REALTY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 410,
+      "name": "KLS ENTERPRISE LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 411,
+      "name": "LEGACY DREAM HOMES",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 412,
+      "name": "LIGHTNER REAL ESTATE SERVICES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 413,
+      "name": "LUCKY LEAF PROPERTY MANAGEMENT",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 414,
+      "name": "MARTIN'S PROPERTY MANAGEMENT OF SC, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 415,
+      "name": "MASSEY 4X4 REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 416,
+      "name": "MICHEL Z GOUBRAN JR BROKER",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 417,
+      "name": "MJM PROPERTIES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 419,
+      "name": "NEXTHOME PLATINUM ADVANTAGE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 420,
+      "name": "OLIVE BRANCH REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 421,
+      "name": "OUZTS REALTY COMPANY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 422,
+      "name": "PATTI ELAM REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 423,
+      "name": "PETROVICH REALTY",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 424,
+      "name": "PINETUCK REALTY",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 425,
+      "name": "PROPEOS REAL ESTATE LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 426,
+      "name": "PROPERTY MANAGEMENT SISTERS",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 427,
+      "name": "REAL ESTATE BY TAYLOR",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 428,
+      "name": "REAL ESTATE SPECIALIST INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 429,
+      "name": "REALISTIC REAL ESTATE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 430,
+      "name": "REEVES COMMERCIAL REFERRAL ASSOCIATES",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 432,
+      "name": "REEVES REALTY & ASSOCIATES",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 433,
+      "name": "REVAYA PROPERTY MANAGEMENT",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 434,
+      "name": "RICH PROPERTIES",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 435,
+      "name": "RICHARD ODOM & ASSOCIATES INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 437,
+      "name": "RINEHART REALTY CORPORATION",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 438,
+      "name": "RINEHART REFERRAL ASSOCIATES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 440,
+      "name": "ROGERS REAL ESTATE CO., LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 441,
+      "name": "ROMANS REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 442,
+      "name": "SAIGE REAL ESTATE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 444,
+      "name": "SC DEERFIELD INVESTORS, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 445,
+      "name": "SC MALLARD INVESTORS, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 446,
+      "name": "SC MOORE RENTALS LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 447,
+      "name": "SHARP JUDGE REALTY GROUP",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 448,
+      "name": "SRBC, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 449,
+      "name": "STEPHEN COOLEY REAL ESTATE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 450,
+      "name": "STONE HAVEN POINTE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 451,
+      "name": "SVN/SOUTHERN COMMERCIAL R E LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 452,
+      "name": "SWEET CAROLINA HOUSES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 453,
+      "name": "TALFORD REALTY INTERNATIONAL",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 454,
+      "name": "TALFORD REALTY INTERNATIONAL-MIDLANDS",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 455,
+      "name": "TBN PROPERTY MANAGEMENT",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 456,
+      "name": "THE ELKINS CO INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 457,
+      "name": "THE PARK AT WILKERSON ROAD LP",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 458,
+      "name": "THE TUTTLE CO INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 459,
+      "name": "THOMASSON COMMERCIAL REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 460,
+      "name": "THOMASSON MANAGEMENT CORP",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 461,
+      "name": "TRI GLOBAL REFERRALS",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 462,
+      "name": "UNITED APARTMENT GROUP/MANOR YORK SENIOR",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 463,
+      "name": "WADDELL CUSTOM HOMES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 464,
+      "name": "WARD PROPERTIES INC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 465,
+      "name": "WARE LAND & TIMBER LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 466,
+      "name": "WARREN NORMAN COMPANY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 467,
+      "name": "WINDSOR APTS",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 468,
+      "name": "WORTHY & ASSOCIATES REAL ESTATE,LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 469,
+      "name": "WR SOUTH LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 470,
+      "name": "1 PERCENT LISTS ADVANTAGE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 471,
+      "name": "ALL SEASONS REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 472,
+      "name": "AM REALTY, LLC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing city",
+        "Missing state",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 473,
+      "name": "AMBITIOUS REALTY GROUP LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 474,
+      "name": "ANN MCGUIRE & ASSOC, INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 475,
+      "name": "ARDOR COMMERCIAL ADVISORS, LC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 476,
+      "name": "ARJ PROPERTY MANAGEMENT GROUP",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 477,
+      "name": "ASSIST 2 SELL, BUYERS & SELLERS 1ST CHOICE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 478,
+      "name": "BEACON REALTY GROUP, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 480,
+      "name": "Better Homes and Gardens Real Estate Paracle",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 481,
+      "name": "BICE PROPERTY GROUP LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 482,
+      "name": "BLITZ DEVELOPMENT LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 484,
+      "name": "BROADSTREET REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 485,
+      "name": "BUILDER ONSITE $ALES $YSTEMS INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 486,
+      "name": "CAROLINA PROPERTIES",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 487,
+      "name": "CAROLINAS REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 488,
+      "name": "CBA REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 490,
+      "name": "CLARITY REALTY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 491,
+      "name": "CLEAR SPRINGS REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 492,
+      "name": "CLOVER HILL PROPERTY MANAGEMENT",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 493,
+      "name": "COLDWELL BANKER REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 494,
+      "name": "CONLAN GROUP, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 495,
+      "name": "CONVENIENT RENTALS, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 496,
+      "name": "CRC PROPERTY MANAGEMENT",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 497,
+      "name": "CRITES REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 499,
+      "name": "DAVID A KOST II BROKER",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 500,
+      "name": "DONNA SHOLTER INDEPENDENT BROKER",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 501,
+      "name": "DRAYTON REALTY CO.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 502,
+      "name": "ERA LIVE MOORE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 503,
+      "name": "EXP REALTY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 504,
+      "name": "FORT MILL HOUSING SERVICES INC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 505,
+      "name": "FOUR SOUTH GROUP LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 506,
+      "name": "FOWLER PROPERTY ADVISORS LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 507,
+      "name": "FUENTES REAL ESTATE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 508,
+      "name": "GCI RESIDENTIAL/GOLDBERG COMPANIES",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 509,
+      "name": "GUARDIAN ESTATE BROKERS",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 510,
+      "name": "HAWKINS REALTY INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 511,
+      "name": "HAWKINS REFERRAL COMPANY",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 512,
+      "name": "HELEN ADAMS REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 513,
+      "name": "HELEN ADAMS REALTY REFERRAL NETWORK",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 514,
+      "name": "HIGHTOWER REAL ESTATE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 515,
+      "name": "HOUSING AUTHORITY OF FORT MILL",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 516,
+      "name": "INFINITY COMMERCIAL REAL ESTATE llc",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 517,
+      "name": "INGOLD GROUP PROPERTIES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 518,
+      "name": "ISHVAN REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 519,
+      "name": "IVVY RIDGE GROUP",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 520,
+      "name": "JMATT MANAGEMENT, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 521,
+      "name": "JML HOME, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 522,
+      "name": "JOHN F HARSCH",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 523,
+      "name": "JOYCE PRESLEY REALTY LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 524,
+      "name": "JVC REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 525,
+      "name": "KANAWHA PROP OF YORK COUNTY INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 526,
+      "name": "KELLER WILLIAMS CONNECTED",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 527,
+      "name": "KELLER WILLIAMS CONNECTED: CULLEN & CO",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 528,
+      "name": "KELLER WILLIAMS CONNECTED: DREAM TEAM UNITED",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 529,
+      "name": "KENNEDY & COMPANY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 530,
+      "name": "KUESTER REAL ESTATE SERVICES INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 531,
+      "name": "LAKE WYLIE MARKET CENTER REFERRAL",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 532,
+      "name": "LEGACY FORT MILL APARTMENTS",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 533,
+      "name": "LEISR STAYS LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 534,
+      "name": "M3 REAL ESTATE GROUP, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 535,
+      "name": "NEW HOME REALTY OF THE CAROLINAS",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 536,
+      "name": "PHILIP E DAVIS",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 537,
+      "name": "PLASMA REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 538,
+      "name": "POINT WYLIE PROPERTIES REFERRAL CO",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 540,
+      "name": "RAWLS SOUTH CAROLINA LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 541,
+      "name": "RAYMOND F. WILLER LICENSED REAL ESTATE BROKER",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 542,
+      "name": "RE/MAX EXECUTIVE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 543,
+      "name": "REALTY CAROLINAS",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 544,
+      "name": "REALTY ONE GROUP REVOLUTION",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 545,
+      "name": "REGENT COMMERCIAL REAL ESTATE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 546,
+      "name": "RENT NOW SOLUTIONS LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 547,
+      "name": "RICHLAND REALTY & ASSOCIATES",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 548,
+      "name": "RINEHART REALTY CORPORATION",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 549,
+      "name": "RISE REAL ESTATE GROUP LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 550,
+      "name": "ROSE MULTIFAMILY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 551,
+      "name": "SERENDIPITY PROPERTIES, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 552,
+      "name": "SHENOVA HILL REAL ESTATE, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 553,
+      "name": "SLHOMES CAROLINA, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 554,
+      "name": "SOUTHERN HOME REALTY GROUP, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 555,
+      "name": "SOUTHERN NEST REALTY, INC",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 556,
+      "name": "SOUTHERN PROPERTIES CAROLINA LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 557,
+      "name": "SOUTHERN REALTY COMPANY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 558,
+      "name": "SPRINGLAND INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 559,
+      "name": "STEPHEN COOLEY REAL ESTATE",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 560,
+      "name": "DEREK ANTHO SULLIVAN REALTY ENTERPRISES, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 561,
+      "name": "SVPS FORT MILL PROPERTIES LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 563,
+      "name": "TAILORED NEST REALTY",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 564,
+      "name": "TEDFORD AND ASSOCIATES",
+      "status": "needs_review",
+      "reasons": [
+        "Missing street_address",
+        "Missing zip"
+      ]
+    },
+    {
+      "id": 565,
+      "name": "TELECOMMUNICATION & INDUSTRIAL CONSUL SVC S CORP",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 566,
+      "name": "TENANTHOOD,LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 567,
+      "name": "THE JERVIS CORP INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 568,
+      "name": "THE TRUTH REALTY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 569,
+      "name": "TOGETHER AS ONE PROPERTIES, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 570,
+      "name": "TOP LINE REALTY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 571,
+      "name": "TOPSKY REALTY, INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 572,
+      "name": "VALLETTE REALTY, LLC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 573,
+      "name": "WILKINSON & ASSOCIATES VIRTUAL INC",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 574,
+      "name": "WILLOWS AT FORT MILL",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 575,
+      "name": "WOHLFORD & ASSOCIATES INC.",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 1022,
+      "name": "The Ligon Company",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 1023,
+      "name": "Baxter Cabinets - Fort Mill Showroom",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 1024,
+      "name": "R&L Stone and Marble",
+      "status": "published",
+      "reasons": []
+    },
+    {
+      "id": 1025,
+      "name": "Queen City Homestore - Pineville",
+      "status": "published",
+      "reasons": []
+    }
+  ]
+}

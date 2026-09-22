@@ -1,0 +1,94 @@
+[
+  {
+    "id": 2,
+    "name": "Tailored Homes Property Management",
+    "category": "property_management",
+    "attention": "",
+    "address1": "885 Gold Hill Road",
+    "address2": "#3073",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29708",
+    "country": "US",
+    "source": "https://www.renttailored.com/contact",
+    "reviewedOn": "2026-09-22",
+    "status": "published",
+    "prospectNotes": "Appointment-only office. Current contact page confirms the mailing address; the older CRM address conflict remains in the local CRM audit.",
+    "addressSourceType": "company_website",
+    "exterior": {
+      "route": "unknown",
+      "reason": "Current business contact address is confirmed. Property ownership and exterior approval authority are not established.",
+      "source": "https://www.renttailored.com/contact",
+      "reviewedOn": "2026-09-22"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Rinehart Property Management",
+    "category": "property_management",
+    "attention": "",
+    "address1": "1339 Ebenezer Road",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732",
+    "country": "US",
+    "source": "https://www.rinehartproperties.com/about",
+    "reviewedOn": "2026-09-22",
+    "status": "published",
+    "prospectNotes": "Current official contact details rechecked September 22. Address confirmed for mailing; exterior project authority remains unverified.",
+    "addressSourceType": "company_website",
+    "exterior": {
+      "route": "unknown",
+      "reason": "Current business contact address is confirmed. Property ownership and exterior approval authority are not established.",
+      "source": "https://www.rinehartproperties.com/about",
+      "reviewedOn": "2026-09-22"
+    }
+  },
+  {
+    "id": 15,
+    "name": "First Choice Property Management",
+    "category": "property_management",
+    "attention": "",
+    "address1": "605 North Avenue",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732",
+    "country": "US",
+    "source": "https://www.firstchoiceproperty.net/",
+    "reviewedOn": "2026-09-22",
+    "status": "published",
+    "prospectNotes": "Official site distinguishes this local office from an out-of-state payment-processing PO box. Use this local address for business prospecting.",
+    "addressSourceType": "company_website",
+    "exterior": {
+      "route": "unknown",
+      "reason": "Current business contact address is confirmed. Property ownership and exterior approval authority are not established.",
+      "source": "https://www.firstchoiceproperty.net/",
+      "reviewedOn": "2026-09-22"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Rinehart Realty Corporation - Rock Hill",
+    "category": "real_estate",
+    "attention": "",
+    "address1": "1339 Ebenezer Road",
+    "address2": "",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732",
+    "country": "US",
+    "source": "https://www.rinehartrealty.com/",
+    "reviewedOn": "2026-09-22",
+    "status": "published",
+    "prospectNotes": "Current official site confirms the Rock Hill address. Separate property-management and real-estate businesses share this address; use one-per-address filtering if needed.",
+    "addressSourceType": "company_website",
+    "exterior": {
+      "route": "unknown",
+      "reason": "Current business contact address is confirmed. Property ownership and exterior approval authority are not established.",
+      "source": "https://www.rinehartrealty.com/",
+      "reviewedOn": "2026-09-22"
+    }
+  }
+]
