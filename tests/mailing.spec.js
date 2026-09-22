@@ -13,6 +13,36 @@ async function chooseRockHillDentists(page){
 }
 async function download(page,label){const pending=page.waitForEvent('download');await page.getByRole('button',{name:label,exact:true}).click();return await pending;}
 
+test('medical, spa, restaurant, lodging and office prospects retain notes and export postal columns',async({page})=>{
+  await page.goto('./#mailing');
+  await page.getByLabel('Dentist offices',{exact:true}).uncheck();
+  await page.getByLabel('Schools',{exact:true}).uncheck();
+  for(const label of ['Medical offices','Med spas','Standalone restaurants','Independent lodging','Professional offices'])await page.getByLabel(label,{exact:true}).check();
+  await expect(page.locator('#mail-count')).toContainText('30 recipients selected');
+  await expect(page.locator('#mail-rows .mail-recipient').filter({hasText:'Long Cove Resort'})).toContainText('members and registered guests');
+  await expect(page.locator('#mail-rows .mail-recipient').filter({hasText:'Rock Hill Dermatology Center'})).toContainText('Appointments only');
+  await page.getByLabel('List name',{exact:true}).fill('Next exterior prospects');
+  await page.getByRole('button',{name:'Save list filters',exact:true}).click();
+  await expect(page.locator('#mailing-status')).toContainText('List filters saved');
+  await page.reload();await page.getByLabel('Load a saved list').selectOption('Next exterior prospects');
+  await expect(page.locator('#mail-count')).toContainText('30 recipients selected');
+  const file=await download(page,'Export Excel (.xlsx)');
+  const book=new ExcelJS.Workbook();await book.xlsx.readFile(await file.path());
+  const sheet=book.getWorksheet('Mailing List'),rows=[];
+  sheet.eachRow((row,n)=>{if(n>1)rows.push(row.values.slice(1));});
+  expect(sheet.columnCount).toBe(8);expect(rows).toHaveLength(30);
+  const catalog=JSON.parse(await readFile(new URL('../site/data/mailing.json',import.meta.url),'utf8'));
+  const expected=catalog.recipients.filter(r=>['medical','med_spa','restaurant','lodging','professional'].includes(r.category));
+  expect(rows).toEqual(expected.sort((a,b)=>a.name.localeCompare(b.name)).map(r=>[r.name,r.attention,r.address1,r.address2,r.city,r.state,r.zip,r.country]));
+  const backup=await download(page,'Export mailing backup');
+  const data=JSON.parse(await readFile(await backup.path(),'utf8'));
+  const restored=validateMailingState(data.state);
+  expect(restored.batches[0].rows.find(r=>r.name==='Long Cove Resort and Marina').prospectNotes).toContain('members and registered guests');
+  await page.getByText('Filter by city',{exact:false}).click();await page.getByLabel('Rock Hill',{exact:true}).check();
+  await expect(page.locator('#mail-count')).toContainText('6 recipients selected');
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+});
+
 test('new exterior prospect categories combine, persist and export their exact mailing addresses',async({page})=>{
   await page.goto('./#mailing');
   await page.getByLabel('Dentist offices',{exact:true}).uncheck();
@@ -106,6 +136,9 @@ test('deduplication preserves distinct suites and organizations, validates snaps
   selected=selectRecipients(rows,{...defaultFilters(),onePerAddress:true},[],()=>null,'2026-09-21');expect(selected.rows).toHaveLength(2);
   selected=selectRecipients(rows,defaultFilters(),[row.id],()=>null,'2026-09-21');expect(selected.rows.map(r=>r.id)).not.toContain(1000002);
   expect(()=>validateRecipient({...row,zip:'123'})).toThrow();expect(csvFor([{...row,name:'=1+1'}])).toContain('"\'=1+1"');
+  expect(validateRecipient(row)).toEqual(row); // Existing snapshots without optional notes remain valid.
+  expect(()=>validateRecipient({...row,prospectNotes:{text:'Invalid imported note'}})).toThrow();
+  expect(()=>validateRecipient({...row,unapprovedField:'value'})).toThrow();
   const state={version:1,updatedAt:null,lists:[],suppressed:[row.id],batches:[]};expect(mergeMailingState(state,state).suppressed).toEqual([row.id]);expect(()=>validateMailingState({...state,batches:[{id:'x',name:'x',createdAt:'bad',rows:[row]}]})).toThrow();
   await page.goto('./#mailing');
   const buffer=await page.evaluate(async row=>{const {xlsxFor}=await import('./mailing-export.js');return Array.from(new Uint8Array(await xlsxFor([{...row,name:'=1+1'}])));},row);

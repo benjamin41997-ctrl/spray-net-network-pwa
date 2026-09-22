@@ -1,10 +1,11 @@
-export const mailingCategories = {dentist:'Dentist offices',school:'Schools',district:'School district offices',veterinary:'Veterinary clinics',funeral:'Funeral homes',childcare:'Private childcare / preschools',church:'Churches / religious facilities',venue:'Wedding / event venues',property_management:'Property Management',real_estate:'Real Estate',kitchen:'Cabinet / Kitchen Industry',other:'Other businesses'};
+export const mailingCategories = {dentist:'Dentist offices',school:'Schools',district:'School district offices',veterinary:'Veterinary clinics',funeral:'Funeral homes',childcare:'Private childcare / preschools',church:'Churches / religious facilities',venue:'Wedding / event venues',medical:'Medical offices',med_spa:'Med spas',restaurant:'Standalone restaurants',lodging:'Independent lodging',professional:'Professional offices',property_management:'Property Management',real_estate:'Real Estate',kitchen:'Cabinet / Kitchen Industry',other:'Other businesses'};
 export const exportHeaders = ['Company','Attention','Address 1','Address 2','City','State','ZIP','Country'];
 const clean = v => String(v ?? '').trim();
 const day = v => typeof v === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(v) && Number.isFinite(Date.parse(v+'T12:00:00Z')) && new Date(v+'T12:00:00Z').toISOString().slice(0,10) === v;
 export function validateRecipient(r) {
   const fields = ['id','name','category','attention','address1','address2','city','state','zip','country','source','reviewedOn','status'];
-  if (!r || Object.keys(r).length !== fields.length || Object.keys(r).some(k => !fields.includes(k))) throw Error('Invalid mailing recipient fields.');
+  if (!r || fields.some(k => !Object.hasOwn(r,k)) || Object.keys(r).some(k => !fields.includes(k) && k !== 'prospectNotes')) throw Error('Invalid mailing recipient fields.');
+  if (Object.hasOwn(r,'prospectNotes') && (typeof r.prospectNotes !== 'string' || r.prospectNotes.length > 500)) throw Error('Invalid prospect notes.');
   if (!Number.isSafeInteger(r.id) || r.id < 1 || !Object.hasOwn(mailingCategories,r.category)) throw Error('Invalid mailing recipient identity.');
   for (const k of fields.filter(k => k !== 'id')) if (typeof r[k] !== 'string' || r[k].length > 500) throw Error('Invalid mailing recipient text.');
   if (!r.name.trim() || !['published','needs_review'].includes(r.status) || r.country !== 'US') throw Error('Invalid mailing recipient.');
