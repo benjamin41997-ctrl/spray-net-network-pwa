@@ -58,6 +58,14 @@ Open **Social Links** to find and open business profiles across Instagram, Faceb
 
 Follow on the social platform while signed into the intended Spray-Net account, then manually record **I followed this account**. Opening a link never claims to follow it. Use a distinct private profile label for each account you follow from; shared target URLs share progress across offices under that label. Social progress stays in a separate local database and does not count as completed networking outreach. Export/import **Social Links backups** to transfer it. No social login, bulk-follow API or automatic cross-device synchronization is connected.
 
+## Suggested contacts
+
+Use **Suggest a contact** (`#suggest`) to collect a business/contact name, optional city/type, website/social URL, business email/phone, contributor name and context. Each saved suggestion has a stable ID and timestamp. Suggestions stay outside the public directory and mailing exports until independently researched and published through the existing CRM workflow. Possible name matches are hints, not automatic merges.
+
+The local queue supports New, Researching, Ready for directory review, Added to network, Already in network and Not a fit. The last two network-completion statuses require an existing business ID. Research notes and links are private to the browser. Download one suggestion to hand it off, download all for backup, or import a file from a contributor. Import validates the entire file first, adds missing IDs only and preserves existing reviews. Importing a newer backup over an existing ID also preserves the current local entry; restore to an empty browser to recover the complete backup as-is. Unsaved review drafts survive queue filtering, and stale edits from another tab are rejected.
+
+**Shared collection is not activated yet.** `site/data/suggestions-config.json` deliberately has an empty endpoint. The live UI explains that saving locally does not notify Ben and offers file handoff. A prepared Formspree connector can send to a private form inbox after the owner creates a form and supplies its public `/f/…` endpoint; no password or private API key belongs in this repository. [Setup and review workflow](docs/contact-suggestions.md) describes the remaining step and free-plan limitations. This is not automatic shared queue synchronization.
+
 ## Update research
 
 The source of truth is the sibling `spray-net-networking` application. Run from that project:

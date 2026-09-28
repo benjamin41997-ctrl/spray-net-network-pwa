@@ -1,3 +1,4 @@
+import {validateConfig} from '../site/suggestions-model.js';
 import { readFile,writeFile,mkdir,readdir,copyFile } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { join } from 'node:path';
@@ -20,6 +21,7 @@ if(mailing.schemaVersion!==1||!Array.isArray(mailing.recipients))throw Error('Ma
 const catalog=mergeMailingCatalog(mailing.recipients,data.companies);
 validateResearch(JSON.parse(await readFile(new URL('site/data/research.json',root),'utf8')),catalog,mailingCategories);
 validateSocial(JSON.parse(await readFile(new URL('site/data/social.json',root),'utf8')),socialCompanies(data,mailing));
+validateConfig(JSON.parse(await readFile(new URL('site/data/suggestions-config.json',root),'utf8')));
 const files=[];async function copy(rel=''){for(const entry of await readdir(new URL('site/'+rel,root),{withFileTypes:true})){const path=join(rel,entry.name).replaceAll('\\','/');if(entry.isDirectory())await copy(path+'/');else{files.push(path);await mkdir(new URL('dist/'+rel,root),{recursive:true});await copyFile(new URL('site/'+path,root),new URL('dist/'+path,root));}}}await copy();
 await mkdir(new URL('dist/vendor/',root),{recursive:true});
 for(const [source,target]of [['dist/exceljs.min.js','exceljs.min.js'],['LICENSE','exceljs-LICENSE.txt']]){await copyFile(new URL('node_modules/exceljs/'+source,root),new URL('dist/vendor/'+target,root));files.push('vendor/'+target);}
