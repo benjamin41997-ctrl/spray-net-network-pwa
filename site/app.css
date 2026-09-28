@@ -15,3 +15,5 @@
 .finding-fields { margin: 1rem 0; }
 .finding-fields .tracker-grid { margin-top: .75rem; }
 #coverage-rows article > div, .mail-recipient > div { min-width: 0; overflow-wrap: anywhere; }
+
+.social-rows{display:grid;gap:18px}.social-card h2{margin-top:0}.social-account{border-top:1px solid var(--border,#dbe2e5);padding:16px 0;margin-top:14px}.social-url{overflow-wrap:anywhere;font-size:.85rem}.social-account label{display:block;margin:12px 0 6px}.social-account select{max-width:100%}.social-card{min-width:0;overflow-wrap:anywhere}

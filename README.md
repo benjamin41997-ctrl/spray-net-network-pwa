@@ -52,6 +52,12 @@ Mailing-only entities reserve stable numeric IDs from 1000000 upward, shared wit
 
 The research queue now logs 19 dated source passes across Fort Mill, Rock Hill, Indian Land and Belmont, with 38 reviewed businesses, seven York parcel matches and explicit unresolved Indian Land property matches. Four separate prospect ratings preserve unknowns. Use **Log activity / firsthand finding** to record dated observations that override public estimates privately and travel with your Tracker backup. [Research workflow, results and roadblocks](docs/research-workflow-2026-09-22.md) describes the evidence rules and repeatable import process.
 
+## Social Links
+
+Open **Social Links** to find and open business profiles across Instagram, Facebook, TikTok, LinkedIn and YouTube. Filter by city, category, platform or Priority 30. The first pass records 377 distinct URLs across 170 businesses, with 348 website-linked profiles and 29 possible/ambiguous matches. Shared brand accounts are labeled and uncertain matches remain explicit. Targeted search links are available for all 1,116 combined directory/mailing businesses. [Research results and roadblocks](docs/social-research-2026-09-28.md) describe the source pass.
+
+Follow on the social platform while signed into the intended Spray-Net account, then manually record **I followed this account**. Opening a link never claims to follow it. Use a distinct private profile label for each account you follow from; shared target URLs share progress across offices under that label. Social progress stays in a separate local database and does not count as completed networking outreach. Export/import **Social Links backups** to transfer it. No social login, bulk-follow API or automatic cross-device synchronization is connected.
+
 ## Update research
 
 The source of truth is the sibling `spray-net-networking` application. Run from that project:
