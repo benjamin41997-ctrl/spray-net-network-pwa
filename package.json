@@ -10,9 +10,12 @@
     "preview": "node scripts/serve.mjs"
   },
   "devDependencies": {
-    "@playwright/test": "1.58.2"
+    "@electric-sql/pglite": "^0.5.8",
+    "@playwright/test": "1.58.2",
+    "esbuild": "^0.28.2"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.117.2",
     "exceljs": "4.4.0"
   }
 }

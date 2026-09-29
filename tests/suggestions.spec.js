@@ -21,7 +21,7 @@ test('suggestions validate imports, URLs, stable IDs and completion links',async
 });
 test('suggestion handoff, offline persistence, research and repeat import preserve notes',async({page,context,browserName})=>{
  await page.goto('./#suggest');await expect(page.locator('#suggestions h1')).toHaveText('Suggest a contact');
- await expect(page.locator('#suggestions')).toContainText('shared team inbox is not connected');
+ await expect(page.locator('#suggestions')).toContainText('Sign in through Team sync');
  await page.locator('#suggestion-form [name="business"]').fill('Tailored');await expect(page.locator('#suggestion-matches')).toContainText('Possible existing contacts');
  await add(page,'Test <business>');
  const card=page.locator('[data-suggestion]');await expect(card).toContainText('Test <business>');await expect(card).toContainText('not sent to the team');

@@ -1,3 +1,4 @@
+import {teamSelected,readTeam,changeTeam} from './team-sync.js';
 import {validateRecipient,validateFilters} from './mailing-model.js';
 const blank=()=>({version:1,updatedAt:null,lists:[],suppressed:[],batches:[]});
 let dbPromise;
@@ -13,9 +14,9 @@ export function validateMailingState(s){
   }
   return structuredClone(s);
 }
-export async function readMailingState(){const db=await open();return new Promise((resolve,reject)=>{const r=db.transaction('state').objectStore('state').get('current');r.onsuccess=()=>{try{resolve(r.result?validateMailingState(r.result):blank())}catch(e){reject(e)}};r.onerror=()=>reject(Error('Could not read saved mailing lists.'));});}
+export async function readMailingState(local=false){if(!local&&teamSelected()){const rows=await readTeam('mailing');return rows.length?validateMailingState(rows[0]):blank();}const db=await open();return new Promise((resolve,reject)=>{const r=db.transaction('state').objectStore('state').get('current');r.onsuccess=()=>{try{resolve(r.result?validateMailingState(r.result):blank())}catch(e){reject(e)}};r.onerror=()=>reject(Error('Could not read saved mailing lists.'));});}
 export async function saveMailingState(state){
-  const value=validateMailingState(state),db=await open();
+  const value=validateMailingState(state);if(teamSelected())return changeTeam('mailing',rows=>{const current=rows[0]||blank();if(current.updatedAt!==state.updatedAt)throw Error('Mailing settings changed. Reload before saving.');value.updatedAt=new Date(Math.max(Date.now(),Date.parse(state.updatedAt||0)+1||0)).toISOString();return {changes:[{key:'current',payload:value}],result:value};});const db=await open();
   return new Promise((resolve,reject)=>{const tx=db.transaction('state','readwrite'),store=tx.objectStore('state');let conflict=false;
     const r=store.get('current');r.onsuccess=()=>{if((r.result?.updatedAt??null)!==state.updatedAt){conflict=true;tx.abort();return;}value.updatedAt=new Date(Math.max(Date.now(),Date.parse(state.updatedAt||0)+1||0)).toISOString();store.put(value,'current');};
     tx.oncomplete=()=>resolve(value);tx.onabort=tx.onerror=()=>reject(Error(conflict?'Mailing lists changed in another tab. Reload before saving.':'Mailing lists were not saved. Check browser storage.'));

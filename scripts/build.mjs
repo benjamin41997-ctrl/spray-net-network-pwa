@@ -1,3 +1,5 @@
+import {fileURLToPath} from 'node:url';
+import {build} from 'esbuild';
 import {validateConfig} from '../site/suggestions-model.js';
 import { readFile,writeFile,mkdir,readdir,copyFile } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
@@ -25,6 +27,8 @@ validateConfig(JSON.parse(await readFile(new URL('site/data/suggestions-config.j
 const files=[];async function copy(rel=''){for(const entry of await readdir(new URL('site/'+rel,root),{withFileTypes:true})){const path=join(rel,entry.name).replaceAll('\\','/');if(entry.isDirectory())await copy(path+'/');else{files.push(path);await mkdir(new URL('dist/'+rel,root),{recursive:true});await copyFile(new URL('site/'+path,root),new URL('dist/'+path,root));}}}await copy();
 await mkdir(new URL('dist/vendor/',root),{recursive:true});
 for(const [source,target]of [['dist/exceljs.min.js','exceljs.min.js'],['LICENSE','exceljs-LICENSE.txt']]){await copyFile(new URL('node_modules/exceljs/'+source,root),new URL('dist/vendor/'+target,root));files.push('vendor/'+target);}
+await build({stdin:{contents:"export {createClient} from '@supabase/supabase-js';",resolveDir:fileURLToPath(root)},bundle:true,format:'esm',platform:'browser',outfile:fileURLToPath(new URL('dist/vendor/supabase.js',root)),minify:true});
+files.push('vendor/supabase.js');
 const hash=createHash('sha256');for(const path of files.sort()){hash.update(path);hash.update(await readFile(new URL('dist/'+path,root)));}const version=hash.digest('hex').slice(0,16);
 const cache='spray-net-network-'+version;
 await writeFile(new URL('dist/sw.js',root),`const CACHE=${JSON.stringify(cache)};const FILES=${JSON.stringify(['./',...files.map(f=>'./'+f)])};

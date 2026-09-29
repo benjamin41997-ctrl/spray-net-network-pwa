@@ -1,3 +1,4 @@
+import {teamSelected,readTeam,changeTeam} from './team-sync.js';
 import {validateFindings} from './prospect-model.js';
 export const activityTypes={visit:'In-person meeting / visit',call:'Phone call',email:'Email sent',one_pager:'One-pager delivered',direct_mail:'Direct mail sent',text:'Text sent',social:'Social / LinkedIn message',event:'Networking event',other:'Other contact'};
 export const deliveries={email:'Email',in_person:'In person',postal:'Postal mail',other:'Other'};
@@ -34,9 +35,11 @@ function open(){return database??=new Promise((resolve,reject)=>{
  request.onerror=()=>reject(Error('Private storage could not open. Check browser storage settings.'));
  request.onblocked=()=>reject(Error('Close other Partner Network tabs and try again.'));
 });}
-export async function readActivities(){const db=await open();return new Promise((resolve,reject)=>{const r=db.transaction('activities').objectStore('activities').getAll();r.onsuccess=()=>{try{resolve(r.result.map(validateActivity))}catch(e){reject(e)}};r.onerror=()=>reject(Error('Could not read activity history.'))})}
+export async function readActivities(local=false){if(!local&&teamSelected())return (await readTeam('activity')).map(validateActivity);const db=await open();return new Promise((resolve,reject)=>{const r=db.transaction('activities').objectStore('activities').getAll();r.onsuccess=()=>{try{resolve(r.result.map(validateActivity))}catch(e){reject(e)}};r.onerror=()=>reject(Error('Could not read activity history.'))})}
 export async function saveActivity(record,expected=null){
- const value=validateActivity(record),db=await open();
+ const value=validateActivity(record);
+ if(teamSelected())return changeTeam('activity',current=>{const old=current.find(r=>r.id===value.id);if((old?.updatedAt??null)!==expected)throw Error('This activity changed. Reopen it before editing.');if(value.occurredOn>today())throw Error('Log a completed activity dated today or earlier.');if(old&&Date.parse(value.updatedAt)<=Date.parse(old.updatedAt))value.updatedAt=new Date(Date.parse(old.updatedAt)+1).toISOString();return {changes:[{key:value.id,payload:value}],result:undefined};});
+ const db=await open();
  if(value.occurredOn>today())throw Error('Log a completed activity dated today or earlier. Use Follow-up for future plans.');
  await new Promise((resolve,reject)=>{const tx=db.transaction('activities','readwrite'),store=tx.objectStore('activities');let conflict=false;
  const get=store.get(value.id);get.onsuccess=()=>{if((get.result?.updatedAt||null)!==expected){conflict=true;tx.abort()}else{if(get.result&&Date.parse(value.updatedAt)<=Date.parse(get.result.updatedAt))value.updatedAt=new Date(Date.parse(get.result.updatedAt)+1).toISOString();store.put(value)}};
@@ -50,7 +53,7 @@ export function parseBackup(text){
  return b.activities;
 }
 export async function importActivities(records){
- records.forEach(validateActivity);const db=await open();
+ records.forEach(validateActivity);if(teamSelected())return changeTeam('activity',current=>{const changed=records.filter(r=>{const old=current.find(x=>x.id===r.id);return !old||Date.parse(r.updatedAt)>Date.parse(old.updatedAt);});return {changes:changed.map(payload=>({key:payload.id,payload})),result:changed.length};});const db=await open();
  return new Promise((resolve,reject)=>{const tx=db.transaction('activities','readwrite'),store=tx.objectStore('activities');let changed=0;
  for(const r of records){const get=store.get(r.id);get.onsuccess=()=>{if(!get.result||Date.parse(r.updatedAt)>Date.parse(get.result.updatedAt)){store.put(r);changed++}}}
  tx.oncomplete=()=>resolve(changed);tx.onabort=tx.onerror=()=>reject(Error('Import failed. No changes were saved.'));
@@ -59,6 +62,7 @@ export async function importActivities(records){
 // A mailed batch is one transaction. Stable IDs make retries safe without duplicating contacts.
 export async function saveMailingActivities(records){
  records.forEach(r=>{validateActivity(r);if(r.occurredOn>today())throw Error('A sent mailing must be dated today or earlier.');});
+ if(teamSelected())return changeTeam('activity',current=>{const existing=records.filter(r=>current.some(x=>x.id===r.id)).length;if(existing&&existing!==records.length)throw Error('Part of this mailing is already logged. Review its history.');return {changes:existing?[]:records.map(payload=>({key:payload.id,payload})),result:existing?0:records.length};});
  const db=await open();
  return new Promise((resolve,reject)=>{const tx=db.transaction('activities','readwrite'),store=tx.objectStore('activities');let existing=0,checked=0,conflict=false;
   for(const r of records){const get=store.get(r.id);get.onsuccess=()=>{if(get.result)existing++;checked++;if(checked===records.length){if(existing&&existing!==records.length){conflict=true;tx.abort();}else if(!existing)for(const value of records)store.add(value);}};}

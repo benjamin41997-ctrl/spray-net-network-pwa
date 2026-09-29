@@ -27,3 +27,4 @@
 #suggestions dd{white-space:pre-wrap;overflow-wrap:anywhere}
 #suggestions .suggestion-review small{display:block;margin-top:12px}
 #suggestions summary{cursor:pointer;font-weight:700}
+#team label{display:block;margin:14px 0;font-weight:700}#team input{display:block;margin-top:6px;max-width:100%}#team .check-label input{display:inline-block;width:auto}#team section{overflow-wrap:anywhere}#team-status,#social-saved-summary{font-weight:700}#team-error:not(:empty){background:#fff1cf;padding:12px;border-radius:8px}#workspace-note{margin:0 0 22px}

@@ -18,7 +18,13 @@ Android: open the site in Chrome and choose Install app / Add to Home screen. iO
 
 This site and its JSON are publicly accessible, matching the portfolio's Pages setup. `noindex` discourages indexing and is not access control. Only public business directory fields are exported. Raw database files, private CRM notes, relationship history, credentials, residential/registration addresses and unresearched Google placeholders are excluded. Reviewed public visitor addresses are explicitly allowlisted in visit policies. The public priority list contains suggested partnership fit and vendor routing; unsent CRM messages remain local. No Google Places API content or key is distributed.
 
-The company/contact IDs are stable and the snapshot has a schema version. Automatic cross-device sync is not configured. Private activity records live in IndexedDB under `spray-net-partner-outreach`, separate from the public directory and service-worker cache. The site has no API for uploading history and no analytics. Browser storage is not encrypted by this app and is accessible to anyone using the same browser profile. GitHub Pages projects under the same account share a web origin; this is browser-local privacy, not authenticated account isolation.
+The company/contact IDs are stable and the snapshot has a schema version. Cross-device sync requires signing into the configured team workspace. Private activity records live in IndexedDB under `spray-net-partner-outreach`, separate from the public directory and service-worker cache. The site has no API for uploading history and no analytics. Browser storage is not encrypted by this app and is accessible to anyone using the same browser profile. GitHub Pages projects under the same account share a web origin; this is browser-local privacy, not authenticated account isolation.
+
+## Shared team sync
+
+The app now supports a private Supabase workspace alongside the original device-only workspace. **Team sign in** opens account access and sync status. Follow progress, outreach/firsthand findings, suggested contacts, and mailing settings can sync automatically across approved team devices. Local records are not uploaded silently; use the migration preview on the original device and choose what to share. [Owner setup, membership, conflict recovery and limitations](docs/team-sync.md) cover the required database script and app-login provisioning. The public URL/key alone do not activate the database.
+
+The device-only behavior described below still applies when Team sync is not selected. In team mode these data sets are shared with every approved member; per-feature exports remain private backup files, and imported changes enter the team outbox. There is no anonymous team access, no public record publishing, and no automatic Instagram following.
 
 ## Networking tracker
 
@@ -64,7 +70,7 @@ Use **Suggest a contact** (`#suggest`) to collect a business/contact name, optio
 
 The local queue supports New, Researching, Ready for directory review, Added to network, Already in network and Not a fit. The last two network-completion statuses require an existing business ID. Research notes and links are private to the browser. Download one suggestion to hand it off, download all for backup, or import a file from a contributor. Import validates the entire file first, adds missing IDs only and preserves existing reviews. Importing a newer backup over an existing ID also preserves the current local entry; restore to an empty browser to recover the complete backup as-is. Unsaved review drafts survive queue filtering, and stale edits from another tab are rejected.
 
-**Shared collection is not activated yet.** `site/data/suggestions-config.json` deliberately has an empty endpoint. The live UI explains that saving locally does not notify Ben and offers file handoff. A prepared Formspree connector can send to a private form inbox after the owner creates a form and supplies its public `/f/…` endpoint; no password or private API key belongs in this repository. [Setup and review workflow](docs/contact-suggestions.md) describes the remaining step and free-plan limitations. This is not automatic shared queue synchronization.
+**Shared collection now uses Team sync.** After the Supabase setup, signed-in members save suggestions directly to the shared review queue. Device-only mode retains file handoff. The optional Formspree endpoint remains blank and is not needed for the team workflow. [Original handoff workflow](docs/contact-suggestions.md) remains available for reference.
 
 ## Update research
 

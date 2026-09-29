@@ -1,5 +1,7 @@
 # Contact suggestions
 
+The preferred shared workflow is now [Team sync](team-sync.md). After Supabase setup, signed-in members save suggestions directly to the shared review queue. Formspree is not required. The instructions below describe the retained device-only handoff and optional legacy form connector.
+
 ## Available now
 
 Share the app's `#suggest` URL with family and team. A business or person name is required; other information is optional. Saving creates a dated private record on that contributor's browser. Download the suggestion and send its JSON file to Ben through a private channel. Ben imports it under **Review tools → Import suggestions**. This is a working manual handoff, not central collection.
