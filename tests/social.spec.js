@@ -5,7 +5,7 @@ import {accountUrl,validateSocial,socialCompanies,progressKey} from '../site/soc
 import {parseSocialBackup,validateProgress} from '../site/social-store.js';
 test('social research rejects unsafe links and preserves distinct account identity',async({},info)=>{
  test.skip(info.project.name!=='desktop','Model checks run once');
- for(const url of ['javascript:alert(1)','https://instagram.com.evil.test/brand','https://user:pass@instagram.com/brand','https://www.instagram.com/p/example','https://facebook.com/sharer.php?u=example','https://www.tiktok.com/@brand/video/123','https://youtube.com/watch?v=abc','https://linkedin.com/in/person'])expect(accountUrl(url)).toBeNull();
+ for(const url of ['javascript:alert(1)','https://instagram.com.evil.test/brand','https://user:pass@instagram.com/brand','https://www.instagram.com/p/example','https://facebook.com/sharer.php?u=example','https://facebook.com/photo.php?fbid=123','https://facebook.com/policy.php','https://facebook.com/privacy','https://www.tiktok.com/@brand/video/123','https://youtube.com/watch?v=abc','https://linkedin.com/in/person'])expect(accountUrl(url)).toBeNull();
  expect(accountUrl('https://instagram.com/Brand/?utm_source=web')).toEqual({platform:'instagram',url:'https://www.instagram.com/brand'});
  expect(accountUrl('https://www.facebook.com/people/Company/123456789/')).toEqual({platform:'facebook',url:'https://www.facebook.com/profile.php?id=123456789'});
  const d=JSON.parse(await readFile('site/data/directory.json')),m=JSON.parse(await readFile('site/data/mailing.json')),s=JSON.parse(await readFile('site/data/social.json'));

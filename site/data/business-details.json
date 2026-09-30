@@ -2,11 +2,85 @@
   "schemaVersion": 1,
   "records": [
     {
+      "id": 1000045,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://rhhs.rock-hill.k12.sc.us/school-info/about-us/contact-us",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://rhhs.rock-hill.k12.sc.us/school-info/about-us/contact-us",
+      "phone": "+18039811300"
+    },
+    {
+      "id": 1000056,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cranforddental.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://cranforddental.com/",
+      "phone": "+18033247670"
+    },
+    {
+      "id": 1000061,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lakeshoredentists.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://lakeshoredentists.com/"
+    },
+    {
+      "id": 1000064,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.vmcfortmill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.vmcfortmill.com/",
+      "phone": "+18033969130"
+    },
+    {
+      "id": 1000066,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://palmettopethospital.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://palmettopethospital.com/",
+      "phone": "+18035478191"
+    },
+    {
       "id": 1000069,
       "people": [],
       "sources": [
         {
           "url": "https://belmontanimalhospitalnc.com/contact/",
+          "type": "company website",
+          "date": "2026-09-30"
+        },
+        {
+          "url": "https://belmontanimalhospitalnc.com/",
           "type": "company website",
           "date": "2026-09-30"
         }
@@ -33,6 +107,78 @@
       "services": "Veterinary clinic.",
       "subcategory": "Veterinary clinic",
       "verified": "2026-09-30"
+    },
+    {
+      "id": 1000074,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mcleanfuneral.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.mcleanfuneral.com/",
+      "phone": "+17048653451",
+      "email": "info@mcleanfuneral.com"
+    },
+    {
+      "id": 1000075,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mcleanfuneral.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.mcleanfuneral.com/",
+      "phone": "+17048255301",
+      "email": "info@mcleanfuneral.com"
+    },
+    {
+      "id": 1000077,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fieldofdreamscenter.com/locations/field-of-dreams-edgewater/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://fieldofdreamscenter.com/locations/field-of-dreams-edgewater/",
+      "phone": "+18035470900"
+    },
+    {
+      "id": 1000082,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goddardschool.com/schools/sc/indian-land/indian-land",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.goddardschool.com/schools/sc/indian-land/indian-land",
+      "phone": "+18033939800"
+    },
+    {
+      "id": 1000095,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.theclubatlongview.com/weddings",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.theclubatlongview.com/weddings",
+      "phone": "+17044432500"
     },
     {
       "id": 1000106,
@@ -67,6 +213,62 @@
       "services": "Medical spa.",
       "subcategory": "Medical spa",
       "verified": "2026-09-30"
+    },
+    {
+      "id": 1000197,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://caromonthealth.org/locations/caromont-family-medicine-cramerton/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://caromonthealth.org/locations/caromont-family-medicine-cramerton/",
+      "phone": "+17048254750"
+    },
+    {
+      "id": 1000201,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://caromonthealth.org/locations/caromont-family-medicine-lake-wylie/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://caromonthealth.org/locations/caromont-family-medicine-lake-wylie/",
+      "phone": "+18036312858"
+    },
+    {
+      "id": 1000202,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://caromonthealth.org/locations/caromont-family-medicine-mcadenville/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://caromonthealth.org/locations/caromont-family-medicine-mcadenville/",
+      "phone": "+17048245323"
+    },
+    {
+      "id": 1000249,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://caromonthealth.org/locations/south-point-family-practice-belmont/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://caromonthealth.org/locations/south-point-family-practice-belmont/",
+      "phone": "+17048255333"
     },
     {
       "id": 1000251,
@@ -315,10 +517,17 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1114287042",
           "type": "CMS organization registry; last updated 2012-05-25",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://goldhilldentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "8035474466",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://goldhilldentistry.com/",
+      "email": "info@goldhilldentistry.com"
     },
     {
       "id": 1000261,
@@ -819,10 +1028,17 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1508023649",
           "type": "CMS organization registry; last updated 2017-01-23",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.dominguezrucker.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "8035471888",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.dominguezrucker.com/",
+      "email": "info@dominguezrucker.com"
     },
     {
       "id": 1000281,
@@ -959,10 +1175,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1851170906",
           "type": "CMS organization registry; last updated 2023-09-27",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://ardenmillfamilydentistry.com/services/cosmetic-dentistry/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "8036506424",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://ardenmillfamilydentistry.com/services/cosmetic-dentistry/"
     },
     {
       "id": 1000286,
@@ -1191,10 +1413,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1629873898",
           "type": "CMS organization registry; last updated 2025-02-13",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.myidealdental.com/indian-land",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "8038290119",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.myidealdental.com/indian-land"
     },
     {
       "id": 1000294,
@@ -1247,10 +1475,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1346895141",
           "type": "CMS organization registry; last updated 2022-02-08",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.redstonemoderndentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7148458280",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.redstonemoderndentistry.com/"
     },
     {
       "id": 1000296,
@@ -1639,10 +1873,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1467547695",
           "type": "CMS organization registry; last updated 2020-08-22",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.crsmile.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "8033245301",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.crsmile.com/"
     },
     {
       "id": 1000310,
@@ -1779,10 +2019,17 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1053956805",
           "type": "CMS organization registry; last updated 2021-02-10",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://millwooddentistry.com/contact/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "8039807645",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://millwooddentistry.com/contact/",
+      "email": "frontdesk@millwooddentistry.com"
     },
     {
       "id": 1000315,
@@ -2143,10 +2390,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1962877357",
           "type": "CMS organization registry; last updated 2023-08-24",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://piedmontdentalsc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "4049449433",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://piedmontdentalsc.com/"
     },
     {
       "id": 1000328,
@@ -2647,10 +2900,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1346461563",
           "type": "CMS organization registry; last updated 2020-08-22",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.drcatherinemyrick.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "8032224518",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.drcatherinemyrick.com/"
     },
     {
       "id": 1000346,
@@ -2675,10 +2934,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1619423449",
           "type": "CMS organization registry; last updated 2017-01-09",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://dentalcareoflakewylie.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "8036194511",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://dentalcareoflakewylie.com/"
     },
     {
       "id": 1000347,
@@ -2787,10 +3052,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1194376491",
           "type": "CMS organization registry; last updated 2022-06-14",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.lakewyliemoderndentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "8037520565",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.lakewyliemoderndentistry.com/"
     },
     {
       "id": 1000351,
@@ -2927,10 +3198,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1124175351",
           "type": "CMS organization registry; last updated 2020-08-22",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.garymccorddds.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7048255111",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.garymccorddds.com/"
     },
     {
       "id": 1000356,
@@ -2955,10 +3232,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1710526116",
           "type": "CMS organization registry; last updated 2024-10-04",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://stowepointdentalcare.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7048004009",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://stowepointdentalcare.com/"
     },
     {
       "id": 1000357,
@@ -3263,10 +3546,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1710538418",
           "type": "CMS organization registry; last updated 2022-07-20",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.carolinasdentist.com/gastonia-dentist/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7048548887",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.dentistrygastonia.com/about-us/meet-dr-bryan-hill-dds/"
     },
     {
       "id": 1000368,
@@ -4495,10 +4784,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1578413449",
           "type": "CMS organization registry; last updated 2026-01-30",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://woodsideviewdentalcare.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "9804891130",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://woodsideviewdentalcare.com/"
     },
     {
       "id": 1000412,
@@ -4551,10 +4846,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1588248645",
           "type": "CMS organization registry; last updated 2025-06-03",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://strivedentalstudio.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7048432880",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://strivedentalstudio.com/"
     },
     {
       "id": 1000414,
@@ -4747,10 +5048,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1194591289",
           "type": "CMS organization registry; last updated 2023-11-29",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.piperglendentalgroup.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7047042499",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.piperglendentalgroup.com/"
     },
     {
       "id": 1000421,
@@ -4943,10 +5250,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1902662687",
           "type": "CMS organization registry; last updated 2024-02-21",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://promenade-dentist.com/contact/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7043210980",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://promenade-dentist.com/areas-we-serve/dentist-marvin-nc/"
     },
     {
       "id": 1000428,
@@ -5167,10 +5480,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1073225918",
           "type": "CMS organization registry; last updated 2024-10-04",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://southcharlottedentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7047590908",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://southcharlottedentistry.com/"
     },
     {
       "id": 1000436,
@@ -5643,10 +5962,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1912770843",
           "type": "CMS organization registry; last updated 2023-11-02",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.dentalwellnessofcharlotte.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7043177337",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.dentalwellnessofcharlotte.com/"
     },
     {
       "id": 1000453,
@@ -5839,10 +6164,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1558205682",
           "type": "CMS organization registry; last updated 2026-04-17",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.youngsmile.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7045415900",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.youngsmile.com/"
     },
     {
       "id": 1000460,
@@ -5867,10 +6198,17 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1396250973",
           "type": "CMS organization registry; last updated 2017-12-05",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.ballantynefamilydental.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "9802159200",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.ballantynefamilydental.com/",
+      "email": "info@ballantynefamilydental.com"
     },
     {
       "id": 1000461,
@@ -6567,10 +6905,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1306959655",
           "type": "CMS organization registry; last updated 2020-08-22",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.minthillprofessionalclinic.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7045458831",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.minthillprofessionalclinic.com/"
     },
     {
       "id": 1000486,
@@ -6819,10 +7163,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1720213705",
           "type": "CMS organization registry; last updated 2020-02-04",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://morrisdental.com/",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7045453363",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://morrisdental.com/"
     },
     {
       "id": 1000495,
@@ -7015,10 +7365,17 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1649783119",
           "type": "CMS organization registry; last updated 2017-11-07",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.idlewildfamilydentistry.com/services",
+          "type": "company website",
+          "date": "2026-09-30"
         }
       ],
       "phone": "7048930351",
-      "verified": "2026-09-30"
+      "verified": "2026-09-30",
+      "website": "https://www.idlewildfamilydentistry.com/services",
+      "email": "info@idlewildfamilydentistry.com"
     },
     {
       "id": 1000502,
@@ -8057,6 +8414,34 @@
       "verified": "2026-09-30"
     },
     {
+      "id": 1000539,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fishmarketbarandgrill.com/location/fish-market/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.fishmarketbarandgrill.com/location/fish-market/",
+      "phone": "+18035474024"
+    },
+    {
+      "id": 1000544,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rendezbrewcafe.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.rendezbrewcafe.com/",
+      "phone": "+18035482306"
+    },
+    {
       "id": 1000547,
       "people": [],
       "sources": [
@@ -8087,6 +8472,65 @@
       "services": "Medical spa.",
       "subcategory": "Medical spa",
       "verified": "2026-09-30"
+    },
+    {
+      "id": 1000555,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rjwcpa.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.rjwcpa.com/",
+      "phone": "+18035477521",
+      "email": "rob@rjwcpa.com"
+    },
+    {
+      "id": 1000562,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.stationbelmont.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.stationbelmont.com/",
+      "phone": "+17044618115"
+    },
+    {
+      "id": 1000567,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tastync.com/our-story",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.tastync.com/our-story",
+      "phone": "+17048794484",
+      "email": "info@tastync.com"
+    },
+    {
+      "id": 1000571,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.riseandshinedentistry.com/family-dental-care",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.riseandshinedentistry.com/family-dental-care",
+      "phone": "+18038869311",
+      "email": "hello@riseandshinedentistry.com"
     },
     {
       "id": 1000572,
@@ -8413,6 +8857,4461 @@
       "services": "Private school.",
       "subcategory": "Private school",
       "verified": "2026-09-30"
+    },
+    {
+      "id": 1000589,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fortmillpreschool.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.fortmillpreschool.org/",
+      "phone": "+18035488123"
+    },
+    {
+      "id": 1000590,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.primroseschools.com/schools/fort-mill",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.primroseschools.com/schools/fort-mill",
+      "phone": "+18038792601"
+    },
+    {
+      "id": 1000591,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://beansproutacademy.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://beansproutacademy.com/",
+      "phone": "+18035482326"
+    },
+    {
+      "id": 1000592,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.everbrookacademy.com/our-schools/fort-mill-sc-4806/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.everbrookacademy.com/our-schools/fort-mill-sc-4806/",
+      "phone": "+18035258250"
+    },
+    {
+      "id": 1000593,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kiddieacademy.com/academies/fort-mill/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://kiddieacademy.com/academies/fort-mill/",
+      "phone": "+18035608899",
+      "email": "fortmill@kiddieacademy.net"
+    },
+    {
+      "id": 1000594,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.onehopefortmill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.onehopefortmill.com/",
+      "phone": "+18038109725"
+    },
+    {
+      "id": 1000595,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rlcfortmill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.rlcfortmill.com/",
+      "phone": "+18038027010"
+    },
+    {
+      "id": 1000596,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.orchardgrovefamilydentistry.com/services/cosmetic-dentistry",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.orchardgrovefamilydentistry.com/services/cosmetic-dentistry",
+      "phone": "+19809990435"
+    },
+    {
+      "id": 1000597,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.luckfamilydental.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.luckfamilydental.com/",
+      "phone": "+17047415115"
+    },
+    {
+      "id": 1000598,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://merakiaestheticsandco.com/contact/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://merakiaestheticsandco.com/medical-spa-in-fort-mill-sc/",
+      "phone": "+17042804420",
+      "email": "merakiaestheticsinfo@gmail.com"
+    },
+    {
+      "id": 1000599,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinaendo.org/providers/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.carolinaendo.org/providers/",
+      "phone": "+18035483636"
+    },
+    {
+      "id": 1000600,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.getcare.muschealth.org/locations?location=Fort+Mill%2C+SC",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.getcare.muschealth.org/locations?location=Fort+Mill%2C+SC",
+      "phone": "+18437922300"
+    },
+    {
+      "id": 1000601,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.martinsoncartercpas.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.martinsoncartercpas.com/",
+      "phone": "+18033286241"
+    },
+    {
+      "id": 1000602,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://dagostinoanddavis.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://dagostinoanddavis.com/",
+      "phone": "+18036286509"
+    },
+    {
+      "id": 1000603,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fortmillinsuranceagent.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://fortmillinsuranceagent.com/",
+      "phone": "+18033963900"
+    },
+    {
+      "id": 1000604,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://alpatelinsurance.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://alpatelinsurance.com/",
+      "phone": "+18038025533"
+    },
+    {
+      "id": 1000605,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.crosswindsinsurance.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.crosswindsinsurance.com/",
+      "phone": "+17042482657"
+    },
+    {
+      "id": 1000606,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.peachstand.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.peachstand.com/",
+      "phone": "+18035477563"
+    },
+    {
+      "id": 1000607,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.baxtervet.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.baxtervet.com/",
+      "phone": "+18035478387"
+    },
+    {
+      "id": 1000608,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.adventurespluschildcare.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.adventurespluschildcare.com/",
+      "phone": "+18033294101"
+    },
+    {
+      "id": 1000609,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.lanternrockhill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.lanternrockhill.com/"
+    },
+    {
+      "id": 1000610,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cdmercantile.com/stay/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://cdmercantile.com/stay/",
+      "phone": "+18033666372"
+    },
+    {
+      "id": 1000611,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://metrolinamed.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://metrolinamed.com/"
+    },
+    {
+      "id": 1000612,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.oakstreethealth.com/locations/rock-hill-sc/rock-hill-doctors-office",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.oakstreethealth.com/locations/rock-hill-sc/rock-hill-doctors-office",
+      "phone": "+18035429244"
+    },
+    {
+      "id": 1000613,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.yourhealth.org/offices-locations/rockhill-sc",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.yourhealth.org/offices-locations/rockhill-sc",
+      "phone": "+18037403630"
+    },
+    {
+      "id": 1000614,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.penningtonprimarycare.com/home",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.penningtonprimarycare.com/home"
+    },
+    {
+      "id": 1000615,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hamiltonmartens.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.hamiltonmartens.com/",
+      "phone": "+18033297672",
+      "email": "contact@hamiltonmartens.com"
+    },
+    {
+      "id": 1000616,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ccbbistroandvine.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.ccbbistroandvine.com/",
+      "phone": "+18033667070"
+    },
+    {
+      "id": 1000617,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.crystalballroomrockhill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.crystalballroomrockhill.com/",
+      "phone": "+18038252352"
+    },
+    {
+      "id": 1000618,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ebenezervets.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.ebenezervets.com/",
+      "phone": "+18033661950"
+    },
+    {
+      "id": 1000619,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.shilandah.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.shilandah.com/",
+      "phone": "+18037524950",
+      "email": "shilandvet.info@gmail.com"
+    },
+    {
+      "id": 1000620,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.riversedge.vet/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.riversedge.vet/",
+      "phone": "+18035675568"
+    },
+    {
+      "id": 1000621,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kiddieacademy.com/academies/tega-cay/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://kiddieacademy.com/academies/tega-cay/",
+      "phone": "+18039026565",
+      "email": "tegacay@kiddieacademy.net"
+    },
+    {
+      "id": 1000622,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thelearningexperience.com/centers/tega-cay/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://thelearningexperience.com/centers/tega-cay/",
+      "phone": "+18035474700"
+    },
+    {
+      "id": 1000623,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.stonecrestfamilydentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.stonecrestfamilydentistry.com/",
+      "phone": "+18035476000"
+    },
+    {
+      "id": 1000624,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.coredentistrysc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.coredentistrysc.com/",
+      "phone": "+18036816600",
+      "email": "admin@coredentistrysc.com"
+    },
+    {
+      "id": 1000625,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.maisiesgreenbrae.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.maisiesgreenbrae.com/",
+      "phone": "+18038146863",
+      "email": "maisie@mgb-llc.co"
+    },
+    {
+      "id": 1000626,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://dcreswellinsurance.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://dcreswellinsurance.com/",
+      "phone": "+18035480121"
+    },
+    {
+      "id": 1000627,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sargiscpa.com/cpa-fort-mill-sc/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://sargiscpa.com/cpa-fort-mill-sc/",
+      "phone": "+17049811191",
+      "email": "info@sargiscpa.com"
+    },
+    {
+      "id": 1000628,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://steltznerlaw.com/service-areas/tega-cay-sc/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://steltznerlaw.com/service-areas/tega-cay-sc/",
+      "phone": "+18035993660"
+    },
+    {
+      "id": 1000629,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kgob.com/south-carolina-cpa",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://kgob.com/south-carolina-cpa",
+      "phone": "+17045993355"
+    },
+    {
+      "id": 1000630,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://abacustaxsc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://abacustaxsc.com/",
+      "email": "thomas@abacustaxsc.com"
+    },
+    {
+      "id": 1000631,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tegacaycoffeeco.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.tegacaycoffeeco.com/",
+      "phone": "+15167547298"
+    },
+    {
+      "id": 1000632,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hegejewelers.com/fine-jewelry/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.hegejewelers.com/fine-jewelry/",
+      "phone": "+18033277850"
+    },
+    {
+      "id": 1000633,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.primroseschools.com/schools/south-charlotte",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.primroseschools.com/schools/south-charlotte",
+      "phone": "+17044263652"
+    },
+    {
+      "id": 1000634,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.chesterbrookacademy.com/preschools/nc/charlotte/ballantyne/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.chesterbrookacademy.com/preschools/nc/charlotte/ballantyne/",
+      "phone": "+17048045092"
+    },
+    {
+      "id": 1000635,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.livinghopeballantyne.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.livinghopeballantyne.org/",
+      "phone": "+17045427273"
+    },
+    {
+      "id": 1000636,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.warrierdentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.warrierdentistry.com/",
+      "phone": "+17045445500",
+      "email": "general@warrierdentistry.com"
+    },
+    {
+      "id": 1000637,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://schrammdentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://schrammdentistry.com/"
+    },
+    {
+      "id": 1000638,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sautterfamilydentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://sautterfamilydentistry.com/"
+    },
+    {
+      "id": 1000639,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://bridgehamptondental.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://bridgehamptondental.com/"
+    },
+    {
+      "id": 1000640,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.dignitymemorial.com/funeral-homes/north-carolina/charlotte/mcewen-funeral-service-derita-chapel/2454",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.dignitymemorial.com/funeral-homes/north-carolina/charlotte/mcewen-funeral-service-derita-chapel/2454"
+    },
+    {
+      "id": 1000641,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://businesses.carriageservices.com/nc/charlotte/16151-lancaster-highway",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://businesses.carriageservices.com/nc/charlotte/16151-lancaster-highway",
+      "phone": "+17047141540",
+      "email": "robert@heritagecares.com"
+    },
+    {
+      "id": 1000642,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.theballantynehotel.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.theballantynehotel.com/",
+      "phone": "+17042484000"
+    },
+    {
+      "id": 1000643,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.marriott.com/en-us/hotels/cltbl-courtyard-charlotte-ballantyne/dining/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.marriott.com/en-us/hotels/cltbl-courtyard-charlotte-ballantyne/dining/",
+      "phone": "+17043410041"
+    },
+    {
+      "id": 1000644,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.m2medicalspaandwellness.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.m2medicalspaandwellness.com/",
+      "phone": "+17042439720"
+    },
+    {
+      "id": 1000645,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.laseraway.com/locations/nc/charlotte-ballantyne/skin-rejuvenation/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.laseraway.com/locations/nc/charlotte-ballantyne/skin-rejuvenation/",
+      "phone": "+19803505120"
+    },
+    {
+      "id": 1000646,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.sonamedspa.com/our-locations/sona-medspa-of-charlotte-ballantyne/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.sonamedspa.com/our-locations/sona-medspa-of-charlotte-ballantyne/",
+      "phone": "+17045448776",
+      "email": "noreply@sonaderm.com"
+    },
+    {
+      "id": 1000647,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://charlottemedicalaesthetics.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://charlottemedicalaesthetics.com/",
+      "phone": "+19807044206",
+      "email": "hello@cltmedaesthetics.com"
+    },
+    {
+      "id": 1000648,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.skindulgencemedspa.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.skindulgencemedspa.com/",
+      "phone": "+17045160024"
+    },
+    {
+      "id": 1000649,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://modernskinclinic.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://modernskinclinic.com/",
+      "phone": "+17047711747",
+      "email": "nina@ppsclt.com"
+    },
+    {
+      "id": 1000650,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/location/matthews/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.tryonmed.com/location/matthews/",
+      "phone": "+17044956020"
+    },
+    {
+      "id": 1000651,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thejordaninsuranceagency.com/ballantyne-insurance-agency",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://thejordaninsuranceagency.com/ballantyne-insurance-agency",
+      "phone": "+17049267565",
+      "email": "info@thejordaninsuranceagency.com"
+    },
+    {
+      "id": 1000652,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.thomasharman.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.thomasharman.com/",
+      "phone": "+17045434001"
+    },
+    {
+      "id": 1000653,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bradshawsocialhouse.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.bradshawsocialhouse.com/",
+      "phone": "+17045437351"
+    },
+    {
+      "id": 1000654,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.anotherbrokenegg.com/locations/charlotte-nc",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.anotherbrokenegg.com/locations/charlotte-nc",
+      "phone": "+19802074407"
+    },
+    {
+      "id": 1000655,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.abrahamjosephfinejewelers.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.abrahamjosephfinejewelers.com/",
+      "phone": "+17043695710",
+      "email": "ajfj@outlook.com"
+    },
+    {
+      "id": 1000656,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.merrycorner.com/our-venue",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.merrycorner.com/our-venue",
+      "phone": "+19803064875"
+    },
+    {
+      "id": 1000657,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.charlotte.providencevets.com/site/home",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.charlotte.providencevets.com/site/home",
+      "phone": "+17045420049"
+    },
+    {
+      "id": 1000658,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinasvet.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.carolinasvet.com/",
+      "phone": "+17047527227",
+      "email": "office@carolinasvet.com"
+    },
+    {
+      "id": 1000659,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://westballantyneanimalhospital.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://westballantyneanimalhospital.com/",
+      "email": "wbah@westbah.com"
+    },
+    {
+      "id": 1000660,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.nanasplaceinc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.nanasplaceinc.com/",
+      "phone": "+17045973900"
+    },
+    {
+      "id": 1000661,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.primroseschools.com/schools/eastfield-village",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.primroseschools.com/schools/eastfield-village",
+      "phone": "+17049473266"
+    },
+    {
+      "id": 1000662,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://bradyfamilydentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://bradyfamilydentistry.com/",
+      "phone": "+17043210414",
+      "email": "bradyinfo@bradydentistry.com"
+    },
+    {
+      "id": 1000663,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://amitydentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://amitydentistry.com/",
+      "phone": "+19804231244"
+    },
+    {
+      "id": 1000664,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://smilesavvydentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://smilesavvydentistry.com/",
+      "phone": "+17042333327",
+      "email": "info@smilesavvydentistry.com"
+    },
+    {
+      "id": 1000665,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cotswoldfamilydentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://cotswoldfamilydentistry.com/",
+      "phone": "+17043652767"
+    },
+    {
+      "id": 1000666,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.moreheadinn.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.moreheadinn.com/",
+      "phone": "+17043763357"
+    },
+    {
+      "id": 1000667,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.myedenmedspa.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.myedenmedspa.com/",
+      "phone": "+19802725085",
+      "email": "frontdesk@myedenmedspa.com"
+    },
+    {
+      "id": 1000668,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://medspaclt.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://medspaclt.com/",
+      "phone": "+17042708537"
+    },
+    {
+      "id": 1000669,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://velaclt.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://velaclt.com/",
+      "phone": "+17046548598",
+      "email": "info@velaclt.com"
+    },
+    {
+      "id": 1000670,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://aestheticsurgerycharlotte.com/medspa/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://aestheticsurgerycharlotte.com/medspa/",
+      "phone": "+17048371150"
+    },
+    {
+      "id": 1000671,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fanousmedspa.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.fanousmedspa.com/",
+      "phone": "+19804140591"
+    },
+    {
+      "id": 1000672,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.704aesthetics.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.704aesthetics.com/",
+      "phone": "+17047500896"
+    },
+    {
+      "id": 1000673,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cpa-charlotte.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.cpa-charlotte.com/"
+    },
+    {
+      "id": 1000674,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hilbgroup.com/offices/charlotte-nc/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.hilbgroup.com/offices/charlotte-nc/",
+      "phone": "+17045525888",
+      "email": "servicese@hilbgroup.com"
+    },
+    {
+      "id": 1000675,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.seyfarth.com/locations/charlotte.html",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.seyfarth.com/locations/charlotte.html",
+      "phone": "+17049256060"
+    },
+    {
+      "id": 1000676,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fogodechao.com/location/charlotte/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://fogodechao.com/location/charlotte/",
+      "phone": "+19805019540"
+    },
+    {
+      "id": 1000677,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mimosagrill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.mimosagrill.com/",
+      "phone": "+17043430700"
+    },
+    {
+      "id": 1000678,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cbh.com/locations/cpa-accounting-firm-in-charlotte-nc/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.cbh.com/locations/cpa-accounting-firm-in-charlotte-nc/",
+      "phone": "+17043771678"
+    },
+    {
+      "id": 1000679,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cbh.com/locations/cpa-accounting-firm-in-charlotte-nc/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.cbh.com/locations/cpa-accounting-firm-in-charlotte-nc/",
+      "phone": "+17048652396"
+    },
+    {
+      "id": 1000680,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://order.everestbistro.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://order.everestbistro.com/",
+      "phone": "+19802019923"
+    },
+    {
+      "id": 1000681,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://irondishkoreanbbq.com",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://irondishkbbq.com/",
+      "phone": "+19802257378"
+    },
+    {
+      "id": 1000682,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.jtposh.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.jtposh.com/",
+      "phone": "+17043751334"
+    },
+    {
+      "id": 1000683,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.morrisonsmith.com/contact",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.morrisonsmith.com/pages/jewelry-store-matthews-nc",
+      "phone": "+17043321605"
+    },
+    {
+      "id": 1000684,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sterlingeventsvenue.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://sterlingeventsvenue.com/",
+      "phone": "+19808751137",
+      "email": "yeri@sterlingeventsvenue.com"
+    },
+    {
+      "id": 1000685,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://charlottevethospital.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://charlottevethospital.com/",
+      "email": "info@charlottevethospital.com"
+    },
+    {
+      "id": 1000686,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.riverbendpet.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.riverbendpet.com/",
+      "phone": "+17049712075"
+    },
+    {
+      "id": 1000687,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://stores.petco.com/nc/charlotte/vet-hospital-charlotte-nc-1526.html",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://stores.petco.com/nc/charlotte/vet-hospital-charlotte-nc-1526.html",
+      "phone": "+19807851184"
+    },
+    {
+      "id": 1000688,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kiddieacademy.com/academies/indian-land/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://kiddieacademy.com/academies/indian-land/",
+      "phone": "+18037524100",
+      "email": "indianland@kiddieacademy.net"
+    },
+    {
+      "id": 1000689,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://hopespringschurchsc.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://hopespringschurchsc.org/"
+    },
+    {
+      "id": 1000690,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.archesdentalcare.com/contact-us/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.archesdentalcare.com/",
+      "phone": "+18394002195"
+    },
+    {
+      "id": 1000691,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.flourishdentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.flourishdentistry.com/",
+      "phone": "+18037667973",
+      "email": "info@flourishdentisry.com"
+    },
+    {
+      "id": 1000692,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.wellnesssmilesdentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.wellnesssmilesdentistry.com/",
+      "phone": "+18033803416"
+    },
+    {
+      "id": 1000693,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.palmettoblossomllc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.palmettoblossomllc.com/",
+      "phone": "+18035488009",
+      "email": "wecare@palmettoblossomllc.com"
+    },
+    {
+      "id": 1000694,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.getcare.muschealth.org/locations/sc/indian-land/musc-health-primary-care-bridgemilldep-20103902?y_source=1_MTA1ODExOTMyMS01NTMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.getcare.muschealth.org/locations/sc/indian-land/musc-health-primary-care-bridgemilldep-20103902?y_source=1_MTA1ODExOTMyMS01NTMtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "phone": "+18032861814"
+    },
+    {
+      "id": 1000695,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.getcare.muschealth.org/locations/sc/indian-land/musc-health-indian-land-medical-paviliondep-fac1033",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.getcare.muschealth.org/locations/sc/indian-land/musc-health-indian-land-medical-paviliondep-fac1033",
+      "phone": "+18437922300"
+    },
+    {
+      "id": 1000696,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://indianlandinsurance.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://indianlandinsurance.com/",
+      "phone": "+18035487141"
+    },
+    {
+      "id": 1000697,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinabutcherandbeer.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.carolinabutcherandbeer.com/",
+      "phone": "+18032280346"
+    },
+    {
+      "id": 1000698,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://stores.kay.com/sc/indian-land/4838",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://stores.kay.com/sc/indian-land/4838",
+      "phone": "+18392930260"
+    },
+    {
+      "id": 1000699,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://farmtasticevents.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://farmtasticevents.com/"
+    },
+    {
+      "id": 1000700,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://suncityah.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://suncityah.com/",
+      "phone": "+18034715905"
+    },
+    {
+      "id": 1000701,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://archesanimalhospital.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://archesanimalhospital.com/",
+      "phone": "+18038664346"
+    },
+    {
+      "id": 1000702,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thelearningexperience.com/centers/lake-wylie-sc/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://thelearningexperience.com/centers/lake-wylie-sc/",
+      "phone": "+18036194086"
+    },
+    {
+      "id": 1000703,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://saraniwellness.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://saraniwellness.com/",
+      "phone": "+18039652281",
+      "email": "sara@saraniwellness.com"
+    },
+    {
+      "id": 1000704,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://mountainislandskincare.com/med-spa-york-county-sc",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://mountainislandskincare.com/med-spa-york-county-sc",
+      "phone": "+19802370912",
+      "email": "mountislandskincare@gmail.com"
+    },
+    {
+      "id": 1000705,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.sethneely.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.sethneely.com/",
+      "phone": "+18038106152"
+    },
+    {
+      "id": 1000706,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sifford-stine.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://sifford-stine.com/",
+      "phone": "+18032229468"
+    },
+    {
+      "id": 1000707,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.funtown-playcafe.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.funtown-playcafe.com/",
+      "phone": "+18038106500"
+    },
+    {
+      "id": 1000708,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.facetfoundryjewelry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.facetfoundryjewelry.com/",
+      "phone": "+17048675332"
+    },
+    {
+      "id": 1000709,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lulusgifts.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://lulusgifts.com/",
+      "phone": "+18032223355"
+    },
+    {
+      "id": 1000710,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thegrandvenue.co/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://thegrandvenue.co/",
+      "email": "hello@thegrandvenue.co"
+    },
+    {
+      "id": 1000711,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.primroseschools.com/schools/austin-village",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.primroseschools.com/schools/austin-village",
+      "phone": "+17048219300"
+    },
+    {
+      "id": 1000712,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.harborviewnc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.harborviewnc.com/",
+      "phone": "+19803398804"
+    },
+    {
+      "id": 1000713,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://legacyeuropean.academy/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://legacyeuropean.academy/",
+      "phone": "+19808089505",
+      "email": "info@legacyeuropean.academy"
+    },
+    {
+      "id": 1000714,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mslcnc.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.mslcnc.org/",
+      "phone": "+17048474502"
+    },
+    {
+      "id": 1000715,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://nextlevelchurch.org/plan-a-visit",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://nextlevelchurch.org/plan-a-visit",
+      "phone": "+17048416133",
+      "email": "hello@nextlevelchurch.org"
+    },
+    {
+      "id": 1000716,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://craftsmilesclt.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://craftsmilesclt.com/",
+      "phone": "+17048000251"
+    },
+    {
+      "id": 1000717,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.funeralhomematthews.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.funeralhomematthews.com/",
+      "phone": "+17043745301",
+      "email": "michael@loweneddo.com"
+    },
+    {
+      "id": 1000718,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://glowwithharmonia.com/contact-us/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://glowwithharmonia.com/contact-us/",
+      "phone": "+19804583300",
+      "email": "info@glowwithharmonia.com"
+    },
+    {
+      "id": 1000719,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/pine-lake-family-physicians-hemby-bridge",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.novanthealth.org/locations/clinics/pine-lake-family-physicians-hemby-bridge",
+      "phone": "+17043169090"
+    },
+    {
+      "id": 1000720,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://carolinamedassoc.com/services/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://carolinamedassoc.com/services/",
+      "phone": "+17045422191"
+    },
+    {
+      "id": 1000721,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.onemedical.com/locations/ncs/pineville/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.onemedical.com/locations/ncs/pineville/",
+      "phone": "+18884056396"
+    },
+    {
+      "id": 1000722,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://mitchellinsuranceservicesllc.com/contact/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://mitchellinsuranceservicesllc.com/contact/",
+      "phone": "+17045969991"
+    },
+    {
+      "id": 1000723,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ncfbins.com/matthews",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.ncfbins.com/matthews",
+      "phone": "+17048418700"
+    },
+    {
+      "id": 1000724,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://garycooper.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://garycooper.org/",
+      "phone": "+17048147100"
+    },
+    {
+      "id": 1000725,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.umamisushigrill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.umamisushigrill.com/",
+      "phone": "+17043212888"
+    },
+    {
+      "id": 1000726,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://restaurants.applebees.com/en-us/nc/matthews/9616-east-independence-blvd.-86050",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://restaurants.applebees.com/en-us/nc/matthews/9616-east-independence-blvd.-86050"
+    },
+    {
+      "id": 1000727,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://stores.jared.com/nc/pineville/425",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://stores.jared.com/nc/pineville/425",
+      "phone": "+17047527800"
+    },
+    {
+      "id": 1000728,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.matthews.carolinavet.com/site/contact-animal-hospital",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.matthews.carolinavet.com/site/contact-animal-hospital",
+      "phone": "+17048153939"
+    },
+    {
+      "id": 1000729,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.banfield.com/locations/veterinarians/nc/matthews/mat",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.banfield.com/locations/veterinarians/nc/matthews/mat",
+      "phone": "+17048477001"
+    },
+    {
+      "id": 1000730,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://aparentstimeout.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://aparentstimeout.com/"
+    },
+    {
+      "id": 1000731,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.creationacres.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.creationacres.com/",
+      "phone": "+17044128911"
+    },
+    {
+      "id": 1000732,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.philadelphiachurch.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.philadelphiachurch.org/"
+    },
+    {
+      "id": 1000733,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.wilsongrovebaptistchurch.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.wilsongrovebaptistchurch.com/",
+      "phone": "+17045455625",
+      "email": "wilsongrovebaptist@gmail.com"
+    },
+    {
+      "id": 1000734,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://bakerdentistry.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://bakerdentistry.com/"
+    },
+    {
+      "id": 1000735,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://locustfamilydentistry.com/locations/locust/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://locustfamilydentistry.com/dentist-near-mint-hill-nc/",
+      "phone": "+17048886247",
+      "email": "info@locustfamilydentistry.com"
+    },
+    {
+      "id": 1000736,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.maplespringsdental.com/locations/mint-hill",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.maplespringsdental.com/locations/mint-hill",
+      "phone": "+17048184324"
+    },
+    {
+      "id": 1000737,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://springsinsurance.com/contact/indian-land-sc-insurance/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://springsinsurance.com/contact/indian-land-sc-insurance/",
+      "phone": "+18038023388"
+    },
+    {
+      "id": 1000738,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://springsinsurance.com/contact/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://springsinsurance.com/contact/indian-land-sc-insurance/",
+      "phone": "+18032862111"
+    },
+    {
+      "id": 1000739,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://springsinsurance.com/contact/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://springsinsurance.com/contact/indian-land-sc-insurance/",
+      "phone": "+18035472003"
+    },
+    {
+      "id": 1000740,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://faulknerlawfirm.com/meet-our-team/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://faulknerlawfirm.com/meet-our-team/"
+    },
+    {
+      "id": 1000741,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://faulknerlawfirm.com/meet-our-team/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://faulknerlawfirm.com/meet-our-team/"
+    },
+    {
+      "id": 1000742,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.elvallerestaurante.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.elvallerestaurante.com/",
+      "phone": "+17048451417"
+    },
+    {
+      "id": 1000743,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.elvallerestaurante.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.elvallerestaurante.com/",
+      "phone": "+19802379162"
+    },
+    {
+      "id": 1000744,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.dignitymemorial.com/funeral-homes/north-carolina/stanley/carothers-funeral-home/7277",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.dignitymemorial.com/funeral-homes/north-carolina/stanley/carothers-funeral-home/7277"
+    },
+    {
+      "id": 1000745,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thelearningexperience.com/centers/belmont/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://thelearningexperience.com/centers/belmont/",
+      "phone": "+17048293095"
+    },
+    {
+      "id": 1000746,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.littleeinsteinsinfo.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.littleeinsteinsinfo.com/",
+      "phone": "+17042153584"
+    },
+    {
+      "id": 1000747,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.eastbelmontbaptist.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.eastbelmontbaptist.org/",
+      "phone": "+17048255780"
+    },
+    {
+      "id": 1000748,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vitalitymedicalspa.com/location/belmont/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://vitalitymedicalspa.com/location/belmont/",
+      "phone": "+17044618393"
+    },
+    {
+      "id": 1000749,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://joinopticore.com/physician-referral",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://joinopticore.com/physician-referral",
+      "phone": "+17044486412"
+    },
+    {
+      "id": 1000750,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ncfbins.com/belmont",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.ncfbins.com/belmont",
+      "phone": "+17048255433"
+    },
+    {
+      "id": 1000751,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sfcarolinas.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://sfcarolinas.com/",
+      "phone": "+17048293112"
+    },
+    {
+      "id": 1000752,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rollinsinsuranceagency.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.rollinsinsuranceagency.com/",
+      "phone": "+17048254010"
+    },
+    {
+      "id": 1000753,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.neilbrockagency.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.neilbrockagency.com/",
+      "phone": "+17048296868"
+    },
+    {
+      "id": 1000754,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.catawbariverantiquemall.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.catawbariverantiquemall.com/",
+      "phone": "+17048252383"
+    },
+    {
+      "id": 1000755,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://belmontbatcave.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://belmontbatcave.com/",
+      "phone": "+19809903223"
+    },
+    {
+      "id": 1000756,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://totalbondvet.com/belmont-nc/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://totalbondvet.com/belmont-nc/",
+      "phone": "+17048741802"
+    },
+    {
+      "id": 1000757,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.catawbaheightsanimalhospital.com/locations/catawba-heights-animal-hospital",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.catawbaheightsanimalhospital.com/locations/catawba-heights-animal-hospital",
+      "phone": "+17042510238"
+    },
+    {
+      "id": 1000758,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://pegramandnoyes.com/contact/locations/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://pegramandnoyes.com/contact/locations/",
+      "phone": "+17048239495"
+    },
+    {
+      "id": 1000759,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://wealthpointadvisorsnc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://wealthpointadvisorsnc.com/",
+      "phone": "+17046755300"
+    },
+    {
+      "id": 1000760,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fpcgastonia.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.fpcgastonia.org/"
+    },
+    {
+      "id": 1000761,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.covenantcommunitypreschool.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.covenantcommunitypreschool.com/",
+      "phone": "+17046169253"
+    },
+    {
+      "id": 1000762,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.stmarksgastonia.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.stmarksgastonia.org/",
+      "phone": "+17048644531"
+    },
+    {
+      "id": 1000763,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bereagastonia.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.bereagastonia.org/",
+      "phone": "+17048273241"
+    },
+    {
+      "id": 1000764,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.esquirehotel.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.esquirehotel.com/",
+      "phone": "+19808881500"
+    },
+    {
+      "id": 1000765,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.oakstreethealth.com/locations/gastonia-nc/gastonia-doctors-office",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.oakstreethealth.com/locations/gastonia-nc/gastonia-doctors-office",
+      "phone": "+17048992698"
+    },
+    {
+      "id": 1000766,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mypapma.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.mypapma.com/",
+      "phone": "+17048650626"
+    },
+    {
+      "id": 1000767,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cauldervalentine.com/office-locations/gastonia/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.cauldervalentine.com/office-locations/gastonia/",
+      "phone": "+17044702440"
+    },
+    {
+      "id": 1000768,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.insuregaston.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.insuregaston.com/",
+      "phone": "+17048610100",
+      "email": "ewingins@bellsouth.net"
+    },
+    {
+      "id": 1000769,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.eatdrinkagave.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.eatdrinkagave.com/",
+      "phone": "+17048544848",
+      "email": "hello@eatdrinkagave.com"
+    },
+    {
+      "id": 1000770,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.piedmontgastonia.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.piedmontgastonia.com/",
+      "phone": "+17044592606"
+    },
+    {
+      "id": 1000771,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.akropoliscafenc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.akropoliscafenc.com/",
+      "phone": "+17048683636",
+      "email": "bendr327@gmail.com"
+    },
+    {
+      "id": 1000772,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://stores.kay.com/nc/gastonia/688",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://stores.kay.com/nc/gastonia/688",
+      "phone": "+17048659400"
+    },
+    {
+      "id": 1000773,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.poffiegirls.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.poffiegirls.com/",
+      "phone": "+17048660198",
+      "email": "poffie@poffiegirls.com"
+    },
+    {
+      "id": 1000774,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gastonianhalls.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.gastonianhalls.com/",
+      "phone": "+17047043680"
+    },
+    {
+      "id": 1000775,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.eventsatgrace.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.eventsatgrace.com/",
+      "phone": "+17047618111"
+    },
+    {
+      "id": 1000776,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.wilkinsonvet.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.wilkinsonvet.com/",
+      "phone": "+17048249876"
+    },
+    {
+      "id": 1000777,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mywonderacademy.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.mywonderacademy.com/",
+      "phone": "+17046287100"
+    },
+    {
+      "id": 1000778,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.childtime.com/your-local-school/indian-trail-nc-2014/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.childtime.com/your-local-school/indian-trail-nc-2014/",
+      "phone": "+17042342762"
+    },
+    {
+      "id": 1000779,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goddardschool.com/schools/nc/indian-trail/indian-trail",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.goddardschool.com/schools/nc/indian-trail/indian-trail",
+      "phone": "+17042898103"
+    },
+    {
+      "id": 1000780,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://pleasantplainsdental.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://pleasantplainsdental.com/",
+      "phone": "+17042463411"
+    },
+    {
+      "id": 1000781,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.unionprepk-5.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.unionprepk-5.org/"
+    },
+    {
+      "id": 1000782,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.afcurgentcare.com/indian-trail-nc/walk-in-clinic/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.afcurgentcare.com/indian-trail-nc/walk-in-clinic/",
+      "phone": "+17042476598"
+    },
+    {
+      "id": 1000783,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.statewideinsurancenc.com/contact",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.statewideinsurancenc.com/contact",
+      "phone": "+17048217630"
+    },
+    {
+      "id": 1000784,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://nixoninsuranceagencyllc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://nixoninsuranceagencyllc.com/"
+    },
+    {
+      "id": 1000785,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://agentpennington.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://agentpennington.com/",
+      "phone": "+17048823855"
+    },
+    {
+      "id": 1000786,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://whitebarnshop.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://whitebarnshop.com/",
+      "phone": "+17042182996"
+    },
+    {
+      "id": 1000787,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.jazzitupatc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.jazzitupatc.com/",
+      "phone": "+19804252496"
+    },
+    {
+      "id": 1000788,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.indiantrailanimalhospital.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.indiantrailanimalhospital.com/",
+      "phone": "+17043272166"
+    },
+    {
+      "id": 1000789,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://mainstpediatricdentistry.com/areas-we-serve/lowell/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://mainstpediatricdentistry.com/areas-we-serve/lowell/",
+      "phone": "+19809902878",
+      "email": "pedsdds@icloud.com"
+    },
+    {
+      "id": 1000790,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.geico.com/insurance-agents/north-carolina/charlotte/lowell-morgan/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.geico.com/insurance-agents/north-carolina/charlotte/lowell-morgan/",
+      "phone": "+17045962886",
+      "email": "lmorgan@geico.com"
+    },
+    {
+      "id": 1000791,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lowellminimart.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://lowellminimart.com/",
+      "phone": "+19802907067"
+    },
+    {
+      "id": 1000792,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cityvet.com/location/marvin/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.cityvet.com/location/marvin/",
+      "phone": "+17042903727"
+    },
+    {
+      "id": 1000793,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.eastwaymedicalclinic.com/eastway-primary-care",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.eastwaymedicalclinic.com/eastway-primary-care",
+      "phone": "+17043608893"
+    },
+    {
+      "id": 1000794,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.currieinsuranceagency.com/locations/mint-hill-north-carolina/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.currieinsuranceagency.com/locations/mint-hill-north-carolina/",
+      "phone": "+17045734900"
+    },
+    {
+      "id": 1000795,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://myminthillagent.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://myminthillagent.com/",
+      "phone": "+17045260887"
+    },
+    {
+      "id": 1000796,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://toddyounker.biz/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://toddyounker.biz/",
+      "phone": "+17045459111"
+    },
+    {
+      "id": 1000797,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.blackdogdental.com/services/cosmetic-dentistry/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.blackdogdental.com/services/cosmetic-dentistry",
+      "phone": "+17044864132",
+      "email": "info@blackdogdental.com"
+    },
+    {
+      "id": 1000798,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ginasonmain.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.ginasonmain.com/",
+      "phone": "+17049756823"
+    },
+    {
+      "id": 1000799,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lukemedicalclinic.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://lukemedicalclinic.com/",
+      "phone": "+17048273014"
+    },
+    {
+      "id": 1000800,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/lakeside-family-physicians-mountain-island/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.novanthealth.org/locations/clinics/lakeside-family-physicians-mountain-island/",
+      "phone": "+17043163970"
+    },
+    {
+      "id": 1000801,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.leavitt.com/elite/office/mount-holly-124-south-main-street",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.leavitt.com/elite/office/mount-holly-124-south-main-street",
+      "phone": "+17048273151"
+    },
+    {
+      "id": 1000802,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.siskgreenecpa.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.siskgreenecpa.com/",
+      "phone": "+17048221551"
+    },
+    {
+      "id": 1000803,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kpsfinsurance.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://kpsfinsurance.com/",
+      "phone": "+19802772700"
+    },
+    {
+      "id": 1000804,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.stowe-insurance.com/contact-us.html",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.stowe-insurance.com/locations/",
+      "phone": "+17048252620"
+    },
+    {
+      "id": 1000805,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.brightstargrill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.brightstargrill.com/",
+      "phone": "+17048270212"
+    },
+    {
+      "id": 1000806,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://welcometotheholland.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://welcometotheholland.com/",
+      "phone": "+17046015031",
+      "email": "hello@welcometotheholland.com"
+    },
+    {
+      "id": 1000807,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.winsomefarmvenue.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.winsomefarmvenue.com/"
+    },
+    {
+      "id": 1000808,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://buildingblockslc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://buildingblockslc.com/"
+    },
+    {
+      "id": 1000809,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://drdouggeiger.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://drdouggeiger.com/"
+    },
+    {
+      "id": 1000810,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.twentyonemedical.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.twentyonemedical.com/",
+      "phone": "+17042275060",
+      "email": "connect@twentyonemedical.com"
+    },
+    {
+      "id": 1000811,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://youniqueaw.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://youniqueaw.com/",
+      "phone": "+18889853223"
+    },
+    {
+      "id": 1000812,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.maximcharlotte.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.maximcharlotte.com/",
+      "phone": "+17047508801",
+      "email": "info@maximpineville.com"
+    },
+    {
+      "id": 1000813,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://darinmorton.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://darinmorton.com/",
+      "phone": "+17048893030"
+    },
+    {
+      "id": 1000814,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://flameclt.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://flameclt.com/",
+      "phone": "+17042438008"
+    },
+    {
+      "id": 1000815,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sweetpeaspineville.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://sweetpeaspineville.com/",
+      "phone": "+17049100170",
+      "email": "sweetpeas.inquiry@gmail.com"
+    },
+    {
+      "id": 1000816,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://stores.zales.com/nc/pineville/1927",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://stores.zales.com/nc/pineville/1927",
+      "phone": "+17045440305"
+    },
+    {
+      "id": 1000817,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://charlottepetvet.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://charlottepetvet.com/",
+      "phone": "+17048897387"
+    },
+    {
+      "id": 1000818,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.banfield.com/locations/veterinarians/nc/charlotte/pin",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.banfield.com/locations/veterinarians/nc/charlotte/pin",
+      "phone": "+17045545401"
+    },
+    {
+      "id": 1000819,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mycharlottevet.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.mycharlottevet.com/",
+      "phone": "+17049006039"
+    },
+    {
+      "id": 1000820,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.primroseschools.com/schools/waxhaw",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.primroseschools.com/schools/waxhaw",
+      "phone": "+17042435000"
+    },
+    {
+      "id": 1000821,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ducklingschildcare.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.ducklingschildcare.com/",
+      "phone": "+17044413359"
+    },
+    {
+      "id": 1000822,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fivestoneschurch.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.fivestoneschurch.com/",
+      "phone": "+17042435693",
+      "email": "info@fivestoneschurch.com"
+    },
+    {
+      "id": 1000823,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.everbrookacademy.com/our-schools/waxhaw-nc-4814/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.everbrookacademy.com/our-schools/waxhaw-nc-4814/",
+      "phone": "+17047091367"
+    },
+    {
+      "id": 1000824,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carringtonsquaredental.com/contact-us/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.carringtonsquaredental.com/",
+      "phone": "+17042438760"
+    },
+    {
+      "id": 1000825,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://expressionsfamilydental.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://expressionsfamilydental.com/",
+      "phone": "+17042563548",
+      "email": "info@expressionsfamilydental.com"
+    },
+    {
+      "id": 1000826,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://dogwoodfaceandbody.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://dogwoodfaceandbody.com/",
+      "phone": "+17042567027"
+    },
+    {
+      "id": 1000827,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://infinitymedspaandwellness.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://infinitymedspaandwellness.com/",
+      "phone": "+17047339202"
+    },
+    {
+      "id": 1000828,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.topfliteagy.com/locations/waxhaw-north-carolina/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.topfliteagy.com/locations/waxhaw-north-carolina/",
+      "phone": "+17042432100"
+    },
+    {
+      "id": 1000829,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://paytonking.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://paytonking.com/",
+      "phone": "+17042433404"
+    },
+    {
+      "id": 1000830,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rflaw.net/locations/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.rflaw.net/locations/",
+      "phone": "+17047141450",
+      "email": "info@rflaw.net"
+    },
+    {
+      "id": 1000831,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.corkale.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.corkale.com/",
+      "phone": "+17042567757"
+    },
+    {
+      "id": 1000832,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cedarcreekeventsnc.net/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.cedarcreekeventsnc.net/",
+      "phone": "+17043122940"
+    },
+    {
+      "id": 1000833,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.waxhaw.providencevets.com/site/home",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.waxhaw.providencevets.com/site/home",
+      "phone": "+17048430208"
+    },
+    {
+      "id": 1000834,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://serenedentalspa.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://serenedentalspa.com/"
+    },
+    {
+      "id": 1000835,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://daltonfromsf.com/insurance",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://daltonfromsf.com/insurance",
+      "phone": "+17042433443"
+    },
+    {
+      "id": 1000836,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.harlowdentalnc.com/faqs",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.harlowdentalnc.com/faqs",
+      "phone": "+17043336010"
+    },
+    {
+      "id": 1000837,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.harlowdentalnc.com/faqs",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.harlowdentalnc.com/faqs",
+      "phone": "+17045881515"
+    },
+    {
+      "id": 1000838,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.harlowdentalnc.com/faqs",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.harlowdentalnc.com/faqs",
+      "phone": "+17045635327"
+    },
+    {
+      "id": 1000839,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goodshomefurnishings.com/furniturestores/charlottenorthcarolina/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.goodshomefurnishings.com/furniturestores/charlottenorthcarolina/",
+      "phone": "+17049104045"
+    },
+    {
+      "id": 1000840,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.heritagecares.com/our-services/live-stream",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.heritagecares.com/our-services/live-stream",
+      "phone": "+17048212960",
+      "email": "robert@heritagecares.com"
+    },
+    {
+      "id": 1000841,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.heritagecares.com/our-services/live-stream",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.heritagecares.com/our-services/live-stream",
+      "phone": "+17048463771",
+      "email": "michael.kelly@carriageservices.com"
+    },
+    {
+      "id": 1000842,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.heritagecares.com/our-services/live-stream",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.heritagecares.com/our-services/live-stream",
+      "phone": "+17047141540",
+      "email": "robin@heritagecares.com"
+    },
+    {
+      "id": 1000843,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.villagemontessori.com/enrollment/full-day-programs.cfm",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.villagemontessori.com/enrollment/full-day-programs.cfm",
+      "phone": "+18034625288",
+      "email": "info@villagemontessori.com"
+    },
+    {
+      "id": 1000844,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kidsrkids.com/fort-mill/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://kidsrkids.com/fort-mill/",
+      "phone": "+18037970700"
+    },
+    {
+      "id": 1000845,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goldhillpreschool.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.goldhillpreschool.com/",
+      "phone": "+18039372026"
+    },
+    {
+      "id": 1000846,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fmcog.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.fmcog.com/",
+      "phone": "+18035472629",
+      "email": "contact@fmcog.com"
+    },
+    {
+      "id": 1000847,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://iccsc.org/facility",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://iccsc.org/facility"
+    },
+    {
+      "id": 1000848,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.morningstarfortmill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.morningstarfortmill.com/",
+      "phone": "+18038025544"
+    },
+    {
+      "id": 1000849,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fmnaz.church/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://fmnaz.church/",
+      "phone": "+18035484633",
+      "email": "info@fmnaz.church"
+    },
+    {
+      "id": 1000850,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.dobysbridgechurch.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.dobysbridgechurch.com/",
+      "phone": "+18035475240",
+      "email": "dbpcsecretary@gmail.com"
+    },
+    {
+      "id": 1000851,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.freedomintegrativecancercenter.com/primary-care",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.freedomintegrativecancercenter.com/primary-care",
+      "phone": "+18035474922"
+    },
+    {
+      "id": 1000852,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lightfamilywellness.com/direct-primary-care/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://lightfamilywellness.com/direct-primary-care/",
+      "phone": "+17045941140",
+      "email": "info@lightfamilywellness.com"
+    },
+    {
+      "id": 1000853,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gillagencies.com/contact/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.gillagencies.com/contact/",
+      "phone": "+18033245300"
+    },
+    {
+      "id": 1000854,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mcdonnelllawfirm.com/copy-of-office-locations",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.mcdonnelllawfirm.com/copy-of-office-locations",
+      "email": "info@mcdonnelllawfirm.com"
+    },
+    {
+      "id": 1000855,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://simpsonestatelaw.com/contact-us",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://simpsonestatelaw.com/contact-us",
+      "phone": "+18037649555",
+      "email": "info@simpsonestatelaw.com"
+    },
+    {
+      "id": 1000856,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://simpsonestatelaw.com/contact-us",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://simpsonestatelaw.com/contact-us",
+      "phone": "+18037649555",
+      "email": "info@simpsonestatelaw.com"
+    },
+    {
+      "id": 1000857,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://newtoncpapllc.com/index.php/services/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://newtoncpapllc.com/index.php/services/",
+      "phone": "+18038100824",
+      "email": "allison@newtoncpapllc.com"
+    },
+    {
+      "id": 1000858,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://firebirdsrestaurants.com/fort-mill",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://firebirdsrestaurants.com/fort-mill"
+    },
+    {
+      "id": 1000859,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://akahanafortmill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://akahanafortmill.com/",
+      "phone": "+18035480036"
+    },
+    {
+      "id": 1000860,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://panchitosmexicangrill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://panchitosmexicangrill.com/"
+    },
+    {
+      "id": 1000861,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.samantacafefortmill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.samantacafefortmill.com/",
+      "phone": "+19802105920"
+    },
+    {
+      "id": 1000862,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.thespeckledpear.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.thespeckledpear.com/",
+      "email": "info@thespeckledpear.com"
+    },
+    {
+      "id": 1000863,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.poppyseedkitchen.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.poppyseedkitchen.com/",
+      "email": "dine@poppyseedkitchen.com"
+    },
+    {
+      "id": 1000864,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tyndallfurniture.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.tyndallfurniture.com/",
+      "phone": "+18038027710",
+      "email": "info@tyndallfurniture.com"
+    },
+    {
+      "id": 1000865,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cambriafortmill.com/fortmillevents/fort-mill-weddings",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.cambriafortmill.com/fortmillevents/fort-mill-weddings",
+      "phone": "+18035789960"
+    },
+    {
+      "id": 1000866,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bloomatdobyspond.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.bloomatdobyspond.com/",
+      "phone": "+18038188160",
+      "email": "bloomatdobyspond@gmail.com"
+    },
+    {
+      "id": 1000867,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.catawbafallsevents.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.catawbafallsevents.com/",
+      "phone": "+18038045999",
+      "email": "info@catawbafallsevents.com"
+    },
+    {
+      "id": 1000868,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.themirrorroom.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.themirrorroom.com/",
+      "phone": "+17047246929"
+    },
+    {
+      "id": 1000869,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vcahospitals.com/indian-land",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://vcahospitals.com/indian-land"
+    },
+    {
+      "id": 1000870,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://millspringsah.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://millspringsah.com/",
+      "phone": "+18039690626",
+      "email": "contact@millspringsah.com"
+    },
+    {
+      "id": 1000871,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.palmettochildrensacademy.com/preschool/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.palmettochildrensacademy.com/preschool/",
+      "phone": "+18033664500",
+      "email": "kim.baker@palmettochildrensacademy.com"
+    },
+    {
+      "id": 1000872,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.catawbalive.com/cbcdc/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.catawbalive.com/cbcdc/",
+      "phone": "+18033241194",
+      "email": "cbcdc@catawbalive.com"
+    },
+    {
+      "id": 1000873,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://bbmacademy.com/location/rock-hill/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://bbmacademy.com/location/rock-hill/",
+      "phone": "+18033102423"
+    },
+    {
+      "id": 1000874,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.sunshinehouse.com/center/sunshine-house-of-rock-hill/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.sunshinehouse.com/center/sunshine-house-of-rock-hill/",
+      "phone": "+18033294175"
+    },
+    {
+      "id": 1000875,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.resurrectionrockhill.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.resurrectionrockhill.org/",
+      "phone": "+14236536920"
+    },
+    {
+      "id": 1000876,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.calvarychapelrockhill.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.calvarychapelrockhill.com/",
+      "phone": "+18033293929",
+      "email": "info@calvarychapelrockhill.com"
+    },
+    {
+      "id": 1000877,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://illuminechurch.com/contact",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://illuminechurch.com/contact",
+      "phone": "+18038109398",
+      "email": "illuminechurch@gmail.com"
+    },
+    {
+      "id": 1000878,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://stmarysrh.org/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://stmarysrh.org/",
+      "phone": "+18033291008"
+    },
+    {
+      "id": 1000879,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hillcity.cc/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.hillcity.cc/",
+      "email": "info@hillcity.cc"
+    },
+    {
+      "id": 1000880,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.magnoliaroom.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.magnoliaroom.com/",
+      "phone": "+18033668226",
+      "email": "info@magnoliaroom.com"
+    },
+    {
+      "id": 1000881,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.riverwalkevent.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.riverwalkevent.com/",
+      "phone": "+18033243400",
+      "email": "info@riverwalkevent.com"
+    },
+    {
+      "id": 1000882,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lakeshorecf.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://lakeshorecf.com/",
+      "phone": "+18035482755"
+    },
+    {
+      "id": 1000883,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://totalperio.com/contact/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://totalperio.com/contact/",
+      "phone": "+18036503712",
+      "email": "info@totalperio.com"
+    },
+    {
+      "id": 1000884,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.altogetherfuneral.com/funeral-cremation/markets/tega-cay-north-carolina/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.altogetherfuneral.com/funeral-cremation/markets/tega-cay-north-carolina/",
+      "phone": "+17042189955"
+    },
+    {
+      "id": 1000885,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.altogetherfuneral.com/funeral-cremation/markets/tega-cay-north-carolina/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.altogetherfuneral.com/funeral-cremation/markets/tega-cay-north-carolina/",
+      "phone": "+17045942525"
+    },
+    {
+      "id": 1000886,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/steele-creek-family-medicine/location/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.novanthealth.org/locations/clinics/steele-creek-family-medicine/location/",
+      "phone": "+17043161700"
+    },
+    {
+      "id": 1000887,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cosaintinsurance.com/service-areas/tega-cay/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.cosaintinsurance.com/service-areas/tega-cay/",
+      "phone": "+17049352777",
+      "email": "info@moultoninsgroup.com"
+    },
+    {
+      "id": 1000888,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cosaintinsurance.com/service-areas/tega-cay/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.cosaintinsurance.com/service-areas/tega-cay/",
+      "phone": "+18775298127",
+      "email": "info@moultoninsgroup.com"
+    },
+    {
+      "id": 1000889,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gill-holler.com/locations/tega-cay-insurance-agency",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.gill-holler.com/locations/tega-cay-insurance-agency",
+      "phone": "+18035485907",
+      "email": "dholler@gillagencies.com"
+    },
+    {
+      "id": 1000890,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.greekgrillsc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.greekgrillsc.com/",
+      "phone": "+18033962949"
+    },
+    {
+      "id": 1000891,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thegarrisontc.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://thegarrisontc.com/",
+      "phone": "+18038024600"
+    },
+    {
+      "id": 1000892,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://velvetcoupewine.com/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://velvetcoupewine.com/",
+      "phone": "+18036203822"
+    },
+    {
+      "id": 1000893,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://tegacaydeli.com/contact/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://tegacaydeli.com/contact/",
+      "phone": "+18033961500",
+      "email": "tegacaydeli@gmail.com"
+    },
+    {
+      "id": 1000894,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+      "phone": "+17049007770"
+    },
+    {
+      "id": 1000895,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+      "phone": "+17042374631"
+    },
+    {
+      "id": 1000896,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+      "phone": "+17045427770"
+    },
+    {
+      "id": 1000897,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+      "phone": "+17045421019"
+    },
+    {
+      "id": 1000898,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+      "phone": "+19808196123"
+    },
+    {
+      "id": 1000899,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+      "phone": "+17048390344"
+    },
+    {
+      "id": 1000900,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+      "phone": "+19809497234"
+    },
+    {
+      "id": 1000901,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+      "phone": "+17042466362"
+    },
+    {
+      "id": 1000902,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+      "phone": "+17042565006"
+    },
+    {
+      "id": 1000903,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+          "type": "company website",
+          "date": "2026-09-30"
+        }
+      ],
+      "verified": "2026-09-30",
+      "website": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
+      "phone": "+19809995184"
     }
   ]
 }

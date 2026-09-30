@@ -9,7 +9,7 @@ export function accountUrl(raw){
   if(platform==='facebook'&&parts[0]==='profile.php'&&/^\d+$/.test(u.searchParams.get('id')||''))path='profile.php?id='+u.searchParams.get('id');
   else if(platform==='facebook'&&parts[0]==='pages'&&parts.length===3&&/^\d+$/.test(parts[2]))path='profile.php?id='+parts[2];
   else if(platform==='facebook'&&parts[0]==='people'&&parts.length===3&&/^\d+$/.test(parts[2]))path='profile.php?id='+parts[2];
-  else if(['instagram','facebook'].includes(platform)&&parts.length===1&&/^[A-Za-z0-9_.-]+$/.test(parts[0])&&!['p','reel','reels','stories','explore','accounts','direct','share','sharer','sharer.php','dialog','login','watch','groups','events','pages','profile.php','intent','plugins','hashtag','search'].includes(parts[0].toLowerCase()))path=parts[0].toLowerCase();
+  else if(['instagram','facebook'].includes(platform)&&parts.length===1&&/^[A-Za-z0-9_.-]+$/.test(parts[0])&&!['p','reel','reels','stories','explore','accounts','direct','share','sharer','sharer.php','dialog','login','watch','groups','events','pages','profile.php','photo.php','photos','permalink.php','story.php','policy.php','privacy','policies','help','intent','plugins','hashtag','search'].includes(parts[0].toLowerCase()))path=parts[0].toLowerCase();
   else if(platform==='tiktok'&&parts.length===1&&/^@[A-Za-z0-9_.]+$/.test(parts[0]))path=parts[0].toLowerCase();
   else if(platform==='linkedin'&&parts.length===2&&parts[0]==='company'&&/^[A-Za-z0-9_-]+$/.test(parts[1]))path=parts.join('/').toLowerCase();
   else if(platform==='youtube'&&((parts.length===1&&/^@[A-Za-z0-9_.-]+$/.test(parts[0]))||(parts.length===2&&['channel','user','c'].includes(parts[0])&&/^[A-Za-z0-9_-]+$/.test(parts[1]))))path=parts.join('/');

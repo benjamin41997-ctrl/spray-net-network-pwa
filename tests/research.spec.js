@@ -44,6 +44,9 @@ test('findings resolve independently by actual contact date, ignore removed entr
 test('research log distinguishes checked sources, unresolved leads and queued areas',async({page})=>{
  const log=JSON.parse(await readFile(new URL('../site/data/research.json',import.meta.url),'utf8'));
  const passes=log.passes.filter(p=>p.area==='fort_mill'&&p.category==='professional').sort((a,b)=>b.searchedOn.localeCompare(a.searchedOn));
+ // Exercise the unsearched state with a fixture; production coverage can grow.
+ const fixture={...log,passes:log.passes.filter(p=>!(p.area==='marvin'&&p.category==='professional'))};
+ await page.route('**/data/research.json',route=>route.fulfill({json:fixture}));
  await page.goto('./#mailing');
  await page.locator('#mail-coverage > summary').click();
  await page.locator('#coverage-category').selectOption('professional');
