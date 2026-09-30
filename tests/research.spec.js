@@ -4,7 +4,8 @@ import {latestFindings,prospectRatings,validateFindings,validateProspect,approva
 import {validateActivity,parseBackup,today} from '../site/tracker-store.js';
 import {validateResearch} from '../site/research-model.js';
 import {mailingCategories,selectRecipients,defaultFilters,mergeMailingCatalog} from '../site/mailing-model.js';
-const catalog=JSON.parse(await readFile(new URL('../site/data/mailing.json',import.meta.url),'utf8')).recipients;
+const directory=JSON.parse(await readFile(new URL('../site/data/directory.json',import.meta.url),'utf8'));
+const catalog=mergeMailingCatalog(JSON.parse(await readFile(new URL('../site/data/mailing.json',import.meta.url),'utf8')).recipients,directory.companies);
 const bice=catalog.find(r=>r.name==='Bice Law - Fort Mill');
 const activity=(extra={})=>({id:'finding-1',companyId:bice.id,companyName:bice.name,contactId:null,contactName:'',recipient:'Office manager',type:'call',delivery:'',occurredOn:'2026-09-01',material:'',notes:'',outcome:'',followUpOn:'',followUpDone:false,createdAt:'2026-09-01T12:00:00Z',updatedAt:'2026-09-01T12:00:00Z',deletedAt:null,...extra});
 test('rating exports stop when private findings cannot load',async({page},info)=>{

@@ -1,5 +1,6 @@
 import {test,expect} from '@playwright/test';
 import {readFile} from 'node:fs/promises';
+const directoryCompanyCount=String(JSON.parse(await readFile(new URL('../site/data/directory.json',import.meta.url),'utf8')).counts.companies);
 import {accountUrl,validateSocial,socialCompanies,progressKey} from '../site/social-model.js';
 import {parseSocialBackup,validateProgress} from '../site/social-store.js';
 test('social research rejects unsafe links and preserves distinct account identity',async({},info)=>{
@@ -43,5 +44,5 @@ test('shared brand progress applies across offices and storage failure never imp
  await expect(page.locator('[data-social-url]')).toHaveCount(2);await page.locator('[data-social-url]').first().selectOption('followed');await expect(page.locator('[data-social-url]').last()).toHaveValue('followed');
  await page.addInitScript(()=>{const open=IDBFactory.prototype.open;IDBFactory.prototype.open=function(name,...args){if(name==='spray-net-social-progress')throw Error('Social storage unavailable');return open.call(this,name,...args)}});
  await page.reload();await expect(page.locator('#social-storage')).toContainText('status is unknown');await page.locator('#social-progress').selectOption('pending');await expect(page.locator('[data-social-url]')).toHaveCount(0);
- await page.getByRole('button',{name:'Back to directory'}).click();await expect(page.locator('#company-count')).toHaveText('557');
+ await page.getByRole('button',{name:'Back to directory'}).click();await expect(page.locator('#company-count')).toHaveText(directoryCompanyCount);
 });

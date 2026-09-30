@@ -1,5 +1,6 @@
 import {test,expect} from '@playwright/test';
 import {readFile} from 'node:fs/promises';
+const directoryCompanyCount=String(JSON.parse(await readFile(new URL('../site/data/directory.json',import.meta.url),'utf8')).counts.companies);
 import {newSuggestion,bundle,parseSuggestions,validateConfig,validateRecords} from '../site/suggestions-model.js';
 const fixture=()=>newSuggestion({business:'Test Business',city:'Fort Mill',suggestedBy:'Family member',notes:'Owner suggested a conversation.'});
 async function add(page,name='Test Business'){
@@ -33,7 +34,7 @@ test('suggestion handoff, offline persistence, research and repeat import preser
  await card.locator('[name="status"]').selectOption('added');await card.getByRole('button',{name:'Save review'}).click();await expect(card.locator('.suggestion-review-message')).toContainText('Select the existing');
  await card.locator('[name="companyId"]').fill('2');await card.getByRole('button',{name:'Save review'}).click();await expect(page.locator('#suggestion-message')).toContainText('No directory entry was published');
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
- await page.getByRole('button',{name:'Back to directory'}).click();await expect(page.locator('#company-count')).toHaveText('557');
+ await page.getByRole('button',{name:'Back to directory'}).click();await expect(page.locator('#company-count')).toHaveText(directoryCompanyCount);
 });
 test('new browser imports a handoff safely and rejects an invalid batch atomically',async({page})=>{
  await page.goto('./#suggest');await page.locator('#suggestions > details > summary').click();const row=fixture();

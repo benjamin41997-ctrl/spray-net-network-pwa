@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-09-22",
+  "publishedAt": "2026-09-29",
   "coverage": "Expanded from official school and health-system directories, the CMS organization registry, and an evidence audit of all 557 CRM companies. Each published record has a source and its actual review date. Registry records are identified and may lag changes in trading name or occupancy. Ambiguous identities and conflicting or incomplete CRM evidence stay held. Counts measure collected addresses, not complete market coverage. Exterior routes are evidence-based research judgments, not deed or lease verification. Postal delivery, surface condition, coating suitability and permission to visit still need confirmation.",
   "recipients": [
     {
@@ -24519,6 +24519,424 @@
         }
       },
       "id": 1000562
+    },
+    {
+      "id": 1029,
+      "name": "Ashley DeLapp Interior Design",
+      "category": "kitchen",
+      "attention": "",
+      "address1": "119 Brandywine Rd",
+      "address2": "Suite A",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28209",
+      "country": "US",
+      "source": "https://ashleydelapp.com/contact",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Published business address verified. Property ownership and authority to approve exterior work have not been verified.",
+        "source": "https://ashleydelapp.com/contact",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1042,
+      "name": "Legacy Countertops",
+      "category": "kitchen",
+      "attention": "",
+      "address1": "300 Westinghouse Blvd",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28273",
+      "country": "US",
+      "source": "https://legacytops.com/products/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Published business address verified. Property ownership and authority to approve exterior work have not been verified.",
+        "source": "https://legacytops.com/products/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1043,
+      "name": "MC Granite Countertops Charlotte",
+      "category": "kitchen",
+      "attention": "",
+      "address1": "2720 Westport Road",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28208",
+      "country": "US",
+      "source": "https://www.mcgranitecharlotte.com/contact-us/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Published business address verified. Property ownership and authority to approve exterior work have not been verified.",
+        "source": "https://www.mcgranitecharlotte.com/contact-us/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1048,
+      "name": "Lynn Blackwell Design",
+      "category": "kitchen",
+      "attention": "",
+      "address1": "223 Main Street",
+      "address2": "",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29715",
+      "country": "US",
+      "source": "https://lynnblackwell.com/contact/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Published business address verified. Property ownership and authority to approve exterior work have not been verified.",
+        "source": "https://lynnblackwell.com/contact/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1067,
+      "name": "Home, Heart & Soul",
+      "category": "kitchen",
+      "attention": "",
+      "address1": "20901 Catawba Avenue",
+      "address2": "",
+      "city": "Cornelius",
+      "state": "NC",
+      "zip": "28031",
+      "country": "US",
+      "source": "https://homeheartandsoul.com/pages/contact-us",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Published business address verified. Property ownership and authority to approve exterior work have not been verified.",
+        "source": "https://homeheartandsoul.com/pages/contact-us",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1077,
+      "name": "KBN Interiors",
+      "category": "kitchen",
+      "attention": "",
+      "address1": "331 Catawba Street",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.kbninteriors.com/contact-kbn-interiors",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Published business address verified. Property ownership and authority to approve exterior work have not been verified.",
+        "source": "https://www.kbninteriors.com/contact-kbn-interiors",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1084,
+      "name": "AVSONS Kitchen & Bath",
+      "category": "kitchen",
+      "attention": "",
+      "address1": "3700 Gribble Road",
+      "address2": "Shop #3",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28104",
+      "country": "US",
+      "source": "https://www.avsonskitchen.com/contact",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Published business address verified. Property ownership and authority to approve exterior work have not been verified.",
+        "source": "https://www.avsonskitchen.com/contact",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1086,
+      "name": "Universal Stone LLC",
+      "category": "kitchen",
+      "attention": "",
+      "address1": "4806 Rozzelles Ferry Rd",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28216",
+      "country": "US",
+      "source": "https://universalstonenc.com/contact",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Published business address verified. Property ownership and authority to approve exterior work have not been verified.",
+        "source": "https://universalstonenc.com/contact",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1087,
+      "name": "Stone Basyx Charlotte",
+      "category": "kitchen",
+      "attention": "",
+      "address1": "1400 Westinghouse Blvd",
+      "address2": "Unit 200",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28273",
+      "country": "US",
+      "source": "https://www.stonebasyx.com/locations/charlotte/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Published business address verified. Property ownership and authority to approve exterior work have not been verified.",
+        "source": "https://www.stonebasyx.com/locations/charlotte/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1088,
+      "name": "Asso Stone",
+      "category": "kitchen",
+      "attention": "",
+      "address1": "4619 South Blvd",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28209",
+      "country": "US",
+      "source": "https://www.assostone.com/contact/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Published business address verified. Property ownership and authority to approve exterior work have not been verified.",
+        "source": "https://www.assostone.com/contact/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1000563,
+      "name": "Forever Young Aesthetics",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "1040 Edgewater Corporate Pkwy",
+      "address2": "Suite 105",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://forever-young-you.com/contact/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Current business address published by the business. Ownership and authority to approve exterior work are not verified.",
+        "source": "https://forever-young-you.com/contact/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1000564,
+      "name": "Blue Root Health",
+      "category": "medical",
+      "attention": "",
+      "address1": "227 Main Street",
+      "address2": "",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29715",
+      "country": "US",
+      "source": "https://blueroothealth.com/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Current business address published by the business. Ownership and authority to approve exterior work are not verified.",
+        "source": "https://blueroothealth.com/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1000565,
+      "name": "Miriam Medical Clinic",
+      "category": "medical",
+      "attention": "",
+      "address1": "1926 India Hook Rd",
+      "address2": "",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29732",
+      "country": "US",
+      "source": "https://www.miriammed.com/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Current business address published by the business. Ownership and authority to approve exterior work are not verified.",
+        "source": "https://www.miriammed.com/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1000566,
+      "name": "Marrelli's Italian Restaurant",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "33 Glenway Street",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://marrellis.com/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Current business address published by the business. Ownership and authority to approve exterior work are not verified.",
+        "source": "https://marrellis.com/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1000567,
+      "name": "Tasty",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "3826 S New Hope Rd",
+      "address2": "STE 1 & 2",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28056",
+      "country": "US",
+      "source": "https://www.tastync.com/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Current business address published by the business. Ownership and authority to approve exterior work are not verified.",
+        "source": "https://www.tastync.com/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1000568,
+      "name": "Mayworth's Public House",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "115 Center St",
+      "address2": "",
+      "city": "Cramerton",
+      "state": "NC",
+      "zip": "28032",
+      "country": "US",
+      "source": "https://mayworths.com/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Current business address published by the business. Ownership and authority to approve exterior work are not verified.",
+        "source": "https://mayworths.com/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1000569,
+      "name": "Constantine's Restaurant",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "1825 S New Hope Rd",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28054",
+      "country": "US",
+      "source": "https://constantinesrestaurant.us/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Current business address published by the business. Ownership and authority to approve exterior work are not verified.",
+        "source": "https://constantinesrestaurant.us/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1000570,
+      "name": "Floyd & Blackie's",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "142 Eighth Avenue",
+      "address2": "",
+      "city": "Cramerton",
+      "state": "NC",
+      "zip": "28032",
+      "country": "US",
+      "source": "https://www.floydandblackies.com/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Current business address published by the business. Ownership and authority to approve exterior work are not verified.",
+        "source": "https://www.floydandblackies.com/",
+        "reviewedOn": "2026-09-29"
+      }
+    },
+    {
+      "id": 1000571,
+      "name": "Rise and Shine Dentistry",
+      "category": "dentist",
+      "attention": "",
+      "address1": "1578 Constitution Blvd",
+      "address2": "Ste 1",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29732",
+      "country": "US",
+      "source": "https://www.riseandshinedentistry.com/",
+      "reviewedOn": "2026-09-29",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Current business address published by the business. Ownership and authority to approve exterior work are not verified.",
+        "source": "https://www.riseandshinedentistry.com/",
+        "reviewedOn": "2026-09-29"
+      }
     }
   ]
 }

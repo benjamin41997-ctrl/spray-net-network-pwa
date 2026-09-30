@@ -1,6 +1,7 @@
 import {test,expect} from '@playwright/test';
 import ExcelJS from 'exceljs';
 import {readFile} from 'node:fs/promises';
+const directoryCompanyCount=String(JSON.parse(await readFile(new URL('../site/data/directory.json',import.meta.url),'utf8')).counts.companies);
 import {defaultFilters,selectRecipients,csvFor,validateRecipient,mergeMailingCatalog} from '../site/mailing-model.js';
 import {validateMailingState,mergeMailingState} from '../site/mailing-store.js';
 const published=JSON.parse(await readFile(new URL('../site/data/mailing.json',import.meta.url),'utf8')).recipients.filter(r=>r.status==='published');
@@ -169,7 +170,7 @@ test('unavailable mailing storage blocks exports without breaking the directory'
   test.skip(testInfo.project.name!=='desktop','Storage failure runs once');
   await page.addInitScript(()=>{const open=IDBFactory.prototype.open;IDBFactory.prototype.open=function(name,...args){if(name==='spray-net-mailing-lists')throw Error('Mailing storage disabled');return open.call(this,name,...args);};});
   await page.goto('./#mailing');await expect(page.getByRole('alert')).toContainText('Mailing storage disabled');await expect(page.getByRole('button',{name:'Export Excel (.xlsx)'})).toBeDisabled();
-  await page.getByRole('button',{name:'Back to directory'}).click();await expect(page.locator('#company-count')).toHaveText('557');
+  await page.getByRole('button',{name:'Back to directory'}).click();await expect(page.locator('#company-count')).toHaveText(directoryCompanyCount);
 });
 
 test('mailing backups retain exclusions and exported lists; bad ZIP filters cannot silently export',async({page,browser},testInfo)=>{
