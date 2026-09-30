@@ -1,1 +1,2119 @@
-{"schemaVersion":1,"passes":[{"id":"2026-09-22-fort_mill-restaurant","area":"fort_mill","category":"restaurant","searchedOn":"2026-09-22","sources":[{"label":"Fish Market Bar & Grill","url":"https://www.fishmarketbarandgrill.com/location/fish-market/"},{"label":"The Flipside Cafe","url":"https://www.theflipsiderestaurant.com/the-flipside-cafe"}],"unresolved":["The Flipside Cafe: Business website omits a suite. York County lists multiple suites at 3150 Highway 21; confirm the delivery unit before mailing. Exterior responsibility also needs review."],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[1000539,1000540]},{"id":"2026-09-22-fort_mill-lodging","area":"fort_mill","category":"lodging","searchedOn":"2026-09-22","sources":[{"label":"Discover Fort Mill lodging directory","url":"https://discoverfortmill.org/stay/"}],"unresolved":["Directory text lists lodging sections without usable named B&B addresses; direct retrieval returned HTTP 403. No independent lodging address accepted."],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[]},{"id":"2026-09-22-fort_mill-med_spa","area":"fort_mill","category":"med_spa","searchedOn":"2026-09-22","sources":[{"label":"Infinite Medical Spa","url":"https://www.waynemoliver.com/Home.htm"},{"label":"Ador Skin Lab","url":"https://www.adorskinlab.com/"},{"label":"The Aesthetic Spa at WDF","url":"https://www.wdfplasticsurgery.com/theaestheticspa"},{"label":"Legacy Health & Wellness","url":"https://www.legacyhealthwellness.com/"},{"label":"Meraki Aesthetics & Co. - Fort Mill","url":"https://merakiaestheticsandco.com/contact/"},{"label":"Southeast Sculpting + Rejuvenation","url":"https://sesculpting.com/"}],"unresolved":[],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[1000550,1000106,1000107,1000108,1000109,1000110]},{"id":"2026-09-22-fort_mill-professional","area":"fort_mill","category":"professional","searchedOn":"2026-09-22","sources":[{"label":"Bice Law - Fort Mill","url":"https://bicelaw.us/contact/"},{"label":"Nantz Law - Fort Mill","url":"https://nantzlawfirm.com/contact/"},{"label":"Palmetto Law Associates - Fort Mill","url":"https://www.palmetto-law.com/contact"}],"unresolved":["Nantz parcel match has restaurant land-use coding; reconcile with the currently advertised law-office use."],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[1000551,1000553,1000559]},{"id":"2026-09-22-rock_hill-restaurant","area":"rock_hill","category":"restaurant","searchedOn":"2026-09-22","sources":[{"label":"Kounter","url":"https://www.kounterdining.com/menus"}],"unresolved":[],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[1000541]},{"id":"2026-09-22-rock_hill-lodging","area":"rock_hill","category":"lodging","searchedOn":"2026-09-22","sources":[{"label":"East Main Guest House","url":"https://eastmainguesthouse.com/contact-us/"},{"label":"Tourism bureau inn/operator profile","url":"https://www.visityorkcounty.com/blog/post/love-in-the-heart-of-rock-hill/"}],"unresolved":["Inn contact page returned HTTP 406 on direct retrieval; existing address was corroborated with tourism and county records. Additional independent lodging still needs discovery."],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[1000117]},{"id":"2026-09-22-rock_hill-med_spa","area":"rock_hill","category":"med_spa","searchedOn":"2026-09-22","sources":[{"label":"Palmetto Breeze Med Spa","url":"https://palmettoskinandlasercenter.com/contact/"},{"label":"Metrolina Medical Spa","url":"https://www.metrolinamedicalspa.com/location.php"},{"label":"Pennington Med Spa","url":"https://penningtonmedspa.com/contact-us/"}],"unresolved":["Metrolina advertises a building address while county includes a suite 200 point. Confirm delivery unit and shared-building responsibilities."],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[1000545,1000546,1000547]},{"id":"2026-09-22-rock_hill-professional","area":"rock_hill","category":"professional","searchedOn":"2026-09-22","sources":[{"label":"Bice Law - Rock Hill","url":"https://bicelaw.us/contact/"},{"label":"Nantz Law - Rock Hill","url":"https://nantzlawfirm.com/contact/"},{"label":"Shaw & Cannon","url":"https://shawlawfirm.net/index.aspx?TypeContent=CONTACTUS"}],"unresolved":[],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[1000552,1000554,1000558]},{"id":"2026-09-22-indian_land-restaurant","area":"indian_land","category":"restaurant","searchedOn":"2026-09-22","sources":[{"label":"Towne Tavern at Indian Land","url":"https://indianland.townetavernrestaurants.com/"},{"label":"521 BBQ & Grill - Indian Land","url":"https://www.521bbqil.com/"},{"label":"Rendezbrew","url":"https://www.rendezbrewcafe.com/"},{"label":"Lancaster County official parcel map: address queries checked","url":"https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48"}],"unresolved":["Lancaster County parcel matching remains pending; York County parcel data does not cover this area.","Exact street-number/road-name queries did not match the reviewed Indian Land addresses in the linked parcel service. Coordinate/address-point matching remains to be done; parcel ownership is unresolved."],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[1000542,1000543,1000544]},{"id":"2026-09-22-indian_land-lodging","area":"indian_land","category":"lodging","searchedOn":"2026-09-22","sources":[{"label":"Indian Land accommodation discovery","url":"https://www.tripadvisor.com.au/Hotels-g1968674-Indian_Land_South_Carolina-Hotels.html"},{"label":"Laurel Haven official location context","url":"https://laurelhavenestate.com/the-ultimate-vineyard-bed-and-breakfast-near-charlotte-a-romantic-escape-to-laurel-haven-estate/"}],"unresolved":["Search surfaced nearby chain hotels, apartments and a Lancaster venue. No independent inn with an in-area verified business address accepted. This is not evidence that none exist.","Lancaster County parcel matching remains pending; York County parcel data does not cover this area."],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[]},{"id":"2026-09-22-indian_land-med_spa","area":"indian_land","category":"med_spa","searchedOn":"2026-09-22","sources":[{"label":"MINT MedSpa & Laser Studio","url":"https://www.mintmedspa.com/contact"},{"label":"Carolina Medical Partners - MedSpa","url":"https://carolinamedicalpartners.com/home-classic/"},{"label":"Lancaster County official parcel map: address queries checked","url":"https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48"}],"unresolved":["Lancaster County parcel matching remains pending; York County parcel data does not cover this area.","Exact street-number/road-name queries did not match the reviewed Indian Land addresses in the linked parcel service. Coordinate/address-point matching remains to be done; parcel ownership is unresolved."],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[1000548,1000549]},{"id":"2026-09-22-indian_land-professional","area":"indian_land","category":"professional","searchedOn":"2026-09-22","sources":[{"label":"Robert J. Wilson, P.A.","url":"https://www.rjwcpa.com/"},{"label":"Lando Law Firm - Indian Land","url":"https://www.landolawfirm.com/staff/"},{"label":"David Blackwell Law - Indian Land","url":"https://davidblackwelllaw.com/"},{"label":"Michael Johnson, P.C. & Associates - Indian Land","url":"https://www.johnsonsclaw.com/r-michael-johnson-jr"},{"label":"Lancaster County official parcel map: address queries checked","url":"https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48"}],"unresolved":["Lancaster County parcel matching remains pending; York County parcel data does not cover this area.","Exact street-number/road-name queries did not match the reviewed Indian Land addresses in the linked parcel service. Coordinate/address-point matching remains to be done; parcel ownership is unresolved."],"notes":"Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.","nextAction":"Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.","reviewedIds":[1000555,1000556,1000557,1000560]},{"id":"2026-09-22-rock_hill-held-crm","area":"rock_hill","category":"property_management","searchedOn":"2026-09-22","sources":[{"label":"Muse Realty LLC","url":"https://www.muserealtyrentals.com/"},{"label":"Reeves Property Management LLC","url":"https://rentwithreeves.managebuilding.com/Resident/public/contact"}],"unresolved":["Reeves Property Management LLC: Rechecked: current operator portal publishes 1462 Ebenezer Road; BBB specifies unit 101. Prior conflicting address evidence is not fully resolved. Confirm the current office and suite before publishing."],"notes":"Focused recheck of six held CRM companies. Muse street address resolved; remaining incomplete/conflicting addresses retained for review.","nextAction":"Research the remaining held CRM addresses; confirm office and delivery-unit conflicts with the business when public sources do not resolve them.","reviewedIds":[21,23]},{"id":"2026-09-22-regional-held-crm","area":"regional","category":"property_management","searchedOn":"2026-09-22","sources":[{"label":"Elite Team Realty & Property Management","url":"https://elite-team-realty.com/contact-us"},{"label":"Broad Connection Property Management","url":"https://broadconnectionpm.com/contact-us"},{"label":"Rent Now Solutions","url":"https://www.rentnowsolutions.com/more/about-us/our-location"}],"unresolved":["Elite Team Realty & Property Management: Current contact page has a form but no usable street address.","Broad Connection Property Management: Contact page lists the Greater Charlotte service area, email and phone but no office street address.","Rent Now Solutions: Location page could not be retrieved in this pass; no address promoted."],"notes":"Focused recheck of six held CRM companies. Muse street address resolved; remaining incomplete/conflicting addresses retained for review.","nextAction":"Research the remaining held CRM addresses; confirm office and delivery-unit conflicts with the business when public sources do not resolve them.","reviewedIds":[3,13,17]},{"id":"2026-09-22-belmont-restaurant","area":"belmont","category":"restaurant","searchedOn":"2026-09-22","sources":[{"label":"Old Stone Steakhouse","url":"https://www.oldstonesteakhouse.com/"},{"label":"STATION","url":"https://www.stationbelmont.com/"},{"label":"Downtown Belmont directory","url":"https://downtownbelmont.org/directory/old-stone-steakhouse/"}],"unresolved":["Historic-building coating and approval restrictions have not been researched."],"notes":"Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.","nextAction":"Continue category discovery; match properties and confirm exterior authority, condition and visitor access.","reviewedIds":[1000561,1000562]},{"id":"2026-09-22-belmont-med_spa","area":"belmont","category":"med_spa","searchedOn":"2026-09-22","sources":[{"label":"Vitality Belmont location","url":"https://vitalitymedicalspa.com/location/belmont/"}],"unresolved":["One existing practice rechecked; broader discovery and property-owner matching remain."],"notes":"Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.","nextAction":"Continue category discovery; match properties and confirm exterior authority, condition and visitor access.","reviewedIds":[1000112]},{"id":"2026-09-22-belmont-lodging","area":"belmont","category":"lodging","searchedOn":"2026-09-22","sources":[{"label":"The Villa at Waters Edge","url":"https://www.thevillaatwatersedge.com/"}],"unresolved":["Existing lodging address rechecked; additional independent inns and actual owner authority need research."],"notes":"Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.","nextAction":"Continue category discovery; match properties and confirm exterior authority, condition and visitor access.","reviewedIds":[1000118]},{"id":"2026-09-22-belmont-professional","area":"belmont","category":"professional","searchedOn":"2026-09-22","sources":[{"label":"Hester & Payseur contact page","url":"https://www.belmontlawyer.com/contact-us/"},{"label":"Stott Hollowell locations","url":"https://shws.law/"}],"unresolved":["Hester & Payseur page timed out in web retrieval and returned HTTP 406 directly. Existing record retained at its prior review date.","Stott Hollowell lists Gastonia and Mount Holly offices, not a verified Belmont office; not imported into Belmont."],"notes":"Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.","nextAction":"Continue category discovery; match properties and confirm exterior authority, condition and visitor access.","reviewedIds":[]},{"id":"2026-09-22-held-29","area":"rock_hill","category":"real_estate","searchedOn":"2026-09-22","sources":[{"label":"Albright Realty","url":"https://www.albrightrealty.com/about-us"}],"unresolved":["Reviewed about page does not establish a complete street/city/ZIP delivery address."],"notes":"Existing held CRM record rechecked; no uncertain address was promoted.","nextAction":"Find an authoritative complete business address or confirm with the business.","reviewedIds":[29]},{"id":"2026-09-29-coverage-charlotte-property_management","area":"charlotte","category":"property_management","searchedOn":"2026-09-29","sources":[{"label":"Dawson Property Management","url":"https://www.dawsonpropertymanagement.com/"},{"label":"Henderson Properties","url":"https://www.hendersonproperties.com/"},{"label":"KHC Property Management","url":"https://www.khcpropertymanagement.com/indian-land-property-management"},{"label":"Teamwork Real Estate Solutions","url":"https://www.teamworkres.com/"}],"reviewedIds":[16,47,1090,1107],"unresolved":["KHC Property Management: Company identity researched; complete mailing address still needs review.","Teamwork Real Estate Solutions: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-ballantyne-property_management","area":"ballantyne","category":"property_management","searchedOn":"2026-09-29","sources":[{"label":"Greenlight Residential","url":"https://www.greenlightresidential.com/"}],"reviewedIds":[18],"unresolved":[],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-regional-property_management","area":"regional","category":"property_management","searchedOn":"2026-09-29","sources":[{"label":"Wilkinson Property Management Inc.","url":"https://www.wilkinsonpropertymanagement.com/"},{"label":"Four Seasons Property Management Inc.","url":"https://www.fourseasonscharlotte.com/gastonia-property-management"},{"label":"Jamison Property Management","url":"https://www.jamisonpm.com/waxhaw-property-management"},{"label":"PMI Charlotte Metro","url":"https://www.charlottespropertymanagementinc.net/waxhaw-property-management"},{"label":"Magnolia PMG LLC","url":"https://www.magnoliapmg.net/"}],"reviewedIds":[38,39,1100,1102,1104],"unresolved":["Four Seasons Property Management Inc.: Company identity researched; complete mailing address still needs review.","Jamison Property Management: Company identity researched; complete mailing address still needs review.","PMI Charlotte Metro: Company identity researched; complete mailing address still needs review.","Magnolia PMG LLC: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-fort_mill-property_management","area":"fort_mill","category":"property_management","searchedOn":"2026-09-29","sources":[{"label":"CRC PROPERTY MANAGEMENT","url":"https://verify.llronline.com/LicLookup/Rec/Rec2.aspx?cdi=231&LicNum=22030&Name=CRC%20PROPERTY%20MANAGEMENT"},{"label":"PMI Fort Mill","url":"https://www.fortmillpropertymanagementinc.com/"}],"reviewedIds":[496,1103],"unresolved":["PMI Fort Mill: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-charlotte-kitchen","area":"charlotte","category":"kitchen","searchedOn":"2026-09-29","sources":[{"label":"Ashley DeLapp Interior Design","url":"https://ashleydelapp.com/contact"},{"label":"Legacy Countertops","url":"https://legacytops.com/products/"},{"label":"MC Granite Countertops Charlotte","url":"https://www.mcgranitecharlotte.com/contact-us/"},{"label":"Universal Stone LLC","url":"https://universalstonenc.com/contact"},{"label":"Stone Basyx Charlotte","url":"https://www.stonebasyx.com/locations/charlotte/"},{"label":"Asso Stone","url":"https://www.assostone.com/contact/"},{"label":"Georgia Street Design LLC","url":"https://www.georgiastreetdesign.com/"},{"label":"Uptown Style Interiors","url":"https://uptownstylecharlotte.com"},{"label":"lucy and company","url":"https://www.lucyandcompany.com/"},{"label":"704 Granite & Marble Fabricators","url":"https://704granitemarble.com"},{"label":"Hive Haus Interiors LLC","url":"https://www.hivehausinteriors.com/"},{"label":"The Granite House","url":"https://www.thegranitehousenc.com/"},{"label":"Instyle Charlotte","url":"https://instylecharlotte.com/about/"},{"label":"Meta Stone INC.","url":"https://metastoneinc.com/"},{"label":"Gorilla Stone","url":"https://gorillastone.com/"}],"reviewedIds":[1029,1042,1043,1086,1087,1088,1028,1030,1035,1044,1081,1098,1099,1109,1110],"unresolved":["Georgia Street Design LLC: Company identity researched; complete mailing address still needs review.","Uptown Style Interiors: Company identity researched; complete mailing address still needs review.","lucy and company: Company identity researched; complete mailing address still needs review.","704 Granite & Marble Fabricators: Company identity researched; complete mailing address still needs review.","Hive Haus Interiors LLC: Company identity researched; complete mailing address still needs review.","The Granite House: Company identity researched; complete mailing address still needs review.","Instyle Charlotte: Company identity researched; complete mailing address still needs review.","Meta Stone INC.: Company identity researched; complete mailing address still needs review.","Gorilla Stone: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-fort_mill-kitchen","area":"fort_mill","category":"kitchen","searchedOn":"2026-09-29","sources":[{"label":"Lynn Blackwell Design","url":"https://lynnblackwell.com/contact/"},{"label":"Design Envy Interiors","url":"https://www.designenvyinteriors.com/"},{"label":"Brooke & Maisy Interior Design","url":"https://www.brookenmaisy.com"},{"label":"Valentin Design Co.","url":"https://valentindesignco.com"},{"label":"Stone Rox LLC","url":"https://stone-rox.com/"}],"reviewedIds":[1048,1049,1054,1056,1085],"unresolved":["Design Envy Interiors: Company identity researched; complete mailing address still needs review.","Brooke & Maisy Interior Design: Company identity researched; complete mailing address still needs review.","Valentin Design Co.: Company identity researched; complete mailing address still needs review.","Stone Rox LLC: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-regional-kitchen","area":"regional","category":"kitchen","searchedOn":"2026-09-29","sources":[{"label":"Home, Heart & Soul","url":"https://homeheartandsoul.com/pages/contact-us"},{"label":"Emerald & Oak Design","url":"https://emeraldoakdesign.com"},{"label":"Hart White Interiors","url":"https://hartwhiteinteriors.com"},{"label":"Bohemian Bungalow Design","url":"https://bohemianbungalowdesign.com"},{"label":"House of Nomad Interior Design","url":"https://houseofnomaddesign.com"},{"label":"Charlotte Lucas Design","url":"https://charlottelucasdesign.com"},{"label":"Amy Vermillion Interiors","url":"https://amyvermillion.com"},{"label":"Factory of Spaces","url":"https://www.factoryofspaces.com/"},{"label":"Revira Interiors","url":"https://www.revirainteriors.com/"},{"label":"Sarah Kring Interiors","url":"https://www.sarahkringinteriors.com/"},{"label":"Brooke Cole Interiors","url":"https://brookecoleinteriors.com"},{"label":"Zachary Luke Designs","url":"https://www.zacharylukedesigns.com/"},{"label":"Land and Sky Designs","url":"https://www.landandskydesigns.com/"},{"label":"Carolina Tops,LLC","url":"https://carolinatops.com"},{"label":"East Coast Granite of Charlotte","url":"https://eastcoastgranitecharlotte.com"},{"label":"Transparent Interiors","url":"https://www.transparentinteriors.com/"},{"label":"PresLeigh Designs","url":"https://www.presleighdesigns.com/"},{"label":"Lauren Nicole Designs","url":"https://laurennicoleinc.com"},{"label":"Alyssa Lauren Interiors","url":"https://www.alyssalaureninteriors.com/"},{"label":"Artistic Interior Design","url":"https://artisticinteriordesign.com"},{"label":"Melissa Rieser Interiors","url":"https://melissarieser.com"},{"label":"CR Interior Design Home Staging","url":"https://www.crdesignllc.com/"},{"label":"Kathryn Lilly Interiors","url":"https://kathrynlillyinteriors.com"},{"label":"Sutton Place Design and Build","url":"https://suttonplacedesign.com"},{"label":"Centerpiece Home Staging LLC","url":"https://www.centerpiecehomestaging.com/"},{"label":"Domaine Interiors Charlotte","url":"https://domainestaging.com/"},{"label":"Lake Norman Home Staging and Design","url":"https://www.lakenormanhomestaginganddesign.com/"},{"label":"Lake Norman Design Group","url":"https://lkndesigngroup.com"},{"label":"Custom Interiors","url":"https://www.custominteriorshome.com/"},{"label":"Modern Luxe Interior Design","url":"https://www.modernluxeinteriordesign.com/"},{"label":"MK Interior Design Co","url":"https://www.mkinteriordesign.co/"},{"label":"Crisy and Company Interior Design","url":"https://www.crisyandcompany.com/"},{"label":"Nancy Taylor Lynch Interior Design","url":"https://www.nancytaylorlynchinteriordesign.com/"},{"label":"Leslie Williams Interior Design","url":"https://www.lesliewilliamsinteriors.com/"},{"label":"Claudia Josephine Design","url":"https://www.claudiajosephinedesign.com/"},{"label":"The O'Neill Casa","url":"https://theoneillcasa.com"},{"label":"Romeros Granite","url":"https://romerosgranitenc.com"},{"label":"Genesis Granite, LLC","url":"https://countertopsgranite.net"},{"label":"FPG Stone","url":"https://fpgstone.com/"},{"label":"Timeless Countertops","url":"https://timelesscountertops.com/charlotte-nc/"}],"reviewedIds":[1067,1026,1027,1031,1032,1033,1034,1036,1037,1038,1039,1040,1041,1045,1047,1050,1051,1057,1058,1060,1061,1062,1063,1064,1065,1066,1068,1069,1070,1071,1072,1073,1074,1075,1079,1080,1082,1083,1097,1108],"unresolved":["Emerald & Oak Design: Company identity researched; complete mailing address still needs review.","Hart White Interiors: Company identity researched; complete mailing address still needs review.","Bohemian Bungalow Design: Company identity researched; complete mailing address still needs review.","House of Nomad Interior Design: Company identity researched; complete mailing address still needs review.","Charlotte Lucas Design: Company identity researched; complete mailing address still needs review.","Amy Vermillion Interiors: Company identity researched; complete mailing address still needs review.","Factory of Spaces: Company identity researched; complete mailing address still needs review.","Revira Interiors: Company identity researched; complete mailing address still needs review.","Sarah Kring Interiors: Company identity researched; complete mailing address still needs review.","Brooke Cole Interiors: Company identity researched; complete mailing address still needs review.","Zachary Luke Designs: Company identity researched; complete mailing address still needs review.","Land and Sky Designs: Company identity researched; complete mailing address still needs review.","Carolina Tops,LLC: Company identity researched; complete mailing address still needs review.","East Coast Granite of Charlotte: Company identity researched; complete mailing address still needs review.","Transparent Interiors: Company identity researched; complete mailing address still needs review.","PresLeigh Designs: Company identity researched; complete mailing address still needs review.","Lauren Nicole Designs: Company identity researched; complete mailing address still needs review.","Alyssa Lauren Interiors: Company identity researched; complete mailing address still needs review.","Artistic Interior Design: Company identity researched; complete mailing address still needs review.","Melissa Rieser Interiors: Company identity researched; complete mailing address still needs review.","CR Interior Design Home Staging: Company identity researched; complete mailing address still needs review.","Kathryn Lilly Interiors: Company identity researched; complete mailing address still needs review.","Sutton Place Design and Build: Company identity researched; complete mailing address still needs review.","Centerpiece Home Staging LLC: Company identity researched; complete mailing address still needs review.","Domaine Interiors Charlotte: Company identity researched; complete mailing address still needs review.","Lake Norman Home Staging and Design: Company identity researched; complete mailing address still needs review.","Lake Norman Design Group: Company identity researched; complete mailing address still needs review.","Custom Interiors: Company identity researched; complete mailing address still needs review.","Modern Luxe Interior Design: Company identity researched; complete mailing address still needs review.","MK Interior Design Co: Company identity researched; complete mailing address still needs review.","Crisy and Company Interior Design: Company identity researched; complete mailing address still needs review.","Nancy Taylor Lynch Interior Design: Company identity researched; complete mailing address still needs review.","Leslie Williams Interior Design: Company identity researched; complete mailing address still needs review.","Claudia Josephine Design: Company identity researched; complete mailing address still needs review.","The O'Neill Casa: Company identity researched; complete mailing address still needs review.","Romeros Granite: Company identity researched; complete mailing address still needs review.","Genesis Granite, LLC: Company identity researched; complete mailing address still needs review.","FPG Stone: Company identity researched; complete mailing address still needs review.","Timeless Countertops: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-belmont-kitchen","area":"belmont","category":"kitchen","searchedOn":"2026-09-29","sources":[{"label":"KBN Interiors","url":"https://www.kbninteriors.com/contact-kbn-interiors"},{"label":"Plan.It Design, LLC","url":"https://www.planitdesign.us/"},{"label":"Alicia.Design Collective","url":"https://www.aliciadotdesigncollective.com/"}],"reviewedIds":[1077,1076,1078],"unresolved":["Plan.It Design, LLC: Company identity researched; complete mailing address still needs review.","Alicia.Design Collective: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-matthews-kitchen","area":"matthews","category":"kitchen","searchedOn":"2026-09-29","sources":[{"label":"AVSONS Kitchen & Bath","url":"https://www.avsonskitchen.com/contact"}],"reviewedIds":[1084],"unresolved":[],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-indian_land-med_spa","area":"indian_land","category":"med_spa","searchedOn":"2026-09-29","sources":[{"label":"Forever Young Aesthetics","url":"https://forever-young-you.com/contact/"}],"reviewedIds":[1000563],"unresolved":[],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-fort_mill-medical","area":"fort_mill","category":"medical","searchedOn":"2026-09-29","sources":[{"label":"Blue Root Health","url":"https://blueroothealth.com/"}],"reviewedIds":[1000564],"unresolved":[],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-rock_hill-medical","area":"rock_hill","category":"medical","searchedOn":"2026-09-29","sources":[{"label":"Miriam Medical Clinic","url":"https://www.miriammed.com/"}],"reviewedIds":[1000565],"unresolved":[],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-belmont-restaurant","area":"belmont","category":"restaurant","searchedOn":"2026-09-29","sources":[{"label":"Marrelli's Italian Restaurant","url":"https://marrellis.com/"}],"reviewedIds":[1000566],"unresolved":[],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-gastonia-restaurant","area":"gastonia","category":"restaurant","searchedOn":"2026-09-29","sources":[{"label":"Tasty","url":"https://www.tastync.com/"},{"label":"Constantine's Restaurant","url":"https://constantinesrestaurant.us/"}],"reviewedIds":[1000567,1000569],"unresolved":[],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-cramerton-restaurant","area":"cramerton","category":"restaurant","searchedOn":"2026-09-29","sources":[{"label":"Mayworth's Public House","url":"https://mayworths.com/"},{"label":"Floyd & Blackie's","url":"https://www.floydandblackies.com/"}],"reviewedIds":[1000568,1000570],"unresolved":[],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-rock_hill-dentist","area":"rock_hill","category":"dentist","searchedOn":"2026-09-29","sources":[{"label":"Rise and Shine Dentistry","url":"https://www.riseandshinedentistry.com/"}],"reviewedIds":[1000571],"unresolved":[],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-indian_trail-kitchen","area":"indian_trail","category":"kitchen","searchedOn":"2026-09-29","sources":[{"label":"Elite Countertops & Stone, LLC","url":"https://elitecountertopsandstone.com"}],"reviewedIds":[1046],"unresolved":["Elite Countertops & Stone, LLC: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-rock_hill-kitchen","area":"rock_hill","category":"kitchen","searchedOn":"2026-09-29","sources":[{"label":"Elmsbrook Designs - Decorating Den Interiors","url":"https://elmsbrookdesigns.decoratingden.com"},{"label":"Louise Hane Interior Design","url":"https://www.louisehane.com/"},{"label":"House of Drennan","url":"https://www.houseofdrennan.com/"},{"label":"Rainy Westerman Interior Design","url":"https://www.rainywestermaninteriors.com/"}],"reviewedIds":[1052,1053,1055,1059],"unresolved":["Elmsbrook Designs - Decorating Den Interiors: Company identity researched; complete mailing address still needs review.","Louise Hane Interior Design: Company identity researched; complete mailing address still needs review.","House of Drennan: Company identity researched; complete mailing address still needs review.","Rainy Westerman Interior Design: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-regional-real_estate","area":"regional","category":"real_estate","searchedOn":"2026-09-29","sources":[{"label":"Carmen Miller Group","url":"https://www.carolinahomesearch.com/"},{"label":"Signature Home Group","url":"https://signaturehg.com/team"},{"label":"The HomeGirl & Company","url":"https://www.thehomegirlandcompany.com/"}],"reviewedIds":[1089,1093,1094],"unresolved":["Carmen Miller Group: Company identity researched; complete mailing address still needs review.","Signature Home Group: Company identity researched; complete mailing address still needs review.","The HomeGirl & Company: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-indian_land-real_estate","area":"indian_land","category":"real_estate","searchedOn":"2026-09-29","sources":[{"label":"The Snipes Team","url":"https://www.thesnipesteam.com/"}],"reviewedIds":[1091],"unresolved":["The Snipes Team: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-fort_mill-real_estate","area":"fort_mill","category":"real_estate","searchedOn":"2026-09-29","sources":[{"label":"The Linda Hall Team","url":"https://www.lindahall.com/about/"}],"reviewedIds":[1092],"unresolved":["The Linda Hall Team: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-charlotte-real_estate","area":"charlotte","category":"real_estate","searchedOn":"2026-09-29","sources":[{"label":"The Longleaf Group","url":"https://thelongleafgroup.com/"}],"reviewedIds":[1095],"unresolved":["The Longleaf Group: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-lake_wylie-real_estate","area":"lake_wylie","category":"real_estate","searchedOn":"2026-09-29","sources":[{"label":"Pro Realty Services","url":"https://www.prorealtyservices.realestate/"}],"reviewedIds":[1096],"unresolved":["Pro Realty Services: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-waxhaw-property_management","area":"waxhaw","category":"property_management","searchedOn":"2026-09-29","sources":[{"label":"KEY4PROPERTIES LLC","url":"https://key4properties.com/"}],"reviewedIds":[1101],"unresolved":["KEY4PROPERTIES LLC: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."},{"id":"2026-09-29-coverage-rock_hill-property_management","area":"rock_hill","category":"property_management","searchedOn":"2026-09-29","sources":[{"label":"Jazzy Properties","url":"https://jazzyproperties.com/"},{"label":"Reeves Realty and Property Management","url":"https://www.justcallreeves.com/"}],"reviewedIds":[1105,1106],"unresolved":["Jazzy Properties: Company identity researched; complete mailing address still needs review.","Reeves Realty and Property Management: Company identity researched; complete mailing address still needs review."],"notes":"Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.","nextAction":"Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."}]}
+{
+  "schemaVersion": 1,
+  "passes": [
+    {
+      "id": "2026-09-22-fort_mill-restaurant",
+      "area": "fort_mill",
+      "category": "restaurant",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Fish Market Bar & Grill",
+          "url": "https://www.fishmarketbarandgrill.com/location/fish-market/"
+        },
+        {
+          "label": "The Flipside Cafe",
+          "url": "https://www.theflipsiderestaurant.com/the-flipside-cafe"
+        }
+      ],
+      "unresolved": [
+        "The Flipside Cafe: Business website omits a suite. York County lists multiple suites at 3150 Highway 21; confirm the delivery unit before mailing. Exterior responsibility also needs review."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000539,
+        1000540
+      ]
+    },
+    {
+      "id": "2026-09-22-fort_mill-lodging",
+      "area": "fort_mill",
+      "category": "lodging",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Discover Fort Mill lodging directory",
+          "url": "https://discoverfortmill.org/stay/"
+        }
+      ],
+      "unresolved": [
+        "Directory text lists lodging sections without usable named B&B addresses; direct retrieval returned HTTP 403. No independent lodging address accepted."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": []
+    },
+    {
+      "id": "2026-09-22-fort_mill-med_spa",
+      "area": "fort_mill",
+      "category": "med_spa",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Infinite Medical Spa",
+          "url": "https://www.waynemoliver.com/Home.htm"
+        },
+        {
+          "label": "Ador Skin Lab",
+          "url": "https://www.adorskinlab.com/"
+        },
+        {
+          "label": "The Aesthetic Spa at WDF",
+          "url": "https://www.wdfplasticsurgery.com/theaestheticspa"
+        },
+        {
+          "label": "Legacy Health & Wellness",
+          "url": "https://www.legacyhealthwellness.com/"
+        },
+        {
+          "label": "Meraki Aesthetics & Co. - Fort Mill",
+          "url": "https://merakiaestheticsandco.com/contact/"
+        },
+        {
+          "label": "Southeast Sculpting + Rejuvenation",
+          "url": "https://sesculpting.com/"
+        }
+      ],
+      "unresolved": [],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000550,
+        1000106,
+        1000107,
+        1000108,
+        1000109,
+        1000110
+      ]
+    },
+    {
+      "id": "2026-09-22-fort_mill-professional",
+      "area": "fort_mill",
+      "category": "professional",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Bice Law - Fort Mill",
+          "url": "https://bicelaw.us/contact/"
+        },
+        {
+          "label": "Nantz Law - Fort Mill",
+          "url": "https://nantzlawfirm.com/contact/"
+        },
+        {
+          "label": "Palmetto Law Associates - Fort Mill",
+          "url": "https://www.palmetto-law.com/contact"
+        }
+      ],
+      "unresolved": [
+        "Nantz parcel match has restaurant land-use coding; reconcile with the currently advertised law-office use."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000551,
+        1000553,
+        1000559
+      ]
+    },
+    {
+      "id": "2026-09-22-rock_hill-restaurant",
+      "area": "rock_hill",
+      "category": "restaurant",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Kounter",
+          "url": "https://www.kounterdining.com/menus"
+        }
+      ],
+      "unresolved": [],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000541
+      ]
+    },
+    {
+      "id": "2026-09-22-rock_hill-lodging",
+      "area": "rock_hill",
+      "category": "lodging",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "East Main Guest House",
+          "url": "https://eastmainguesthouse.com/contact-us/"
+        },
+        {
+          "label": "Tourism bureau inn/operator profile",
+          "url": "https://www.visityorkcounty.com/blog/post/love-in-the-heart-of-rock-hill/"
+        }
+      ],
+      "unresolved": [
+        "Inn contact page returned HTTP 406 on direct retrieval; existing address was corroborated with tourism and county records. Additional independent lodging still needs discovery."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000117
+      ]
+    },
+    {
+      "id": "2026-09-22-rock_hill-med_spa",
+      "area": "rock_hill",
+      "category": "med_spa",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Palmetto Breeze Med Spa",
+          "url": "https://palmettoskinandlasercenter.com/contact/"
+        },
+        {
+          "label": "Metrolina Medical Spa",
+          "url": "https://www.metrolinamedicalspa.com/location.php"
+        },
+        {
+          "label": "Pennington Med Spa",
+          "url": "https://penningtonmedspa.com/contact-us/"
+        }
+      ],
+      "unresolved": [
+        "Metrolina advertises a building address while county includes a suite 200 point. Confirm delivery unit and shared-building responsibilities."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000545,
+        1000546,
+        1000547
+      ]
+    },
+    {
+      "id": "2026-09-22-rock_hill-professional",
+      "area": "rock_hill",
+      "category": "professional",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Bice Law - Rock Hill",
+          "url": "https://bicelaw.us/contact/"
+        },
+        {
+          "label": "Nantz Law - Rock Hill",
+          "url": "https://nantzlawfirm.com/contact/"
+        },
+        {
+          "label": "Shaw & Cannon",
+          "url": "https://shawlawfirm.net/index.aspx?TypeContent=CONTACTUS"
+        }
+      ],
+      "unresolved": [],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000552,
+        1000554,
+        1000558
+      ]
+    },
+    {
+      "id": "2026-09-22-indian_land-restaurant",
+      "area": "indian_land",
+      "category": "restaurant",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Towne Tavern at Indian Land",
+          "url": "https://indianland.townetavernrestaurants.com/"
+        },
+        {
+          "label": "521 BBQ & Grill - Indian Land",
+          "url": "https://www.521bbqil.com/"
+        },
+        {
+          "label": "Rendezbrew",
+          "url": "https://www.rendezbrewcafe.com/"
+        },
+        {
+          "label": "Lancaster County official parcel map: address queries checked",
+          "url": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48"
+        }
+      ],
+      "unresolved": [
+        "Lancaster County parcel matching remains pending; York County parcel data does not cover this area.",
+        "Exact street-number/road-name queries did not match the reviewed Indian Land addresses in the linked parcel service. Coordinate/address-point matching remains to be done; parcel ownership is unresolved."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000542,
+        1000543,
+        1000544
+      ]
+    },
+    {
+      "id": "2026-09-22-indian_land-lodging",
+      "area": "indian_land",
+      "category": "lodging",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Indian Land accommodation discovery",
+          "url": "https://www.tripadvisor.com.au/Hotels-g1968674-Indian_Land_South_Carolina-Hotels.html"
+        },
+        {
+          "label": "Laurel Haven official location context",
+          "url": "https://laurelhavenestate.com/the-ultimate-vineyard-bed-and-breakfast-near-charlotte-a-romantic-escape-to-laurel-haven-estate/"
+        }
+      ],
+      "unresolved": [
+        "Search surfaced nearby chain hotels, apartments and a Lancaster venue. No independent inn with an in-area verified business address accepted. This is not evidence that none exist.",
+        "Lancaster County parcel matching remains pending; York County parcel data does not cover this area."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": []
+    },
+    {
+      "id": "2026-09-22-indian_land-med_spa",
+      "area": "indian_land",
+      "category": "med_spa",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "MINT MedSpa & Laser Studio",
+          "url": "https://www.mintmedspa.com/contact"
+        },
+        {
+          "label": "Carolina Medical Partners - MedSpa",
+          "url": "https://carolinamedicalpartners.com/home-classic/"
+        },
+        {
+          "label": "Lancaster County official parcel map: address queries checked",
+          "url": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48"
+        }
+      ],
+      "unresolved": [
+        "Lancaster County parcel matching remains pending; York County parcel data does not cover this area.",
+        "Exact street-number/road-name queries did not match the reviewed Indian Land addresses in the linked parcel service. Coordinate/address-point matching remains to be done; parcel ownership is unresolved."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000548,
+        1000549
+      ]
+    },
+    {
+      "id": "2026-09-22-indian_land-professional",
+      "area": "indian_land",
+      "category": "professional",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Robert J. Wilson, P.A.",
+          "url": "https://www.rjwcpa.com/"
+        },
+        {
+          "label": "Lando Law Firm - Indian Land",
+          "url": "https://www.landolawfirm.com/staff/"
+        },
+        {
+          "label": "David Blackwell Law - Indian Land",
+          "url": "https://davidblackwelllaw.com/"
+        },
+        {
+          "label": "Michael Johnson, P.C. & Associates - Indian Land",
+          "url": "https://www.johnsonsclaw.com/r-michael-johnson-jr"
+        },
+        {
+          "label": "Lancaster County official parcel map: address queries checked",
+          "url": "https://experience.arcgis.com/experience/dd25a372d14a44dcbb74ab40609f5a48"
+        }
+      ],
+      "unresolved": [
+        "Lancaster County parcel matching remains pending; York County parcel data does not cover this area.",
+        "Exact street-number/road-name queries did not match the reviewed Indian Land addresses in the linked parcel service. Coordinate/address-point matching remains to be done; parcel ownership is unresolved."
+      ],
+      "notes": "Focused web discovery followed by review of the listed business/organization pages. Counts include existing records rechecked, not only new businesses. This is a partial source pass, not an exhaustive city inventory.",
+      "nextAction": "Resolve listed conflicts, corroborate occupancy and delivery units, then broaden discovery through local directories and property-owner research.",
+      "reviewedIds": [
+        1000555,
+        1000556,
+        1000557,
+        1000560
+      ]
+    },
+    {
+      "id": "2026-09-22-rock_hill-held-crm",
+      "area": "rock_hill",
+      "category": "property_management",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Muse Realty LLC",
+          "url": "https://www.muserealtyrentals.com/"
+        },
+        {
+          "label": "Reeves Property Management LLC",
+          "url": "https://rentwithreeves.managebuilding.com/Resident/public/contact"
+        }
+      ],
+      "unresolved": [
+        "Reeves Property Management LLC: Rechecked: current operator portal publishes 1462 Ebenezer Road; BBB specifies unit 101. Prior conflicting address evidence is not fully resolved. Confirm the current office and suite before publishing."
+      ],
+      "notes": "Focused recheck of six held CRM companies. Muse street address resolved; remaining incomplete/conflicting addresses retained for review.",
+      "nextAction": "Research the remaining held CRM addresses; confirm office and delivery-unit conflicts with the business when public sources do not resolve them.",
+      "reviewedIds": [
+        21,
+        23
+      ]
+    },
+    {
+      "id": "2026-09-22-regional-held-crm",
+      "area": "regional",
+      "category": "property_management",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Elite Team Realty & Property Management",
+          "url": "https://elite-team-realty.com/contact-us"
+        },
+        {
+          "label": "Broad Connection Property Management",
+          "url": "https://broadconnectionpm.com/contact-us"
+        },
+        {
+          "label": "Rent Now Solutions",
+          "url": "https://www.rentnowsolutions.com/more/about-us/our-location"
+        }
+      ],
+      "unresolved": [
+        "Elite Team Realty & Property Management: Current contact page has a form but no usable street address.",
+        "Broad Connection Property Management: Contact page lists the Greater Charlotte service area, email and phone but no office street address.",
+        "Rent Now Solutions: Location page could not be retrieved in this pass; no address promoted."
+      ],
+      "notes": "Focused recheck of six held CRM companies. Muse street address resolved; remaining incomplete/conflicting addresses retained for review.",
+      "nextAction": "Research the remaining held CRM addresses; confirm office and delivery-unit conflicts with the business when public sources do not resolve them.",
+      "reviewedIds": [
+        3,
+        13,
+        17
+      ]
+    },
+    {
+      "id": "2026-09-22-belmont-restaurant",
+      "area": "belmont",
+      "category": "restaurant",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Old Stone Steakhouse",
+          "url": "https://www.oldstonesteakhouse.com/"
+        },
+        {
+          "label": "STATION",
+          "url": "https://www.stationbelmont.com/"
+        },
+        {
+          "label": "Downtown Belmont directory",
+          "url": "https://downtownbelmont.org/directory/old-stone-steakhouse/"
+        }
+      ],
+      "unresolved": [
+        "Historic-building coating and approval restrictions have not been researched."
+      ],
+      "notes": "Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.",
+      "nextAction": "Continue category discovery; match properties and confirm exterior authority, condition and visitor access.",
+      "reviewedIds": [
+        1000561,
+        1000562
+      ]
+    },
+    {
+      "id": "2026-09-22-belmont-med_spa",
+      "area": "belmont",
+      "category": "med_spa",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Vitality Belmont location",
+          "url": "https://vitalitymedicalspa.com/location/belmont/"
+        }
+      ],
+      "unresolved": [
+        "One existing practice rechecked; broader discovery and property-owner matching remain."
+      ],
+      "notes": "Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.",
+      "nextAction": "Continue category discovery; match properties and confirm exterior authority, condition and visitor access.",
+      "reviewedIds": [
+        1000112
+      ]
+    },
+    {
+      "id": "2026-09-22-belmont-lodging",
+      "area": "belmont",
+      "category": "lodging",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "The Villa at Waters Edge",
+          "url": "https://www.thevillaatwatersedge.com/"
+        }
+      ],
+      "unresolved": [
+        "Existing lodging address rechecked; additional independent inns and actual owner authority need research."
+      ],
+      "notes": "Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.",
+      "nextAction": "Continue category discovery; match properties and confirm exterior authority, condition and visitor access.",
+      "reviewedIds": [
+        1000118
+      ]
+    },
+    {
+      "id": "2026-09-22-belmont-professional",
+      "area": "belmont",
+      "category": "professional",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Hester & Payseur contact page",
+          "url": "https://www.belmontlawyer.com/contact-us/"
+        },
+        {
+          "label": "Stott Hollowell locations",
+          "url": "https://shws.law/"
+        }
+      ],
+      "unresolved": [
+        "Hester & Payseur page timed out in web retrieval and returned HTTP 406 directly. Existing record retained at its prior review date.",
+        "Stott Hollowell lists Gastonia and Mount Holly offices, not a verified Belmont office; not imported into Belmont."
+      ],
+      "notes": "Focused next-city pass using the listed primary business pages and local directory. Existing records and failed retrievals are distinguished from new additions; coverage remains partial.",
+      "nextAction": "Continue category discovery; match properties and confirm exterior authority, condition and visitor access.",
+      "reviewedIds": []
+    },
+    {
+      "id": "2026-09-22-held-29",
+      "area": "rock_hill",
+      "category": "real_estate",
+      "searchedOn": "2026-09-22",
+      "sources": [
+        {
+          "label": "Albright Realty",
+          "url": "https://www.albrightrealty.com/about-us"
+        }
+      ],
+      "unresolved": [
+        "Reviewed about page does not establish a complete street/city/ZIP delivery address."
+      ],
+      "notes": "Existing held CRM record rechecked; no uncertain address was promoted.",
+      "nextAction": "Find an authoritative complete business address or confirm with the business.",
+      "reviewedIds": [
+        29
+      ]
+    },
+    {
+      "id": "2026-09-29-coverage-charlotte-property_management",
+      "area": "charlotte",
+      "category": "property_management",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Dawson Property Management",
+          "url": "https://www.dawsonpropertymanagement.com/"
+        },
+        {
+          "label": "Henderson Properties",
+          "url": "https://www.hendersonproperties.com/"
+        },
+        {
+          "label": "KHC Property Management",
+          "url": "https://www.khcpropertymanagement.com/indian-land-property-management"
+        },
+        {
+          "label": "Teamwork Real Estate Solutions",
+          "url": "https://www.teamworkres.com/"
+        }
+      ],
+      "reviewedIds": [
+        16,
+        47,
+        1090,
+        1107
+      ],
+      "unresolved": [
+        "KHC Property Management: Company identity researched; complete mailing address still needs review.",
+        "Teamwork Real Estate Solutions: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-ballantyne-property_management",
+      "area": "ballantyne",
+      "category": "property_management",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Greenlight Residential",
+          "url": "https://www.greenlightresidential.com/"
+        }
+      ],
+      "reviewedIds": [
+        18
+      ],
+      "unresolved": [],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-regional-property_management",
+      "area": "regional",
+      "category": "property_management",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Wilkinson Property Management Inc.",
+          "url": "https://www.wilkinsonpropertymanagement.com/"
+        },
+        {
+          "label": "Four Seasons Property Management Inc.",
+          "url": "https://www.fourseasonscharlotte.com/gastonia-property-management"
+        },
+        {
+          "label": "Jamison Property Management",
+          "url": "https://www.jamisonpm.com/waxhaw-property-management"
+        },
+        {
+          "label": "PMI Charlotte Metro",
+          "url": "https://www.charlottespropertymanagementinc.net/waxhaw-property-management"
+        },
+        {
+          "label": "Magnolia PMG LLC",
+          "url": "https://www.magnoliapmg.net/"
+        }
+      ],
+      "reviewedIds": [
+        38,
+        39,
+        1100,
+        1102,
+        1104
+      ],
+      "unresolved": [
+        "Four Seasons Property Management Inc.: Company identity researched; complete mailing address still needs review.",
+        "Jamison Property Management: Company identity researched; complete mailing address still needs review.",
+        "PMI Charlotte Metro: Company identity researched; complete mailing address still needs review.",
+        "Magnolia PMG LLC: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-fort_mill-property_management",
+      "area": "fort_mill",
+      "category": "property_management",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "CRC PROPERTY MANAGEMENT",
+          "url": "https://verify.llronline.com/LicLookup/Rec/Rec2.aspx?cdi=231&LicNum=22030&Name=CRC%20PROPERTY%20MANAGEMENT"
+        },
+        {
+          "label": "PMI Fort Mill",
+          "url": "https://www.fortmillpropertymanagementinc.com/"
+        }
+      ],
+      "reviewedIds": [
+        496,
+        1103
+      ],
+      "unresolved": [
+        "PMI Fort Mill: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-charlotte-kitchen",
+      "area": "charlotte",
+      "category": "kitchen",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Ashley DeLapp Interior Design",
+          "url": "https://ashleydelapp.com/contact"
+        },
+        {
+          "label": "Legacy Countertops",
+          "url": "https://legacytops.com/products/"
+        },
+        {
+          "label": "MC Granite Countertops Charlotte",
+          "url": "https://www.mcgranitecharlotte.com/contact-us/"
+        },
+        {
+          "label": "Universal Stone LLC",
+          "url": "https://universalstonenc.com/contact"
+        },
+        {
+          "label": "Stone Basyx Charlotte",
+          "url": "https://www.stonebasyx.com/locations/charlotte/"
+        },
+        {
+          "label": "Asso Stone",
+          "url": "https://www.assostone.com/contact/"
+        },
+        {
+          "label": "Georgia Street Design LLC",
+          "url": "https://www.georgiastreetdesign.com/"
+        },
+        {
+          "label": "Uptown Style Interiors",
+          "url": "https://uptownstylecharlotte.com"
+        },
+        {
+          "label": "lucy and company",
+          "url": "https://www.lucyandcompany.com/"
+        },
+        {
+          "label": "704 Granite & Marble Fabricators",
+          "url": "https://704granitemarble.com"
+        },
+        {
+          "label": "Hive Haus Interiors LLC",
+          "url": "https://www.hivehausinteriors.com/"
+        },
+        {
+          "label": "The Granite House",
+          "url": "https://www.thegranitehousenc.com/"
+        },
+        {
+          "label": "Instyle Charlotte",
+          "url": "https://instylecharlotte.com/about/"
+        },
+        {
+          "label": "Meta Stone INC.",
+          "url": "https://metastoneinc.com/"
+        },
+        {
+          "label": "Gorilla Stone",
+          "url": "https://gorillastone.com/"
+        }
+      ],
+      "reviewedIds": [
+        1029,
+        1042,
+        1043,
+        1086,
+        1087,
+        1088,
+        1028,
+        1030,
+        1035,
+        1044,
+        1081,
+        1098,
+        1099,
+        1109,
+        1110
+      ],
+      "unresolved": [
+        "Georgia Street Design LLC: Company identity researched; complete mailing address still needs review.",
+        "Uptown Style Interiors: Company identity researched; complete mailing address still needs review.",
+        "lucy and company: Company identity researched; complete mailing address still needs review.",
+        "704 Granite & Marble Fabricators: Company identity researched; complete mailing address still needs review.",
+        "Hive Haus Interiors LLC: Company identity researched; complete mailing address still needs review.",
+        "The Granite House: Company identity researched; complete mailing address still needs review.",
+        "Instyle Charlotte: Company identity researched; complete mailing address still needs review.",
+        "Meta Stone INC.: Company identity researched; complete mailing address still needs review.",
+        "Gorilla Stone: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-fort_mill-kitchen",
+      "area": "fort_mill",
+      "category": "kitchen",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Lynn Blackwell Design",
+          "url": "https://lynnblackwell.com/contact/"
+        },
+        {
+          "label": "Design Envy Interiors",
+          "url": "https://www.designenvyinteriors.com/"
+        },
+        {
+          "label": "Brooke & Maisy Interior Design",
+          "url": "https://www.brookenmaisy.com"
+        },
+        {
+          "label": "Valentin Design Co.",
+          "url": "https://valentindesignco.com"
+        },
+        {
+          "label": "Stone Rox LLC",
+          "url": "https://stone-rox.com/"
+        }
+      ],
+      "reviewedIds": [
+        1048,
+        1049,
+        1054,
+        1056,
+        1085
+      ],
+      "unresolved": [
+        "Design Envy Interiors: Company identity researched; complete mailing address still needs review.",
+        "Brooke & Maisy Interior Design: Company identity researched; complete mailing address still needs review.",
+        "Valentin Design Co.: Company identity researched; complete mailing address still needs review.",
+        "Stone Rox LLC: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-regional-kitchen",
+      "area": "regional",
+      "category": "kitchen",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Home, Heart & Soul",
+          "url": "https://homeheartandsoul.com/pages/contact-us"
+        },
+        {
+          "label": "Emerald & Oak Design",
+          "url": "https://emeraldoakdesign.com"
+        },
+        {
+          "label": "Hart White Interiors",
+          "url": "https://hartwhiteinteriors.com"
+        },
+        {
+          "label": "Bohemian Bungalow Design",
+          "url": "https://bohemianbungalowdesign.com"
+        },
+        {
+          "label": "House of Nomad Interior Design",
+          "url": "https://houseofnomaddesign.com"
+        },
+        {
+          "label": "Charlotte Lucas Design",
+          "url": "https://charlottelucasdesign.com"
+        },
+        {
+          "label": "Amy Vermillion Interiors",
+          "url": "https://amyvermillion.com"
+        },
+        {
+          "label": "Factory of Spaces",
+          "url": "https://www.factoryofspaces.com/"
+        },
+        {
+          "label": "Revira Interiors",
+          "url": "https://www.revirainteriors.com/"
+        },
+        {
+          "label": "Sarah Kring Interiors",
+          "url": "https://www.sarahkringinteriors.com/"
+        },
+        {
+          "label": "Brooke Cole Interiors",
+          "url": "https://brookecoleinteriors.com"
+        },
+        {
+          "label": "Zachary Luke Designs",
+          "url": "https://www.zacharylukedesigns.com/"
+        },
+        {
+          "label": "Land and Sky Designs",
+          "url": "https://www.landandskydesigns.com/"
+        },
+        {
+          "label": "Carolina Tops,LLC",
+          "url": "https://carolinatops.com"
+        },
+        {
+          "label": "East Coast Granite of Charlotte",
+          "url": "https://eastcoastgranitecharlotte.com"
+        },
+        {
+          "label": "Transparent Interiors",
+          "url": "https://www.transparentinteriors.com/"
+        },
+        {
+          "label": "PresLeigh Designs",
+          "url": "https://www.presleighdesigns.com/"
+        },
+        {
+          "label": "Lauren Nicole Designs",
+          "url": "https://laurennicoleinc.com"
+        },
+        {
+          "label": "Alyssa Lauren Interiors",
+          "url": "https://www.alyssalaureninteriors.com/"
+        },
+        {
+          "label": "Artistic Interior Design",
+          "url": "https://artisticinteriordesign.com"
+        },
+        {
+          "label": "Melissa Rieser Interiors",
+          "url": "https://melissarieser.com"
+        },
+        {
+          "label": "CR Interior Design Home Staging",
+          "url": "https://www.crdesignllc.com/"
+        },
+        {
+          "label": "Kathryn Lilly Interiors",
+          "url": "https://kathrynlillyinteriors.com"
+        },
+        {
+          "label": "Sutton Place Design and Build",
+          "url": "https://suttonplacedesign.com"
+        },
+        {
+          "label": "Centerpiece Home Staging LLC",
+          "url": "https://www.centerpiecehomestaging.com/"
+        },
+        {
+          "label": "Domaine Interiors Charlotte",
+          "url": "https://domainestaging.com/"
+        },
+        {
+          "label": "Lake Norman Home Staging and Design",
+          "url": "https://www.lakenormanhomestaginganddesign.com/"
+        },
+        {
+          "label": "Lake Norman Design Group",
+          "url": "https://lkndesigngroup.com"
+        },
+        {
+          "label": "Custom Interiors",
+          "url": "https://www.custominteriorshome.com/"
+        },
+        {
+          "label": "Modern Luxe Interior Design",
+          "url": "https://www.modernluxeinteriordesign.com/"
+        },
+        {
+          "label": "MK Interior Design Co",
+          "url": "https://www.mkinteriordesign.co/"
+        },
+        {
+          "label": "Crisy and Company Interior Design",
+          "url": "https://www.crisyandcompany.com/"
+        },
+        {
+          "label": "Nancy Taylor Lynch Interior Design",
+          "url": "https://www.nancytaylorlynchinteriordesign.com/"
+        },
+        {
+          "label": "Leslie Williams Interior Design",
+          "url": "https://www.lesliewilliamsinteriors.com/"
+        },
+        {
+          "label": "Claudia Josephine Design",
+          "url": "https://www.claudiajosephinedesign.com/"
+        },
+        {
+          "label": "The O'Neill Casa",
+          "url": "https://theoneillcasa.com"
+        },
+        {
+          "label": "Romeros Granite",
+          "url": "https://romerosgranitenc.com"
+        },
+        {
+          "label": "Genesis Granite, LLC",
+          "url": "https://countertopsgranite.net"
+        },
+        {
+          "label": "FPG Stone",
+          "url": "https://fpgstone.com/"
+        },
+        {
+          "label": "Timeless Countertops",
+          "url": "https://timelesscountertops.com/charlotte-nc/"
+        }
+      ],
+      "reviewedIds": [
+        1067,
+        1026,
+        1027,
+        1031,
+        1032,
+        1033,
+        1034,
+        1036,
+        1037,
+        1038,
+        1039,
+        1040,
+        1041,
+        1045,
+        1047,
+        1050,
+        1051,
+        1057,
+        1058,
+        1060,
+        1061,
+        1062,
+        1063,
+        1064,
+        1065,
+        1066,
+        1068,
+        1069,
+        1070,
+        1071,
+        1072,
+        1073,
+        1074,
+        1075,
+        1079,
+        1080,
+        1082,
+        1083,
+        1097,
+        1108
+      ],
+      "unresolved": [
+        "Emerald & Oak Design: Company identity researched; complete mailing address still needs review.",
+        "Hart White Interiors: Company identity researched; complete mailing address still needs review.",
+        "Bohemian Bungalow Design: Company identity researched; complete mailing address still needs review.",
+        "House of Nomad Interior Design: Company identity researched; complete mailing address still needs review.",
+        "Charlotte Lucas Design: Company identity researched; complete mailing address still needs review.",
+        "Amy Vermillion Interiors: Company identity researched; complete mailing address still needs review.",
+        "Factory of Spaces: Company identity researched; complete mailing address still needs review.",
+        "Revira Interiors: Company identity researched; complete mailing address still needs review.",
+        "Sarah Kring Interiors: Company identity researched; complete mailing address still needs review.",
+        "Brooke Cole Interiors: Company identity researched; complete mailing address still needs review.",
+        "Zachary Luke Designs: Company identity researched; complete mailing address still needs review.",
+        "Land and Sky Designs: Company identity researched; complete mailing address still needs review.",
+        "Carolina Tops,LLC: Company identity researched; complete mailing address still needs review.",
+        "East Coast Granite of Charlotte: Company identity researched; complete mailing address still needs review.",
+        "Transparent Interiors: Company identity researched; complete mailing address still needs review.",
+        "PresLeigh Designs: Company identity researched; complete mailing address still needs review.",
+        "Lauren Nicole Designs: Company identity researched; complete mailing address still needs review.",
+        "Alyssa Lauren Interiors: Company identity researched; complete mailing address still needs review.",
+        "Artistic Interior Design: Company identity researched; complete mailing address still needs review.",
+        "Melissa Rieser Interiors: Company identity researched; complete mailing address still needs review.",
+        "CR Interior Design Home Staging: Company identity researched; complete mailing address still needs review.",
+        "Kathryn Lilly Interiors: Company identity researched; complete mailing address still needs review.",
+        "Sutton Place Design and Build: Company identity researched; complete mailing address still needs review.",
+        "Centerpiece Home Staging LLC: Company identity researched; complete mailing address still needs review.",
+        "Domaine Interiors Charlotte: Company identity researched; complete mailing address still needs review.",
+        "Lake Norman Home Staging and Design: Company identity researched; complete mailing address still needs review.",
+        "Lake Norman Design Group: Company identity researched; complete mailing address still needs review.",
+        "Custom Interiors: Company identity researched; complete mailing address still needs review.",
+        "Modern Luxe Interior Design: Company identity researched; complete mailing address still needs review.",
+        "MK Interior Design Co: Company identity researched; complete mailing address still needs review.",
+        "Crisy and Company Interior Design: Company identity researched; complete mailing address still needs review.",
+        "Nancy Taylor Lynch Interior Design: Company identity researched; complete mailing address still needs review.",
+        "Leslie Williams Interior Design: Company identity researched; complete mailing address still needs review.",
+        "Claudia Josephine Design: Company identity researched; complete mailing address still needs review.",
+        "The O'Neill Casa: Company identity researched; complete mailing address still needs review.",
+        "Romeros Granite: Company identity researched; complete mailing address still needs review.",
+        "Genesis Granite, LLC: Company identity researched; complete mailing address still needs review.",
+        "FPG Stone: Company identity researched; complete mailing address still needs review.",
+        "Timeless Countertops: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-belmont-kitchen",
+      "area": "belmont",
+      "category": "kitchen",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "KBN Interiors",
+          "url": "https://www.kbninteriors.com/contact-kbn-interiors"
+        },
+        {
+          "label": "Plan.It Design, LLC",
+          "url": "https://www.planitdesign.us/"
+        },
+        {
+          "label": "Alicia.Design Collective",
+          "url": "https://www.aliciadotdesigncollective.com/"
+        }
+      ],
+      "reviewedIds": [
+        1077,
+        1076,
+        1078
+      ],
+      "unresolved": [
+        "Plan.It Design, LLC: Company identity researched; complete mailing address still needs review.",
+        "Alicia.Design Collective: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-matthews-kitchen",
+      "area": "matthews",
+      "category": "kitchen",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "AVSONS Kitchen & Bath",
+          "url": "https://www.avsonskitchen.com/contact"
+        }
+      ],
+      "reviewedIds": [
+        1084
+      ],
+      "unresolved": [],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-indian_land-med_spa",
+      "area": "indian_land",
+      "category": "med_spa",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Forever Young Aesthetics",
+          "url": "https://forever-young-you.com/contact/"
+        }
+      ],
+      "reviewedIds": [
+        1000563
+      ],
+      "unresolved": [],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-fort_mill-medical",
+      "area": "fort_mill",
+      "category": "medical",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Blue Root Health",
+          "url": "https://blueroothealth.com/"
+        }
+      ],
+      "reviewedIds": [
+        1000564
+      ],
+      "unresolved": [],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-rock_hill-medical",
+      "area": "rock_hill",
+      "category": "medical",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Miriam Medical Clinic",
+          "url": "https://www.miriammed.com/"
+        }
+      ],
+      "reviewedIds": [
+        1000565
+      ],
+      "unresolved": [],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-belmont-restaurant",
+      "area": "belmont",
+      "category": "restaurant",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Marrelli's Italian Restaurant",
+          "url": "https://marrellis.com/"
+        }
+      ],
+      "reviewedIds": [
+        1000566
+      ],
+      "unresolved": [],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-gastonia-restaurant",
+      "area": "gastonia",
+      "category": "restaurant",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Tasty",
+          "url": "https://www.tastync.com/"
+        },
+        {
+          "label": "Constantine's Restaurant",
+          "url": "https://constantinesrestaurant.us/"
+        }
+      ],
+      "reviewedIds": [
+        1000567,
+        1000569
+      ],
+      "unresolved": [],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-cramerton-restaurant",
+      "area": "cramerton",
+      "category": "restaurant",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Mayworth's Public House",
+          "url": "https://mayworths.com/"
+        },
+        {
+          "label": "Floyd & Blackie's",
+          "url": "https://www.floydandblackies.com/"
+        }
+      ],
+      "reviewedIds": [
+        1000568,
+        1000570
+      ],
+      "unresolved": [],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-rock_hill-dentist",
+      "area": "rock_hill",
+      "category": "dentist",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Rise and Shine Dentistry",
+          "url": "https://www.riseandshinedentistry.com/"
+        }
+      ],
+      "reviewedIds": [
+        1000571
+      ],
+      "unresolved": [],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-indian_trail-kitchen",
+      "area": "indian_trail",
+      "category": "kitchen",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Elite Countertops & Stone, LLC",
+          "url": "https://elitecountertopsandstone.com"
+        }
+      ],
+      "reviewedIds": [
+        1046
+      ],
+      "unresolved": [
+        "Elite Countertops & Stone, LLC: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-rock_hill-kitchen",
+      "area": "rock_hill",
+      "category": "kitchen",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Elmsbrook Designs - Decorating Den Interiors",
+          "url": "https://elmsbrookdesigns.decoratingden.com"
+        },
+        {
+          "label": "Louise Hane Interior Design",
+          "url": "https://www.louisehane.com/"
+        },
+        {
+          "label": "House of Drennan",
+          "url": "https://www.houseofdrennan.com/"
+        },
+        {
+          "label": "Rainy Westerman Interior Design",
+          "url": "https://www.rainywestermaninteriors.com/"
+        }
+      ],
+      "reviewedIds": [
+        1052,
+        1053,
+        1055,
+        1059
+      ],
+      "unresolved": [
+        "Elmsbrook Designs - Decorating Den Interiors: Company identity researched; complete mailing address still needs review.",
+        "Louise Hane Interior Design: Company identity researched; complete mailing address still needs review.",
+        "House of Drennan: Company identity researched; complete mailing address still needs review.",
+        "Rainy Westerman Interior Design: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-regional-real_estate",
+      "area": "regional",
+      "category": "real_estate",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Carmen Miller Group",
+          "url": "https://www.carolinahomesearch.com/"
+        },
+        {
+          "label": "Signature Home Group",
+          "url": "https://signaturehg.com/team"
+        },
+        {
+          "label": "The HomeGirl & Company",
+          "url": "https://www.thehomegirlandcompany.com/"
+        }
+      ],
+      "reviewedIds": [
+        1089,
+        1093,
+        1094
+      ],
+      "unresolved": [
+        "Carmen Miller Group: Company identity researched; complete mailing address still needs review.",
+        "Signature Home Group: Company identity researched; complete mailing address still needs review.",
+        "The HomeGirl & Company: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-indian_land-real_estate",
+      "area": "indian_land",
+      "category": "real_estate",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "The Snipes Team",
+          "url": "https://www.thesnipesteam.com/"
+        }
+      ],
+      "reviewedIds": [
+        1091
+      ],
+      "unresolved": [
+        "The Snipes Team: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-fort_mill-real_estate",
+      "area": "fort_mill",
+      "category": "real_estate",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "The Linda Hall Team",
+          "url": "https://www.lindahall.com/about/"
+        }
+      ],
+      "reviewedIds": [
+        1092
+      ],
+      "unresolved": [
+        "The Linda Hall Team: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-charlotte-real_estate",
+      "area": "charlotte",
+      "category": "real_estate",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "The Longleaf Group",
+          "url": "https://thelongleafgroup.com/"
+        }
+      ],
+      "reviewedIds": [
+        1095
+      ],
+      "unresolved": [
+        "The Longleaf Group: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-lake_wylie-real_estate",
+      "area": "lake_wylie",
+      "category": "real_estate",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Pro Realty Services",
+          "url": "https://www.prorealtyservices.realestate/"
+        }
+      ],
+      "reviewedIds": [
+        1096
+      ],
+      "unresolved": [
+        "Pro Realty Services: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-waxhaw-property_management",
+      "area": "waxhaw",
+      "category": "property_management",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "KEY4PROPERTIES LLC",
+          "url": "https://key4properties.com/"
+        }
+      ],
+      "reviewedIds": [
+        1101
+      ],
+      "unresolved": [
+        "KEY4PROPERTIES LLC: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-29-coverage-rock_hill-property_management",
+      "area": "rock_hill",
+      "category": "property_management",
+      "searchedOn": "2026-09-29",
+      "sources": [
+        {
+          "label": "Jazzy Properties",
+          "url": "https://jazzyproperties.com/"
+        },
+        {
+          "label": "Reeves Realty and Property Management",
+          "url": "https://www.justcallreeves.com/"
+        }
+      ],
+      "reviewedIds": [
+        1105,
+        1106
+      ],
+      "unresolved": [
+        "Jazzy Properties: Company identity researched; complete mailing address still needs review.",
+        "Reeves Realty and Property Management: Company identity researched; complete mailing address still needs review."
+      ],
+      "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
+      "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
+    },
+    {
+      "id": "2026-09-30-expansion-belmont-veterinary",
+      "area": "belmont",
+      "category": "veterinary",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Belmont Animal Hospital",
+          "url": "https://belmontanimalhospitalnc.com/"
+        },
+        {
+          "label": "South Point Pet Hospital",
+          "url": "https://southpointpethospital.com/contact-us/"
+        }
+      ],
+      "reviewedIds": [
+        1000069,
+        1000070
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-fort_mill-med_spa",
+      "area": "fort_mill",
+      "category": "med_spa",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Ador Skin Lab",
+          "url": "https://www.adorskinlab.com/"
+        },
+        {
+          "label": "Legacy Health & Wellness",
+          "url": "https://www.legacyhealthwellness.com/"
+        },
+        {
+          "label": "Infinite Medical Spa",
+          "url": "https://www.waynemoliver.com/Home.htm"
+        }
+      ],
+      "reviewedIds": [
+        1000106,
+        1000108,
+        1000550
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-pineville-property_management",
+      "area": "pineville",
+      "category": "property_management",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Real Property Management Charlotte Metro",
+          "url": "https://www.rpmcm.com/about-us"
+        }
+      ],
+      "reviewedIds": [
+        12
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-indian_land-dentist",
+      "area": "indian_land",
+      "category": "dentist",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "INDIAN LAND DENTAL CARE",
+          "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1326532268"
+        },
+        {
+          "label": "Smiles in the Sun Dentistry",
+          "url": "https://smilesinthesun.com/"
+        },
+        {
+          "label": "Palmetto Advanced Dentistry",
+          "url": "https://www.palmettodentistrysc.com/contact/"
+        }
+      ],
+      "reviewedIds": [
+        1000289,
+        1000581,
+        1000582
+      ],
+      "unresolved": [
+        "Smiles in the Sun Dentistry: mailing address needs research."
+      ],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-rock_hill-med_spa",
+      "area": "rock_hill",
+      "category": "med_spa",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Pennington Med Spa",
+          "url": "https://penningtonmedspa.com/contact-us/"
+        }
+      ],
+      "reviewedIds": [
+        1000547
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-belmont-kitchen",
+      "area": "belmont",
+      "category": "kitchen",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Black Sheep Cabinets & Design",
+          "url": "https://www.blacksheepcabinets.com/"
+        },
+        {
+          "label": "Tenon & Tailored",
+          "url": "https://tenonandtailored.com/"
+        }
+      ],
+      "reviewedIds": [
+        1111,
+        1112
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-gastonia-kitchen",
+      "area": "gastonia",
+      "category": "kitchen",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "BuiltWell",
+          "url": "https://builtwellclt.com/"
+        }
+      ],
+      "reviewedIds": [
+        1113
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-regional-kitchen",
+      "area": "regional",
+      "category": "kitchen",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Kitchen Cabinet Supply Company",
+          "url": "https://www.kitchencabinetsupplyco.com/contact/"
+        }
+      ],
+      "reviewedIds": [
+        1114
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-matthews-kitchen",
+      "area": "matthews",
+      "category": "kitchen",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Charlotte Cabinet Store LLC",
+          "url": "https://www.charlottecabinetstore.com/"
+        }
+      ],
+      "reviewedIds": [
+        1115
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-fort_mill-kitchen",
+      "area": "fort_mill",
+      "category": "kitchen",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Element Designs",
+          "url": "https://www.element-designs.com/"
+        }
+      ],
+      "reviewedIds": [
+        1116
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-charlotte-flooring",
+      "area": "charlotte",
+      "category": "flooring",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Premium Tile & Flooring",
+          "url": "https://www.premiumtf.com/"
+        },
+        {
+          "label": "Florida Tile - Charlotte",
+          "url": "https://www.floridatile.com/fti-branches/charlotte/"
+        },
+        {
+          "label": "Best Tile - Charlotte",
+          "url": "https://besttile.com/find-a-showroom/charlotte-nc"
+        },
+        {
+          "label": "USA Flooring - Charlotte",
+          "url": "https://www.usaflooringnc.com/locations/charlotte-nc/"
+        },
+        {
+          "label": "Carpet To Go - Charlotte",
+          "url": "https://www.carpet2go.com/charlotte-flooring-store/"
+        }
+      ],
+      "reviewedIds": [
+        1117,
+        1118,
+        1119,
+        1121,
+        1122
+      ],
+      "unresolved": [
+        "Premium Tile & Flooring: mailing address needs research.",
+        "USA Flooring - Charlotte: mailing address needs research."
+      ],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-matthews-flooring",
+      "area": "matthews",
+      "category": "flooring",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "The Tile Shop - Matthews",
+          "url": "https://www.tileshop.com/store-locator/matthews"
+        }
+      ],
+      "reviewedIds": [
+        1120
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-fort_mill-flooring",
+      "area": "fort_mill",
+      "category": "flooring",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Carolina Flooring & Design",
+          "url": "https://www.carolinaflooringanddesign.com/"
+        }
+      ],
+      "reviewedIds": [
+        1123
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-rock_hill-flooring",
+      "area": "rock_hill",
+      "category": "flooring",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Earl Jackson's Carpet",
+          "url": "https://earljacksonscarpet.com/"
+        },
+        {
+          "label": "American Flooring and Renovations LLC",
+          "url": "https://www.americanflooringandrenovations.com/showroom"
+        }
+      ],
+      "reviewedIds": [
+        1124,
+        1125
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-gastonia-flooring",
+      "area": "gastonia",
+      "category": "flooring",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Carpet & Flooring Liquidators - Gastonia",
+          "url": "https://www.carpet-flooringliquidators.com/store-location-gastonia-nc.php"
+        },
+        {
+          "label": "Carpet One Floor & Home - Gastonia",
+          "url": "https://www.carpetonegastonia.com/"
+        },
+        {
+          "label": "Gaston Floors Inc.",
+          "url": "https://www.gastonfloors.com/belmont-nc-flooring-experts"
+        },
+        {
+          "label": "Ellis Carpet & Floor Center Inc.",
+          "url": "https://www.elliscarpetfloorcenter.com/"
+        },
+        {
+          "label": "St. Peter Flooring LLC",
+          "url": "https://www.stpeterflooring.com/"
+        }
+      ],
+      "reviewedIds": [
+        1126,
+        1128,
+        1129,
+        1131,
+        1132
+      ],
+      "unresolved": [
+        "Carpet One Floor & Home - Gastonia: mailing address needs research.",
+        "St. Peter Flooring LLC: mailing address needs research."
+      ],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-pineville-flooring",
+      "area": "pineville",
+      "category": "flooring",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Carpet & Flooring Liquidators - Pineville",
+          "url": "https://www.carpet-flooringliquidators.com/"
+        }
+      ],
+      "reviewedIds": [
+        1127
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-waxhaw-flooring",
+      "area": "waxhaw",
+      "category": "flooring",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Floor Decor & More",
+          "url": "https://floordecormore.com/"
+        }
+      ],
+      "reviewedIds": [
+        1130
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-charlotte-property_management",
+      "area": "charlotte",
+      "category": "property_management",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "American Property Association Management",
+          "url": "https://www.carolinashoa.com/"
+        }
+      ],
+      "reviewedIds": [
+        1133
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-lake_wylie-property_management",
+      "area": "lake_wylie",
+      "category": "property_management",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Association Management Solutions - Lake Wylie",
+          "url": "https://amshoa.com/location/"
+        }
+      ],
+      "reviewedIds": [
+        1134
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-belmont-real_estate",
+      "area": "belmont",
+      "category": "real_estate",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Armstead Realty Group",
+          "url": "https://www.armsteadrealtygroup.com/"
+        },
+        {
+          "label": "Ally Bohanan Real Estate",
+          "url": "https://allybohananrealestate.com/contact/"
+        },
+        {
+          "label": "Premier South - Belmont",
+          "url": "https://www.premiersouth.net/"
+        }
+      ],
+      "reviewedIds": [
+        1135,
+        1136,
+        1137
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-fort_mill-retail",
+      "area": "fort_mill",
+      "category": "retail",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Crossings on Main",
+          "url": "https://www.crossingsonmain.com/"
+        },
+        {
+          "label": "Z Home Furnishings",
+          "url": "https://zhomefurnishings.com/"
+        }
+      ],
+      "reviewedIds": [
+        1000572,
+        1000573
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-belmont-retail",
+      "area": "belmont",
+      "category": "retail",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Electric Metals",
+          "url": "https://www.electricmetalsnc.com/"
+        }
+      ],
+      "reviewedIds": [
+        1000574
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-waxhaw-retail",
+      "area": "waxhaw",
+      "category": "retail",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Waxhaw Jewelers",
+          "url": "https://waxhawjewelers.com/"
+        }
+      ],
+      "reviewedIds": [
+        1000575
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-fort_mill-professional",
+      "area": "fort_mill",
+      "category": "professional",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Blackwell's Tax Service",
+          "url": "https://www.blackwellstax.com/contact/"
+        },
+        {
+          "label": "Ward's Tax Service LLC",
+          "url": "https://wardstaxservice.com/"
+        },
+        {
+          "label": "Fort Mill CPA",
+          "url": "https://www.fortmillcpa.com/contact"
+        }
+      ],
+      "reviewedIds": [
+        1000576,
+        1000577,
+        1000579
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-rock_hill-professional",
+      "area": "rock_hill",
+      "category": "professional",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Altman Stauffer CPAs",
+          "url": "https://altmanstauffercpas.com/about-us/"
+        }
+      ],
+      "reviewedIds": [
+        1000578
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-waxhaw-dentist",
+      "area": "waxhaw",
+      "category": "dentist",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "MillBridge Dentistry",
+          "url": "https://millbridgedentistry.com/contact-us/"
+        }
+      ],
+      "reviewedIds": [
+        1000580
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-rock_hill-medical",
+      "area": "rock_hill",
+      "category": "medical",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Virtu Cosmetic Surgery - Rock Hill",
+          "url": "https://www.virtucosmetic.com/contact"
+        }
+      ],
+      "reviewedIds": [
+        1000583
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-waxhaw-med_spa",
+      "area": "waxhaw",
+      "category": "med_spa",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Virtu Cosmetic Surgery - Waxhaw Med-Spa",
+          "url": "https://www.virtucosmetic.com/contact"
+        }
+      ],
+      "reviewedIds": [
+        1000584
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-gastonia-veterinary",
+      "area": "gastonia",
+      "category": "veterinary",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Grace Animal Hospital",
+          "url": "https://gracevet.com/contact"
+        }
+      ],
+      "reviewedIds": [
+        1000585
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-fort_mill-school",
+      "area": "fort_mill",
+      "category": "school",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "The Collins Academy",
+          "url": "https://thecollinsacademy.org/"
+        }
+      ],
+      "reviewedIds": [
+        1000586
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-regional-school",
+      "area": "regional",
+      "category": "school",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Lake Pointe Academy",
+          "url": "https://www.lakepointeacademy.com/about/sprofile.cfm"
+        }
+      ],
+      "reviewedIds": [
+        1000587
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    },
+    {
+      "id": "2026-09-30-expansion-rock_hill-school",
+      "area": "rock_hill",
+      "category": "school",
+      "searchedOn": "2026-09-30",
+      "sources": [
+        {
+          "label": "Providence Classical School",
+          "url": "https://www.providenceclassicalsc.org/contact"
+        }
+      ],
+      "reviewedIds": [
+        1000588
+      ],
+      "unresolved": [],
+      "notes": "Partial category and city web searches followed by official website review. Existing records were matched before import. This is not complete market coverage.",
+      "nextAction": "Continue individual city/category discovery; research missing contacts, social accounts, visitor policies and approval authority."
+    }
+  ]
+}

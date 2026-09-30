@@ -21,7 +21,8 @@ test('Fort Mill quick stops exclude appointment offices and retain filters on re
  await expect(page.locator('#result-count')).toHaveText('1 company');
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
  await page.locator('#city').selectOption('Rock Hill');
- await expect(page.locator('.empty')).toContainText('No reviewed drop-in stops');
+ await expect(page.locator('#cards')).toContainText("Earl Jackson's Carpet");
+ await expect(page.locator('#cards')).not.toContainText('American Flooring and Renovations');
 });
 
 test('visit warnings, unknowns and offline filters remain available',async({page,context,browserName})=>{

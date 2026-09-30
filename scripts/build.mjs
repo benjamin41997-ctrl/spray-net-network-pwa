@@ -9,6 +9,7 @@ import {validateResearch} from '../site/research-model.js';
 import {validateSocial,socialCompanies} from '../site/social-model.js';
 import {mailingCategories} from '../site/mailing-model.js';
 import {mergeMailingCatalog} from '../site/mailing-model.js';
+import {buildNetwork} from '../site/business-model.js';
 const root=new URL('../',import.meta.url);
 const data=JSON.parse(await readFile(new URL('site/data/directory.json',root),'utf8'));
 if(data.schemaVersion!==1||!data.companies.length)throw Error('Directory snapshot required');
@@ -21,6 +22,7 @@ if(data.counts.companies!==ids.size||data.counts.people!==data.companies.reduce(
 const mailing=JSON.parse(await readFile(new URL('site/data/mailing.json',root),'utf8'));
 if(mailing.schemaVersion!==1||!Array.isArray(mailing.recipients))throw Error('Mailing catalog required');
 const catalog=mergeMailingCatalog(mailing.recipients,data.companies);
+buildNetwork(data,mailing,JSON.parse(await readFile(new URL('site/data/business-details.json',root),'utf8')));
 validateResearch(JSON.parse(await readFile(new URL('site/data/research.json',root),'utf8')),catalog,mailingCategories);
 validateSocial(JSON.parse(await readFile(new URL('site/data/social.json',root),'utf8')),socialCompanies(data,mailing));
 validateConfig(JSON.parse(await readFile(new URL('site/data/suggestions-config.json',root),'utf8')));

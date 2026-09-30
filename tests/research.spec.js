@@ -42,19 +42,20 @@ test('findings resolve independently by actual contact date, ignore removed entr
  expect(prospectRatings(inherited[0],{visit:{value:'home_based',reason:'Moved',reviewedOn:today(),firsthand:true}}).visit.value).toBe('home_based');
 });
 test('research log distinguishes checked sources, unresolved leads and queued areas',async({page})=>{
+ const log=JSON.parse(await readFile(new URL('../site/data/research.json',import.meta.url),'utf8'));
+ const passes=log.passes.filter(p=>p.area==='fort_mill'&&p.category==='professional').sort((a,b)=>b.searchedOn.localeCompare(a.searchedOn));
  await page.goto('./#mailing');
  await page.locator('#mail-coverage > summary').click();
  await page.locator('#coverage-category').selectOption('professional');
  const fort=page.locator('[data-coverage-area="fort_mill"]');
- await expect(fort).toContainText('Sources checked 2026-09-22');
- await fort.getByText('Source history (1 pass)',{exact:true}).click();
+ await expect(fort).toContainText('Sources checked '+passes[0].searchedOn);
+ await fort.getByText(`Source history (${passes.length} ${passes.length===1?'pass':'passes'})`,{exact:true}).click();
  await expect(fort).toContainText('Nantz');
  await expect(fort).toContainText('not an exhaustive');
  await expect(page.locator('[data-coverage-area="marvin"]')).toContainText('no source pass logged');
  await page.locator('#coverage-status').selectOption('unsearched');
  await expect(fort).toHaveCount(0);
  await expect(page.locator('[data-coverage-area="marvin"]')).toBeVisible();
- const log=JSON.parse(await readFile(new URL('../site/data/research.json',import.meta.url),'utf8'));
  expect(()=>validateResearch(log,catalog,mailingCategories)).not.toThrow();
  const bad=structuredClone(log);bad.passes[0].reviewedIds=[999999999];expect(()=>validateResearch(bad,catalog,mailingCategories)).toThrow();
 });
