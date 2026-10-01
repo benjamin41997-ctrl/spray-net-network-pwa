@@ -557,6 +557,34 @@
       "phone": "+18033298888"
     },
     {
+      "id": 1000165,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://aes.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://aes.ucpsnc.org/",
+      "phone": "+17042963005"
+    },
+    {
+      "id": 1000184,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://wes.ucpsnc.org/community/mobile-app",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://wes.ucpsnc.org/community/mobile-app",
+      "phone": "+17042966317"
+    },
+    {
       "id": 1000197,
       "people": [],
       "sources": [
@@ -578,9 +606,14 @@
           "url": "https://caromonthealth.org/locations/caromont-family-medicine-lake-wylie/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://caromonthealth.org/doctors/caromont-medical-group/lawson-held-md/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://caromonthealth.org/locations/caromont-family-medicine-lake-wylie/",
       "phone": "+18036312858"
     },
@@ -3366,10 +3399,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1437370798",
           "type": "CMS organization registry; last updated 2008-02-04",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.lakewyliefamilydentist.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "8038318856",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://www.lakewyliefamilydentist.com/"
     },
     {
       "id": 1000350,
@@ -3399,10 +3438,15 @@
           "url": "https://www.lakewyliemoderndentistry.com/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.smilegeneration.com/dentist/sc/clover/798-lake-wylie-modern-dentistry/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "8037520565",
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.lakewyliemoderndentistry.com/"
     },
     {
@@ -7113,10 +7157,17 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1689289423",
           "type": "CMS organization registry; last updated 2020-09-09",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.towndentalgroup.com/Office-Tour",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7048000255",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://www.towndentalgroup.com/Office-Tour",
+      "email": "minthill@carolinadentistrync.com"
     },
     {
       "id": 1000481,
@@ -7399,10 +7450,17 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1265424345",
           "type": "CMS organization registry; last updated 2021-04-19",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://minthilldentistry.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7045688010",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://minthilldentistry.com/",
+      "email": "info@minthilldentistry.com"
     },
     {
       "id": 1000491,
@@ -8285,10 +8343,17 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1477212421",
           "type": "CMS organization registry; last updated 2021-12-16",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.bellaserafamilydentistry.com/family-dental",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7043217929",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://www.bellaserafamilydentistry.com/family-dental",
+      "email": "admin@bellaserafamilydentistry.com"
     },
     {
       "id": 1000522,
@@ -9316,7 +9381,7 @@
         {
           "url": "https://www.lakepointeacademy.com/about/sprofile.cfm",
           "type": "company website",
-          "date": "2026-09-30"
+          "date": "2026-10-01"
         }
       ],
       "website": "https://www.lakepointeacademy.com/about/sprofile.cfm",
@@ -9324,7 +9389,7 @@
       "phone": "8036315253",
       "services": "Private school.",
       "subcategory": "Private school",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01"
     },
     {
       "id": 1000588,
@@ -11306,9 +11371,14 @@
           "url": "https://www.umamisushigrill.com/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://umamimatthews.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.umamisushigrill.com/",
       "phone": "+17043212888"
     },
@@ -15569,6 +15639,11 @@
           "url": "https://affinityhealthcenter.org/become-a-patient/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://affinityhealthcenter.org/services-clover/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "verified": "2026-10-01",
@@ -17314,6 +17389,837 @@
       "website": "https://cclw.org/visit-cclw/",
       "phone": "+18038311615",
       "email": "info@cclw.org"
+    },
+    {
+      "id": 1001133,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rejuvenatelakewylie.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.rejuvenatelakewylie.com/",
+      "phone": "+18036194061",
+      "email": "contact@rejuvenatelakewylie.com"
+    },
+    {
+      "id": 1001134,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.dsjcpas.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.dsjcpas.com/",
+      "phone": "+18285140429",
+      "email": "daniel@dsjcpas.com"
+    },
+    {
+      "id": 1001135,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://burnettelaw.net/contact-us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://burnettelaw.net/contact-us/",
+      "phone": "+18033281800"
+    },
+    {
+      "id": 1001136,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://burnettelaw.net/contact-us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://burnettelaw.net/contact-us/",
+      "phone": "+18033281800"
+    },
+    {
+      "id": 1001137,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://tavernalakewylie.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://tavernalakewylie.com/",
+      "phone": "+18037017788"
+    },
+    {
+      "id": 1001138,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://copperpremiumpub.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://copperpremiumpub.com/",
+      "phone": "+18037017021",
+      "email": "kanosf@bellsouth.net"
+    },
+    {
+      "id": 1001139,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://christophersgrillandbar.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://christophersgrillandbar.com/",
+      "phone": "+18038312461",
+      "email": "christopherslakewylie@yahoo.com"
+    },
+    {
+      "id": 1001140,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mycloverharvest.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.mycloverharvest.com/",
+      "phone": "+18038106082",
+      "email": "alison@mycloverharvest.com"
+    },
+    {
+      "id": 1001141,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://echo-boutique.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://echo-boutique.com/",
+      "phone": "+18037465656",
+      "email": "shop@echo-boutique.com"
+    },
+    {
+      "id": 1001142,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinachocolatecompany.com/about",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.carolinachocolatecompany.com/about",
+      "phone": "+18035001424",
+      "email": "carolinachocolatecompany@gmail.com"
+    },
+    {
+      "id": 1001143,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bigtimeboba.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bigtimeboba.com/",
+      "phone": "+18036002622",
+      "email": "bigtimebobalakewylie@gmail.com"
+    },
+    {
+      "id": 1001144,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://theestateboys.com/showroom",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://theestateboys.com/showroom",
+      "phone": "+17044584834"
+    },
+    {
+      "id": 1001145,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.riverhillscc.org/weddings-and-events",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.riverhillscc.org/weddings-and-events",
+      "phone": "+18038312126"
+    },
+    {
+      "id": 1001146,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fiveblossomsfarm.com/products-services/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://fiveblossomsfarm.com/products-services/",
+      "phone": "+18036105809",
+      "email": "info@fiveblossomsfarm.com"
+    },
+    {
+      "id": 1001147,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://redfezshrineclub.com/facility-rental",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://redfezshrineclub.com/facility-rental",
+      "phone": "+19808751257"
+    },
+    {
+      "id": 1001148,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.clovervet.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.clovervet.com/",
+      "phone": "+18032227381",
+      "email": "clovervetclinic@gmail.com"
+    },
+    {
+      "id": 1001149,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://totalbondvet.com/lake-wylie-sc/about-us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://totalbondvet.com/lake-wylie-sc/about-us/",
+      "phone": "+18038311318",
+      "email": "bethel@totalbondvets.com"
+    },
+    {
+      "id": 1001150,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fbcmatthews.org/preschool",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.fbcmatthews.org/preschool",
+      "phone": "+17048490580",
+      "email": "contact@fbcmatthews.org"
+    },
+    {
+      "id": 1001151,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goddardschool.com/schools/nc/matthews",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.goddardschool.com/schools/nc/matthews"
+    },
+    {
+      "id": 1001152,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.momentsoffuncare.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.momentsoffuncare.com/",
+      "phone": "+17042466117",
+      "email": "momentsoffun.hcc@gmail.com"
+    },
+    {
+      "id": 1001153,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://teamchurch.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://teamchurch.com/",
+      "phone": "+17049788326",
+      "email": "frontdesk@teamchurch.com"
+    },
+    {
+      "id": 1001154,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.calvarychurch.com/times",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.calvarychurch.com/times",
+      "phone": "+17045431200",
+      "email": "info@calvarychurch.com"
+    },
+    {
+      "id": 1001155,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.newcity.us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.newcity.us/",
+      "phone": "+17043645913",
+      "email": "info@newcity.us"
+    },
+    {
+      "id": 1001156,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.newcity.us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.newcity.us/",
+      "phone": "+17043645913",
+      "email": "info@newcity.us"
+    },
+    {
+      "id": 1001157,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.matthewspresbyterian.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.matthewspresbyterian.org/",
+      "phone": "+17048474094",
+      "email": "office@matthewspresbyterian.org"
+    },
+    {
+      "id": 1001158,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://orchardlakedentistry.com/cosmetic-dentistry/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://orchardlakedentistry.com/cosmetic-dentistry/",
+      "phone": "+17048496700",
+      "email": "info@orchardlakedentistry.com"
+    },
+    {
+      "id": 1001159,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://matthewses.cmsk12.org/contact",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://matthewses.cmsk12.org/contact",
+      "phone": "+19803433940"
+    },
+    {
+      "id": 1001160,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://magnoliafuneral.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://magnoliafuneral.com/",
+      "phone": "+17049537500",
+      "email": "info@magnoliafuneral.com"
+    },
+    {
+      "id": 1001161,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://albumlife.com/communities/album-matthews/amenities/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://albumlife.com/communities/album-matthews/amenities/",
+      "phone": "+19804483861"
+    },
+    {
+      "id": 1001162,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://elitemd.net/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://elitemd.net/",
+      "phone": "+17045000535",
+      "email": "info@elitemd.net"
+    },
+    {
+      "id": 1001163,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://yourbestyoumedispa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://yourbestyoumedispa.com/",
+      "phone": "+17046351229"
+    },
+    {
+      "id": 1001164,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://revivemenc.co/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://revivemenc.co/",
+      "phone": "+19802720756"
+    },
+    {
+      "id": 1001165,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://facelabclt.com/contact-us-3/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://facelabclt.com/contact-us-3/",
+      "phone": "+17042467956",
+      "email": "info@facelabclt.com"
+    },
+    {
+      "id": 1001166,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://edenskinandbodyinstitute.com/contact/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://edenskinandbodyinstitute.com/contact/",
+      "phone": "+17049005420",
+      "email": "eden.sabi@gmail.com"
+    },
+    {
+      "id": 1001167,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://matthewsinternalmedicine.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://matthewsinternalmedicine.com/",
+      "phone": "+17042463936"
+    },
+    {
+      "id": 1001168,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.matthews.com/contact",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.matthews.com/contact",
+      "phone": "+18668890550",
+      "email": "contact@matthews.com"
+    },
+    {
+      "id": 1001169,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.wbblawyers.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.wbblawyers.com/contact-us",
+      "phone": "+17048441400",
+      "email": "info@wbbatty.com"
+    },
+    {
+      "id": 1001170,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tgiinsurance.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tgiinsurance.com/",
+      "phone": "+17048461400"
+    },
+    {
+      "id": 1001171,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.aasebycpa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.aasebycpa.com/",
+      "phone": "+17044578557",
+      "email": "info@aasebycpa.com"
+    },
+    {
+      "id": 1001172,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinapremierinsurance.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.carolinapremierinsurance.com/",
+      "phone": "+19804433908"
+    },
+    {
+      "id": 1001173,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://hibachi-nc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://hibachi-nc.com/",
+      "phone": "+17048410888"
+    },
+    {
+      "id": 1001174,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://petersonmade.com/pages/peterson-made-studio-charlotte",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://petersonmade.com/pages/peterson-made-studio-charlotte",
+      "email": "barb@petersonmade.com"
+    },
+    {
+      "id": 1001175,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.thebrassgrasshopper.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.thebrassgrasshopper.com/",
+      "phone": "+17048473003",
+      "email": "katie@thebrassgrasshopper.com"
+    },
+    {
+      "id": 1001176,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://zabsplace.org/shop/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://zabsplace.org/shop/",
+      "phone": "+17047085600"
+    },
+    {
+      "id": 1001177,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://matthewshelpcenter.org/backporch-treasures/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://matthewshelpcenter.org/backporch-treasures/",
+      "phone": "+17048478383",
+      "email": "development@matthewshelpcenter.org"
+    },
+    {
+      "id": 1001178,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cottonginstore.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://cottonginstore.com/",
+      "phone": "+17042613046"
+    },
+    {
+      "id": 1001179,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.pleasantplainschristian.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.pleasantplainschristian.org/",
+      "phone": "+17048287727"
+    },
+    {
+      "id": 1001180,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.emeraldlakegolfclub.com/weddings",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.emeraldlakegolfclub.com/weddings",
+      "phone": "+17048827888"
+    },
+    {
+      "id": 1001181,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://simbaeventhall.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://simbaeventhall.com/",
+      "phone": "+19804312009"
+    },
+    {
+      "id": 1001182,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.thechapelatmorningstar.com/contact",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.thechapelatmorningstar.com/contact",
+      "phone": "+17043211375",
+      "email": "manager@thechapelatmorningstar.com"
+    },
+    {
+      "id": 1001183,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://matthewsballroom.com/rent-the-studio",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://matthewsballroom.com/rent-the-studio",
+      "phone": "+17049699839",
+      "email": "info@matthewsballroom.com"
+    },
+    {
+      "id": 1001184,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://animalcarematthews.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://animalcarematthews.com/",
+      "phone": "+17048473647",
+      "email": "frontdesk@animalcarematthews.com"
+    },
+    {
+      "id": 1001185,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.matthewsanimalclinic.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.matthewsanimalclinic.com/",
+      "phone": "+17048479856"
+    },
+    {
+      "id": 1001186,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://weddingtonanimalhospital.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://weddingtonanimalhospital.com/",
+      "phone": "+17048478466",
+      "email": "weddingtonanimalvet@gmail.com"
+    },
+    {
+      "id": 1001187,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://caringheartsanimalhospital.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://caringheartsanimalhospital.com/",
+      "phone": "+17048932799"
+    },
+    {
+      "id": 1001188,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://bestcare-ah.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://bestcare-ah.com/",
+      "phone": "+19802026767",
+      "email": "info@bestcare-ah.com"
+    },
+    {
+      "id": 1001189,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.stlukechurch.net/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.stlukechurch.net/",
+      "phone": "+17045451224",
+      "email": "info@stlukecatholicminthill.org"
     }
   ]
 }
