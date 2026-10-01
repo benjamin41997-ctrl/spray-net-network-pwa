@@ -10,7 +10,7 @@ test('business directory exposes profiles, mailing addresses and socials; proper
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
  await page.goto('./');await page.getByRole('button',{name:'Business directory',exact:true}).click();
  await expect(page).toHaveURL(/#businesses/);
- await expect(page.locator('#company-count')).toHaveText(String(businesses.length));
+ await expect(page.locator('#company-count')).toHaveText(businesses.length.toLocaleString('en-US'));
  await page.locator('#category').selectOption('retail');
  await page.locator('#search').fill('Waxhaw Jewelers');
  await page.getByRole('link',{name:'Waxhaw Jewelers',exact:true}).click();

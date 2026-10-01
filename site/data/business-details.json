@@ -9402,9 +9402,14 @@
           "url": "https://sargiscpa.com/cpa-fort-mill-sc/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://sargiscpa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://sargiscpa.com/cpa-fort-mill-sc/",
       "phone": "+17049811191",
       "email": "info@sargiscpa.com"
@@ -10507,9 +10512,14 @@
           "url": "https://www.sethneely.com/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.statefarm.com/agent/us/sc/clover",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.sethneely.com/",
       "phone": "+18038106152"
     },
@@ -13312,6 +13322,257 @@
       "verified": "2026-09-30",
       "website": "https://www.grecofreshgrille.com/location/greco-fresh-grille-waxhaw/",
       "phone": "+19809995184"
+    },
+    {
+      "id": 1000904,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.brightmoreofsouthcharlotte.com/residences",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.brightmoreofsouthcharlotte.com/residences",
+      "phone": "+17045570511",
+      "subcategory": "Senior living facility"
+    },
+    {
+      "id": 1000905,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://commonwealthcharlotte.com/guest-suite/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://commonwealthcharlotte.com/guest-suite/",
+      "phone": "+17043254489",
+      "subcategory": "Residential community / facilities"
+    },
+    {
+      "id": 1000906,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://rlcommunities.com/communities/south-carolina/greenway-square-retirement/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://rlcommunities.com/communities/south-carolina/greenway-square-retirement/",
+      "phone": "+18032287026",
+      "subcategory": "Senior living facility"
+    },
+    {
+      "id": 1000907,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ericksonseniorliving.com/windsor-run",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.ericksonseniorliving.com/windsor-run",
+      "phone": "+17044436300",
+      "subcategory": "Senior living facility"
+    },
+    {
+      "id": 1000908,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thebendatcramertonmills.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://thebendatcramertonmills.com/",
+      "phone": "+17048101386",
+      "subcategory": "Residential community / facilities"
+    },
+    {
+      "id": 1000909,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://studiocspa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://studiocspa.com/",
+      "phone": "+17048671171",
+      "email": "studiocspaandsalon@gmail.com",
+      "subcategory": "Spa / salon"
+    },
+    {
+      "id": 1000910,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ivoryonlongcreek.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.ivoryonlongcreek.com/",
+      "phone": "+18553942170",
+      "subcategory": "Residential community / facilities"
+    },
+    {
+      "id": 1000911,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://rejuvenatembs2.glossgenius.com/services",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://rejuvenatembs2.glossgenius.com/services",
+      "phone": "+17044224355",
+      "email": "info@rejuvenatemindbodysoul.com"
+    },
+    {
+      "id": 1000912,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cwballantyne.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://cwballantyne.com/",
+      "phone": "+19805505025",
+      "email": "contact@cwballantyne.com"
+    },
+    {
+      "id": 1000913,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.regevity.com/locations/charlotte/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.regevity.com/locations/charlotte/",
+      "phone": "+17043072562"
+    },
+    {
+      "id": 1000914,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://beautyintheinkllc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://beautyintheinkllc.com/",
+      "phone": "+17043012091",
+      "email": "beautyintheinkbydesiree@gmail.com"
+    },
+    {
+      "id": 1000915,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.royalkartierbeautyspa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.royalkartierbeautyspa.com/",
+      "phone": "+19802999991",
+      "email": "info@royalkartierbeautyspa.com"
+    },
+    {
+      "id": 1000916,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.statefarm.com/agent/us/sc/clover",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.statefarm.com/agent/us/sc/clover",
+      "phone": "+18036755899"
+    },
+    {
+      "id": 1000917,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://davidblackwelllaw.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://davidblackwelllaw.com/",
+      "phone": "+18032850225"
+    },
+    {
+      "id": 1000918,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.dhhi.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.dhhi.com/",
+      "phone": "+17048474438",
+      "email": "info@dhhi.com"
+    },
+    {
+      "id": 1000919,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.huffmankendrick.com/llm-info/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.huffmankendrick.com/llm-info/",
+      "phone": "+17042831529"
+    },
+    {
+      "id": 1000920,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://minthillwil.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://minthillwil.com/",
+      "phone": "+17045454422"
     }
   ]
 }

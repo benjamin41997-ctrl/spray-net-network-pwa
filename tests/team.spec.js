@@ -62,3 +62,11 @@ test('team suggestions, outreach and mailing settings reach a second device with
   await pb.goto('./#team');expect(await pb.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
  }finally{await a.close();await b.close();}
 });
+test('directory findings sync to another approved device',async({browser},info)=>{
+ test.skip(info.project.name!=='desktop','Two-device verification runs once');
+ const server=fakeServer(),a=await browser.newContext({baseURL:url,serviceWorkers:'block'}),b=await browser.newContext({baseURL:url,serviceWorkers:'block'});
+ try{await server.install(a,ids[0]);await server.install(b,ids[1]);const pa=await a.newPage(),pb=await b.newPage();
+ await pa.goto('./#verification');await pa.locator('#verification-form [name=company]').selectOption('2');await pa.locator('#verification-form [name=evidence]').fill('Office manager confirmed a new mailing suite.');await pa.getByRole('button',{name:'Save finding',exact:true}).click();await expect.poll(()=>[...server.records.values()].filter(r=>r.kind==='activity').length).toBe(1);
+ await pb.goto('./#verification');await expect(pb.locator('#verification')).toContainText('Office manager confirmed a new mailing suite.');
+ }finally{await a.close();await b.close();}
+});

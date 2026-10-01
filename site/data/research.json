@@ -10448,6 +10448,60 @@
       ],
       "notes": "1 public web queries searched for this city/category; results were compared against both directories. Reviewed records may be located in another territory city. Search performed does not mean every business was found or every result has been verified.",
       "nextAction": "Resolve remaining candidate identities and office conflicts; enrich contacts, email, socials, visitor policy and exterior approval authority."
+    },
+    {
+      "id": "2026-10-01-maps-pilot-fort_mill",
+      "area": "fort_mill",
+      "category": "kitchen",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Google Maps / Places: cabinet showroom Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=cabinet%20showroom%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "0 unmatched Place IDs need business identity and office verification. Existing ID matches are not new contact/address verification."
+      ],
+      "notes": "Partial Maps pilot: one result page, 1 Place IDs, 1 existing Place ID matches. No new Maps business published from this pilot. Search performed does not establish complete city coverage.",
+      "nextAction": "Check unmatched candidates against both directories and owned websites; continue additional search terms and pages within API budget."
+    },
+    {
+      "id": "2026-10-01-maps-pilot-rock_hill",
+      "area": "rock_hill",
+      "category": "property_management",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Google Maps / Places: property management Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=property%20management%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "1 unmatched Place IDs need business identity and office verification. Existing ID matches are not new contact/address verification."
+      ],
+      "notes": "Partial Maps pilot: one result page, 20 Place IDs, 19 existing Place ID matches. No new Maps business published from this pilot. Search performed does not establish complete city coverage.",
+      "nextAction": "Check unmatched candidates against both directories and owned websites; continue additional search terms and pages within API budget."
+    },
+    {
+      "id": "2026-10-01-maps-pilot-charlotte",
+      "area": "charlotte",
+      "category": "flooring",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Google Maps / Places: tile flooring showroom Charlotte NC",
+          "url": "https://www.google.com/maps/search/?api=1&query=tile%20flooring%20showroom%20Charlotte%20NC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "19 unmatched Place IDs need business identity and office verification. Existing ID matches are not new contact/address verification."
+      ],
+      "notes": "Partial Maps pilot: one result page, 20 Place IDs, 1 existing Place ID matches. No new Maps business published from this pilot. Search performed does not establish complete city coverage.",
+      "nextAction": "Check unmatched candidates against both directories and owned websites; continue additional search terms and pages within API budget."
     }
   ]
 }

@@ -22,7 +22,7 @@ export function validateActivity(r){
  return structuredClone(r);
 }
 export function summary(records,companyId,day=today()){
- const list=records.filter(r=>r.companyId===companyId&&!r.deletedAt).sort((a,b)=>b.occurredOn.localeCompare(a.occurredOn)||b.createdAt.localeCompare(a.createdAt));
+ const list=records.filter(r=>r.companyId===companyId&&!r.deletedAt&&r.material!=='Directory verification').sort((a,b)=>b.occurredOn.localeCompare(a.occurredOn)||b.createdAt.localeCompare(a.createdAt));
  const due=list.filter(r=>r.followUpOn&&!r.followUpDone&&r.followUpOn<=day);
  const days=list.length?Math.round((Date.parse(day+'T12:00:00Z')-Date.parse(list[0].occurredOn+'T12:00:00Z'))/86400000):null;
  return {list,last:list[0]||null,count:list.length,due,days};

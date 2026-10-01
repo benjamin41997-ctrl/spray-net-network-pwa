@@ -1,0 +1,47 @@
+{
+  "checkedOn": "2026-10-01",
+  "items": [
+    {
+      "companyId": 1259,
+      "questions": [
+        "What is the complete current business mailing address, including suite and ZIP? Published address information is incomplete or conflicting.",
+        "Who handles approval for exterior painting: this business, the property owner, or a property manager?"
+      ]
+    },
+    {
+      "companyId": 1260,
+      "questions": [
+        "Is the Lawyers Road suite a visitor office or a mailing-only address?",
+        "Who handles approval for exterior painting: this business, the property owner, or a property manager?"
+      ]
+    },
+    {
+      "companyId": 1000912,
+      "questions": [
+        "What is the complete current business mailing address, including suite and ZIP? Published address information is incomplete or conflicting.",
+        "Who handles approval for exterior painting: this business, the property owner, or a property manager?"
+      ]
+    },
+    {
+      "companyId": 1000918,
+      "questions": [
+        "Is PO Box 1416 the preferred mailing address, and is the Matthews Mint Hill Road office open to visitors?",
+        "Who handles approval for exterior painting: this business, the property owner, or a property manager?"
+      ]
+    },
+    {
+      "companyId": 1000919,
+      "questions": [
+        "What is the complete current business mailing address, including suite and ZIP? Published address information is incomplete or conflicting.",
+        "Who handles approval for exterior painting: this business, the property owner, or a property manager?"
+      ]
+    },
+    {
+      "companyId": 1000920,
+      "questions": [
+        "What is the complete current business mailing address, including suite and ZIP? Published address information is incomplete or conflicting.",
+        "Who handles approval for exterior painting: this business, the property owner, or a property manager?"
+      ]
+    }
+  ]
+}

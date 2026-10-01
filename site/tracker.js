@@ -45,7 +45,7 @@ function formMarkup(fixed){return `<details class="log-details"><summary>Log com
 export function profileTracker(c){return `<section class="panel outreach-box section-space" data-company="${c.id}"><h2>Networking history</h2>${storageNote()}${ready?formMarkup(c):`<p role="alert">${esc(problem||'Tracking unavailable')}</p>`}<div class="activity-history"></div></section>`}
 export function mountProfileTracker(root){const box=root.querySelector('.outreach-box');if(box){bindForm(box);renderHistory(box)}}
 function renderDashboardCounts(){const target=document.querySelector('#tracker-counts');if(!target)return;
- const active=activities.filter(a=>!a.deletedAt),contacted=companies.filter(c=>companySummary(c.id).count).length,due=companies.filter(c=>companySummary(c.id).due.length).length;
+ const active=activities.filter(a=>!a.deletedAt&&a.material!=='Directory verification'),contacted=companies.filter(c=>companySummary(c.id).count).length,due=companies.filter(c=>companySummary(c.id).due.length).length;
  target.innerHTML=ready?`<div><strong>${active.length}</strong><span>Completed activities</span></div><div><strong>${contacted}</strong><span>Businesses contacted</span></div><div><strong>${due}</strong><span>Businesses due for follow-up</span></div>`:'<p>Tracking unavailable. Contact status cannot be determined.</p>';
 }
 export function renderTracker(root){
