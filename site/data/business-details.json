@@ -215,6 +215,20 @@
       "verified": "2026-09-30"
     },
     {
+      "id": 1000114,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://rockhillpumphouse.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://rockhillpumphouse.com/",
+      "phone": "+18033298888"
+    },
+    {
       "id": 1000197,
       "people": [],
       "sources": [
@@ -8445,6 +8459,20 @@
       "phone": "+18035474024"
     },
     {
+      "id": 1000541,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.kounterdining.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.kounterdining.com/",
+      "phone": "+18033287333"
+    },
+    {
       "id": 1000544,
       "people": [],
       "sources": [
@@ -8457,6 +8485,34 @@
       "verified": "2026-09-30",
       "website": "https://www.rendezbrewcafe.com/",
       "phone": "+18035482306"
+    },
+    {
+      "id": 1000545,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://palmettoskinandlasercenter.com/palmetto-breeze-med-spa/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://palmettoskinandlasercenter.com/palmetto-breeze-med-spa/",
+      "phone": "+18033296630"
+    },
+    {
+      "id": 1000546,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.metrolinamedicalspa.com/index.html",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.metrolinamedicalspa.com/index.html",
+      "phone": "+18039853939"
     },
     {
       "id": 1000547,
@@ -8506,6 +8562,50 @@
       "email": "rob@rjwcpa.com"
     },
     {
+      "id": 1000559,
+      "people": [
+        {
+          "id": 1,
+          "name": "Rhonda Benfield",
+          "role": "Attorney / owner",
+          "email": "rhonda@palmetto-law.com",
+          "phone": "",
+          "sources": [
+            {
+              "url": "https://www.palmetto-law.com/contact",
+              "type": "company website",
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Walter Dusky",
+          "role": "Attorney",
+          "email": "walter@palmetto-law.com",
+          "phone": "",
+          "sources": [
+            {
+              "url": "https://www.palmetto-law.com/contact",
+              "type": "company website",
+              "date": "2026-10-01"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.palmetto-law.com/contact",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.palmetto-law.com/contact",
+      "phone": "+18038022780",
+      "email": "rhonda@palmetto-law.com"
+    },
+    {
       "id": 1000562,
       "people": [],
       "sources": [
@@ -8518,6 +8618,21 @@
       "verified": "2026-09-30",
       "website": "https://www.stationbelmont.com/",
       "phone": "+17044618115"
+    },
+    {
+      "id": 1000565,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.miriammed.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.miriammed.com/",
+      "phone": "+18033664206",
+      "email": "miriammedicalclinic1926@gmail.com"
     },
     {
       "id": 1000567,
@@ -8640,7 +8755,7 @@
         {
           "url": "https://wardstaxservice.com/",
           "type": "company website",
-          "date": "2026-09-30"
+          "date": "2026-10-01"
         }
       ],
       "website": "https://wardstaxservice.com/",
@@ -8648,7 +8763,7 @@
       "phone": "8035470505",
       "services": "Tax / accounting office.",
       "subcategory": "Tax / accounting office",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01"
     },
     {
       "id": 1000578,
@@ -8703,6 +8818,11 @@
           "url": "https://www.fortmillcpa.com/contact",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.fortmillcpa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "website": "https://www.fortmillcpa.com/contact",
@@ -8710,7 +8830,7 @@
       "phone": "8038024829",
       "services": "Accounting office.",
       "subcategory": "Accounting office",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01"
     },
     {
       "id": 1000580,
@@ -14187,6 +14307,394 @@
       "verified": "2026-10-01",
       "website": "https://www.novanthealth.org/locations/clinics/waxhaw-family-sports-medicine/location/",
       "phone": "+17043848640"
+    },
+    {
+      "id": 1000956,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fhccarolinas.com/direct-primary-care-dpc/medical-aesthetics/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://fhccarolinas.com/direct-primary-care-dpc/medical-aesthetics/",
+      "phone": "+17046252994",
+      "email": "info@fhccarolinas.com"
+    },
+    {
+      "id": 1000957,
+      "people": [
+        {
+          "id": 1,
+          "name": "Rhonda Benfield",
+          "role": "Attorney / owner",
+          "email": "rhonda@palmetto-law.com",
+          "phone": "",
+          "sources": [
+            {
+              "url": "https://www.palmetto-law.com/contact",
+              "type": "company website",
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Walter Dusky",
+          "role": "Attorney",
+          "email": "walter@palmetto-law.com",
+          "phone": "",
+          "sources": [
+            {
+              "url": "https://www.palmetto-law.com/contact",
+              "type": "company website",
+              "date": "2026-10-01"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.palmetto-law.com/contact",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.palmetto-law.com/contact",
+      "phone": "+18038022780",
+      "email": "rhonda@palmetto-law.com",
+      "visit": {
+        "status": "no_public_office",
+        "summary": "The published contact page explicitly says this office is not staffed. Contact the firm before planning any visit.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-01",
+        "sources": [
+          "https://www.palmetto-law.com/contact"
+        ]
+      }
+    },
+    {
+      "id": 1000958,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rumoraesthetics.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.rumoraesthetics.com/",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "The business publishes appointment-only hours. Arrange an introduction before visiting.",
+        "address": "430 S Herlong Avenue Suite 103, Rock Hill, SC 29732",
+        "hours": null,
+        "checkedAt": "2026-10-01",
+        "sources": [
+          "https://www.rumoraesthetics.com/"
+        ]
+      }
+    },
+    {
+      "id": 1000959,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.spaforte.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.spaforte.com/"
+    },
+    {
+      "id": 1000960,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://graysanatomymedspa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://graysanatomymedspa.com/",
+      "phone": "+18033235595"
+    },
+    {
+      "id": 1000961,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bnacpa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bnacpa.com/",
+      "phone": "+18033668371"
+    },
+    {
+      "id": 1000962,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.sturgisbeaty.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.sturgisbeaty.com/",
+      "phone": "+18033667244"
+    },
+    {
+      "id": 1000963,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bayerscpa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bayerscpa.com/",
+      "phone": "+18033271306",
+      "email": "brittany@bayerscpa.com"
+    },
+    {
+      "id": 1000964,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kayins.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://kayins.com/",
+      "phone": "+18033247550",
+      "visit": {
+        "status": "walk_in",
+        "summary": "The business explicitly welcomes visits during normal business hours. Use the street office, not the mailing PO Box.",
+        "address": "1501 Ebenezer Road, Rock Hill, SC 29732",
+        "hours": null,
+        "checkedAt": "2026-10-01",
+        "sources": [
+          "https://kayins.com/"
+        ]
+      }
+    },
+    {
+      "id": 1000965,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.montriobelton.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.montriobelton.com/",
+      "phone": "+18033244529",
+      "email": "info@montriobelton.com"
+    },
+    {
+      "id": 1000966,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://rinehartlawsc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://rinehartlawsc.com/",
+      "phone": "+18033252280"
+    },
+    {
+      "id": 1000967,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ebenezergrill.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.ebenezergrill.com/",
+      "phone": "+18033276700"
+    },
+    {
+      "id": 1000968,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://texmexbargrillsc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://texmexbargrillsc.com/",
+      "phone": "+18033240106"
+    },
+    {
+      "id": 1000969,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://theislandgrillpub.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://theislandgrillpub.com/",
+      "phone": "+18645501916"
+    },
+    {
+      "id": 1000970,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.redbowlrockhill.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.redbowlrockhill.com/",
+      "phone": "+18033662226"
+    },
+    {
+      "id": 1000971,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bellacayss.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bellacayss.com/",
+      "phone": "+18035482963",
+      "email": "bellcayss@gmail.com"
+    },
+    {
+      "id": 1000972,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://square.site/book/02B453NWGGAC1/aesthetics-by-lisa-kruse-tega-cay-sc",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://square.site/book/02B453NWGGAC1/aesthetics-by-lisa-kruse-tega-cay-sc",
+      "phone": "+19199713050",
+      "email": "aestheticsbylisakruse@gmail.com"
+    },
+    {
+      "id": 1000973,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://elase.com/locations/southpark/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://elase.com/locations/southpark/",
+      "phone": "+17048592494",
+      "email": "southpark@elase.com"
+    },
+    {
+      "id": 1000974,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lepetitspacharlotte.com/pages/ballantyne",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://lepetitspacharlotte.com/pages/ballantyne",
+      "phone": "+17049100559"
+    },
+    {
+      "id": 1000975,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lepetitspacharlotte.com/pages/ballantyne",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://lepetitspacharlotte.com/pages/ballantyne",
+      "phone": "+19804063269"
+    },
+    {
+      "id": 1000976,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vocimedspa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://vocimedspa.com/",
+      "phone": "+17047528030",
+      "email": "info@vocimedspa.com"
+    },
+    {
+      "id": 1000977,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.themodernaesthetic.co/ballantyne",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.themodernaesthetic.co/ballantyne",
+      "phone": "+17042911568",
+      "email": "info@themodernaesthetic.co"
+    },
+    {
+      "id": 1000978,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.butler.legal/offices/charlotte/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.butler.legal/offices/charlotte/",
+      "phone": "+17045432321"
     }
   ]
 }

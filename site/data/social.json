@@ -5957,7 +5957,8 @@
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
-        "https://rockhillpumphouse.com/contact"
+        "https://rockhillpumphouse.com/contact",
+        "https://rockhillpumphouse.com/"
       ],
       "accounts": [
         {
@@ -6304,7 +6305,8 @@
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
-        "https://www.kounterdining.com/menus"
+        "https://www.kounterdining.com/menus",
+        "https://www.kounterdining.com/"
       ],
       "accounts": [
         {
@@ -6397,7 +6399,8 @@
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
-        "https://palmettoskinandlasercenter.com/contact/"
+        "https://palmettoskinandlasercenter.com/contact/",
+        "https://palmettoskinandlasercenter.com/palmetto-breeze-med-spa/"
       ],
       "accounts": [
         {
@@ -23438,6 +23441,370 @@
           "scope": "unclear",
           "source": "https://floorcoveringsinternational.com/locations/us/nc/central-charlotte/mount-holly/",
           "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000956,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://fhccarolinas.com/direct-primary-care-dpc/medical-aesthetics/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/fhccarolinas",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://fhccarolinas.com/direct-primary-care-dpc/medical-aesthetics/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/fhccarolinas",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://fhccarolinas.com/direct-primary-care-dpc/medical-aesthetics/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000960,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://graysanatomymedspa.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/graysanatomymedspa",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://graysanatomymedspa.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/graysanatomymedspa",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://graysanatomymedspa.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000961,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://www.bnacpa.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/bnacpa",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.bnacpa.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/bnacpa",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.bnacpa.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/bnacpa",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.bnacpa.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/Bnacpa",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.bnacpa.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000962,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://www.sturgisbeaty.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/sturgisbeaty",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.sturgisbeaty.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000965,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://www.montriobelton.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/montriolaw",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.montriobelton.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/lawofficesofmontriobelton",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.montriobelton.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000967,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://www.ebenezergrill.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ebenezergrill",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.ebenezergrill.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000969,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://theislandgrillpub.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/islandgrillandpub",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://theislandgrillpub.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000972,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://square.site/book/02B453NWGGAC1/aesthetics-by-lisa-kruse-tega-cay-sc"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/aestheticsbylisakruse",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://square.site/book/02B453NWGGAC1/aesthetics-by-lisa-kruse-tega-cay-sc",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aestheticsbylisakruse",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://square.site/book/02B453NWGGAC1/aesthetics-by-lisa-kruse-tega-cay-sc",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000973,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://elase.com/locations/southpark/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/elasemedspas",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://elase.com/locations/southpark/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/elasemedspas",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://elase.com/locations/southpark/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/elasemedspas",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://elase.com/locations/southpark/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@elasemedspas",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://elase.com/locations/southpark/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@elasemedspas",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://elase.com/locations/southpark/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000976,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://vocimedspa.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/vocimedspa",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://vocimedspa.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/vocimedspa",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://vocimedspa.com/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000977,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://www.themodernaesthetic.co/ballantyne"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/themodernaesthetic.clt",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.themodernaesthetic.co/ballantyne",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/themodernaesthetic_",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.themodernaesthetic.co/ballantyne",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@themodernaesthetic.clt",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.themodernaesthetic.co/ballantyne",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@themodernaestheticco",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.themodernaesthetic.co/ballantyne",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000978,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed owned-site account links; account activity remains unverified.",
+      "sources": [
+        "https://www.butler.legal/offices/charlotte/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/butlerlegal",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.butler.legal/offices/charlotte/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/butlerlegal",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.butler.legal/offices/charlotte/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/butler-weihmuller-katz-craig-llp",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.butler.legal/offices/charlotte/",
+          "notes": "Business website link; may represent the shared brand. Recent activity unverified."
         }
       ]
     }

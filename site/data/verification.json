@@ -97,6 +97,25 @@
       "questions": [
         "Who handles exterior building maintenance approval for the Charlotte showroom: local management, landlord, or corporate facilities?"
       ]
+    },
+    {
+      "companyId": 1000958,
+      "questions": [
+        "Who approves exterior painting for this location: the business owner, landlord, or property manager?"
+      ]
+    },
+    {
+      "companyId": 1000964,
+      "questions": [
+        "Who approves exterior painting for this location: the business owner, landlord, or property manager?"
+      ]
+    },
+    {
+      "companyId": 1000972,
+      "questions": [
+        "Who approves exterior painting for this location: the business owner, landlord, or property manager?",
+        "Is this an appointment-only or home-based location, and what is the preferred business mailing address?"
+      ]
     }
   ]
 }
