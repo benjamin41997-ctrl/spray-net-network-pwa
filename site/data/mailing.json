@@ -22754,10 +22754,10 @@
       "id": 1000499,
       "attention": "",
       "country": "US",
-      "reviewedOn": "2026-09-22",
-      "status": "published",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
       "addressSourceType": "healthcare_registry",
-      "prospectNotes": "CMS organization registry practice-location address (NPI 1518327634); registry record last updated 2016-03-02. Current trading name, occupancy, postal deliverability and building ownership are not independently confirmed.",
+      "prospectNotes": "2016NPI address331IndianTrailRdN overlaps ownedMillerAnimalHospital331IndianTrailRdN. FreshDental currentownedoffice list omitsIndianTrail; no closure ormerge inferred. Hold mailing until current occupancy/address confirmed.",
       "exterior": {
         "route": "unknown",
         "reason": "Published business address only. Building ownership, exterior approval authority and walk-in access have not been established.",
@@ -47583,6 +47583,139 @@
         "route": "unknown",
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.medspamagnolia.com/locations",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1001406,
+      "name": "Cloth & Clay",
+      "category": "retail",
+      "attention": "",
+      "address1": "6751 Old Monroe Road Suite 105",
+      "address2": "",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.clothandclayshop.com/",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.clothandclayshop.com/",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1001407,
+      "name": "Miller Animal Hospital",
+      "category": "veterinary",
+      "attention": "",
+      "address1": "331 Indian Trail Road N",
+      "address2": "",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://milleranimalhospitalnc.com/our-location/",
+      "reviewedOn": "2026-10-01",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://milleranimalhospitalnc.com/our-location/",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1001408,
+      "name": "Woodlawn Baptist Church",
+      "category": "church",
+      "attention": "",
+      "address1": "1101 N Main Street",
+      "address2": "",
+      "city": "Lowell",
+      "state": "NC",
+      "zip": "28098",
+      "country": "US",
+      "source": "https://www.wbclowell.com/home",
+      "reviewedOn": "2026-10-01",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.wbclowell.com/home",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1001409,
+      "name": "Forest Trail",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "",
+      "address2": "",
+      "city": "Mint Hill",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.foresttrailhouse.com/",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.foresttrailhouse.com/",
+        "reviewedOn": "2026-10-01"
+      },
+      "prospectNotes": "Storefront reopening pending; separate coffee trailer advertises8400FairviewRd. Full business mailing route and vendor visit suitability need confirmation."
+    },
+    {
+      "id": 1001410,
+      "name": "Hayes Insurance Agency",
+      "category": "professional",
+      "attention": "",
+      "address1": "4614 Wilgrove Mint Hill Road Suite C11",
+      "address2": "",
+      "city": "Mint Hill",
+      "state": "NC",
+      "zip": "28227",
+      "country": "US",
+      "source": "https://www.hayesinsuranceagent.com/",
+      "reviewedOn": "2026-10-01",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.hayesinsuranceagent.com/",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1001411,
+      "name": "Mint Hill Rock Store BBQ",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "",
+      "address2": "",
+      "city": "Mint Hill",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.bbqminthill.com/",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.bbqminthill.com/",
         "reviewedOn": "2026-10-01"
       }
     }

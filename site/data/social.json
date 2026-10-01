@@ -24402,6 +24402,68 @@
           "notes": "Official business profile linked by the owned website."
         }
       ]
+    },
+    {
+      "companyId": 1001406,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Official owned website links reviewed; account activity not independently checked.",
+      "sources": [
+        "https://www.clothandclayshop.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/clothandclayshop",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.clothandclayshop.com/",
+          "notes": "Business account explicitly linked by the owned website."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/clothandclayconsign",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.clothandclayshop.com/",
+          "notes": "Business account explicitly linked by the owned website."
+        }
+      ]
+    },
+    {
+      "companyId": 1001409,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Official owned website links reviewed; account activity not independently checked.",
+      "sources": [
+        "https://www.foresttrailhouse.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/foresttrailminthill",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.foresttrailhouse.com/",
+          "notes": "Business account explicitly linked by the owned website."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/foresttrailminthill",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.foresttrailhouse.com/",
+          "notes": "Business account explicitly linked by the owned website."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@foresttrailminthill",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.foresttrailhouse.com/",
+          "notes": "Business account explicitly linked by the owned website."
+        }
+      ]
     }
   ]
 }
