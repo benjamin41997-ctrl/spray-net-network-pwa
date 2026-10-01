@@ -47916,6 +47916,28 @@
         "source": "https://weddingtonridgehoa.com/",
         "reviewedOn": "2026-10-01"
       }
+    },
+    {
+      "id": 1001415,
+      "name": "Harper’s Cafe",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "9101 Pineville Matthews Rd, Suite I",
+      "address2": "",
+      "city": "Pineville",
+      "state": "NC",
+      "zip": "28134",
+      "country": "US",
+      "source": "https://www.harpers.cafe",
+      "reviewedOn": "2026-10-01",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.harpers.cafe",
+        "reviewedOn": "2026-10-01"
+      }
     }
   ]
 }
