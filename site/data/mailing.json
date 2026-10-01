@@ -47718,6 +47718,204 @@
         "source": "https://www.bbqminthill.com/",
         "reviewedOn": "2026-10-01"
       }
+    },
+    {
+      "id": 1293,
+      "name": "Kendrick Farm HOA",
+      "category": "property_management",
+      "attention": "",
+      "address1": "",
+      "address2": "",
+      "city": "Mount Holly",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://kendrickfarmhoa.com/",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://kendrickfarmhoa.com/",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1001412,
+      "name": "The Catalyst Mercantile",
+      "category": "retail",
+      "attention": "",
+      "address1": "123 S Main St",
+      "address2": "",
+      "city": "Mount Holly",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://thecatalystmercantile.com/",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://thecatalystmercantile.com/",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1294,
+      "name": "Cardinal Woods HOA",
+      "category": "property_management",
+      "attention": "",
+      "address1": "",
+      "address2": "",
+      "city": "Pineville",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.cwc-hoa.org/",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.cwc-hoa.org/",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1001413,
+      "name": "Journey Church",
+      "category": "church",
+      "attention": "",
+      "address1": "7604 Newtown Rd",
+      "address2": "",
+      "city": "Waxhaw",
+      "state": "NC",
+      "zip": "28173",
+      "country": "US",
+      "source": "https://wearejourneychurch.org/",
+      "reviewedOn": "2026-10-01",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://wearejourneychurch.org/",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1001414,
+      "name": "Gordon Funeral Service & Crematory",
+      "category": "funeral",
+      "attention": "",
+      "address1": "1904 Lancaster Avenue",
+      "address2": "",
+      "city": "Monroe",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.gordonfuneralservice.com/",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.gordonfuneralservice.com/",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1295,
+      "name": "Urban City Realty",
+      "category": "real_estate",
+      "attention": "",
+      "address1": "",
+      "address2": "",
+      "city": "Waxhaw",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.urbancityrealty.co/about",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.urbancityrealty.co/about",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1296,
+      "name": "Nuccio Real Estate / NorthGroup",
+      "category": "real_estate",
+      "attention": "",
+      "address1": "",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://teamnuccio.com/",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://teamnuccio.com/",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1297,
+      "name": "The Railyard",
+      "category": "property_management",
+      "attention": "",
+      "address1": "",
+      "address2": "",
+      "city": "Waxhaw",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.therailyard.com/shopping",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.therailyard.com/shopping",
+        "reviewedOn": "2026-10-01"
+      }
+    },
+    {
+      "id": 1298,
+      "name": "Weddington Ridge HOA",
+      "category": "property_management",
+      "attention": "",
+      "address1": "",
+      "address2": "",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://weddingtonridgehoa.com/",
+      "reviewedOn": "2026-10-01",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://weddingtonridgehoa.com/",
+        "reviewedOn": "2026-10-01"
+      }
     }
   ]
 }

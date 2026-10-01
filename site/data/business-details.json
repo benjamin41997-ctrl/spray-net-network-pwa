@@ -20770,6 +20770,11 @@
           "url": "https://www.shopthenestonline.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.thevintagenesthomeandgifts.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "verified": "2026-10-01",
@@ -21953,6 +21958,46 @@
       "verified": "2026-10-01",
       "website": "https://www.bbqminthill.com/",
       "phone": "+17045451227"
+    },
+    {
+      "id": 1001412,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thecatalystmercantile.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://thecatalystmercantile.com/"
+    },
+    {
+      "id": 1001413,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://wearejourneychurch.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://wearejourneychurch.org/",
+      "email": "info@wearejourneychurch.org"
+    },
+    {
+      "id": 1001414,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gordonfuneralservice.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.gordonfuneralservice.com/"
     }
   ]
 }
