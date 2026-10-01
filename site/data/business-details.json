@@ -638,6 +638,21 @@
       "phone": "+18033298888"
     },
     {
+      "id": 1000117,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://eastmainguesthouse.com/our-inn/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://eastmainguesthouse.com/our-inn/",
+      "phone": "+18033661161",
+      "email": "info@eastmainguesthouse.com"
+    },
+    {
       "id": 1000123,
       "people": [],
       "sources": [
@@ -15378,6 +15393,11 @@
           "url": "https://www.sturgisbeaty.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.sturgisbeaty.com/contact/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "verified": "2026-10-01",
@@ -21505,6 +21525,180 @@
       "website": "https://www.thehunterfarm.com/spring-season",
       "phone": "+17048467975",
       "email": "howdy@thehunterfarm.com"
+    },
+    {
+      "id": 1001383,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://broadclothboutique.com/pages/locations",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://broadclothboutique.com/pages/locations",
+      "phone": "+18035489141"
+    },
+    {
+      "id": 1001384,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.miginsgroup.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.miginsgroup.com/contact-us",
+      "phone": "+18039815272",
+      "email": "info@miginsgroup.com"
+    },
+    {
+      "id": 1001385,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.wileyinsagency.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.wileyinsagency.com/",
+      "phone": "+18033291453"
+    },
+    {
+      "id": 1001386,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fbcfm.com/visit",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.fbcfm.com/visit",
+      "phone": "+18035472051",
+      "email": "contact@fbcfm.com"
+    },
+    {
+      "id": 1001387,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.garandcandles.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.garandcandles.com/",
+      "email": "agarand89@gmail.com"
+    },
+    {
+      "id": 1001388,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bluepineapplerentals.com/stays/the-rh-collection",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bluepineapplerentals.com/stays/the-rh-collection",
+      "phone": "+17045777806",
+      "email": "info@bluepineapplerentalgroup.com"
+    },
+    {
+      "id": 1001389,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rockhillstays.com/properties",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.rockhillstays.com/properties",
+      "phone": "+18035172411",
+      "email": "huttorentals@gmail.com"
+    },
+    {
+      "id": 1001390,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://dremedspa.janeapp.com/locations/dre-medical-spa/book",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://dremedspa.janeapp.com/locations/dre-medical-spa/book",
+      "phone": "+17047772286",
+      "email": "danielle@dremedspa.com"
+    },
+    {
+      "id": 1001391,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.lakelyne.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.lakelyne.com/",
+      "phone": "+17047744022",
+      "email": "support@rentlyne.com"
+    },
+    {
+      "id": 1001392,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://calculatedmoves.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://calculatedmoves.com/",
+      "email": "info@calculatedmoves.com"
+    },
+    {
+      "id": 1001393,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.morrisjewelers.com/about/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.morrisjewelers.com/about/",
+      "phone": "+17048654471"
+    },
+    {
+      "id": 1001394,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.yannibistro.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.yannibistro.com/",
+      "email": "yanni@yannibistro.com"
     }
   ]
 }
