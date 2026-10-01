@@ -268,14 +268,14 @@
         {
           "url": "https://southpointpethospital.com/contact-us/",
           "type": "company website",
-          "date": "2026-09-30"
+          "date": "2026-10-01"
         }
       ],
       "website": "https://southpointpethospital.com/contact-us/",
       "phone": "7048257774",
       "services": "Veterinary clinic.",
       "subcategory": "Veterinary clinic",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01"
     },
     {
       "id": 1000072,
@@ -557,6 +557,77 @@
       "phone": "+18033298888"
     },
     {
+      "id": 1000123,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.haremasseycpa.com/services",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.haremasseycpa.com/services",
+      "phone": "+19805309311",
+      "email": "ashley@haremasseycpa.com"
+    },
+    {
+      "id": 1000128,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://belmontcentral.gaston.k12.nc.us/resources",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://belmontcentral.gaston.k12.nc.us/resources",
+      "phone": "+17048369137"
+    },
+    {
+      "id": 1000139,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://northbelmont.gaston.k12.nc.us/resources",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://northbelmont.gaston.k12.nc.us/resources",
+      "phone": "+17048369135"
+    },
+    {
+      "id": 1000149,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://belmontmiddle.gaston.k12.nc.us/resources",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://belmontmiddle.gaston.k12.nc.us/resources",
+      "phone": "+17048369611"
+    },
+    {
+      "id": 1000150,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cramertonmiddle.gaston.k12.nc.us/resources",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://cramertonmiddle.gaston.k12.nc.us/resources",
+      "phone": "+17048369603"
+    },
+    {
       "id": 1000165,
       "people": [],
       "sources": [
@@ -639,9 +710,14 @@
           "url": "https://caromonthealth.org/locations/south-point-family-practice-belmont/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://stage-caromont-health.euwest01.umbraco.io/doctors/caromont-medical-group/daren-woodward-do/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://caromonthealth.org/locations/south-point-family-practice-belmont/",
       "phone": "+17048255333"
     },
@@ -3764,10 +3840,17 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1780560565",
           "type": "CMS organization registry; last updated 2025-08-15",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://tworiversdentalnc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7048293700",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://tworiversdentalnc.com/",
+      "email": "frontdesk@tworiversdentalnc.com"
     },
     {
       "id": 1000362,
@@ -3904,10 +3987,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1174793251",
           "type": "CMS organization registry; last updated 2008-03-05",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.sunnydentalcenter.com/office",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7048670766",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://www.sunnydentalcenter.com/office"
     },
     {
       "id": 1000367,
@@ -7979,10 +8068,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1518973155",
           "type": "CMS organization registry; last updated 2020-08-22",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://cooperfamilydentistry.org/index.php/our-services/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7048650490",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://cooperfamilydentistry.org/index.php/our-services/"
     },
     {
       "id": 1000509,
@@ -9014,6 +9109,21 @@
       "email": "rhonda@palmetto-law.com"
     },
     {
+      "id": 1000561,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.oldstonesteakhouse.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.oldstonesteakhouse.com/",
+      "phone": "+17048259995",
+      "email": "oldstonebookinginfo@gmail.com"
+    },
+    {
       "id": 1000562,
       "people": [],
       "sources": [
@@ -9056,6 +9166,21 @@
       "website": "https://www.tastync.com/our-story",
       "phone": "+17048794484",
       "email": "info@tastync.com"
+    },
+    {
+      "id": 1000570,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.floydandblackies.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.floydandblackies.com/",
+      "phone": "+17048794417",
+      "email": "info@floydandblackies.com"
     },
     {
       "id": 1000571,
@@ -11805,9 +11930,14 @@
           "url": "https://totalbondvet.com/belmont-nc/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://lp.newhopevet.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://totalbondvet.com/belmont-nc/",
       "phone": "+17048741802"
     },
@@ -18220,6 +18350,743 @@
       "website": "https://www.stlukechurch.net/",
       "phone": "+17045451224",
       "email": "info@stlukecatholicminthill.org"
+    },
+    {
+      "id": 1001190,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://minthilles.cmsk12.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://minthilles.cmsk12.org/",
+      "phone": "+19803430926"
+    },
+    {
+      "id": 1001191,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://minthillms.cmsk12.org/contact",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://minthillms.cmsk12.org/contact",
+      "phone": "+19803435439"
+    },
+    {
+      "id": 1001192,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.nhaschools.com/schools/queens-grant-community-school/en/leadership",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.nhaschools.com/schools/queens-grant-community-school/en/leadership",
+      "phone": "+17045736611",
+      "email": "queensgrantcommunityschool@nhaschools.com"
+    },
+    {
+      "id": 1001193,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.southpointumcbelmont.net/weekday-school-1",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.southpointumcbelmont.net/weekday-school-1",
+      "phone": "+17048250525"
+    },
+    {
+      "id": 1001194,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.allaboutmelearningcenter.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.allaboutmelearningcenter.com/",
+      "phone": "+17048278046",
+      "email": "allaboutme28012@gmail.com"
+    },
+    {
+      "id": 1001195,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://preschoolconnectionlearningacademy.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://preschoolconnectionlearningacademy.com/",
+      "phone": "+17048298222"
+    },
+    {
+      "id": 1001196,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://preschoolconnectionlearningacademy.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://preschoolconnectionlearningacademy.com/",
+      "phone": "+17048275525"
+    },
+    {
+      "id": 1001197,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.thepointe.cc/new",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.thepointe.cc/new",
+      "phone": "+17048251709"
+    },
+    {
+      "id": 1001198,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.loveschapelbelmont.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.loveschapelbelmont.org/",
+      "phone": "+17048258342"
+    },
+    {
+      "id": 1001199,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.sevenoakschurch.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.sevenoakschurch.org/",
+      "phone": "+17048252800",
+      "email": "info@sevenoakschurch.org"
+    },
+    {
+      "id": 1001200,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.queenoftheapostles.org/mass-times",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.queenoftheapostles.org/mass-times",
+      "phone": "+17048259600"
+    },
+    {
+      "id": 1001201,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.theheightsbelmont.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.theheightsbelmont.org/",
+      "phone": "+17048278474"
+    },
+    {
+      "id": 1001202,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.holyc.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.holyc.org/",
+      "phone": "+17048252483"
+    },
+    {
+      "id": 1001203,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://theexoduschurch.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://theexoduschurch.org/",
+      "phone": "+17048265151"
+    },
+    {
+      "id": 1001204,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gaston.k12.nc.us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.gaston.k12.nc.us/",
+      "phone": "+17048666100"
+    },
+    {
+      "id": 1001205,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://feeltheglo.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://feeltheglo.com/",
+      "phone": "+19803551883",
+      "email": "clientservices@feeltheglo.com"
+    },
+    {
+      "id": 1001206,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.marc-wellness.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.marc-wellness.com/",
+      "phone": "+17048686100"
+    },
+    {
+      "id": 1001207,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.elevated-self.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.elevated-self.com/",
+      "phone": "+17044928468",
+      "email": "contactus@elevated-self.com"
+    },
+    {
+      "id": 1001208,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.landmarkmd.com/services",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.landmarkmd.com/services",
+      "phone": "+17044618111",
+      "email": "hello@landmarkmd.com"
+    },
+    {
+      "id": 1001209,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://watsoninsurance.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://watsoninsurance.com/",
+      "phone": "+17048658584"
+    },
+    {
+      "id": 1001210,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://watsoninsurance.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://watsoninsurance.com/",
+      "phone": "+17048259641"
+    },
+    {
+      "id": 1001211,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sodomalaw.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://sodomalaw.com/",
+      "phone": "+17044420000",
+      "email": "info@sodomalaw.com"
+    },
+    {
+      "id": 1001212,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sodomalaw.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://sodomalaw.com/",
+      "phone": "+17049262520",
+      "email": "info@sodomalaw.com"
+    },
+    {
+      "id": 1001213,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.taylorlawpllc.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.taylorlawpllc.com/locations/",
+      "phone": "+17044618785"
+    },
+    {
+      "id": 1001214,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.nchibachi.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.nchibachi.com/",
+      "phone": "+17044618233"
+    },
+    {
+      "id": 1001215,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://tapsidepizza.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://tapsidepizza.com/",
+      "phone": "+17044618504"
+    },
+    {
+      "id": 1001216,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://shopthebelle.com/pages/about-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://shopthebelle.com/pages/about-us",
+      "phone": "+17048293477",
+      "email": "shopthebelle@gmail.com"
+    },
+    {
+      "id": 1001217,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thecollectivebelmont.com/pages/visit-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://thecollectivebelmont.com/pages/visit-us",
+      "phone": "+17044618043",
+      "email": "shopthecollectivebelmont@gmail.com"
+    },
+    {
+      "id": 1001218,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://bryan-andrea-455n.squarespace.com/market-on-main",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://bryan-andrea-455n.squarespace.com/market-on-main",
+      "phone": "+17044618407"
+    },
+    {
+      "id": 1001219,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://magnoliaandvinebelmont.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://magnoliaandvinebelmont.com/",
+      "phone": "+17048298050"
+    },
+    {
+      "id": 1001220,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.chestertondrexel.org/admissions/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.chestertondrexel.org/admissions/",
+      "phone": "+17049300994",
+      "email": "info@chestertondrexel.org"
+    },
+    {
+      "id": 1001221,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cramertondaycare.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.cramertondaycare.org/",
+      "phone": "+17048242840",
+      "email": "info@cramertondaycare.org"
+    },
+    {
+      "id": 1001222,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lifechurchcramerton.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://lifechurchcramerton.org/",
+      "phone": "+17048244286",
+      "email": "inboxlifechurch@gmail.com"
+    },
+    {
+      "id": 1001223,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cramerton.church/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.cramerton.church/",
+      "phone": "+17048242840",
+      "email": "info@cramerton.church"
+    },
+    {
+      "id": 1001224,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://171southmain.wixsite.com/riversidebaptist",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://171southmain.wixsite.com/riversidebaptist",
+      "email": "sangera@gmail.com"
+    },
+    {
+      "id": 1001225,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://goatislandgetaway.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://goatislandgetaway.com/"
+    },
+    {
+      "id": 1001226,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://georgioscramerton.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://georgioscramerton.com/",
+      "phone": "+17048242220",
+      "email": "georgioscramerton@gmail.com"
+    },
+    {
+      "id": 1001227,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://libbylousgifts.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://libbylousgifts.com/",
+      "phone": "+17048688269"
+    },
+    {
+      "id": 1001228,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tanninwinehouse.com/reserve",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tanninwinehouse.com/reserve",
+      "phone": "+17048797038",
+      "email": "info@tanninwinehouse.com"
+    },
+    {
+      "id": 1001229,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://linebergervethospital.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://linebergervethospital.com/",
+      "phone": "+17048248451"
+    },
+    {
+      "id": 1001230,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://urgentvet.com/location/belmont-nc/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://urgentvet.com/location/belmont-nc/",
+      "phone": "+17048258868",
+      "email": "belmont@urgentvet.com"
+    },
+    {
+      "id": 1001231,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://earlyvisionsacademy.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://earlyvisionsacademy.com/",
+      "phone": "+17048130036",
+      "email": "earlyvisionsacademync@gmail.com"
+    },
+    {
+      "id": 1001232,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://eaglesnestcdc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://eaglesnestcdc.com/",
+      "phone": "+17048657875",
+      "email": "eaglesnestcdcllcgastonia@gmail.com"
+    },
+    {
+      "id": 1001233,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fairchancelearningacademy.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://fairchancelearningacademy.com/",
+      "phone": "+19804215929",
+      "email": "hello@fairchancelearningacademy.com"
+    },
+    {
+      "id": 1001234,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fbcgastonia.org/contact",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.fbcgastonia.org/contact",
+      "phone": "+17048658576",
+      "email": "fbcofgastonia@gmail.com"
+    },
+    {
+      "id": 1001235,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.christchurchgastonia.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.christchurchgastonia.org/",
+      "phone": "+17048645321",
+      "email": "office@christchurchgastonia.org"
+    },
+    {
+      "id": 1001236,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.redeemergastonia.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.redeemergastonia.org/",
+      "phone": "+17048656152"
+    },
+    {
+      "id": 1001237,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.calvarygastonia.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.calvarygastonia.com/",
+      "phone": "+17048658229",
+      "email": "contactus@calvarygastonia.com"
+    },
+    {
+      "id": 1001238,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.lutheranchapelchurch.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.lutheranchapelchurch.org/",
+      "phone": "+17048646491"
+    },
+    {
+      "id": 1001239,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://bassdentistry.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://bassdentistry.com/",
+      "phone": "+17048649949",
+      "email": "office@bassdentistry.com"
+    },
+    {
+      "id": 1001240,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.foxesdds.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.foxesdds.com/",
+      "phone": "+17048656408"
     }
   ]
 }
