@@ -9478,9 +9478,14 @@
           "url": "https://www.hegejewelers.com/fine-jewelry/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.hegejewelers.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.hegejewelers.com/fine-jewelry/",
       "phone": "+18033277850"
     },
@@ -12757,9 +12762,14 @@
           "url": "https://www.tyndallfurniture.com/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.tyndallfurniture.com/locations/location_2.html",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.tyndallfurniture.com/",
       "phone": "+18038027710",
       "email": "info@tyndallfurniture.com"
@@ -13573,6 +13583,97 @@
       "verified": "2026-10-01",
       "website": "https://minthillwil.com/",
       "phone": "+17045454422"
+    },
+    {
+      "id": 1000921,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.designerlooksforless.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.designerlooksforless.com/",
+      "phone": "+17048351001",
+      "email": "heatherandkim@designerlooksforless.com"
+    },
+    {
+      "id": 1000922,
+      "people": [
+        {
+          "id": 1,
+          "name": "Heather Lynn",
+          "role": "Owner / master stylist",
+          "email": "",
+          "phone": "",
+          "sources": [
+            {
+              "url": "https://www.heirloomsalon.net/",
+              "type": "company website",
+              "date": "2026-10-01"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.heirloomsalon.net/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.heirloomsalon.net/",
+      "phone": "+17048351001",
+      "email": "heirloomsalon@gmail.com",
+      "subcategory": "Salon / boutique"
+    },
+    {
+      "id": 1000923,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://clt-furniture.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://clt-furniture.com/",
+      "phone": "+17044437141",
+      "email": "cltfurniture.sales@gmail.com"
+    },
+    {
+      "id": 1000924,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://carolinafabinc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://carolinafabinc.com/",
+      "phone": "+17048208694",
+      "email": "wevans@carolinafabinc.com",
+      "subcategory": "Metal fabrication / industrial facility"
+    },
+    {
+      "id": 1000925,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://furnitureacademy.com/locations/pineville-north-carolina/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://furnitureacademy.com/locations/pineville-north-carolina/",
+      "phone": "+17043418393"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-09-30",
+  "publishedAt": "2026-10-01",
   "reviews": [
     {
       "companyId": 1,
@@ -2177,7 +2177,7 @@
     },
     {
       "companyId": 242,
-      "checkedOn": "2026-09-28",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
@@ -2465,7 +2465,7 @@
     },
     {
       "companyId": 253,
-      "checkedOn": "2026-09-28",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
@@ -3431,12 +3431,13 @@
     },
     {
       "companyId": 288,
-      "checkedOn": "2026-09-28",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
         "http://www.cabinetiq.com/charlotte/",
-        "https://cabinetiq.com/charlotte/"
+        "https://cabinetiq.com/charlotte/",
+        "https://cabinetiq.com/weddington/"
       ],
       "accounts": [
         {
@@ -3649,7 +3650,7 @@
     },
     {
       "companyId": 1023,
-      "checkedOn": "2026-09-28",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
@@ -7202,13 +7203,14 @@
     },
     {
       "companyId": 1042,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
         "https://legacytops.com",
         "http://legacytops.com/contact/",
-        "https://legacytops.com/contact/"
+        "https://legacytops.com/contact/",
+        "https://legacytops.com/"
       ],
       "accounts": [
         {
@@ -7354,13 +7356,14 @@
     },
     {
       "companyId": 1048,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
         "https://lynnblackwell.com",
         "https://lynnblackwell.com/contact/",
-        "https://lynnblackwell.com/about/"
+        "https://lynnblackwell.com/about/",
+        "https://lynnblackwell.com/"
       ],
       "accounts": [
         {
@@ -8045,7 +8048,7 @@
     },
     {
       "companyId": 1075,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
@@ -8103,7 +8106,7 @@
     },
     {
       "companyId": 1077,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
@@ -8127,6 +8130,14 @@
           "scope": "business",
           "source": "https://www.kbninteriors.com/",
           "notes": "Linked from the reviewed business website. Profile activity and availability have not been independently checked."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/kbn-interiors-172422512795216",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.kbninteriors.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
         }
       ]
     },
@@ -8152,7 +8163,7 @@
     },
     {
       "companyId": 1079,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
@@ -8251,7 +8262,7 @@
     },
     {
       "companyId": 1084,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
@@ -8406,11 +8417,12 @@
     },
     {
       "companyId": 1088,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
-        "https://www.assostone.com/contact/"
+        "https://www.assostone.com/contact/",
+        "https://www.assostone.com/"
       ],
       "accounts": [
         {
@@ -9034,13 +9046,14 @@
     },
     {
       "companyId": 1108,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
         "https://timelesscountertops.com/charlotte-nc/",
         "https://timelesscountertops.com/contact-us/",
-        "https://timelesscountertops.com/about/"
+        "https://timelesscountertops.com/about/",
+        "https://timelesscountertops.com/ballantyne/"
       ],
       "accounts": [
         {
@@ -11508,12 +11521,13 @@
     },
     {
       "companyId": 1000632,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
         "https://www.hegejewelers.com/fine-jewelry/",
-        "https://www.hegejewelers.com/contact-us/"
+        "https://www.hegejewelers.com/contact-us/",
+        "https://www.hegejewelers.com/"
       ],
       "accounts": [
         {
@@ -19771,13 +19785,14 @@
     },
     {
       "companyId": 1000864,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-01",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
         "https://www.tyndallfurniture.com/",
         "https://www.tyndallfurniture.com/contact-us.html",
-        "https://www.tyndallfurniture.com/about-our-family-business.html"
+        "https://www.tyndallfurniture.com/about-our-family-business.html",
+        "https://www.tyndallfurniture.com/locations/location_2.html"
       ],
       "accounts": [
         {
@@ -22908,6 +22923,381 @@
         "https://www.emmapropertymanagement.com/about"
       ],
       "accounts": []
+    },
+    {
+      "companyId": 1000921,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://www.designerlooksforless.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61557301076063",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.designerlooksforless.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/designerlooksforless2024",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.designerlooksforless.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@designerlooksforless",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.designerlooksforless.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@designerlooksforless",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.designerlooksforless.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000922,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://www.heirloomsalon.net/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/heirloomsalonpineville",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.heirloomsalon.net/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/heirloom_salon",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.heirloomsalon.net/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1261,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://mattstoneteam.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/mattstoneteam",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://mattstoneteam.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/selling_charlottenc",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://mattstoneteam.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/matt-stone-real-estate-design-build",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://mattstoneteam.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCdMaC_EH24DwQtXmmyI9DgA",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://mattstoneteam.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1263,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://www.alukadesignco.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/alukadesignco",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.alukadesignco.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1264,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://dippedinteriors.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/dippedinteriors",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://dippedinteriors.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1265,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://kauffmanandco.com/products/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/kauffmanandco",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://kauffmanandco.com/products/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/kauffmanandco",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://kauffmanandco.com/products/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/kauffmanandco",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://kauffmanandco.com/products/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000923,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://clt-furniture.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/cltfurniture2",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://clt-furniture.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@clt.furniture",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://clt-furniture.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1267,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://autumnwooddesigns.com/about-custom-built-ins/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/autumnwoodbuiltins",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://autumnwooddesigns.com/about-custom-built-ins/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/autumnwood_builtins",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://autumnwooddesigns.com/about-custom-built-ins/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1268,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://tcwdc.com/cabinetry-residential/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/the-coastal-window-door-center-246381498794896",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://tcwdc.com/cabinetry-residential/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000925,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://furnitureacademy.com/locations/pineville-north-carolina/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/lazboysoutheast",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://furnitureacademy.com/locations/pineville-north-carolina/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/lazboysoutheast",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://furnitureacademy.com/locations/pineville-north-carolina/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/lazboysoutheast",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://furnitureacademy.com/locations/pineville-north-carolina/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCH9_15DsWWVoZRp5_2OFiqQ",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://furnitureacademy.com/locations/pineville-north-carolina/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1269,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://altamodanc.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/altamodanc",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://altamodanc.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1270,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://www.mere-designs.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/mere.designs.llc13713",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.mere-designs.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1271,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
+      "sources": [
+        "https://saralynnbrennan.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/saralynnbrennan",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://saralynnbrennan.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/saralynnbrennaninteriors",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://saralynnbrennan.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/sara-lynn-brennan-interiors",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://saralynnbrennan.com/",
+          "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
     }
   ]
 }

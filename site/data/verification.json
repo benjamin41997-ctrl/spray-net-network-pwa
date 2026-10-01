@@ -42,6 +42,36 @@
         "What is the complete current business mailing address, including suite and ZIP? Published address information is incomplete or conflicting.",
         "Who handles approval for exterior painting: this business, the property owner, or a property manager?"
       ]
+    },
+    {
+      "companyId": 1265,
+      "questions": [
+        "Which address should receive business mail: the 725 S. Cedar Street showroom or the 1420 S. Mint Street Suite E2 office? Are drop-in visits welcome?"
+      ]
+    },
+    {
+      "companyId": 1261,
+      "questions": [
+        "Please confirm the ZIP for 2459 Wilkinson Blvd Suite 310: the website footer says 28208, while structured data says 28205."
+      ]
+    },
+    {
+      "companyId": 1266,
+      "questions": [
+        "What is the current business mailing address? Which published phone should English-speaking callers use?"
+      ]
+    },
+    {
+      "companyId": 1263,
+      "questions": [
+        "What mailing address should we use, and are visits by appointment only?"
+      ]
+    },
+    {
+      "companyId": 56,
+      "questions": [
+        "Is the Gaston association listing with phone (615) 496-5401 the same Carolina Premier Properties as Chad Fowler at 1215 Armstrong Ford Road, Belmont, phone (704) 826-5282? Keep separate until confirmed."
+      ]
     }
   ]
 }

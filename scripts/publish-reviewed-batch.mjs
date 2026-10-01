@@ -55,6 +55,15 @@ for(const r of rows){
 }
 details.records=[...byDetail.values()].sort((a,b)=>a.id-b.id);
 const catalog=mergeMailingCatalog(m.recipients,d.companies),network=buildNetwork(d,m,details);
+report.reclassifiedResearch=[];
+const currentCatalog=new Map(catalog.map(r=>[r.id,r]));
+for(const pass of research.passes){
+ const moved=pass.reviewedIds.filter(id=>{const r=currentCatalog.get(id);return r&&(r.category!==pass.category||mailingArea(r)!==pass.area);});
+ if(!moved.length)continue;
+ pass.reviewedIds=pass.reviewedIds.filter(id=>!moved.includes(id));
+ pass.unresolved.push('Location/category corrected on '+reviewedOn+' for IDs '+moved.join(', ')+'. Refer to their current company profiles; the prior segment does not represent a separate office.');
+ report.reclassifiedResearch.push({pass:pass.id,ids:moved});
+}
 validateResearch(research,catalog,mailingCategories);validateSocial(s,socialCompanies(d,m));
 for(const [file,value]of [['mailing',m],['business-details',details],['social',s],['research',research]])await save(new URL('site/data/'+file+'.json',root),value);
 await save(new URL('public-ids.json',base),mapping);

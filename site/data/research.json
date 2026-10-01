@@ -598,7 +598,6 @@
       "reviewedIds": [
         38,
         39,
-        1100,
         1102,
         1104
       ],
@@ -606,7 +605,8 @@
         "Four Seasons Property Management Inc.: Company identity researched; complete mailing address still needs review.",
         "Jamison Property Management: Company identity researched; complete mailing address still needs review.",
         "PMI Charlotte Metro: Company identity researched; complete mailing address still needs review.",
-        "Magnolia PMG LLC: Company identity researched; complete mailing address still needs review."
+        "Magnolia PMG LLC: Company identity researched; complete mailing address still needs review.",
+        "Location/category corrected on 2026-10-01 for IDs 1100. Refer to their current company profiles; the prior segment does not represent a separate office."
       ],
       "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
       "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
@@ -981,8 +981,7 @@
         1080,
         1082,
         1083,
-        1097,
-        1108
+        1097
       ],
       "unresolved": [
         "Emerald & Oak Design: Company identity researched; complete mailing address still needs review.",
@@ -1024,7 +1023,8 @@
         "Genesis Granite, LLC: Company identity researched; complete mailing address still needs review.",
         "FPG Stone: Company identity researched; complete mailing address still needs review.",
         "Timeless Countertops: Company identity researched; complete mailing address still needs review.",
-        "Location/category information updated on 2026-09-30 for previously reviewed IDs 1026, 1040. Their review is retained in the new sweep under the current territory segment."
+        "Location/category information updated on 2026-09-30 for previously reviewed IDs 1026, 1040. Their review is retained in the new sweep under the current territory segment.",
+        "Location/category corrected on 2026-10-01 for IDs 1108. Refer to their current company profiles; the prior segment does not represent a separate office."
       ],
       "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
       "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
@@ -10502,6 +10502,1228 @@
       ],
       "notes": "Partial Maps pilot: one result page, 20 Place IDs, 1 existing Place ID matches. No new Maps business published from this pilot. Search performed does not establish complete city coverage.",
       "nextAction": "Check unmatched candidates against both directories and owned websites; continue additional search terms and pages within API budget."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--kitchen",
+      "area": "fort_mill",
+      "category": "kitchen",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: cabinet maker cabinet showroom Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=cabinet%20maker%20cabinet%20showroom%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: countertop fabricator countertop installer Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=countertop%20fabricator%20countertop%20installer%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: interior designer design studio Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=interior%20designer%20design%20studio%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "37 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "3 scoped queries, one page each; 51 unique Place IDs and 14 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--flooring",
+      "area": "fort_mill",
+      "category": "flooring",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: tile installer tile showroom Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=tile%20installer%20tile%20showroom%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: flooring store flooring contractor Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=flooring%20store%20flooring%20contractor%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "28 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 29 unique Place IDs and 1 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--property_management",
+      "area": "fort_mill",
+      "category": "property_management",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: residential property management Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=residential%20property%20management%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: commercial property management Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=commercial%20property%20management%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: HOA association management Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=HOA%20association%20management%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "3 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "3 scoped queries, one page each; 35 unique Place IDs and 32 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--real_estate",
+      "area": "fort_mill",
+      "category": "real_estate",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: real estate brokerage office Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=real%20estate%20brokerage%20office%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: realtor real estate team Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=realtor%20real%20estate%20team%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "6 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 32 unique Place IDs and 26 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--dentist",
+      "area": "fort_mill",
+      "category": "dentist",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: dentist dental office Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=dentist%20dental%20office%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: family cosmetic dentistry Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=family%20cosmetic%20dentistry%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "28 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 28 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--school",
+      "area": "fort_mill",
+      "category": "school",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: private schools Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=private%20schools%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: public schools Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=public%20schools%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "27 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 27 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--district",
+      "area": "fort_mill",
+      "category": "district",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: school district office Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=school%20district%20office%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "1 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 1 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--medical",
+      "area": "fort_mill",
+      "category": "medical",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: primary care medical office Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=primary%20care%20medical%20office%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: specialist physician clinic Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=specialist%20physician%20clinic%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "30 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 30 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--med_spa",
+      "area": "fort_mill",
+      "category": "med_spa",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: med spa medical aesthetics Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=med%20spa%20medical%20aesthetics%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: skin rejuvenation clinic Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=skin%20rejuvenation%20clinic%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "25 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 25 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--retail",
+      "area": "fort_mill",
+      "category": "retail",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: jewelry store furniture showroom Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=jewelry%20store%20furniture%20showroom%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: boutique specialty shop Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=boutique%20specialty%20shop%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "15 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 15 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--professional",
+      "area": "fort_mill",
+      "category": "professional",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: CPA accounting firm Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=CPA%20accounting%20firm%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: law firm office Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=law%20firm%20office%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: insurance agency office Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=insurance%20agency%20office%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "60 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "3 scoped queries, one page each; 60 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--restaurant",
+      "area": "fort_mill",
+      "category": "restaurant",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: independent restaurant Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=independent%20restaurant%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: restaurant grill bistro Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=restaurant%20grill%20bistro%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "29 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 29 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--lodging",
+      "area": "fort_mill",
+      "category": "lodging",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: hotel inn bed breakfast Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=hotel%20inn%20bed%20breakfast%20Fort%20Mill%20SC"
+        },
+        {
+          "label": "Maps / Places: independent lodging Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=independent%20lodging%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "30 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 30 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--veterinary",
+      "area": "fort_mill",
+      "category": "veterinary",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: veterinary animal hospital Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=veterinary%20animal%20hospital%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--childcare",
+      "area": "fort_mill",
+      "category": "childcare",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: preschool childcare daycare Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=preschool%20childcare%20daycare%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--church",
+      "area": "fort_mill",
+      "category": "church",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: church religious facility Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=church%20religious%20facility%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--funeral",
+      "area": "fort_mill",
+      "category": "funeral",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: funeral home Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=funeral%20home%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "2 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 2 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-fort_mill--venue",
+      "area": "fort_mill",
+      "category": "venue",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: wedding event venue Fort Mill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=wedding%20event%20venue%20Fort%20Mill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--kitchen",
+      "area": "tega_cay",
+      "category": "kitchen",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: cabinet maker cabinet showroom Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=cabinet%20maker%20cabinet%20showroom%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: countertop fabricator countertop installer Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=countertop%20fabricator%20countertop%20installer%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: interior designer design studio Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=interior%20designer%20design%20studio%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "38 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "3 scoped queries, one page each; 55 unique Place IDs and 17 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--flooring",
+      "area": "tega_cay",
+      "category": "flooring",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: tile installer tile showroom Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=tile%20installer%20tile%20showroom%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: flooring store flooring contractor Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=flooring%20store%20flooring%20contractor%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "33 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 34 unique Place IDs and 1 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--property_management",
+      "area": "tega_cay",
+      "category": "property_management",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: residential property management Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=residential%20property%20management%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: commercial property management Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=commercial%20property%20management%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: HOA association management Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=HOA%20association%20management%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "8 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "3 scoped queries, one page each; 43 unique Place IDs and 35 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--real_estate",
+      "area": "tega_cay",
+      "category": "real_estate",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: real estate brokerage office Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=real%20estate%20brokerage%20office%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: realtor real estate team Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=realtor%20real%20estate%20team%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "4 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 26 unique Place IDs and 22 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--dentist",
+      "area": "tega_cay",
+      "category": "dentist",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: dentist dental office Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=dentist%20dental%20office%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: family cosmetic dentistry Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=family%20cosmetic%20dentistry%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--school",
+      "area": "tega_cay",
+      "category": "school",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: private schools Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=private%20schools%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: public schools Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=public%20schools%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "21 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 21 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--district",
+      "area": "tega_cay",
+      "category": "district",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: school district office Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=school%20district%20office%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "7 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 7 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--medical",
+      "area": "tega_cay",
+      "category": "medical",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: primary care medical office Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=primary%20care%20medical%20office%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: specialist physician clinic Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=specialist%20physician%20clinic%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "28 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 28 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--med_spa",
+      "area": "tega_cay",
+      "category": "med_spa",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: med spa medical aesthetics Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=med%20spa%20medical%20aesthetics%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: skin rejuvenation clinic Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=skin%20rejuvenation%20clinic%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "29 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 29 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--retail",
+      "area": "tega_cay",
+      "category": "retail",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: jewelry store furniture showroom Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=jewelry%20store%20furniture%20showroom%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: boutique specialty shop Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=boutique%20specialty%20shop%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "21 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 21 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--professional",
+      "area": "tega_cay",
+      "category": "professional",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: CPA accounting firm Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=CPA%20accounting%20firm%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: law firm office Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=law%20firm%20office%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: insurance agency office Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=insurance%20agency%20office%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "60 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "3 scoped queries, one page each; 60 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--restaurant",
+      "area": "tega_cay",
+      "category": "restaurant",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: independent restaurant Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=independent%20restaurant%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: restaurant grill bistro Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=restaurant%20grill%20bistro%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "34 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 34 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--lodging",
+      "area": "tega_cay",
+      "category": "lodging",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: hotel inn bed breakfast Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=hotel%20inn%20bed%20breakfast%20Tega%20Cay%20SC"
+        },
+        {
+          "label": "Maps / Places: independent lodging Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=independent%20lodging%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "31 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 31 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--veterinary",
+      "area": "tega_cay",
+      "category": "veterinary",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: veterinary animal hospital Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=veterinary%20animal%20hospital%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "3 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 3 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--childcare",
+      "area": "tega_cay",
+      "category": "childcare",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: preschool childcare daycare Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=preschool%20childcare%20daycare%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "12 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 12 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--church",
+      "area": "tega_cay",
+      "category": "church",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: church religious facility Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=church%20religious%20facility%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--funeral",
+      "area": "tega_cay",
+      "category": "funeral",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: funeral home Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=funeral%20home%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-tega_cay--venue",
+      "area": "tega_cay",
+      "category": "venue",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: wedding event venue Tega Cay SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=wedding%20event%20venue%20Tega%20Cay%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--kitchen",
+      "area": "rock_hill",
+      "category": "kitchen",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: cabinet maker cabinet showroom Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=cabinet%20maker%20cabinet%20showroom%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: countertop fabricator countertop installer Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=countertop%20fabricator%20countertop%20installer%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: interior designer design studio Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=interior%20designer%20design%20studio%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "17 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "3 scoped queries, one page each; 31 unique Place IDs and 14 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--flooring",
+      "area": "rock_hill",
+      "category": "flooring",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: tile installer tile showroom Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=tile%20installer%20tile%20showroom%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: flooring store flooring contractor Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=flooring%20store%20flooring%20contractor%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "30 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 31 unique Place IDs and 1 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--property_management",
+      "area": "rock_hill",
+      "category": "property_management",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: residential property management Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=residential%20property%20management%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: commercial property management Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=commercial%20property%20management%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: HOA association management Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=HOA%20association%20management%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "6 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "3 scoped queries, one page each; 38 unique Place IDs and 32 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--real_estate",
+      "area": "rock_hill",
+      "category": "real_estate",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: real estate brokerage office Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=real%20estate%20brokerage%20office%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: realtor real estate team Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=realtor%20real%20estate%20team%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "8 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 27 unique Place IDs and 19 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--dentist",
+      "area": "rock_hill",
+      "category": "dentist",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: dentist dental office Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=dentist%20dental%20office%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: family cosmetic dentistry Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=family%20cosmetic%20dentistry%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "30 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 30 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--school",
+      "area": "rock_hill",
+      "category": "school",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: private schools Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=private%20schools%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: public schools Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=public%20schools%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "37 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 37 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--district",
+      "area": "rock_hill",
+      "category": "district",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: school district office Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=school%20district%20office%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "1 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 1 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--medical",
+      "area": "rock_hill",
+      "category": "medical",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: primary care medical office Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=primary%20care%20medical%20office%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: specialist physician clinic Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=specialist%20physician%20clinic%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "31 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 31 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--med_spa",
+      "area": "rock_hill",
+      "category": "med_spa",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: med spa medical aesthetics Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=med%20spa%20medical%20aesthetics%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: skin rejuvenation clinic Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=skin%20rejuvenation%20clinic%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "22 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 22 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--retail",
+      "area": "rock_hill",
+      "category": "retail",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: jewelry store furniture showroom Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=jewelry%20store%20furniture%20showroom%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: boutique specialty shop Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=boutique%20specialty%20shop%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--professional",
+      "area": "rock_hill",
+      "category": "professional",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: CPA accounting firm Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=CPA%20accounting%20firm%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: law firm office Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=law%20firm%20office%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: insurance agency office Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=insurance%20agency%20office%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "60 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "3 scoped queries, one page each; 60 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--restaurant",
+      "area": "rock_hill",
+      "category": "restaurant",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: independent restaurant Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=independent%20restaurant%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: restaurant grill bistro Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=restaurant%20grill%20bistro%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "34 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 34 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--lodging",
+      "area": "rock_hill",
+      "category": "lodging",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: hotel inn bed breakfast Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=hotel%20inn%20bed%20breakfast%20Rock%20Hill%20SC"
+        },
+        {
+          "label": "Maps / Places: independent lodging Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=independent%20lodging%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "28 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 28 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--veterinary",
+      "area": "rock_hill",
+      "category": "veterinary",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: veterinary animal hospital Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=veterinary%20animal%20hospital%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--childcare",
+      "area": "rock_hill",
+      "category": "childcare",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: preschool childcare daycare Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=preschool%20childcare%20daycare%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--church",
+      "area": "rock_hill",
+      "category": "church",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: church religious facility Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=church%20religious%20facility%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--funeral",
+      "area": "rock_hill",
+      "category": "funeral",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: funeral home Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=funeral%20home%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-rock_hill--venue",
+      "area": "rock_hill",
+      "category": "venue",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: wedding event venue Rock Hill SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=wedding%20event%20venue%20Rock%20Hill%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "20 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "1 scoped queries, one page each; 20 unique Place IDs and 0 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-indian_land--kitchen",
+      "area": "indian_land",
+      "category": "kitchen",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: cabinet maker cabinet showroom Indian Land SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=cabinet%20maker%20cabinet%20showroom%20Indian%20Land%20SC"
+        },
+        {
+          "label": "Maps / Places: countertop fabricator countertop installer Indian Land SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=countertop%20fabricator%20countertop%20installer%20Indian%20Land%20SC"
+        },
+        {
+          "label": "Maps / Places: interior designer design studio Indian Land SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=interior%20designer%20design%20studio%20Indian%20Land%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "34 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "3 scoped queries, one page each; 50 unique Place IDs and 16 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-indian_land--flooring",
+      "area": "indian_land",
+      "category": "flooring",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: tile installer tile showroom Indian Land SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=tile%20installer%20tile%20showroom%20Indian%20Land%20SC"
+        },
+        {
+          "label": "Maps / Places: flooring store flooring contractor Indian Land SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=flooring%20store%20flooring%20contractor%20Indian%20Land%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "33 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 35 unique Place IDs and 2 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "2026-10-01-maps-indian_land--property_management",
+      "area": "indian_land",
+      "category": "property_management",
+      "searchedOn": "2026-10-01",
+      "sources": [
+        {
+          "label": "Maps / Places: residential property management Indian Land SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=residential%20property%20management%20Indian%20Land%20SC"
+        },
+        {
+          "label": "Maps / Places: commercial property management Indian Land SC",
+          "url": "https://www.google.com/maps/search/?api=1&query=commercial%20property%20management%20Indian%20Land%20SC"
+        }
+      ],
+      "reviewedIds": [],
+      "unresolved": [
+        "11 unmatched Place IDs need independent identity/location research; they are not verified new businesses."
+      ],
+      "notes": "2 scoped queries, one page each; 29 unique Place IDs and 18 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
+      "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
     }
   ]
 }
