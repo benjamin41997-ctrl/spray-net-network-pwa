@@ -23807,6 +23807,546 @@
           "notes": "Business website link; may represent the shared brand. Recent activity unverified."
         }
       ]
+    },
+    {
+      "companyId": 1000979,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://ifwlawgroup.com/contact-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61585063319215",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://ifwlawgroup.com/contact-us/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/ifw-law-group",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://ifwlawgroup.com/contact-us/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCu-JE7RDLTOkQNggskPPXqw",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://ifwlawgroup.com/contact-us/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000981,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://www.arnoldsmithlaw.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/arnold-smith-pllc-45616543201",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.arnoldsmithlaw.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000982,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://www.arnoldsmithlaw.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/arnold-smith-pllc-45616543201",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.arnoldsmithlaw.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000984,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://hallboothsmith.com/law-offices/charlotte-nc/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/hallboothsmith",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://hallboothsmith.com/law-offices/charlotte-nc/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/hallboothsmith",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://hallboothsmith.com/law-offices/charlotte-nc/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/hall-booth-smith-p-c-",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://hallboothsmith.com/law-offices/charlotte-nc/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000985,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://www.turnerlawfirmpllc.com/contact-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=1568809320018832",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.turnerlawfirmpllc.com/contact-us/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000986,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://burtonsgrill.com/locations/nc/charlotte-blakeney/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/burtons.grill",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://burtonsgrill.com/locations/nc/charlotte-blakeney/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/burtons.grill",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://burtonsgrill.com/locations/nc/charlotte-blakeney/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/burtons-grill-llc",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://burtonsgrill.com/locations/nc/charlotte-blakeney/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000987,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://thelights.cafe/contact"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/thelights.cafe",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://thelights.cafe/contact",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000988,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://thedbstavern.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/226592040862278",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://thedbstavern.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000989,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://www.bisontepizzaco.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/bisontepizzaco",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.bisontepizzaco.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/bisontepizzaco",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.bisontepizzaco.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000990,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://www.bisontepizzaco.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/bisontepizzaco",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.bisontepizzaco.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/bisontepizzaco",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.bisontepizzaco.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000991,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://www.bisontepizzaco.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/bisontepizzaco",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.bisontepizzaco.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/bisontepizzaco",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.bisontepizzaco.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000993,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://www.refugeoncentral.com/room-1"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/refuge_clt",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.refugeoncentral.com/room-1",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000994,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://dunhillhotel.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/dunhillhotel",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://dunhillhotel.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/dunhillhotel",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://dunhillhotel.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000995,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://www.queencityfaceandbody.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/qcfaceandbody",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.queencityfaceandbody.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@qcfaceandbody",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.queencityfaceandbody.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000996,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://www.evolvemetoday.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/evolve.med",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.evolvemetoday.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/evolve_medical",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.evolvemetoday.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000997,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://ealasercenter.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/essentialaestheticsandlaser",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://ealasercenter.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/essentialaestheticsandlaser",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://ealasercenter.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000998,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://ealasercenter.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/essentialaestheticsandlaser",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://ealasercenter.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/essentialaestheticsandlaser",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://ealasercenter.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000999,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://prestigemedicalspacharlotte.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/prestigemedspacharlotte",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://prestigemedicalspacharlotte.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/prestigemedspacharlotte",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://prestigemedicalspacharlotte.com/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001000,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://www.scottins.com/contact-us/locations/insurance-office-charlotte-nc/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/scottins1864",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.scottins.com/contact-us/locations/insurance-office-charlotte-nc/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/scottinsurance",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.scottins.com/contact-us/locations/insurance-office-charlotte-nc/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/scott-insurance",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.scottins.com/contact-us/locations/insurance-office-charlotte-nc/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC7c3YznHyMAhksrEGnMGg7A",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.scottins.com/contact-us/locations/insurance-office-charlotte-nc/",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001001,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Reviewed company website links; activity unverified.",
+      "sources": [
+        "https://www.winston.com/en/locations/charlotte"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/winstontaylor_llp",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.winston.com/en/locations/charlotte",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/winston-taylor",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.winston.com/en/locations/charlotte",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@winstontaylorllp",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://www.winston.com/en/locations/charlotte",
+          "notes": "Website-linked business or shared-brand account. Recent activity unverified."
+        }
+      ]
     }
   ]
 }

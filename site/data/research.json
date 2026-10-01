@@ -392,14 +392,13 @@
       "unresolved": [
         "Elite Team Realty & Property Management: Current contact page has a form but no usable street address.",
         "Broad Connection Property Management: Contact page lists the Greater Charlotte service area, email and phone but no office street address.",
-        "Rent Now Solutions: Location page could not be retrieved in this pass; no address promoted."
+        "Rent Now Solutions: Location page could not be retrieved in this pass; no address promoted.",
+        "Location/category corrected on 2026-10-01 for IDs 3, 17. Refer to their current company profiles; the prior segment does not represent a separate office."
       ],
       "notes": "Focused recheck of six held CRM companies. Muse street address resolved; remaining incomplete/conflicting addresses retained for review.",
       "nextAction": "Research the remaining held CRM addresses; confirm office and delivery-unit conflicts with the business when public sources do not resolve them.",
       "reviewedIds": [
-        3,
-        13,
-        17
+        13
       ]
     },
     {

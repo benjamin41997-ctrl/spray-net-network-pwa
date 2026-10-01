@@ -14695,6 +14695,364 @@
       "verified": "2026-10-01",
       "website": "https://www.butler.legal/offices/charlotte/",
       "phone": "+17045432321"
+    },
+    {
+      "id": 1000979,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ifwlawgroup.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ifwlawgroup.com/contact-us/",
+      "phone": "+17044524000",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "The business explicitly requires appointments for in-person office visits.",
+        "address": "13860 Ballantyne Corporate Place Suite 240, Charlotte, NC 28277",
+        "hours": null,
+        "checkedAt": "2026-10-01",
+        "sources": [
+          "https://ifwlawgroup.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1000980,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.brysonbahrs.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.brysonbahrs.com/",
+      "phone": "+17044440478",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "The business explicitly requires appointments for in-person office visits.",
+        "address": "6135 Park South Drive Suite 500, Charlotte, NC 28210",
+        "hours": null,
+        "checkedAt": "2026-10-01",
+        "sources": [
+          "https://www.brysonbahrs.com/"
+        ]
+      }
+    },
+    {
+      "id": 1000981,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.arnoldsmithlaw.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.arnoldsmithlaw.com/",
+      "phone": "+17043702828"
+    },
+    {
+      "id": 1000982,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.arnoldsmithlaw.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.arnoldsmithlaw.com/",
+      "phone": "+17043702828"
+    },
+    {
+      "id": 1000983,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://riadcpa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://riadcpa.com/",
+      "phone": "+19802221005",
+      "email": "ragi@riadcpa.com"
+    },
+    {
+      "id": 1000984,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://hallboothsmith.com/law-offices/charlotte-nc/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://hallboothsmith.com/law-offices/charlotte-nc/",
+      "phone": "+19808590380"
+    },
+    {
+      "id": 1000985,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.turnerlawfirmpllc.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.turnerlawfirmpllc.com/contact-us/",
+      "phone": "+17044969095",
+      "email": "info@turnerlawfirmpllc.com"
+    },
+    {
+      "id": 1000986,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://burtonsgrill.com/locations/nc/charlotte-blakeney/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://burtonsgrill.com/locations/nc/charlotte-blakeney/",
+      "phone": "+19807010910"
+    },
+    {
+      "id": 1000987,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thelights.cafe/contact",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://thelights.cafe/contact",
+      "phone": "+19802070871",
+      "email": "hello@thelights.cafe"
+    },
+    {
+      "id": 1000988,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thedbstavern.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://thedbstavern.com/",
+      "phone": "+17048440534",
+      "email": "dbs.tavern@gmail.com"
+    },
+    {
+      "id": 1000989,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bisontepizzaco.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bisontepizzaco.com/",
+      "phone": "+17048218003"
+    },
+    {
+      "id": 1000990,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bisontepizzaco.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bisontepizzaco.com/",
+      "phone": "+19802424395"
+    },
+    {
+      "id": 1000991,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bisontepizzaco.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bisontepizzaco.com/",
+      "phone": "+17046841881"
+    },
+    {
+      "id": 1000992,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.benoodlenc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.benoodlenc.com/",
+      "phone": "+17047526410"
+    },
+    {
+      "id": 1000993,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.refugeoncentral.com/room-1",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.refugeoncentral.com/room-1",
+      "email": "stay@refugeoncentral.com"
+    },
+    {
+      "id": 1000994,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://dunhillhotel.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://dunhillhotel.com/",
+      "phone": "+17043324141"
+    },
+    {
+      "id": 1000995,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.queencityfaceandbody.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.queencityfaceandbody.com/",
+      "phone": "+17042132476",
+      "email": "info@qcweightlosssolution.com",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "The business explicitly requires appointments for in-person office visits.",
+        "address": "320 Lillington Avenue Suite 201, Charlotte, NC 28204",
+        "hours": null,
+        "checkedAt": "2026-10-01",
+        "sources": [
+          "https://www.queencityfaceandbody.com/"
+        ]
+      }
+    },
+    {
+      "id": 1000996,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.evolvemetoday.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.evolvemetoday.com/",
+      "phone": "+17043866695"
+    },
+    {
+      "id": 1000997,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ealasercenter.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ealasercenter.com/",
+      "phone": "+17046256567"
+    },
+    {
+      "id": 1000998,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ealasercenter.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ealasercenter.com/",
+      "phone": "+17046256567"
+    },
+    {
+      "id": 1000999,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://prestigemedicalspacharlotte.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://prestigemedicalspacharlotte.com/",
+      "phone": "+19802374630",
+      "email": "prestigemedspacharlotte@gmail.com"
+    },
+    {
+      "id": 1001000,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.scottins.com/contact-us/locations/insurance-office-charlotte-nc/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.scottins.com/contact-us/locations/insurance-office-charlotte-nc/",
+      "phone": "+17045561341"
+    },
+    {
+      "id": 1001001,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.winston.com/en/locations/charlotte",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.winston.com/en/locations/charlotte",
+      "phone": "+17043507700"
     }
   ]
 }
