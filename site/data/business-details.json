@@ -481,6 +481,21 @@
       "email": "info@wpcgo.com"
     },
     {
+      "id": 1000092,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.weddingtonchurch.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.weddingtonchurch.org/",
+      "phone": "+17048461032",
+      "email": "info@weddingtonchurch.org"
+    },
+    {
       "id": 1000093,
       "people": [],
       "sources": [
@@ -572,6 +587,20 @@
       "email": "ashley@haremasseycpa.com"
     },
     {
+      "id": 1000126,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://modernlegalnc.com/contact/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://modernlegalnc.com/contact/",
+      "phone": "+17042866302"
+    },
+    {
       "id": 1000128,
       "people": [],
       "sources": [
@@ -584,6 +613,20 @@
       "verified": "2026-10-01",
       "website": "https://belmontcentral.gaston.k12.nc.us/resources",
       "phone": "+17048369137"
+    },
+    {
+      "id": 1000136,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lowell.gaston.k12.nc.us/get-involved",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://lowell.gaston.k12.nc.us/get-involved",
+      "phone": "+17048369118"
     },
     {
       "id": 1000139,
@@ -640,6 +683,76 @@
       "verified": "2026-10-01",
       "website": "https://aes.ucpsnc.org/",
       "phone": "+17042963005"
+    },
+    {
+      "id": 1000169,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ites.ucpsnc.org/about-us/title-i",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ites.ucpsnc.org/about-us/title-i",
+      "phone": "+17042963095"
+    },
+    {
+      "id": 1000171,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://mes.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://mes.ucpsnc.org/",
+      "phone": "+17042966357"
+    },
+    {
+      "id": 1000175,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ples.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ples.ucpsnc.org/",
+      "phone": "+17042960320"
+    },
+    {
+      "id": 1000176,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://pres.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://pres.ucpsnc.org/",
+      "phone": "+17042891965"
+    },
+    {
+      "id": 1000182,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://svms.ucpsnc.org/about-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://svms.ucpsnc.org/about-us",
+      "phone": "+17042963009"
     },
     {
       "id": 1000184,
@@ -7900,10 +8013,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1417062019",
           "type": "CMS organization registry; last updated 2020-08-22",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.indiantrailfamilydentistry.com/our-locations",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7048213019",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://www.indiantrailfamilydentistry.com/our-locations"
     },
     {
       "id": 1000503,
@@ -11254,9 +11373,14 @@
           "url": "https://www.facetfoundryjewelry.com/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.facetfoundryjewelry.com/company/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.facetfoundryjewelry.com/",
       "phone": "+17048675332"
     },
@@ -19087,6 +19211,763 @@
       "verified": "2026-10-01",
       "website": "https://www.foxesdds.com/",
       "phone": "+17048656408"
+    },
+    {
+      "id": 1001241,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.asimpleservice.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.asimpleservice.com/contact-us",
+      "phone": "+17048840150"
+    },
+    {
+      "id": 1001242,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://medicalspagaston.com/contact/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://medicalspagaston.com/contact/",
+      "phone": "+17048842179"
+    },
+    {
+      "id": 1001243,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bareskinaesthetics.co/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bareskinaesthetics.co/",
+      "phone": "+16316787324",
+      "email": "bareskinaesthetic@outlook.com"
+    },
+    {
+      "id": 1001244,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.indepthskin.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.indepthskin.com/",
+      "phone": "+17048796269",
+      "email": "indepthskin@gmail.com"
+    },
+    {
+      "id": 1001245,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://butlerstowe.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://butlerstowe.com/",
+      "phone": "+17048648311"
+    },
+    {
+      "id": 1001246,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.whitesidesinsurance.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.whitesidesinsurance.com/",
+      "phone": "+17048653455",
+      "email": "vwhisnant@whitesidesinsurance.com"
+    },
+    {
+      "id": 1001247,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.newhopeins.com/contact/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.newhopeins.com/contact/",
+      "phone": "+17048243130",
+      "email": "quotes@newhopeins.com"
+    },
+    {
+      "id": 1001248,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://modernlegalnc.com/contact/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://modernlegalnc.com/contact/",
+      "phone": "+17042866302"
+    },
+    {
+      "id": 1001249,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://shws.law/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://shws.law/",
+      "phone": "+17048006454",
+      "email": "office@shws.law"
+    },
+    {
+      "id": 1001250,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://shws.law/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://shws.law/",
+      "email": "office@shws.law"
+    },
+    {
+      "id": 1001251,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.guiltypleasurescatering.com/the-bistro",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.guiltypleasurescatering.com/the-bistro",
+      "phone": "+17048667875",
+      "email": "greg@guiltypleasurescatering.com"
+    },
+    {
+      "id": 1001252,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://whiskeymill.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://whiskeymill.com/",
+      "phone": "+17046712120",
+      "email": "whiskeymillbarandgrill@gmail.com"
+    },
+    {
+      "id": 1001253,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mevietkitchen.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.mevietkitchen.com/",
+      "phone": "+19802511157"
+    },
+    {
+      "id": 1001254,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://gastonpickers.net/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://gastonpickers.net/",
+      "phone": "+17048527055",
+      "email": "norman@gastonpickersauction.com"
+    },
+    {
+      "id": 1001255,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.uracademy.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.uracademy.org/",
+      "phone": "+17048649493",
+      "email": "info@uracademy.org"
+    },
+    {
+      "id": 1001256,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vcagastonia.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://vcagastonia.org/",
+      "phone": "+17048657132",
+      "email": "info@vcagastonia.org"
+    },
+    {
+      "id": 1001257,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gastonday.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.gastonday.org/",
+      "phone": "+17048647744",
+      "email": "info@gastonday.org"
+    },
+    {
+      "id": 1001258,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ppsd.com/locations/gastonia-937-cox-rd/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.ppsd.com/locations/gastonia-937-cox-rd/"
+    },
+    {
+      "id": 1001259,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.occasiononmain.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.occasiononmain.com/",
+      "phone": "+17046106010",
+      "email": "info@occasiononmain.com"
+    },
+    {
+      "id": 1001260,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gastonvet.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.gastonvet.com/",
+      "phone": "+17048645739"
+    },
+    {
+      "id": 1001261,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gastonvet.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.gastonvet.com/",
+      "phone": "+17048655554"
+    },
+    {
+      "id": 1001262,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fbcit.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://fbcit.org/",
+      "phone": "+17048821005"
+    },
+    {
+      "id": 1001263,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://itumc.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://itumc.org/",
+      "phone": "+17048217379"
+    },
+    {
+      "id": 1001264,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://mercybaptist.church/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://mercybaptist.church/",
+      "phone": "+17045628344"
+    },
+    {
+      "id": 1001265,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.sunvalleyfamilydentistry.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.sunvalleyfamilydentistry.com/",
+      "phone": "+17042820600"
+    },
+    {
+      "id": 1001266,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.glossmd.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.glossmd.com/",
+      "phone": "+18434462236",
+      "email": "renee@glossmd.com"
+    },
+    {
+      "id": 1001267,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.jivaskin.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.jivaskin.com/",
+      "phone": "+17042910246",
+      "email": "info@jivaskin.com"
+    },
+    {
+      "id": 1001268,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/provider-profile/douglas-chen-1306860580",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/provider-profile/douglas-chen-1306860580",
+      "phone": "+19809937150"
+    },
+    {
+      "id": 1001269,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.vivantmedicalservices.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.vivantmedicalservices.com/",
+      "phone": "+17047106414"
+    },
+    {
+      "id": 1001270,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://spiveyinsurancegroup.com/locations/indian-trail-nc/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://spiveyinsurancegroup.com/locations/indian-trail-nc/",
+      "phone": "+17048214460",
+      "email": "info@spiveyinsurancegroup.com"
+    },
+    {
+      "id": 1001271,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.larryhelms.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.larryhelms.com/"
+    },
+    {
+      "id": 1001272,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.garganocpa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.garganocpa.com/",
+      "phone": "+16317934509"
+    },
+    {
+      "id": 1001273,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bandglawfirm.com/blank-4",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bandglawfirm.com/blank-4",
+      "phone": "+17045503737"
+    },
+    {
+      "id": 1001274,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bandglawfirm.com/blank-4",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bandglawfirm.com/blank-4",
+      "phone": "+17045503737"
+    },
+    {
+      "id": 1001275,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.katrinasmexicangrill.net/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.katrinasmexicangrill.net/",
+      "phone": "+19802103390"
+    },
+    {
+      "id": 1001276,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thebridgerestaurantnc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://thebridgerestaurantnc.com/",
+      "phone": "+17048825555"
+    },
+    {
+      "id": 1001277,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.kaizokupokebowl.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.kaizokupokebowl.com/",
+      "phone": "+19803138685"
+    },
+    {
+      "id": 1001278,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.atheniangr.com/location",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.atheniangr.com/location",
+      "phone": "+17042340575"
+    },
+    {
+      "id": 1001279,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.flavsitalianmarket.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.flavsitalianmarket.com/",
+      "phone": "+17048390033",
+      "email": "flavsdeli@gmail.com"
+    },
+    {
+      "id": 1001280,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.thelearninghabitat.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.thelearninghabitat.com/",
+      "phone": "+17049808242",
+      "email": "info@thelearninghabitat.com"
+    },
+    {
+      "id": 1001281,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.eleganceunveiled.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.eleganceunveiled.com/",
+      "phone": "+19803640500",
+      "email": "events@eleganceunveiled.com"
+    },
+    {
+      "id": 1001282,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.lowellfbc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.lowellfbc.com/"
+    },
+    {
+      "id": 1001283,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://wordimpactchurch.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://wordimpactchurch.org/"
+    },
+    {
+      "id": 1001284,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.woodlawnfuneral.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.woodlawnfuneral.org/",
+      "phone": "+17048200608"
+    },
+    {
+      "id": 1001285,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.brentpattersonlaw.com/locations/lowell",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.brentpattersonlaw.com/locations/lowell",
+      "phone": "+17048671955"
+    },
+    {
+      "id": 1001286,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.groovybeastco.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.groovybeastco.com/",
+      "phone": "+17048794488"
+    },
+    {
+      "id": 1001287,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://gastonchristian.org/admissions/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://gastonchristian.org/admissions/",
+      "phone": "+17048244128"
+    },
+    {
+      "id": 1001288,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://marvindentalstudio.com/contact/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://marvindentalstudio.com/contact/",
+      "phone": "+17042438908"
+    },
+    {
+      "id": 1001289,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.stanleyfamilydentistry.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.stanleyfamilydentistry.com/",
+      "phone": "+17042633770",
+      "email": "info@stanleyfamilydentistry.com"
+    },
+    {
+      "id": 1001290,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.marvinmurrayfuneralservicepractitioner.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.marvinmurrayfuneralservicepractitioner.com/",
+      "phone": "+19803299162"
+    },
+    {
+      "id": 1001291,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinaskin.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.carolinaskin.com/",
+      "phone": "+17043756766"
+    },
+    {
+      "id": 1001292,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinaskin.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.carolinaskin.com/",
+      "phone": "+17043756766"
+    },
+    {
+      "id": 1001293,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinaskin.com/locations/marvin-office/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.carolinaskin.com/locations/marvin-office/",
+      "phone": "+17043756766"
     }
   ]
 }
