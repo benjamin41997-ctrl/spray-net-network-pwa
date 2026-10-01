@@ -596,7 +596,6 @@
       ],
       "reviewedIds": [
         38,
-        39,
         1102,
         1104
       ],
@@ -605,7 +604,8 @@
         "Jamison Property Management: Company identity researched; complete mailing address still needs review.",
         "PMI Charlotte Metro: Company identity researched; complete mailing address still needs review.",
         "Magnolia PMG LLC: Company identity researched; complete mailing address still needs review.",
-        "Location/category corrected on 2026-10-01 for IDs 1100. Refer to their current company profiles; the prior segment does not represent a separate office."
+        "Location/category corrected on 2026-10-01 for IDs 1100. Refer to their current company profiles; the prior segment does not represent a separate office.",
+        "Location/category corrected on 2026-10-01 for IDs 39. Refer to their current company profiles; the prior segment does not represent a separate office."
       ],
       "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
       "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."

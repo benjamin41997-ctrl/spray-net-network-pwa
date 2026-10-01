@@ -8859,6 +8859,21 @@
       "verified": "2026-09-30"
     },
     {
+      "id": 1000548,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mintmedspa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.mintmedspa.com/",
+      "phone": "+18035479773",
+      "email": "info@mintmedspa.com"
+    },
+    {
       "id": 1000550,
       "people": [],
       "sources": [
@@ -9215,13 +9230,18 @@
           "url": "https://www.palmettodentistrysc.com/contact/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.palmettodentistrysc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "website": "https://www.palmettodentistrysc.com/contact/",
       "phone": "8038487100",
       "services": "Dental office.",
       "subcategory": "Dental office",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01"
     },
     {
       "id": 1000583,
@@ -13077,9 +13097,14 @@
           "url": "https://lightfamilywellness.com/direct-primary-care/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://lightfamilywellness.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://lightfamilywellness.com/direct-primary-care/",
       "phone": "+17045941140",
       "email": "info@lightfamilywellness.com"
@@ -14479,6 +14504,11 @@
       "sources": [
         {
           "url": "https://www.novanthealth.org/locations/clinics/indian-land-primary-care/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.novanthealth.org/pf/location-group?storeCode=MG-138",
           "type": "company website",
           "date": "2026-10-01"
         }
@@ -16289,6 +16319,1001 @@
       "website": "https://www.nordangliaeducation.com/bisc-charlotte/about-us",
       "phone": "+17043413236",
       "email": "admissions@bischarlotte.org"
+    },
+    {
+      "id": 1001065,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://mixedpet.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://mixedpet.com/",
+      "phone": "+17047529787",
+      "email": "info@mixedpet.com"
+    },
+    {
+      "id": 1001066,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rearoadanimalhospital.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.rearoadanimalhospital.com/",
+      "phone": "+17045446313"
+    },
+    {
+      "id": 1001067,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.myersparkbaptist.org/about-us/facilities/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.myersparkbaptist.org/about-us/facilities/",
+      "phone": "+17043347232"
+    },
+    {
+      "id": 1001068,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.immanuelclt.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.immanuelclt.org/",
+      "email": "info@immanuelclt.org"
+    },
+    {
+      "id": 1001069,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rebirthcathedral.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.rebirthcathedral.org/",
+      "phone": "+17044868729",
+      "email": "rebirthcathedral@gmail.com"
+    },
+    {
+      "id": 1001070,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://christchurchcharlotte.org/our-campus/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://christchurchcharlotte.org/our-campus/",
+      "phone": "+17043330378",
+      "email": "staff@christchurchcharlotte.org"
+    },
+    {
+      "id": 1001071,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.stpatricks.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.stpatricks.org/",
+      "phone": "+17043342283",
+      "email": "parishoffice@stpatricks.org"
+    },
+    {
+      "id": 1001072,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://templebethel.org/about-us/facility/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://templebethel.org/about-us/facility/",
+      "phone": "+17043661948",
+      "email": "info@templebethel.org"
+    },
+    {
+      "id": 1001073,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://southparkchurch.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://southparkchurch.com/",
+      "phone": "+17043669166"
+    },
+    {
+      "id": 1001074,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vistafamilydentistrync.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://vistafamilydentistrync.com/",
+      "phone": "+17047746001",
+      "email": "info@vistafamilydentistrync.com"
+    },
+    {
+      "id": 1001075,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://chestnutdentistry.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://chestnutdentistry.com/",
+      "phone": "+17046840447",
+      "email": "care@chestnutdentistry.com"
+    },
+    {
+      "id": 1001076,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.familydentistryonmontford.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.familydentistryonmontford.com/",
+      "phone": "+17045230551",
+      "email": "info@familydentistryonmontford.com"
+    },
+    {
+      "id": 1001077,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lakepointedentistry.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://lakepointedentistry.com/",
+      "phone": "+17043579953",
+      "email": "info@lakepointedentistry.com"
+    },
+    {
+      "id": 1001078,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://southcharlottems.cmsk12.org/pages/homepage",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://southcharlottems.cmsk12.org/pages/homepage",
+      "phone": "+19803433670",
+      "email": "southcharlottemiddle@cms.k12.nc.us"
+    },
+    {
+      "id": 1001079,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.csofcharlotte.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.csofcharlotte.com/",
+      "phone": "+17043330101"
+    },
+    {
+      "id": 1001080,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinamortuary.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.carolinamortuary.com/",
+      "phone": "+17045637676",
+      "email": "carolinamortuaryserviceoffice@gmail.com"
+    },
+    {
+      "id": 1001081,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://carefirstdocs.com/en/home/?lang=en",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://carefirstdocs.com/en/home/?lang=en",
+      "phone": "+17044969032",
+      "email": "office@carefirstdocs.com"
+    },
+    {
+      "id": 1001082,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://onespotmd.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://onespotmd.com/",
+      "phone": "+17047318656"
+    },
+    {
+      "id": 1001083,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://onespotmd.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://onespotmd.com/",
+      "phone": "+19808805588"
+    },
+    {
+      "id": 1001084,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://reservehealth.com/Primary-Care",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://reservehealth.com/Primary-Care",
+      "phone": "+17046263994",
+      "email": "info@reservehealth.com"
+    },
+    {
+      "id": 1001085,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://reservehealth.com/Primary-Care",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://reservehealth.com/Primary-Care",
+      "phone": "+17046266266",
+      "email": "info@reservehealth.com"
+    },
+    {
+      "id": 1001086,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://reservehealth.com/Primary-Care",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://reservehealth.com/Primary-Care",
+      "phone": "+19802658869",
+      "email": "info@reservehealth.com"
+    },
+    {
+      "id": 1001087,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://reservehealth.com/Primary-Care",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://reservehealth.com/Primary-Care",
+      "email": "info@reservehealth.com"
+    },
+    {
+      "id": 1001088,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://hopeeastclt.com/integrated-care/medical/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://hopeeastclt.com/integrated-care/medical/",
+      "phone": "+17049105810",
+      "email": "info@hopeeastclt.com"
+    },
+    {
+      "id": 1001089,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gtlaw.com/en/locations/charlotte",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.gtlaw.com/en/locations/charlotte",
+      "phone": "+17047904700"
+    },
+    {
+      "id": 1001090,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hklaw.com/en/offices/charlotte",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.hklaw.com/en/offices/charlotte",
+      "phone": "+19802157770"
+    },
+    {
+      "id": 1001091,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.charlotteinsurance.com/locations/charlotte-nc/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.charlotteinsurance.com/locations/charlotte-nc/",
+      "phone": "+17045360995",
+      "email": "quote@charlotteinsurance.com"
+    },
+    {
+      "id": 1001092,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.jlpollackcpa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.jlpollackcpa.com/",
+      "phone": "+19802374008",
+      "email": "doreen@jlpollackcpa.com"
+    },
+    {
+      "id": 1001093,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://peppervine.com/about/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://peppervine.com/about/",
+      "phone": "+19802832333"
+    },
+    {
+      "id": 1001094,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ariacharlotte.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.ariacharlotte.com/",
+      "phone": "+17043768880"
+    },
+    {
+      "id": 1001095,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://restaurantconstance.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://restaurantconstance.com/",
+      "phone": "+19805491999",
+      "email": "foodteam@yfytgroup.com"
+    },
+    {
+      "id": 1001096,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cotswoldmarketplace.com/boutiques",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.cotswoldmarketplace.com/boutiques",
+      "phone": "+17043653331"
+    },
+    {
+      "id": 1001097,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.brownsugarcollab.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.brownsugarcollab.com/",
+      "phone": "+19802923025",
+      "email": "shop@brownsugarcollab.com"
+    },
+    {
+      "id": 1001098,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.thecrownvenueclt.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.thecrownvenueclt.com/",
+      "phone": "+17042698524",
+      "email": "kelvinseabrooks@thecrownvenueclt.com"
+    },
+    {
+      "id": 1001099,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.therevelryclt.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.therevelryclt.com/",
+      "phone": "+17043339779"
+    },
+    {
+      "id": 1001100,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.thegoodyearhouse.com/weddings",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.thegoodyearhouse.com/weddings",
+      "phone": "+17049100132",
+      "email": "info@thegoodyearhouse.com"
+    },
+    {
+      "id": 1001101,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.animalmedical.net/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.animalmedical.net/",
+      "phone": "+17043344684",
+      "email": "clientservice@animalmedical.net"
+    },
+    {
+      "id": 1001102,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cherryparkvet.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://cherryparkvet.com/",
+      "phone": "+17042903433"
+    },
+    {
+      "id": 1001103,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hightvet.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.hightvet.com/",
+      "phone": "+17045959377",
+      "email": "frontdesk@hightvet.com"
+    },
+    {
+      "id": 1001104,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://parkroadah.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://parkroadah.com/",
+      "phone": "+19809814334",
+      "email": "info@parkroadah.com"
+    },
+    {
+      "id": 1001105,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kidsrkids.com/matthews/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://kidsrkids.com/matthews/",
+      "phone": "+17048212005"
+    },
+    {
+      "id": 1001106,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lightbridgeacademy.com/indian-land-sc/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://lightbridgeacademy.com/indian-land-sc/",
+      "phone": "+18034706491",
+      "email": "indianland_sc@lightbridgeacademy.com"
+    },
+    {
+      "id": 1001107,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.indianlandacademy.net/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.indianlandacademy.net/",
+      "phone": "+18035480078",
+      "email": "michele@indianlandacademy.com"
+    },
+    {
+      "id": 1001108,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.faithpresusa.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.faithpresusa.org/",
+      "phone": "+18035488810",
+      "email": "mainoffice@faithpresusa.org"
+    },
+    {
+      "id": 1001109,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ckcanglicanfortmill.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ckcanglicanfortmill.org/",
+      "phone": "+17047494989"
+    },
+    {
+      "id": 1001110,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinacommonsdentistry.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.carolinacommonsdentistry.com/",
+      "phone": "+18033067949"
+    },
+    {
+      "id": 1001111,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cogirusa.com/communities/cogir-of-harrisburg-park/life-at-cogir/independent-living/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://cogirusa.com/communities/cogir-of-harrisburg-park/life-at-cogir/independent-living/",
+      "phone": "+18033981588"
+    },
+    {
+      "id": 1001112,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://carolinacosmeticsurgery.org/non-surgical/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://carolinacosmeticsurgery.org/non-surgical/",
+      "phone": "+17045947717"
+    },
+    {
+      "id": 1001113,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.summerglowspaa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.summerglowspaa.com/",
+      "phone": "+18038500486",
+      "email": "info@summerglowspaa.com"
+    },
+    {
+      "id": 1001114,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.brockmannlawfirm.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.brockmannlawfirm.com/"
+    },
+    {
+      "id": 1001115,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.scfbins.com/office/indian-land-office",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.scfbins.com/office/indian-land-office",
+      "phone": "+18035479055"
+    },
+    {
+      "id": 1001116,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.redbowlindianland.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.redbowlindianland.com/",
+      "phone": "+18038028899"
+    },
+    {
+      "id": 1001117,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goatbarandgrillsc.com/contact",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.goatbarandgrillsc.com/contact",
+      "phone": "+18032283551",
+      "email": "tnorris86@yahoo.com"
+    },
+    {
+      "id": 1001118,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mythriusa.com/grocery/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.mythriusa.com/grocery/",
+      "phone": "+18034179449",
+      "email": "info@mythriusa.com"
+    },
+    {
+      "id": 1001119,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kushihealth.com/kushi-indian-land/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://kushihealth.com/kushi-indian-land/",
+      "phone": "+18032272428",
+      "email": "kushiworldbazaar@gmail.com"
+    },
+    {
+      "id": 1001120,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.brighton.com/pages/store-indian-land-sc-so6280000",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.brighton.com/pages/store-indian-land-sc-so6280000",
+      "phone": "+18038021606",
+      "email": "donna@thesouthernnestsc.com"
+    },
+    {
+      "id": 1001121,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinalakesgc.com/tavern-events/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.carolinalakesgc.com/tavern-events/",
+      "phone": "+18035479688",
+      "email": "todd@carolinalakesgc.com"
+    },
+    {
+      "id": 1001122,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thatsamoreitaliangrill.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://thatsamoreitaliangrill.com/",
+      "phone": "+18032283033",
+      "email": "anthonyd77@hotmail.com"
+    },
+    {
+      "id": 1001123,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.edgewatervet.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.edgewatervet.com/",
+      "phone": "+18033847695",
+      "email": "info@edgewatervet.com"
+    },
+    {
+      "id": 1001124,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://curtsingeranimalhospitalofindianland.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://curtsingeranimalhospitalofindianland.com/",
+      "phone": "+18035488802",
+      "email": "cahil@curtsinger.vet"
+    },
+    {
+      "id": 1001125,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ballantynevet.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.ballantynevet.com/",
+      "phone": "+17049267000",
+      "email": "info@ballantynevet.com"
+    },
+    {
+      "id": 1001126,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://gtcdc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://gtcdc.com/",
+      "phone": "+18038319192"
+    },
+    {
+      "id": 1001127,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.playfulcubsacademy.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.playfulcubsacademy.com/",
+      "phone": "+18038106172",
+      "email": "playfulcubsfd@gmail.com"
+    },
+    {
+      "id": 1001128,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.pgacademy.org/about-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.pgacademy.org/about-us",
+      "phone": "+18038312015",
+      "email": "info@pgacademy.org"
+    },
+    {
+      "id": 1001129,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.lwchristian.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.lwchristian.com/",
+      "phone": "+18038317036",
+      "email": "hello@lwchristian.com"
+    },
+    {
+      "id": 1001130,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.newriver.church/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.newriver.church/",
+      "phone": "+18038318800",
+      "email": "info@newriver.church"
+    },
+    {
+      "id": 1001131,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://imaginechurchnow.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://imaginechurchnow.org/",
+      "phone": "+19809993500",
+      "email": "info@imaginechurchnow.org"
+    },
+    {
+      "id": 1001132,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cclw.org/visit-cclw/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://cclw.org/visit-cclw/",
+      "phone": "+18038311615",
+      "email": "info@cclw.org"
     }
   ]
 }
