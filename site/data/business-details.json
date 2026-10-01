@@ -5166,10 +5166,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1144922907",
           "type": "CMS organization registry; last updated 2023-03-17",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://cedarwalkdentistry.com/dentist-waxhaw-nc/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7045429923",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://www.cedarwalkdentistry.com/dentist-waxhaw-nc/"
     },
     {
       "id": 1000425,
@@ -7370,10 +7376,15 @@
           "url": "https://www.idlewildfamilydentistry.com/services",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.idlewildfamilydentistry.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7048930351",
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.idlewildfamilydentistry.com/services",
       "email": "info@idlewildfamilydentistry.com"
     },
@@ -8044,10 +8055,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1518668011",
           "type": "CMS organization registry; last updated 2023-03-13",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://matthewsfamilydentistry.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7047089185",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://matthewsfamilydentistry.com/"
     },
     {
       "id": 1000526,
@@ -9315,9 +9332,14 @@
           "url": "https://kiddieacademy.com/academies/tega-cay/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://kiddieacademy.com/academies/tega-cay/programs/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://kiddieacademy.com/academies/tega-cay/",
       "phone": "+18039026565",
       "email": "tegacay@kiddieacademy.net"
@@ -10276,9 +10298,14 @@
           "url": "https://kiddieacademy.com/academies/indian-land/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://kiddieacademy.com/academies/indian-land/programs/school-age-programs/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://kiddieacademy.com/academies/indian-land/",
       "phone": "+18037524100",
       "email": "indianland@kiddieacademy.net"
@@ -11249,9 +11276,14 @@
           "url": "https://www.catawbaheightsanimalhospital.com/locations/catawba-heights-animal-hospital",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.catawbaheightsanimalhospital.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.catawbaheightsanimalhospital.com/locations/catawba-heights-animal-hospital",
       "phone": "+17042510238"
     },
@@ -13674,6 +13706,487 @@
       "verified": "2026-10-01",
       "website": "https://furnitureacademy.com/locations/pineville-north-carolina/",
       "phone": "+17043418393"
+    },
+    {
+      "id": 1000926,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-fort-mill-internal-medicine",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-fort-mill-internal-medicine",
+      "phone": "+18038025181"
+    },
+    {
+      "id": 1000927,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-shiland-family-medicine-rock-hill",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-shiland-family-medicine-rock-hill",
+      "phone": "+18033295131"
+    },
+    {
+      "id": 1000928,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-ballantyne-family-medicine",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-ballantyne-family-medicine",
+      "phone": "+17046670820"
+    },
+    {
+      "id": 1000929,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-internal-medicine-ballantyne",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-internal-medicine-ballantyne",
+      "phone": "+17043028100"
+    },
+    {
+      "id": 1000930,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/medical-services/childrens-services/locations/detail/atrium-health-primary-care-one-health-family-medicine-southpark?skill=specialty-92-family-medicine",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/medical-services/childrens-services/locations/detail/atrium-health-primary-care-one-health-family-medicine-southpark?skill=specialty-92-family-medicine",
+      "phone": "+19804021800"
+    },
+    {
+      "id": 1000931,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-one-health-family-medicine-matthews",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-one-health-family-medicine-matthews",
+      "phone": "+17043028860"
+    },
+    {
+      "id": 1000932,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-riverwood-family-medicine",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-riverwood-family-medicine",
+      "phone": "+17048548202"
+    },
+    {
+      "id": 1000933,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/medical-services/childrens-services/locations/detail/atrium-health-primary-care-indian-trail-family-medicine",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/medical-services/childrens-services/locations/detail/atrium-health-primary-care-indian-trail-family-medicine",
+      "phone": "+19809937100"
+    },
+    {
+      "id": 1000934,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-mint-hill-commons-family-medicine",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-mint-hill-commons-family-medicine",
+      "phone": "+17045456400"
+    },
+    {
+      "id": 1000935,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-riverbend-family-medicine",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-riverbend-family-medicine",
+      "phone": "+17045872400"
+    },
+    {
+      "id": 1000936,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-waxhaw-family-medicine?id=24",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-waxhaw-family-medicine?id=24",
+      "phone": "+17042432254"
+    },
+    {
+      "id": 1000937,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/locations/detail/atrium-health-waxhaw",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atriumhealth.org/locations/detail/atrium-health-waxhaw",
+      "phone": "+17046676800"
+    },
+    {
+      "id": 1000938,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.arborvitaemedical.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.arborvitaemedical.com/",
+      "phone": "+18038860204"
+    },
+    {
+      "id": 1000939,
+      "people": [
+        {
+          "id": 1,
+          "name": "Patrick Evivie",
+          "role": "Physician",
+          "email": "",
+          "phone": "",
+          "sources": [
+            {
+              "url": "https://www.primecaremed.org/",
+              "type": "company website",
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Alicia Bullough",
+          "role": "Physician assistant",
+          "email": "",
+          "phone": "",
+          "sources": [
+            {
+              "url": "https://www.primecaremed.org/",
+              "type": "company website",
+              "date": "2026-10-01"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.primecaremed.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.primecaremed.org/",
+      "phone": "+17049667012"
+    },
+    {
+      "id": 1000940,
+      "people": [
+        {
+          "id": 1,
+          "name": "Cassandra Calloway",
+          "role": "Family nurse practitioner",
+          "email": "",
+          "phone": "",
+          "sources": [
+            {
+              "url": "https://www.callowayprimarycarewellness.com/",
+              "type": "company website",
+              "date": "2026-10-01"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.callowayprimarycarewellness.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.callowayprimarycarewellness.com/",
+      "phone": "+18035482230"
+    },
+    {
+      "id": 1000941,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://beyondsmilesclt.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://beyondsmilesclt.com/",
+      "phone": "+17042850730"
+    },
+    {
+      "id": 1000942,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cischarlotte.org/contact/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.cischarlotte.org/contact/",
+      "phone": "+17043350601",
+      "email": "info@cischarlotte.org"
+    },
+    {
+      "id": 1000943,
+      "people": [
+        {
+          "id": 1,
+          "name": "Danny Gibson",
+          "role": "Owner / funeral director / embalmer",
+          "email": "danny@gibsonmortuaryservice.com",
+          "phone": "",
+          "sources": [
+            {
+              "url": "https://gibson-moore.com/",
+              "type": "company website",
+              "date": "2026-10-01"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://gibson-moore.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://gibson-moore.com/",
+      "phone": "+17043101398",
+      "email": "danny@gibsonmortuaryservice.com"
+    },
+    {
+      "id": 1000944,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/indian-land-primary-care/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/indian-land-primary-care/location/",
+      "phone": "+18035489393"
+    },
+    {
+      "id": 1000945,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/ballantyne-medical-group/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/ballantyne-medical-group/location/",
+      "phone": "+17043841925"
+    },
+    {
+      "id": 1000946,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/primary-care-pineville/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/primary-care-pineville/location/",
+      "phone": "+17043849960"
+    },
+    {
+      "id": 1000947,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/primary-care-berewick/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/primary-care-berewick/location/",
+      "phone": "+17043163608"
+    },
+    {
+      "id": 1000948,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/matthews-family-physicians/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/matthews-family-physicians/location/",
+      "phone": "+17043848480"
+    },
+    {
+      "id": 1000949,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/family-medicine-gastonia/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/family-medicine-gastonia/location/",
+      "phone": "+17043164979"
+    },
+    {
+      "id": 1000950,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/sun-valley-family-physicians/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/sun-valley-family-physicians/location/",
+      "phone": "+17043163616"
+    },
+    {
+      "id": 1000951,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/mint-hill-adult-medicine/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/mint-hill-adult-medicine/location/",
+      "phone": "+19804889590"
+    },
+    {
+      "id": 1000952,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/family-medicine-mint-hill/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/family-medicine-mint-hill/location/",
+      "phone": "+19803023550"
+    },
+    {
+      "id": 1000953,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/steelecroft-primary-care/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/steelecroft-primary-care/location/",
+      "phone": "+17043162080"
+    },
+    {
+      "id": 1000954,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/child-adolescent-medical-group-waxhaw/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/child-adolescent-medical-group-waxhaw/location/",
+      "phone": "+17043848460"
+    },
+    {
+      "id": 1000955,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/waxhaw-family-sports-medicine/location/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.novanthealth.org/locations/clinics/waxhaw-family-sports-medicine/location/",
+      "phone": "+17043848640"
     }
   ]
 }

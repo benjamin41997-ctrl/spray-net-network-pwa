@@ -14766,7 +14766,8 @@
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
         "https://www.idlewildfamilydentistry.com/services",
-        "https://www.idlewildfamilydentistry.com/contact-us"
+        "https://www.idlewildfamilydentistry.com/contact-us",
+        "https://www.idlewildfamilydentistry.com/"
       ],
       "accounts": [
         {
@@ -20612,7 +20613,8 @@
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
         "https://fabriciohardwoodfloorsinc.com/tega-cay-flooring-company/",
-        "https://fabriciohardwoodfloorsinc.com/contact-us/"
+        "https://fabriciohardwoodfloorsinc.com/contact-us/",
+        "https://fabriciohardwoodfloorsinc.com/davidson-flooring-company/"
       ],
       "accounts": [
         {
@@ -23296,6 +23298,146 @@
           "scope": "unclear",
           "source": "https://saralynnbrennan.com/",
           "notes": "Explicitly reviewed link from the business website. May be a shared brand or practitioner account; recent activity is unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000525,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Business website account links reviewed; account activity remains unverified.",
+      "sources": [
+        "https://matthewsfamilydentistry.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/matthewsfamilydentistry",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://matthewsfamilydentistry.com/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/matthewsfamilydentistry",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://matthewsfamilydentistry.com/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCh_rxmjpKv4oGAfZGWUtZCQ",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://matthewsfamilydentistry.com/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000941,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Business website account links reviewed; account activity remains unverified.",
+      "sources": [
+        "https://beyondsmilesclt.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/beyondsmiledentals",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://beyondsmilesclt.com/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/beyondsmilesdentalclt",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://beyondsmilesclt.com/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000424,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Business website account links reviewed; account activity remains unverified.",
+      "sources": [
+        "https://cedarwalkdentistry.com/dentist-waxhaw-nc/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/cedarwalkdentistry",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://cedarwalkdentistry.com/dentist-waxhaw-nc/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/cedarwalkdentistry704",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://cedarwalkdentistry.com/dentist-waxhaw-nc/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/cedarwalkdentistry",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://cedarwalkdentistry.com/dentist-waxhaw-nc/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1272,
+      "checkedOn": "2026-10-01",
+      "status": "checked",
+      "notes": "Business website account links reviewed; account activity remains unverified.",
+      "sources": [
+        "https://floorcoveringsinternational.com/locations/us/nc/central-charlotte/mount-holly/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/floorcoveringsinternationalhq",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://floorcoveringsinternational.com/locations/us/nc/central-charlotte/mount-holly/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/flooringcentralcharlotte",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://floorcoveringsinternational.com/locations/us/nc/central-charlotte/mount-holly/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/floorcoverings_international",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://floorcoveringsinternational.com/locations/us/nc/central-charlotte/mount-holly/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/flooringcentralcharlotte",
+          "evidence": "website_linked",
+          "scope": "unclear",
+          "source": "https://floorcoveringsinternational.com/locations/us/nc/central-charlotte/mount-holly/",
+          "notes": "Reviewed business website link; may represent the shared brand. Recent activity unverified."
         }
       ]
     }

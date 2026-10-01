@@ -72,6 +72,31 @@
       "questions": [
         "Is the Gaston association listing with phone (615) 496-5401 the same Carolina Premier Properties as Chad Fowler at 1215 Armstrong Ford Road, Belmont, phone (704) 826-5282? Keep separate until confirmed."
       ]
+    },
+    {
+      "companyId": 1272,
+      "questions": [
+        "Is 1213 W Morehead Street Suite 500-4262 a mailing address only, or an office that welcomes visitors?",
+        "Who should receive partnership introductions for the Central Charlotte franchise?"
+      ]
+    },
+    {
+      "companyId": 1077,
+      "questions": [
+        "Are KBN Interiors and Black Sheep Cabinets & Design separate businesses sharing the Belmont office, or brands of the same business?"
+      ]
+    },
+    {
+      "companyId": 1000525,
+      "questions": [
+        "Who approves exterior painting at this location: the practice owner, landlord, or property manager?"
+      ]
+    },
+    {
+      "companyId": 1118,
+      "questions": [
+        "Who handles exterior building maintenance approval for the Charlotte showroom: local management, landlord, or corporate facilities?"
+      ]
     }
   ]
 }
