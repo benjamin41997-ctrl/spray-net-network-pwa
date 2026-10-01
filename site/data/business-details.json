@@ -2,6 +2,62 @@
   "schemaVersion": 1,
   "records": [
     {
+      "id": 1000028,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ides.rock-hill.k12.sc.us/school-info",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ides.rock-hill.k12.sc.us/school-info",
+      "phone": "+18039811135"
+    },
+    {
+      "id": 1000032,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://mhes.rock-hill.k12.sc.us/staff/office-staff",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://mhes.rock-hill.k12.sc.us/staff/office-staff",
+      "phone": "+18039851650"
+    },
+    {
+      "id": 1000033,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://nses.rock-hill.k12.sc.us/school-info",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://nses.rock-hill.k12.sc.us/school-info",
+      "phone": "+18039811570"
+    },
+    {
+      "id": 1000042,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://stms.rock-hill.k12.sc.us/staff/office-staff",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://stms.rock-hill.k12.sc.us/staff/office-staff",
+      "phone": "+18039811800"
+    },
+    {
       "id": 1000045,
       "people": [],
       "sources": [
@@ -14,6 +70,76 @@
       "verified": "2026-09-30",
       "website": "https://rhhs.rock-hill.k12.sc.us/school-info/about-us/contact-us",
       "phone": "+18039811300"
+    },
+    {
+      "id": 1000046,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sphs.rock-hill.k12.sc.us/families",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://sphs.rock-hill.k12.sc.us/families",
+      "phone": "+18039802100"
+    },
+    {
+      "id": 1000050,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fortmillschools.org/schools/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.fortmillschools.org/schools/",
+      "phone": "+18035482527"
+    },
+    {
+      "id": 1000051,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://options.rock-hill.k12.sc.us/homepage",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://options.rock-hill.k12.sc.us/homepage",
+      "phone": "+18039811000"
+    },
+    {
+      "id": 1000054,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://rockhilldentist.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://rockhilldentist.com/locations/",
+      "phone": "+18033274166"
+    },
+    {
+      "id": 1000055,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://rockhilldentist.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://rockhilldentist.com/locations/",
+      "phone": "+18035486480"
     },
     {
       "id": 1000056,
@@ -30,6 +156,20 @@
       "phone": "+18033247670"
     },
     {
+      "id": 1000057,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ballantynedentistry.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ballantynedentistry.com/",
+      "phone": "+17045402255"
+    },
+    {
       "id": 1000061,
       "people": [],
       "sources": [
@@ -41,6 +181,20 @@
       ],
       "verified": "2026-09-30",
       "website": "https://lakeshoredentists.com/"
+    },
+    {
+      "id": 1000063,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fortmillvet.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://fortmillvet.com/",
+      "phone": "+18035472014"
     },
     {
       "id": 1000064,
@@ -55,6 +209,21 @@
       "verified": "2026-09-30",
       "website": "https://www.vmcfortmill.com/",
       "phone": "+18033969130"
+    },
+    {
+      "id": 1000065,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinaplaceanimalhospital.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.carolinaplaceanimalhospital.com/",
+      "phone": "+18035473547",
+      "email": "carolinaplacefortmill@gmail.com"
     },
     {
       "id": 1000066,
@@ -109,6 +278,34 @@
       "verified": "2026-09-30"
     },
     {
+      "id": 1000072,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.greenefuneralhome.net/contact-us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.greenefuneralhome.net/contact-us/",
+      "phone": "+18033272051"
+    },
+    {
+      "id": 1000073,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.greenefuneralhome.net/contact-us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.greenefuneralhome.net/contact-us/",
+      "phone": "+18033262051"
+    },
+    {
       "id": 1000074,
       "people": [],
       "sources": [
@@ -139,6 +336,20 @@
       "email": "info@mcleanfuneral.com"
     },
     {
+      "id": 1000076,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fieldofdreamscenter.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://fieldofdreamscenter.com/",
+      "phone": "+18033960900"
+    },
+    {
       "id": 1000077,
       "people": [],
       "sources": [
@@ -146,11 +357,42 @@
           "url": "https://fieldofdreamscenter.com/locations/field-of-dreams-edgewater/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://fieldofdreamscenter.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://fieldofdreamscenter.com/locations/field-of-dreams-edgewater/",
       "phone": "+18035470900"
+    },
+    {
+      "id": 1000080,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goddardschool.com/schools/sc/fort-mill",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.goddardschool.com/schools/sc/fort-mill"
+    },
+    {
+      "id": 1000081,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goddardschool.com/schools/sc/fort-mill",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.goddardschool.com/schools/sc/fort-mill"
     },
     {
       "id": 1000082,
@@ -160,11 +402,97 @@
           "url": "https://www.goddardschool.com/schools/sc/indian-land/indian-land",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.goddardschool.com/schools/sc/fort-mill",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.goddardschool.com/schools/sc/indian-land/indian-land",
       "phone": "+18033939800"
+    },
+    {
+      "id": 1000083,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goddardschool.com/schools/sc/fort-mill",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.goddardschool.com/schools/sc/fort-mill"
+    },
+    {
+      "id": 1000084,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goddardschool.com/schools/sc/fort-mill",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.goddardschool.com/schools/sc/fort-mill"
+    },
+    {
+      "id": 1000085,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goddardschool.com/schools/sc/fort-mill",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.goddardschool.com/schools/sc/fort-mill"
+    },
+    {
+      "id": 1000086,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.goddardschool.com/schools/sc/fort-mill",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.goddardschool.com/schools/sc/fort-mill"
+    },
+    {
+      "id": 1000091,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.wpcgo.com/living-water",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.wpcgo.com/living-water",
+      "phone": "+18033663107",
+      "email": "info@wpcgo.com"
+    },
+    {
+      "id": 1000093,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://theclebournehouse.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://theclebournehouse.com/",
+      "phone": "+17044514890"
     },
     {
       "id": 1000095,
@@ -9878,9 +10206,14 @@
           "url": "https://www.tryonmed.com/location/matthews/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.tryonmed.com/location/matthews/",
       "phone": "+17044956020"
     },
@@ -15053,6 +15386,909 @@
       "verified": "2026-10-01",
       "website": "https://www.winston.com/en/locations/charlotte",
       "phone": "+17043507700"
+    },
+    {
+      "id": 1001002,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://milltownchurch.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://milltownchurch.org/",
+      "email": "info@milltownchurch.org"
+    },
+    {
+      "id": 1001003,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.newsouthfamilymedicine.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.newsouthfamilymedicine.com/",
+      "phone": "+18034024410",
+      "email": "info@newsouthmed.org"
+    },
+    {
+      "id": 1001004,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fpc-rockhill.org/visitors",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.fpc-rockhill.org/visitors",
+      "phone": "+18033282467",
+      "email": "firstpresrh@gmail.com"
+    },
+    {
+      "id": 1001005,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.robinsonfuneralhomerh.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.robinsonfuneralhomerh.com/",
+      "phone": "+18033274245",
+      "email": "robinsonfuneralhomeofrockhill@gmail.com"
+    },
+    {
+      "id": 1001006,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gilmorefuneral.com/contact",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.gilmorefuneral.com/contact",
+      "phone": "+18039853131",
+      "email": "gilmore@gilmorefuneral.com"
+    },
+    {
+      "id": 1001007,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rockhillprimarycare.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.rockhillprimarycare.com/",
+      "phone": "+18033297425"
+    },
+    {
+      "id": 1001008,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://palmettofreeclinic.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://palmettofreeclinic.org/",
+      "phone": "+18033666337"
+    },
+    {
+      "id": 1001009,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://northcentralmed.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://northcentralmed.org/",
+      "phone": "+18033257744"
+    },
+    {
+      "id": 1001010,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://northcentralmed.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://northcentralmed.org/",
+      "phone": "+18033258742"
+    },
+    {
+      "id": 1001011,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://northcentralmed.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://northcentralmed.org/",
+      "phone": "+18034123352"
+    },
+    {
+      "id": 1001012,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://affinityhealthcenter.org/become-a-patient/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://affinityhealthcenter.org/become-a-patient/",
+      "phone": "+18039096363",
+      "email": "info@affinityhealthcenter.org"
+    },
+    {
+      "id": 1001013,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kweenbellascloset.com/pages/visit-us-in-store",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://kweenbellascloset.com/pages/visit-us-in-store"
+    },
+    {
+      "id": 1001014,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://shoppesatriversedge.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://shoppesatriversedge.com/",
+      "phone": "+18033242300",
+      "email": "info@shoppesatriversedge.com"
+    },
+    {
+      "id": 1001015,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.edithlaneoccasionhouse.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.edithlaneoccasionhouse.com/",
+      "email": "edithlaneoccasionhouse@gmail.com"
+    },
+    {
+      "id": 1001016,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://gypsyandgem.com/pages/visit-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://gypsyandgem.com/pages/visit-us",
+      "email": "hello@gypsyandgem.com"
+    },
+    {
+      "id": 1001017,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.womansclubofrockhill.net/SPB2026",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.womansclubofrockhill.net/SPB2026",
+      "email": "info@womansclubofrockhill.net"
+    },
+    {
+      "id": 1001018,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.smpcpreschool.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.smpcpreschool.org/",
+      "phone": "+17045449831",
+      "email": "tammy@smpchome.org"
+    },
+    {
+      "id": 1001019,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cadence-education.com/locations/nc/charlotte/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.cadence-education.com/locations/nc/charlotte/",
+      "phone": "+17048174046"
+    },
+    {
+      "id": 1001020,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cadence-education.com/locations/nc/charlotte/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.cadence-education.com/locations/nc/charlotte/",
+      "phone": "+17048174051"
+    },
+    {
+      "id": 1001021,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cadence-education.com/locations/nc/charlotte/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.cadence-education.com/locations/nc/charlotte/",
+      "phone": "+17049467915"
+    },
+    {
+      "id": 1001022,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cadence-education.com/locations/nc/charlotte/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.cadence-education.com/locations/nc/charlotte/",
+      "phone": "+17049467916"
+    },
+    {
+      "id": 1001023,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cadence-education.com/locations/nc/charlotte/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.cadence-education.com/locations/nc/charlotte/",
+      "phone": "+17048862472"
+    },
+    {
+      "id": 1001024,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ballantyne.leafspringschool.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ballantyne.leafspringschool.com/",
+      "phone": "+17044816865",
+      "email": "enroll@leafspringcharlotte.com"
+    },
+    {
+      "id": 1001025,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sunshinehouse.com/center/sunshine-house-of-mint-hill/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://sunshinehouse.com/center/sunshine-house-of-mint-hill/",
+      "phone": "+17045739595"
+    },
+    {
+      "id": 1001026,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.southcltpres.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.southcltpres.org/",
+      "phone": "+17043125163",
+      "email": "contact@southcltpres.org"
+    },
+    {
+      "id": 1001027,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.southcharlottebanquetcenter.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.southcharlottebanquetcenter.com/",
+      "phone": "+17043413312",
+      "email": "arobb@southcharlottebanquetcenter.com"
+    },
+    {
+      "id": 1001028,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://stmatthewcatholic.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://stmatthewcatholic.org/",
+      "phone": "+17045437677",
+      "email": "office@stmatthewcatholic.org"
+    },
+    {
+      "id": 1001029,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.freedomhouse.cc/ourcampuses",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.freedomhouse.cc/ourcampuses",
+      "phone": "+17049700092",
+      "email": "info@freedomhouse.cc"
+    },
+    {
+      "id": 1001030,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.freedomhouse.cc/ourcampuses",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.freedomhouse.cc/ourcampuses",
+      "phone": "+17049700092",
+      "email": "info@freedomhouse.cc"
+    },
+    {
+      "id": 1001031,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.freedomhouse.cc/ourcampuses",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.freedomhouse.cc/ourcampuses",
+      "phone": "+17049700092",
+      "email": "info@freedomhouse.cc"
+    },
+    {
+      "id": 1001032,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://smpchome.org/im-new/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://smpchome.org/im-new/",
+      "phone": "+17045440404",
+      "email": "smpcoffice@smpchome.org"
+    },
+    {
+      "id": 1001033,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.locumc.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.locumc.org/",
+      "phone": "+19803550637",
+      "email": "locumc@locumc.org"
+    },
+    {
+      "id": 1001034,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://apollodentalnc.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://apollodentalnc.com/contact-us/",
+      "phone": "+17042300502",
+      "email": "info@apollodentalnc.com"
+    },
+    {
+      "id": 1001035,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ballantynesmiles.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ballantynesmiles.com/",
+      "phone": "+17043695200"
+    },
+    {
+      "id": 1001036,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ballantynees.cmsk12.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ballantynees.cmsk12.org/",
+      "phone": "+19803430413"
+    },
+    {
+      "id": 1001037,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cmsk12.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.cmsk12.org/",
+      "phone": "+19803433000"
+    },
+    {
+      "id": 1001038,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ballantyneridgehs.cmsk12.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ballantyneridgehs.cmsk12.org/",
+      "phone": "+19803431122"
+    },
+    {
+      "id": 1001039,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://corvian.org/about",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://corvian.org/about",
+      "phone": "+17047177550"
+    },
+    {
+      "id": 1001040,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17044956036"
+    },
+    {
+      "id": 1001041,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17048004268"
+    },
+    {
+      "id": 1001042,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17044956025"
+    },
+    {
+      "id": 1001043,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17044893094"
+    },
+    {
+      "id": 1001044,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17044893094"
+    },
+    {
+      "id": 1001045,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17044893094"
+    },
+    {
+      "id": 1001046,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17044893094"
+    },
+    {
+      "id": 1001047,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17044893102"
+    },
+    {
+      "id": 1001048,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17044053953"
+    },
+    {
+      "id": 1001049,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17044956334"
+    },
+    {
+      "id": 1001050,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17044956970"
+    },
+    {
+      "id": 1001051,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17044956334"
+    },
+    {
+      "id": 1001052,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.tryonmed.com/locations/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.tryonmed.com/locations/",
+      "phone": "+17042753256"
+    },
+    {
+      "id": 1001053,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ballantynemedical.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ballantynemedical.com/",
+      "phone": "+17045401640",
+      "email": "info@ballantynemedical.com"
+    },
+    {
+      "id": 1001054,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ballantynemedical.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ballantynemedical.com/",
+      "phone": "+17045401640",
+      "email": "info@ballantynemedical.com"
+    },
+    {
+      "id": 1001055,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ballantynemedical.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ballantynemedical.com/",
+      "phone": "+17045401640",
+      "email": "info@ballantynemedical.com"
+    },
+    {
+      "id": 1001056,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sloanboutique.com/pages/about",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://sloanboutique.com/pages/about",
+      "phone": "+17043381400"
+    },
+    {
+      "id": 1001057,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ballantynejewelers.com/pages/about-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ballantynejewelers.com/pages/about-us",
+      "phone": "+17043414242",
+      "email": "info@ballantynejewelers.com"
+    },
+    {
+      "id": 1001058,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ballantynevillage.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.ballantynevillage.com/"
+    },
+    {
+      "id": 1001059,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atlanticmetalsx.com/contact/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://atlanticmetalsx.com/contact/",
+      "phone": "+17045434653",
+      "email": "matt@atlanticmetalsx.com"
+    },
+    {
+      "id": 1001060,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://shopstonecrest.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://shopstonecrest.com/"
+    },
+    {
+      "id": 1001061,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.heysis.co/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.heysis.co/",
+      "email": "contactus@heysis.co"
+    },
+    {
+      "id": 1001062,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.thepearlpagoda.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.thepearlpagoda.com/",
+      "email": "shop@thepearlpagoda.com"
+    },
+    {
+      "id": 1001063,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ornatehome.com/pages/mint-hill-nc-furniture-store",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ornatehome.com/pages/mint-hill-nc-furniture-store",
+      "phone": "+19803090717",
+      "email": "support@ornatehome.com"
+    },
+    {
+      "id": 1001064,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.nordangliaeducation.com/bisc-charlotte/about-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.nordangliaeducation.com/bisc-charlotte/about-us",
+      "phone": "+17043413236",
+      "email": "admissions@bischarlotte.org"
     }
   ]
 }
