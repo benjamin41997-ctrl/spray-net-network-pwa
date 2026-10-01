@@ -278,6 +278,21 @@
       "verified": "2026-10-01"
     },
     {
+      "id": 1000071,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://waxhawanimalhospital.vetstreet.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://waxhawanimalhospital.vetstreet.com/",
+      "phone": "+17048432269",
+      "email": "contact@waxhawanimalhospital.com"
+    },
+    {
       "id": 1000072,
       "people": [],
       "sources": [
@@ -460,10 +475,17 @@
           "url": "https://www.goddardschool.com/schools/sc/fort-mill",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://waxhawpreschools.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "verified": "2026-10-01",
-      "website": "https://www.goddardschool.com/schools/sc/fort-mill"
+      "website": "https://www.goddardschool.com/schools/sc/fort-mill",
+      "phone": "+17042430120",
+      "email": "enrollment@lc.waxhawpreschools.com"
     },
     {
       "id": 1000091,
@@ -510,6 +532,21 @@
       "phone": "+17044514890"
     },
     {
+      "id": 1000094,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://redbarnwaxhaw.wixsite.com/redbarnevents/contact",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://redbarnwaxhaw.wixsite.com/redbarnevents/contact",
+      "phone": "+17046142672",
+      "email": "redbarnevents.waxhaw@gmail.com"
+    },
+    {
       "id": 1000095,
       "people": [],
       "sources": [
@@ -522,6 +559,21 @@
       "verified": "2026-09-30",
       "website": "https://www.theclubatlongview.com/weddings",
       "phone": "+17044432500"
+    },
+    {
+      "id": 1000096,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.legacyrisevenue.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.legacyrisevenue.com/",
+      "phone": "+17049937233",
+      "email": "legacyrisevenue@gmail.com"
     },
     {
       "id": 1000106,
@@ -556,6 +608,20 @@
       "services": "Medical spa.",
       "subcategory": "Medical spa",
       "verified": "2026-09-30"
+    },
+    {
+      "id": 1000113,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://renewmedspanc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://renewmedspanc.com/",
+      "phone": "+17048430226"
     },
     {
       "id": 1000114,
@@ -755,6 +821,20 @@
       "phone": "+17042963095"
     },
     {
+      "id": 1000170,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kes.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://kes.ucpsnc.org/",
+      "phone": "+17042901500"
+    },
+    {
       "id": 1000171,
       "people": [],
       "sources": [
@@ -767,6 +847,20 @@
       "verified": "2026-10-01",
       "website": "https://mes.ucpsnc.org/",
       "phone": "+17042966357"
+    },
+    {
+      "id": 1000174,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ntes.ucpsnc.org/about-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ntes.ucpsnc.org/about-us",
+      "phone": "+17042901525"
     },
     {
       "id": 1000175,
@@ -797,6 +891,34 @@
       "phone": "+17042891965"
     },
     {
+      "id": 1000179,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://rves.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://rves.ucpsnc.org/",
+      "phone": "+17042901524"
+    },
+    {
+      "id": 1000180,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sres.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://sres.ucpsnc.org/",
+      "phone": "+17042901505"
+    },
+    {
       "id": 1000182,
       "people": [],
       "sources": [
@@ -811,6 +933,20 @@
       "phone": "+17042963009"
     },
     {
+      "id": 1000183,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://wxes.ucpsnc.org/about-us/admin-and-school-leaders",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://wxes.ucpsnc.org/about-us/admin-and-school-leaders",
+      "phone": "+17042901590"
+    },
+    {
       "id": 1000184,
       "people": [],
       "sources": [
@@ -823,6 +959,20 @@
       "verified": "2026-10-01",
       "website": "https://wes.ucpsnc.org/community/mobile-app",
       "phone": "+17042966317"
+    },
+    {
+      "id": 1000185,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://whs.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://whs.ucpsnc.org/",
+      "phone": "+17042966319"
     },
     {
       "id": 1000197,
@@ -5372,10 +5522,17 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1124720982",
           "type": "CMS organization registry; last updated 2023-03-17",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.reafielddental.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "9805003999",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://www.reafielddental.com/",
+      "email": "care@reafielddental.com"
     },
     {
       "id": 1000410,
@@ -5524,10 +5681,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1710163571",
           "type": "CMS organization registry; last updated 2008-01-11",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.curetondentistry.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7048433270",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://www.curetondentistry.com/"
     },
     {
       "id": 1000415,
@@ -5608,10 +5771,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1194515528",
           "type": "CMS organization registry; last updated 2025-05-08",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://haysdds.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "7047062226",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://haysdds.com/"
     },
     {
       "id": 1000418,
@@ -9437,7 +9606,7 @@
         {
           "url": "https://waxhawjewelers.com/",
           "type": "company website",
-          "date": "2026-09-30"
+          "date": "2026-10-01"
         }
       ],
       "website": "https://waxhawjewelers.com/",
@@ -9445,7 +9614,7 @@
       "phone": "7042561415",
       "services": "Jewelry showroom.",
       "subcategory": "Jewelry showroom",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01"
     },
     {
       "id": 1000576,
@@ -10703,9 +10872,14 @@
           "url": "https://www.charlotte.providencevets.com/site/home",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.providencevets.com/site/home",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.charlotte.providencevets.com/site/home",
       "phone": "+17045420049"
     },
@@ -13213,9 +13387,14 @@
           "url": "https://www.waxhaw.providencevets.com/site/home",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.providencevets.com/site/home",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-01",
       "website": "https://www.waxhaw.providencevets.com/site/home",
       "phone": "+17048430208"
     },
@@ -20977,6 +21156,355 @@
       "website": "https://pinevilleanimalclinic.com/",
       "phone": "+17045272030",
       "email": "info@pinevilleanimalclinic.com"
+    },
+    {
+      "id": 1001359,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://bbmacademy.com/location/waxhaw/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://bbmacademy.com/location/waxhaw/",
+      "phone": "+17046668700"
+    },
+    {
+      "id": 1001360,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bloomearlylearning.net/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.bloomearlylearning.net/",
+      "phone": "+17046076928",
+      "email": "marieduty.bloom@gmail.com"
+    },
+    {
+      "id": 1001361,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.saintmargaretspreschool.net/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.saintmargaretspreschool.net/",
+      "email": "preschool@saintmargarets.net"
+    },
+    {
+      "id": 1001362,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.kingdm.church/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.kingdm.church/",
+      "phone": "+17042689646",
+      "email": "info@kingdm.church"
+    },
+    {
+      "id": 1001363,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.saintmargarets.net/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.saintmargarets.net/",
+      "phone": "+17042433523"
+    },
+    {
+      "id": 1001364,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://christelca.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://christelca.org/",
+      "phone": "+17043661595"
+    },
+    {
+      "id": 1001365,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://christelca.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://christelca.org/",
+      "phone": "+17043661595"
+    },
+    {
+      "id": 1001366,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.waxhawumc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.waxhawumc.com/",
+      "phone": "+17048433931",
+      "email": "bogusia@waxhawumc.com"
+    },
+    {
+      "id": 1001367,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://pearlaesthetix.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://pearlaesthetix.com/",
+      "phone": "+19804144519"
+    },
+    {
+      "id": 1001368,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.lucyrosebeauty.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.lucyrosebeauty.com/",
+      "phone": "+19804890092"
+    },
+    {
+      "id": 1001369,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.themadcpa.com/index.php",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.themadcpa.com/index.php",
+      "phone": "+17048156040",
+      "email": "mindy@themadcpa.com"
+    },
+    {
+      "id": 1001370,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.waxhawinsuranceagency.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.waxhawinsuranceagency.com/",
+      "phone": "+17048432197",
+      "email": "contact@waxhawinsurance.net"
+    },
+    {
+      "id": 1001371,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://bw-web-apps-brightway-com.purpletree-c5e8258c.eastus.azurecontainerapps.io/agencies/nc/waxhaw/0140/contact-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://bw-web-apps-brightway-com.purpletree-c5e8258c.eastus.azurecontainerapps.io/agencies/nc/waxhaw/0140/contact-us",
+      "phone": "+17042186000",
+      "email": "dimitri.apostle@brightway.com"
+    },
+    {
+      "id": 1001372,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.eltecatemexican.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.eltecatemexican.com/",
+      "phone": "+17042561020"
+    },
+    {
+      "id": 1001373,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://capriccistrueitalian.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://capriccistrueitalian.com/",
+      "phone": "+17042561567",
+      "email": "samadainvestmentsllc@gmail.com"
+    },
+    {
+      "id": 1001374,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.foxspizza.com/store/north_carolina/waxhaw-nc/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.foxspizza.com/store/north_carolina/waxhaw-nc/",
+      "phone": "+17048431439"
+    },
+    {
+      "id": 1001375,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://stewartsvillagegallery.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://stewartsvillagegallery.com/",
+      "phone": "+17048435638",
+      "email": "svillage@windstream.net"
+    },
+    {
+      "id": 1001376,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://rcandd.com/the-boutique/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://rcandd.com/the-boutique/",
+      "phone": "+17042431946"
+    },
+    {
+      "id": 1001377,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ultranailboutique.com/shop/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://ultranailboutique.com/shop/",
+      "phone": "+19802452599"
+    },
+    {
+      "id": 1001378,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://museumofthewaxhaws.org/facility-rentals/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://museumofthewaxhaws.org/facility-rentals/",
+      "phone": "+17048431832",
+      "email": "museumofthewaxhaws0@gmail.com"
+    },
+    {
+      "id": 1001379,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://waxhawwomansclub.org/wedding-packages/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://waxhawwomansclub.org/wedding-packages/",
+      "phone": "+18037520289",
+      "email": "rentals@waxhawwomansclub.org"
+    },
+    {
+      "id": 1001380,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fbcw.com/summer-camp/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://fbcw.com/summer-camp/",
+      "phone": "+17048466770",
+      "email": "fbcwpreschool@fbcw.com"
+    },
+    {
+      "id": 1001381,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.allsaintsweddington.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.allsaintsweddington.org/",
+      "phone": "+17042468023",
+      "email": "info@allsaintsweddington.org"
+    },
+    {
+      "id": 1001382,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.thehunterfarm.com/spring-season",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.thehunterfarm.com/spring-season",
+      "phone": "+17048467975",
+      "email": "howdy@thehunterfarm.com"
     }
   ]
 }
