@@ -21897,11 +21897,17 @@
           "url": "https://www.yannibistro.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.yannibistro.com/contacts/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "verified": "2026-10-01",
       "website": "https://www.yannibistro.com/",
-      "email": "yanni@yannibistro.com"
+      "email": "yanni@yannibistro.com",
+      "phone": "+19802262779"
     },
     {
       "id": 1001395,
