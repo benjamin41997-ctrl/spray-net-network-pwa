@@ -776,6 +776,20 @@
       "email": "ashley@haremasseycpa.com"
     },
     {
+      "id": 1000124,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.blood-law.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.blood-law.com/",
+      "phone": "+17042860570"
+    },
+    {
       "id": 1000126,
       "people": [],
       "sources": [
@@ -7635,10 +7649,16 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1114775004",
           "type": "CMS organization registry; last updated 2024-05-08",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.parkwaydentistrydmd.com/",
+          "type": "company website",
+          "date": "2026-10-01"
         }
       ],
       "phone": "9808198981",
-      "verified": "2026-09-30"
+      "verified": "2026-10-01",
+      "website": "https://www.parkwaydentistrydmd.com/"
     },
     {
       "id": 1000478,
@@ -9671,6 +9691,20 @@
       "website": "https://www.tastync.com/our-story",
       "phone": "+17048794484",
       "email": "info@tastync.com"
+    },
+    {
+      "id": 1000568,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://mayworths.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://mayworths.com/",
+      "phone": "+17048794726"
     },
     {
       "id": 1000570,
@@ -22532,6 +22566,512 @@
       "verified": "2026-10-01",
       "website": "https://www.optimizedbalanceandbeauty.com/",
       "phone": "+18392743400"
+    },
+    {
+      "id": 1001443,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.piedmontmedicalnetwork.com/locations/detail/family-medicine-associates---clover",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.piedmontmedicalnetwork.com/locations/detail/family-medicine-associates---clover",
+      "phone": "+18032223063"
+    },
+    {
+      "id": 1001444,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://agents.allstate.com/bobby-lipscomb-clover-sc.html",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://agents.allstate.com/bobby-lipscomb-clover-sc.html",
+      "phone": "+18037464300"
+    },
+    {
+      "id": 1001445,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.toasttab.com/local/order/dreamery-creamery-4543-charlotte-hwy/r-0a9df418-449d-4ded-9738-56b2adf20b91",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.toasttab.com/local/order/dreamery-creamery-4543-charlotte-hwy/r-0a9df418-449d-4ded-9738-56b2adf20b91"
+    },
+    {
+      "id": 1001446,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lakewylieabc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://lakewylieabc.com/",
+      "phone": "+18038318161"
+    },
+    {
+      "id": 1001447,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://manningfamilydentistry.com/about-us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://manningfamilydentistry.com/about-us/",
+      "phone": "+17043684507"
+    },
+    {
+      "id": 1001448,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.cellarandale.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.cellarandale.com/",
+      "phone": "+17042466983"
+    },
+    {
+      "id": 1001449,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fbcminthill.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://fbcminthill.org/",
+      "phone": "+17045450937"
+    },
+    {
+      "id": 1001450,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.eastbelmontcog.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.eastbelmontcog.com/",
+      "phone": "+17048258845"
+    },
+    {
+      "id": 1001451,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://getmedfit.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://getmedfit.com/",
+      "phone": "+17044981901",
+      "email": "info@getmedfit.com"
+    },
+    {
+      "id": 1001452,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.skinnovations.us/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.skinnovations.us/",
+      "email": "info@skinnnovations.us"
+    },
+    {
+      "id": 1001453,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.robertblackinsurance.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.robertblackinsurance.com/contact-us",
+      "phone": "+17048278331",
+      "email": "andrew@robertblackinsurance.com"
+    },
+    {
+      "id": 1001454,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.robertblackinsurance.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.robertblackinsurance.com/contact-us",
+      "phone": "+17048254134"
+    },
+    {
+      "id": 1001455,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.estiaskouzina.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.estiaskouzina.com/",
+      "phone": "+17048257005"
+    },
+    {
+      "id": 1001456,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://honeycombcafenc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://honeycombcafenc.com/",
+      "phone": "+19802837103"
+    },
+    {
+      "id": 1001457,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cramertonchristian.org/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://cramertonchristian.org/",
+      "phone": "+17048242840",
+      "email": "info@cramertonchristian.org"
+    },
+    {
+      "id": 1001458,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://citync.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://citync.com/",
+      "phone": "+17048231600"
+    },
+    {
+      "id": 1001459,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://costnerfuneralhome.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://costnerfuneralhome.com/",
+      "phone": "+17048646787"
+    },
+    {
+      "id": 1001460,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://harmonymedicalspa.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://harmonymedicalspa.com/",
+      "phone": "+17048533330"
+    },
+    {
+      "id": 1001461,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://gastonfamilypractice.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://gastonfamilypractice.com/",
+      "phone": "+17048671402"
+    },
+    {
+      "id": 1001462,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kinglawoffices.com/office-locations/north-carolina/gastonia",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://kinglawoffices.com/office-locations/north-carolina/gastonia",
+      "phone": "+17042714388"
+    },
+    {
+      "id": 1001463,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://everhartgrant.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://everhartgrant.com/",
+      "phone": "+17043966008"
+    },
+    {
+      "id": 1001464,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.blakelyfuneralservice.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.blakelyfuneralservice.com/",
+      "phone": "+17046357951"
+    },
+    {
+      "id": 1001465,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://imbuehealthnc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://imbuehealthnc.com/",
+      "phone": "+17042189322"
+    },
+    {
+      "id": 1001466,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.coppertapandtable.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.coppertapandtable.com/",
+      "phone": "+17046357031"
+    },
+    {
+      "id": 1001467,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.sunvalleycafe.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.sunvalleycafe.com/",
+      "phone": "+17042830808"
+    },
+    {
+      "id": 1001468,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://carolinavetrec.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://carolinavetrec.com/",
+      "phone": "+17048217161"
+    },
+    {
+      "id": 1001469,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rechlaw.com/marvin-family-law/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.rechlaw.com/marvin-family-law/",
+      "phone": "+17046590007"
+    },
+    {
+      "id": 1001470,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rechlaw.com/marvin-family-law/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.rechlaw.com/marvin-family-law/",
+      "phone": "+17042284488"
+    },
+    {
+      "id": 1001471,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://toast.app/r/terra-mia",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://toast.app/r/terra-mia",
+      "phone": "+17048794023"
+    },
+    {
+      "id": 1001472,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cocomexicanrestaurant.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://cocomexicanrestaurant.com/",
+      "phone": "+17049104044"
+    },
+    {
+      "id": 1001473,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cocomexicanrestaurant.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://cocomexicanrestaurant.com/",
+      "phone": "+17042466257"
+    },
+    {
+      "id": 1001474,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.chickenbucketmtholly.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.chickenbucketmtholly.com/"
+    },
+    {
+      "id": 1001475,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://tranlawfirmpllc.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://tranlawfirmpllc.com/",
+      "phone": "+19802019151"
+    },
+    {
+      "id": 1001476,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.arworkshop.com/waxhaw/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.arworkshop.com/waxhaw/",
+      "phone": "+17049674020",
+      "email": "waxhaw@arworkshop.com"
+    },
+    {
+      "id": 1001477,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.uniondayschool.com/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.uniondayschool.com/",
+      "phone": "+17042561494"
+    },
+    {
+      "id": 1001478,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.collinsfamilylaw.com/locations/weddington-north-carolina/",
+          "type": "company website",
+          "date": "2026-10-01"
+        }
+      ],
+      "verified": "2026-10-01",
+      "website": "https://www.collinsfamilylaw.com/locations/weddington-north-carolina/",
+      "phone": "+17043964011"
     }
   ]
 }
