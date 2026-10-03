@@ -3336,11 +3336,11 @@
         1178,
         1199,
         1201,
-        1203,
-        1251
+        1203
       ],
       "unresolved": [
-        "Search results include unreviewed candidate pages, possible duplicates and inaccessible websites. See the dated sweep report for the complete review backlog."
+        "Search results include unreviewed candidate pages, possible duplicates and inaccessible websites. See the dated sweep report for the complete review backlog.",
+        "Owned-source location or mailing route corrected on 2026-10-03 for IDs 1251. This does not establish another visitor office."
       ],
       "notes": "2 public web queries searched for this city/category; results were compared against both directories. Reviewed records may be located in another territory city. Search performed does not mean every business was found or every result has been verified.",
       "nextAction": "Resolve remaining candidate identities and office conflicts; enrich contacts, email, socials, visitor policy and exterior approval authority."
@@ -12204,6 +12204,426 @@
       ],
       "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
       "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-waxhaw-kitchen",
+      "area": "waxhaw",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://qualitycustomwoodworks.com",
+          "label": "Quality Custom Woodworks"
+        },
+        {
+          "url": "https://aninspiringhome.com",
+          "label": "An Inspiring Home"
+        },
+        {
+          "url": "https://gracioushomeinteriors.co/contactus",
+          "label": "Gracious Home Interiors"
+        }
+      ],
+      "reviewedIds": [
+        1253,
+        1352,
+        253
+      ],
+      "unresolved": [
+        "An Inspiring Home: Does the published business address accept mail, and where should referral partners arrange meetings? No vendor walk-in policy is published.",
+        "Gracious Home Interiors: Is the existing Waxhaw business address still current? Current contact pages publish contacts but no street."
+      ],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-weddington-kitchen",
+      "area": "weddington",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://saralynnbrennan.com/inquire",
+          "label": "Sara Lynn Brennan Interiors"
+        }
+      ],
+      "reviewedIds": [
+        1271
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-weddington-retail",
+      "area": "weddington",
+      "category": "retail",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://saralynnbrennan.com/inquire",
+          "label": "All Things Home"
+        }
+      ],
+      "reviewedIds": [
+        1001479
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-charlotte-kitchen",
+      "area": "charlotte",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://elitestagingdesign.com/contact/",
+          "label": "Elite Staging and Design"
+        },
+        {
+          "url": "https://haydenhomestudio.com",
+          "label": "Hayden Home Studio"
+        },
+        {
+          "url": "https://ashleydelapp.com",
+          "label": "Ashley DeLapp Interior Design"
+        }
+      ],
+      "reviewedIds": [
+        1353,
+        1147,
+        1029
+      ],
+      "unresolved": [
+        "Elite Staging and Design: What is the complete business mailing street and ZIP? Does the firm accept vendor appointments?"
+      ],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-fort_mill-kitchen",
+      "area": "fort_mill",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://designenvyinteriors.com",
+          "label": "Design Envy Interiors"
+        }
+      ],
+      "reviewedIds": [
+        1049
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-indian_land-kitchen",
+      "area": "indian_land",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://tylerinteriordesigns.com",
+          "label": "Tyler Interiors"
+        }
+      ],
+      "reviewedIds": [
+        260
+      ],
+      "unresolved": [
+        "Tyler Interiors: Is the existing Fort Mill office address still current? The newly reviewed owned pages do not publish a street."
+      ],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-matthews-kitchen",
+      "area": "matthews",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://dwellstyleinteriors.com",
+          "label": "Dwell Style Interiors LLC"
+        }
+      ],
+      "reviewedIds": [
+        251
+      ],
+      "unresolved": [
+        "Dwell Style Interiors LLC: Is the existing Matthews mailing address still current? Current contact page confirms appointment-only meetings but no street."
+      ],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-indian_trail-flooring",
+      "area": "indian_trail",
+      "category": "flooring",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://acefloors.com",
+          "label": "Ace Tile & Floor Design"
+        }
+      ],
+      "reviewedIds": [
+        1354
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-waxhaw-flooring",
+      "area": "waxhaw",
+      "category": "flooring",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://flooringclearancecentersc.com",
+          "label": "Flooring Clearance Center - Waxhaw"
+        }
+      ],
+      "reviewedIds": [
+        1355
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-fort_mill-flooring",
+      "area": "fort_mill",
+      "category": "flooring",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://flooringclearancecentersc.com",
+          "label": "Flooring Clearance Center - Fort Mill"
+        }
+      ],
+      "reviewedIds": [
+        1172
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-matthews-property_management",
+      "area": "matthews",
+      "category": "property_management",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://rpm-value.com",
+          "label": "Real Property Management Value"
+        },
+        {
+          "url": "https://jamisonpm.com",
+          "label": "Jamison Property Management"
+        },
+        {
+          "url": "https://charlottepm.com",
+          "label": "Wess Cason Realty"
+        },
+        {
+          "url": "https://keycmi.com",
+          "label": "Key Community Management"
+        }
+      ],
+      "reviewedIds": [
+        1356,
+        1100,
+        1144,
+        1366
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-indian_trail-property_management",
+      "area": "indian_trail",
+      "category": "property_management",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://clockworknc.com",
+          "label": "Clockwork Properties"
+        }
+      ],
+      "reviewedIds": [
+        1357
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-ballantyne-property_management",
+      "area": "ballantyne",
+      "category": "property_management",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://whitepropertymgmt.com",
+          "label": "White Property Management"
+        },
+        {
+          "url": "https://northwoodoffice.com",
+          "label": "Northwood Office"
+        }
+      ],
+      "reviewedIds": [
+        1358,
+        1364
+      ],
+      "unresolved": [
+        "White Property Management: Is 9935D Rea Road #181 a staffed visitor office or a mailing mailbox? How should vendors arrange introductions?"
+      ],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-charlotte-property_management",
+      "area": "charlotte",
+      "category": "property_management",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://prosperityeastpropertymanagement.com",
+          "label": "Prosperity East Property Management"
+        },
+        {
+          "url": "https://ppgmanagement.com",
+          "label": "Priority Property Group"
+        },
+        {
+          "url": "https://mpvre.com",
+          "label": "MPV Properties"
+        },
+        {
+          "url": "https://newsouthprop.com",
+          "label": "New South Properties of the Carolinas"
+        },
+        {
+          "url": "https://communityassociationmanagement.com/charlotte-nc-hoa-management-company/",
+          "label": "Community Association Management - Charlotte"
+        },
+        {
+          "url": "https://www.camsmgt.com/charlotte-hoa-management",
+          "label": "CAMS - Charlotte"
+        },
+        {
+          "url": "https://amshoa.com/charlotte-hoa-management/",
+          "label": "Association Management Solutions"
+        },
+        {
+          "url": "https://amgworld.com",
+          "label": "Association Management Group - Charlotte Metro"
+        },
+        {
+          "url": "https://wmdouglas.com/charlotte-hoa-management/",
+          "label": "William Douglas Management - Charlotte"
+        }
+      ],
+      "reviewedIds": [
+        1359,
+        1360,
+        1361,
+        1363,
+        1170,
+        1367,
+        1138,
+        1368,
+        1369,
+        1139
+      ],
+      "unresolved": [
+        "Priority Property Group: What is the complete current business mailing street and ZIP, and is the office appointment-only?",
+        "AMS HOA: Which mailing office is current: 4600 Park Road #200, or 4525 Park Road Suite 103B? Both appear on the owned website.",
+        "Association Management Group - Charlotte Metro: Confirm vendor access and whether the Ayrsley suite is shared with other businesses. A shared suite does not establish the same legal identity."
+      ],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-ballantyne-real_estate",
+      "area": "ballantyne",
+      "category": "real_estate",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://amcharlotte.com",
+          "label": "AM Realty, LLC"
+        }
+      ],
+      "reviewedIds": [
+        472
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-matthews-real_estate",
+      "area": "matthews",
+      "category": "real_estate",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://spiclt.com",
+          "label": "Summit Properties International"
+        }
+      ],
+      "reviewedIds": [
+        1251
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-charlotte-real_estate",
+      "area": "charlotte",
+      "category": "real_estate",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://parkcre.com",
+          "label": "Park Commercial Real Estate"
+        }
+      ],
+      "reviewedIds": [
+        1362
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003b-waxhaw-real_estate",
+      "area": "waxhaw",
+      "category": "real_estate",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://farmsandestates.com",
+          "label": "Farms & Estates Realty - Waxhaw"
+        }
+      ],
+      "reviewedIds": [
+        1365
+      ],
+      "unresolved": [],
+      "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
+      "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
     }
   ]
 }

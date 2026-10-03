@@ -23088,6 +23088,30 @@
       "verified": "2026-10-01",
       "website": "https://www.collinsfamilylaw.com/locations/weddington-north-carolina/",
       "phone": "+17043964011"
+    },
+    {
+      "id": 1001479,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://saralynnbrennan.com/inquire",
+          "type": "company website",
+          "date": "2026-10-03"
+        }
+      ],
+      "verified": "2026-10-03",
+      "website": "https://saralynnbrennan.com/inquire",
+      "phone": "+17042467553",
+      "visit": {
+        "status": "walk_in",
+        "summary": "Owned inquiry page explicitly labels this retail shop open to the public. It is separate from the appointment-only design studio.",
+        "address": "13713 Providence Road, Weddington, NC 28104",
+        "hours": "Monday-Friday 10am-5pm",
+        "checkedAt": "2026-10-03",
+        "sources": [
+          "https://saralynnbrennan.com/inquire"
+        ]
+      }
     }
   ]
 }

@@ -2417,12 +2417,15 @@
     },
     {
       "companyId": 251,
-      "checkedOn": "2026-09-28",
+      "checkedOn": "2026-10-03",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
         "http://www.dwellstyleinteriors.com",
-        "https://www.dwellstyleinteriors.com/"
+        "https://www.dwellstyleinteriors.com/",
+        "https://dwellstyleinteriors.com",
+        "https://www.dwellstyleinteriors.com/contact",
+        "https://www.dwellstyleinteriors.com/about-virginia"
       ],
       "accounts": [
         {
@@ -2465,11 +2468,13 @@
     },
     {
       "companyId": 253,
-      "checkedOn": "2026-10-01",
+      "checkedOn": "2026-10-03",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
-        "https://gracioushomeinteriors.co/"
+        "https://gracioushomeinteriors.co/",
+        "https://gracioushomeinteriors.co/contactus",
+        "https://gracioushomeinteriors.co/about"
       ],
       "accounts": [
         {
@@ -2684,12 +2689,14 @@
     },
     {
       "companyId": 260,
-      "checkedOn": "2026-09-28",
+      "checkedOn": "2026-10-03",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
         "https://www.tylerinteriordesigns.com",
-        "https://www.tylerinteriordesigns.com/"
+        "https://www.tylerinteriordesigns.com/",
+        "https://tylerinteriordesigns.com",
+        "https://www.tylerinteriordesigns.com/contact"
       ],
       "accounts": [
         {
@@ -6869,7 +6876,7 @@
     },
     {
       "companyId": 1029,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-03",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
@@ -7390,12 +7397,13 @@
     },
     {
       "companyId": 1049,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-03",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
         "https://www.designenvyinteriors.com/",
-        "https://www.designenvyinteriors.com/about-us"
+        "https://www.designenvyinteriors.com/about-us",
+        "https://designenvyinteriors.com"
       ],
       "accounts": [
         {
@@ -12352,13 +12360,14 @@
     },
     {
       "companyId": 1144,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-03",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
         "https://charlottepm.com/",
         "https://charlottepm.com/contact-us/",
-        "https://charlottepm.com/about-us/"
+        "https://charlottepm.com/about-us/",
+        "https://charlottepm.com"
       ],
       "accounts": [
         {
@@ -18987,12 +18996,13 @@
     },
     {
       "companyId": 1170,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-03",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
         "https://communityassociationmanagement.com/",
-        "https://communityassociationmanagement.com/contact-us/"
+        "https://communityassociationmanagement.com/contact-us/",
+        "https://communityassociationmanagement.com/charlotte-nc-hoa-management-company/"
       ],
       "accounts": [
         {
@@ -19280,14 +19290,35 @@
     },
     {
       "companyId": 1172,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-03",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
         "https://flooringyouwell.com/sc/fort-mill/29708/flooring-clearance-center/50800/contact-us/",
-        "https://flooringyouwell.com/sc/fort-mill/29708/flooring-clearance-center/50800/contact-us/#str_locator"
+        "https://flooringyouwell.com/sc/fort-mill/29708/flooring-clearance-center/50800/contact-us/#str_locator",
+        "https://flooringclearancecentersc.com",
+        "https://www.flooringclearancecentersc.com/",
+        "https://www.flooringclearancecentersc.com/contact",
+        "https://www.flooringclearancecentersc.com/about-us"
       ],
-      "accounts": []
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/flooringcc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://flooringclearancecentersc.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/flooringcc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://flooringclearancecentersc.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
     },
     {
       "companyId": 1173,
@@ -22820,13 +22851,33 @@
     },
     {
       "companyId": 1251,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-03",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
-        "https://spi-commercial.com/contact.html"
+        "https://spi-commercial.com/contact.html",
+        "https://spiclt.com",
+        "https://spiclt.com/contact-us/",
+        "https://spiclt.com/contact-us/?topic=attorney"
       ],
-      "accounts": []
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/summitpropertiesintl",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://spiclt.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/summitpintl",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://spiclt.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
     },
     {
       "companyId": 1252,
@@ -23272,11 +23323,12 @@
     },
     {
       "companyId": 1271,
-      "checkedOn": "2026-10-01",
+      "checkedOn": "2026-10-03",
       "status": "checked",
       "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
       "sources": [
-        "https://saralynnbrennan.com/"
+        "https://saralynnbrennan.com/",
+        "https://saralynnbrennan.com/inquire"
       ],
       "accounts": [
         {
@@ -24462,6 +24514,481 @@
           "scope": "business",
           "source": "https://www.foresttrailhouse.com/",
           "notes": "Business account explicitly linked by the owned website."
+        }
+      ]
+    },
+    {
+      "companyId": 1352,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://aninspiringhome.com",
+        "https://www.aninspiringhome.com/",
+        "https://www.aninspiringhome.com/contact",
+        "https://www.aninspiringhome.com/contact#ReachoutToMeToday"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/aninspiringhome-1-351627178879347",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://aninspiringhome.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aninspiringhome",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://aninspiringhome.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1355,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://flooringclearancecentersc.com",
+        "https://www.flooringclearancecentersc.com/",
+        "https://www.flooringclearancecentersc.com/contact",
+        "https://www.flooringclearancecentersc.com/about-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/flooringcc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://flooringclearancecentersc.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/flooringcc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://flooringclearancecentersc.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1356,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://rpm-value.com",
+        "https://www.rpm-value.com/",
+        "https://www.rpm-value.com/contact-us",
+        "https://www.rpm-value.com/about-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/realpropertymanagementvalue",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://rpm-value.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/real-property-management-value",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://rpm-value.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1357,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://clockworknc.com",
+        "https://clockworknc.com/contact/",
+        "https://clockworknc.com/about/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=100088348746841",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://clockworknc.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/clockwork_properties",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://clockworknc.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1359,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://prosperityeastpropertymanagement.com",
+        "https://www.prosperityeastpropertymanagement.com/",
+        "https://www.prosperityeastpropertymanagement.com/contact",
+        "https://www.prosperityeastpropertymanagement.com/about"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/prosperityeastmgmt",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://prosperityeastpropertymanagement.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/prosperityeastpm",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://prosperityeastpropertymanagement.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1360,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://ppgmanagement.com",
+        "https://www.ppgmanagement.com/",
+        "https://www.ppgmanagement.com/contact-us",
+        "https://www.ppgmanagement.com/speak-with-our-team"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ppgmanagement",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ppgmanagement.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/charlottepropertymanager",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ppgmanagement.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/priority-property-group",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ppgmanagement.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@PriorityPropertyGroup",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ppgmanagement.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1361,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://mpvre.com",
+        "https://mpvre.com/about-us/contact/",
+        "https://mpvre.com/about-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/mpvproperties",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mpvre.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/mpvproperties",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mpvre.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/mpv-properties-llc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mpvre.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1362,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://parkcre.com",
+        "https://parkcre.com/contact/",
+        "https://parkcre.com/about/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/parkcommercial",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://parkcre.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/park-commercial-real-estate",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://parkcre.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1363,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://newsouthprop.com",
+        "https://newsouthprop.com/contact/",
+        "https://newsouthprop.com/about/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/newsouthprop",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://newsouthprop.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/newsouthproperties",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://newsouthprop.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/new-south-properties-of-the-carolinas-llc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://newsouthprop.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1364,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://northwoodoffice.com",
+        "https://www.northwoodoffice.com/",
+        "https://www.northwoodoffice.com/contact",
+        "https://www.northwoodoffice.com/team"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/northwoodofficellc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://northwoodoffice.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/northwoodoffice",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://northwoodoffice.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/northwood-office",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://northwoodoffice.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1365,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://farmsandestates.com",
+        "https://farmsandestates.com/contact",
+        "https://farmsandestates.com/meet-the-team"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/farmsandestatesrealty",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://farmsandestates.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/farmsandestates",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://farmsandestates.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@farmsestatesrealtyllc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://farmsandestates.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1366,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://keycmi.com",
+        "https://keycmi.com/contact/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/keycommunitymanagement",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://keycmi.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/key_cmi",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://keycmi.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/keycmi",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://keycmi.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1367,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://www.camsmgt.com/charlotte-hoa-management",
+        "https://www.camsmgt.com/hoa-management",
+        "https://www.camsmgt.com/contact",
+        "https://www.camsmgt.com/about"
+      ],
+      "accounts": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/cams-community-association-management-specialists-",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.camsmgt.com/charlotte-hoa-management",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1368,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://amgworld.com",
+        "https://www.amgworld.com/",
+        "https://www.amgworld.com/contact",
+        "https://www.amgworld.com/about-amg"
+      ],
+      "accounts": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/association-management-group---carolinas",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://amgworld.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1369,
+      "checkedOn": "2026-10-03",
+      "status": "checked",
+      "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
+      "sources": [
+        "https://amgworld.com",
+        "https://www.amgworld.com/",
+        "https://www.amgworld.com/contact",
+        "https://www.amgworld.com/about-amg"
+      ],
+      "accounts": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/association-management-group---carolinas",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://amgworld.com",
+          "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
         }
       ]
     }
