@@ -3085,7 +3085,6 @@
         1141,
         1142,
         1168,
-        1171,
         1194,
         1195,
         1222,
@@ -3093,7 +3092,8 @@
         1249
       ],
       "unresolved": [
-        "Search results include unreviewed candidate pages, possible duplicates and inaccessible websites. See the dated sweep report for the complete review backlog."
+        "Search results include unreviewed candidate pages, possible duplicates and inaccessible websites. See the dated sweep report for the complete review backlog.",
+        "Owned-source location corrected on 2026-10-03 for IDs 1171. Refer to their current profiles."
       ],
       "notes": "2 public web queries searched for this city/category; results were compared against both directories. Reviewed records may be located in another territory city. Search performed does not mean every business was found or every result has been verified.",
       "nextAction": "Resolve remaining candidate identities and office conflicts; enrich contacts, email, socials, visitor policy and exterior approval authority."
@@ -11723,6 +11723,487 @@
       ],
       "notes": "2 scoped queries, one page each; 29 unique Place IDs and 18 existing Place ID matches in this segment. Source pass only; not exhaustive coverage. Overall pass stopped on Google HTTP 429 after 106 completed queries.",
       "nextAction": "Check Google Cloud quota/rate limits before resuming. Corroborate unmatched candidates against both directories and business-owned sources."
+    },
+    {
+      "id": "maps-20261003-charlotte-real_estate",
+      "area": "charlotte",
+      "category": "real_estate",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://highperformancerealestate.com/connect/",
+          "label": "High Performance Real Estate Advisors"
+        },
+        {
+          "url": "https://www.thenicholscompany.com/contact-us",
+          "label": "The Nichols Company"
+        },
+        {
+          "url": "https://vervcre.com/",
+          "label": "Verv Commercial Real Estate"
+        },
+        {
+          "url": "https://whitestagrealtync.com/",
+          "label": "White Stag Realty - Charlotte"
+        },
+        {
+          "url": "https://bovenderteam.com/",
+          "label": "Andy Bovender Team - Charlotte"
+        },
+        {
+          "url": "https://mattstoneteam.com/",
+          "label": "Matt Stone Team / Stone Realty Group"
+        },
+        {
+          "url": "https://mikesposato.com/",
+          "label": "Carolina Realty Advisors"
+        }
+      ],
+      "reviewedIds": [
+        1324,
+        1325,
+        1326,
+        1327,
+        1328,
+        1261,
+        1153
+      ],
+      "unresolved": [
+        "Andy Bovender Team - Charlotte: Owned website has conflicting Charlotte ZIPs 28209 and 28211. Confirm the postal ZIP for 4525 Sharon Road, third floor."
+      ],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-fort_mill-real_estate",
+      "area": "fort_mill",
+      "category": "real_estate",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://bovenderteam.com/",
+          "label": "Andy Bovender Team - Fort Mill"
+        }
+      ],
+      "reviewedIds": [
+        1329
+      ],
+      "unresolved": [],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-charlotte-kitchen",
+      "area": "charlotte",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://linecraftcabinetry.com/contact/",
+          "label": "LineCraft Cabinetry Wholesale Center"
+        },
+        {
+          "url": "https://woodshopqc.com/",
+          "label": "Woodshop QC"
+        },
+        {
+          "url": "https://thedesignery.com/locations/south-charlotte/",
+          "label": "The Designery South Charlotte"
+        },
+        {
+          "url": "https://www.distinctivecabinets.com/",
+          "label": "Distinctive Cabinets LLC"
+        },
+        {
+          "url": "https://legacytops.com/",
+          "label": "Legacy Countertops"
+        },
+        {
+          "url": "https://waterfallcountertops.com/",
+          "label": "Waterfall Countertops"
+        },
+        {
+          "url": "https://704granitemarble.com/",
+          "label": "704 Granite & Marble Fabricators"
+        },
+        {
+          "url": "https://mtcgraniteandmarblellc.com/",
+          "label": "MTC Granite & Marble LLC"
+        },
+        {
+          "url": "https://gorillastone.com/contact-us",
+          "label": "Gorilla Stone"
+        },
+        {
+          "url": "https://www.msisurfaces.com/charlotte-north-carolina-countertop-showroom-distribution/",
+          "label": "MSI Charlotte"
+        },
+        {
+          "url": "https://instylecharlotte.com/",
+          "label": "Instyle Charlotte"
+        },
+        {
+          "url": "https://bottegasurfaces.com/charlotte-countertops/",
+          "label": "Bottega Surfaces - Charlotte"
+        },
+        {
+          "url": "https://www.thegranitehousenc.com/",
+          "label": "The Granite House"
+        },
+        {
+          "url": "https://cornerstoneusa.us/",
+          "label": "Cornerstone Countertops & Cabinetry LLC"
+        }
+      ],
+      "reviewedIds": [
+        1330,
+        1332,
+        187,
+        1225,
+        1042,
+        1335,
+        1044,
+        1337,
+        1110,
+        1338,
+        1099,
+        1339,
+        1098,
+        1340
+      ],
+      "unresolved": [
+        "704 Granite & Marble Fabricators: Confirm postal ZIP for 3701 Scott Futrell Drive, Charlotte.",
+        "MTC Granite & Marble LLC: What is the current complete business mailing street and ZIP? Owned site confirms Charlotte and public contact routes, but no office street.",
+        "Bottega Surfaces - Charlotte: Confirm postal ZIP for 1200 Westinghouse Blvd Suite M: owned location body says 28273 but footer says 28272."
+      ],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-indian_land-kitchen",
+      "area": "indian_land",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://waxhawwoodworkingnc.com/",
+          "label": "Waxhaw Woodworking Studio LLC"
+        },
+        {
+          "url": "https://customfeatures.net/",
+          "label": "Custom Features Inc."
+        }
+      ],
+      "reviewedIds": [
+        1331,
+        1183
+      ],
+      "unresolved": [],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-matthews-kitchen",
+      "area": "matthews",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://cabinetiq.com/charlotte/",
+          "label": "Cabinet IQ of Charlotte"
+        },
+        {
+          "url": "https://www.charlottecabinetstore.com/",
+          "label": "Charlotte Cabinet Store LLC"
+        }
+      ],
+      "reviewedIds": [
+        288,
+        1115
+      ],
+      "unresolved": [],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-fort_mill-kitchen",
+      "area": "fort_mill",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://baxtercabinets.com/",
+          "label": "Baxter Cabinets - Fort Mill Showroom"
+        },
+        {
+          "url": "https://woodartcabinetsolutions.com/",
+          "label": "Wood Artistry Cabinet Solutions LLC"
+        },
+        {
+          "url": "https://stone-rox.com/",
+          "label": "Stone Rox LLC"
+        }
+      ],
+      "reviewedIds": [
+        1023,
+        1334,
+        1085
+      ],
+      "unresolved": [
+        "Stone Rox LLC: Confirm postal ZIP for 491 Marvin Road, Fort Mill."
+      ],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-indian_trail-kitchen",
+      "area": "indian_trail",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://cabinetconnectofcharlotte.com/",
+          "label": "Cabinet Connect - Indian Trail"
+        }
+      ],
+      "reviewedIds": [
+        1333
+      ],
+      "unresolved": [],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-ballantyne-kitchen",
+      "area": "ballantyne",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://universalstonenc.com/",
+          "label": "Universal Stone LLC - Design Center Ballantyne"
+        }
+      ],
+      "reviewedIds": [
+        1336
+      ],
+      "unresolved": [],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-regional-kitchen",
+      "area": "regional",
+      "category": "kitchen",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://pro-tops.com/",
+          "label": "PRO-TOPS"
+        }
+      ],
+      "reviewedIds": [
+        1304
+      ],
+      "unresolved": [],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-charlotte-flooring",
+      "area": "charlotte",
+      "category": "flooring",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://americantileflooring.com/",
+          "label": "American Tile and Flooring"
+        },
+        {
+          "url": "https://www.tileshop.com/store-locator/charlotte",
+          "label": "The Tile Shop - Charlotte"
+        },
+        {
+          "url": "https://besttile.com/find-a-showroom/charlotte-nc",
+          "label": "Best Tile - Charlotte"
+        },
+        {
+          "url": "https://locations.daltile.com/nc/charlotte/221/",
+          "label": "Daltile - Charlotte Sales Service Center"
+        },
+        {
+          "url": "https://www.flooranddecor.com/store/charlotte/NC/28273/214",
+          "label": "Floor & Decor - Pineville"
+        },
+        {
+          "url": "https://www.empirecarpetone.com/",
+          "label": "Empire Carpet One Floor & Home"
+        },
+        {
+          "url": "https://hardwoodfloorscharlotte.com/contact-us/",
+          "label": "Carolina Wood Flooring"
+        },
+        {
+          "url": "https://floorcrafterssouthcharlotte.com/",
+          "label": "Floor Crafters South Charlotte"
+        },
+        {
+          "url": "https://priorityflooringanddesign.com/",
+          "label": "Priority Flooring & Design"
+        },
+        {
+          "url": "https://aplus-flooring.com/",
+          "label": "A Plus Flooring Inc"
+        },
+        {
+          "url": "https://hardwoodgiant.com/",
+          "label": "The Hardwood Giant Co."
+        },
+        {
+          "url": "https://charlotteflooring.com/",
+          "label": "Charlotte Flooring Inc."
+        }
+      ],
+      "reviewedIds": [
+        1341,
+        1342,
+        1119,
+        1343,
+        1168,
+        1344,
+        1345,
+        1141,
+        1346,
+        1347,
+        1348,
+        1349
+      ],
+      "unresolved": [
+        "Empire Carpet One Floor & Home: Confirm postal ZIP for 10500 McMullen Creek Parkway, Charlotte.",
+        "Priority Flooring & Design: Confirm suite number and postal ZIP at 10130 Perimeter Parkway. The owned source leaves the suite number incomplete.",
+        "A Plus Flooring Inc: Confirm current full business mailing address and public phone. Website contact page is blocked; a Charlotte service area is insufficient for a mailing route."
+      ],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-matthews-flooring",
+      "area": "matthews",
+      "category": "flooring",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://www.tileshop.com/store-locator/matthews",
+          "label": "The Tile Shop - Matthews"
+        },
+        {
+          "url": "https://mnmflooring.com/",
+          "label": "M&M Hardwood Flooring"
+        },
+        {
+          "url": "https://floorcoveringsinternational.com/locations/us/nc/southeast-charlotte/",
+          "label": "Floor Coverings International of South East Charlotte"
+        },
+        {
+          "url": "https://www.carpetandrugsuperstore.com/",
+          "label": "Carpet & Rug Superstore - Matthews"
+        },
+        {
+          "url": "https://myultimateflooring.com/",
+          "label": "Ultimate Flooring and Stairs"
+        }
+      ],
+      "reviewedIds": [
+        1120,
+        1151,
+        1208,
+        1350,
+        1351
+      ],
+      "unresolved": [
+        "Ultimate Flooring and Stairs: Does the current office use 921 Matthews Mint Hill Rd Suite A, Matthews, or 115 Unionville-Indian Trail Road West, Indian Trail? Both appear on the owned homepage."
+      ],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-pineville-flooring",
+      "area": "pineville",
+      "category": "flooring",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://www.carpet-flooringliquidators.com/",
+          "label": "Carpet & Flooring Liquidators - Pineville"
+        }
+      ],
+      "reviewedIds": [
+        1127
+      ],
+      "unresolved": [],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-gastonia-flooring",
+      "area": "gastonia",
+      "category": "flooring",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://www.carpet-flooringliquidators.com/",
+          "label": "Carpet & Flooring Liquidators - Gastonia"
+        }
+      ],
+      "reviewedIds": [
+        1126
+      ],
+      "unresolved": [],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-waxhaw-flooring",
+      "area": "waxhaw",
+      "category": "flooring",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://floordecormore.com/",
+          "label": "Floor Decor & More"
+        }
+      ],
+      "reviewedIds": [
+        1130
+      ],
+      "unresolved": [],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261003-fort_mill-flooring",
+      "area": "fort_mill",
+      "category": "flooring",
+      "searchedOn": "2026-10-03",
+      "sources": [
+        {
+          "url": "https://floorcoveringsinternational.com/locations/us/nc/south-charlotte/",
+          "label": "Floor Coverings International of South Charlotte"
+        },
+        {
+          "url": "https://superiorfloors.net/",
+          "label": "Superior Hardwood Floors LLC"
+        }
+      ],
+      "reviewedIds": [
+        1173,
+        1171
+      ],
+      "unresolved": [
+        "Superior Hardwood Floors LLC: Confirm postal ZIP for 110 Johnna Park Ln, Fort Mill. Does this accept vendor appointments, or is the mobile showroom the only visitor route?"
+      ],
+      "notes": "Review of saved Maps candidates using independently corroborated owned public websites. Existing records and separate offices were compared across both directories. This is partial source coverage, not an exhaustive business census.",
+      "nextAction": "Continue saved candidate verification with free public sources. Resolve mailing conflicts and confirm vendor access during a call or visit; property ownership and exterior authority remain unknown."
     }
   ]
 }
