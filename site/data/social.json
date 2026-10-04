@@ -28914,6 +28914,811 @@
           "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
         }
       ]
+    },
+    {
+      "companyId": 1417,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://themcmurry.group/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/charlotterealestatejoseph",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://themcmurry.group/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/jmcrealestate",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://themcmurry.group/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC2a71vlkQ4Yml8VtdI0Y2ZA",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://themcmurry.group/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1419,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://sunvalley-realty.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/sunvalleyrealty",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://sunvalley-realty.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1420,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://buyingcarolinas.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/buying.carolinas",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://buyingcarolinas.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1421,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://buyingcarolinas.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/buying.carolinas",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://buyingcarolinas.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1423,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://therossgroupkw.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/therossgroupkw",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://therossgroupkw.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/therossgroupkw",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://therossgroupkw.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1274,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://thepremierteam.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1425,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://thepremierteam.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1426,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://thepremierteam.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@thepremierteamremax",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thepremierteam.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1427,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.refloor.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/reflooramerica",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.refloor.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/reflooramerica",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.refloor.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1428,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.rpmqueencity.com/?cid=LSTL_RPM000203",
+        "https://www.rpmqueencity.com/about-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/rpmqueencity",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.rpmqueencity.com/?cid=LSTL_RPM000203",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/real-property-management-queen-city",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.rpmqueencity.com/?cid=LSTL_RPM000203",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/rpmqueencity",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.rpmqueencity.com/about-us",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 238,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://thesimpsongrouprealty.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/thesimpsongroupat",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://thesimpsongrouprealty.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/thesimpsongrouprealty",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://thesimpsongrouprealty.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@TheSimpsonGroupRealty",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://thesimpsongrouprealty.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1430,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.nitrorealtygroup.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/nitinsellsrealestate",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.nitrorealtygroup.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/nitrorealtygroup",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.nitrorealtygroup.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1431,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://lakenormangranite.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/lkngranite",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://lakenormangranite.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/lakenormangranite",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://lakenormangranite.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1435,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://my-rcm.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/revelationcommunitymanagement",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://my-rcm.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1436,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.charlotte-lake.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/charlottelakehomes",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.charlotte-lake.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001674,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://theregenerativecenterspa.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/theregenerativecenter",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://theregenerativecenterspa.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/theregenerativecenter",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://theregenerativecenterspa.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@theregenerativecenter",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://theregenerativecenterspa.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001675,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.chrisfieldingcpa.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/chrisfieldingcpa",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.chrisfieldingcpa.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001677,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.epplaw.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/epplaw",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.epplaw.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001678,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.crlegalteam.com/charlotte-nc/personal-injury-lawyer/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/crlegalteam",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.crlegalteam.com/charlotte-nc/personal-injury-lawyer/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/crlegalteam",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.crlegalteam.com/charlotte-nc/personal-injury-lawyer/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/cr-legalteam-llp",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.crlegalteam.com/charlotte-nc/personal-injury-lawyer/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@crlegalteam",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.crlegalteam.com/charlotte-nc/personal-injury-lawyer/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@CRLegalTeam",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.crlegalteam.com/charlotte-nc/personal-injury-lawyer/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001679,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://bandklaw.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/bandklawnc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://bandklaw.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001684,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.sussmanlawfirmpllc.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/sussmanlawfirm",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.sussmanlawfirmpllc.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001685,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://tapandvinenc.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/101266995759967",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://tapandvinenc.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001686,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "http://www.greekgrillsc.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/thegreekgrillsc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "http://www.greekgrillsc.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/thegreekgrillsc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "http://www.greekgrillsc.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001687,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://presslyanimalhospital.net/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/presslyah",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://presslyanimalhospital.net/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/presslyanimal",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://presslyanimalhospital.net/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/pressly-animal-hospital",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://presslyanimalhospital.net/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@presslyanimals",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://presslyanimalhospital.net/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001688,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://thelearningexperience.com/centers/indian-land-sc/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/thelearningexperienceindianland",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://thelearningexperience.com/centers/indian-land-sc/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/tleindianland",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://thelearningexperience.com/centers/indian-land-sc/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001220,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.chestertondrexel.org/contact/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/drexelschool",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.chestertondrexel.org/contact/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61566903615391",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.chestertondrexel.org/contact/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001690,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://aeternumaesthetics.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=100087919251290",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://aeternumaesthetics.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aeternum.aesthetics",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://aeternumaesthetics.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001691,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://karencoletimelesstreasures.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/timelesstreasuresclt",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://karencoletimelesstreasures.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/karencoletimelesstreasures",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://karencoletimelesstreasures.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@cltpermanentjewelry",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://karencoletimelesstreasures.com/",
+          "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
+        }
+      ]
     }
   ]
 }

@@ -4477,10 +4477,27 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1528905361",
           "type": "CMS organization registry; last updated 2026-04-30",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.oakridgedentalarts.com/contact-us.htm",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "phone": "7048259635",
-      "verified": "2026-09-30"
+      "verified": "2026-10-04",
+      "website": "https://www.oakridgedentalarts.com/contact-us.htm",
+      "email": "patientcare.belmont@oakridgedentalarts.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.oakridgedentalarts.com/contact-us.htm"
+        ]
+      }
     },
     {
       "id": 1000354,
@@ -14257,11 +14274,26 @@
           "url": "https://www.providencevets.com/site/home",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.waxhaw.providencevets.com/site/contact",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.waxhaw.providencevets.com/site/home",
-      "phone": "+17048430208"
+      "phone": "+17048430208",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.waxhaw.providencevets.com/site/contact"
+        ]
+      }
     },
     {
       "id": 1000834,
@@ -19327,19 +19359,29 @@
       "people": [],
       "sources": [
         {
-          "url": "https://revivemenc.co/",
+          "url": "https://revivemenc.co/contact/",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         },
         {
-          "url": "https://revivemenc.co/contact/",
+          "url": "https://revivemenc.co/",
           "type": "company website",
           "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
       "website": "https://revivemenc.co/",
-      "phone": "+19802720756"
+      "phone": "+19802720756",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://revivemenc.co/"
+        ]
+      }
     },
     {
       "id": 1001165,
@@ -20207,12 +20249,27 @@
           "url": "https://www.chestertondrexel.org/admissions/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.chestertondrexel.org/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.chestertondrexel.org/admissions/",
       "phone": "+17049300994",
-      "email": "info@chestertondrexel.org"
+      "email": "info@chestertondrexel.org",
+      "visit": {
+        "status": "unknown",
+        "summary": "Drexel High is this existing school. Mailing route stays 6414 W Wilkinson #1003; visitor location is 304 McAdenville Road, Belmont 28012. Vendor visit arrangements and exterior approval authority remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.chestertondrexel.org/contact/"
+        ]
+      }
     },
     {
       "id": 1001221,
@@ -26655,6 +26712,480 @@
       "website": "https://www.bushelandapeckevents.com/",
       "phone": "+17042481017",
       "email": "nicole@bushelandapeckevents.com"
+    },
+    {
+      "id": 1001672,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://southernpainspecialists.com/waxhaw-north-carolina-location/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://southernpainspecialists.com/waxhaw-north-carolina-location/",
+      "phone": "+19803854450",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://southernpainspecialists.com/waxhaw-north-carolina-location/"
+        ]
+      }
+    },
+    {
+      "id": 1001673,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://jmmcri.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://jmmcri.com/contact-us/",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://jmmcri.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1001674,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://theregenerativecenterspa.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://theregenerativecenterspa.com/contact-us/",
+      "phone": "+19807341674",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://theregenerativecenterspa.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1001675,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.chrisfieldingcpa.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.chrisfieldingcpa.com/",
+      "phone": "+17045609180",
+      "email": "info@chrisfieldingcpa.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.chrisfieldingcpa.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001676,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.smbbusinessadvisors.com/contact.php",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.smbbusinessadvisors.com/contact.php",
+      "phone": "+17048598089",
+      "email": "info@cpaproadvisors.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.smbbusinessadvisors.com/contact.php"
+        ]
+      }
+    },
+    {
+      "id": 1001677,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.epplaw.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.epplaw.com/contact-us",
+      "phone": "+17048509288",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.epplaw.com/contact-us"
+        ]
+      }
+    },
+    {
+      "id": 1001678,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.crlegalteam.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.crlegalteam.com/contact/",
+      "phone": "+17045674529",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.crlegalteam.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001679,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://bandklaw.com/contact",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://bandklaw.com/contact",
+      "phone": "+17048498008",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://bandklaw.com/contact"
+        ]
+      }
+    },
+    {
+      "id": 1001680,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ncclosingattorney.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://ncclosingattorney.com/contact/",
+      "phone": "+19192894694",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://ncclosingattorney.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001681,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.refugeranch.info/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.refugeranch.info/",
+      "phone": "+19802219323",
+      "visit": {
+        "status": "unknown",
+        "summary": "Explicit check/correspondence route. Worship venue is 2001 Parkway Drive, Indian Land/Fort Mill SC 29707; these are not two business offices. Vendor visit arrangements and exterior approval authority remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.refugeranch.info/"
+        ]
+      }
+    },
+    {
+      "id": 1001682,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://hinsonfaulk.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://hinsonfaulk.com/contact/",
+      "phone": "+17046840034",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://hinsonfaulk.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001683,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://gohillaw.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://gohillaw.com/contact-us/",
+      "phone": "+17049444262",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://gohillaw.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1001684,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.sussmanlawfirmpllc.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.sussmanlawfirmpllc.com/contact/",
+      "phone": "+19805988180",
+      "email": "info@sussmanlawfirmpllc.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.sussmanlawfirmpllc.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001685,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://tapandvinenc.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://tapandvinenc.com/",
+      "phone": "+17047769597",
+      "email": "support@tapandvinecorp.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://tapandvinenc.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001686,
+      "people": [],
+      "sources": [
+        {
+          "url": "http://www.greekgrillsc.com/contact",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "http://www.greekgrillsc.com/contact",
+      "phone": "+18033963999"
+    },
+    {
+      "id": 1001687,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://presslyanimalhospital.net/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://presslyanimalhospital.net/contact/",
+      "phone": "+17042340374",
+      "email": "pah@presslyanimalhospital.net",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://presslyanimalhospital.net/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001688,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thelearningexperience.com/centers/indian-land-sc/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://thelearningexperience.com/centers/indian-land-sc/",
+      "phone": "+18032280590",
+      "email": "indianland@tlechildcare.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://thelearningexperience.com/centers/indian-land-sc/"
+        ]
+      }
+    },
+    {
+      "id": 1001689,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.elevationchurch.org/locations?location=matthews",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.elevationchurch.org/locations?location=matthews",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.elevationchurch.org/locations?location=matthews"
+        ]
+      }
+    },
+    {
+      "id": 1001690,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://aeternumaesthetics.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://aeternumaesthetics.com/contact-us/",
+      "phone": "+18038663223",
+      "email": "appointments@aeternumaestheticsandwellness.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business source reviewed. Vendor visits, property ownership and exterior approval authority remain unverified; arrange an introduction before visiting.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://aeternumaesthetics.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1001691,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://karencoletimelesstreasures.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://karencoletimelesstreasures.com/",
+      "visit": {
+        "status": "walk_in",
+        "summary": "Owned business page explicitly identifies this uptown retail shop as an in-person location. Confirm the appropriate contact for a vendor introduction.",
+        "address": "224 E 7th Street, Charlotte NC 28202",
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://karencoletimelesstreasures.com/"
+        ]
+      }
     }
   ]
 }

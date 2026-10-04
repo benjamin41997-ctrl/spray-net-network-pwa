@@ -19963,6 +19963,916 @@
       ],
       "notes": "Full saved 954-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
       "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "held-investigation-20261004a-indian_trail--real_estate",
+      "area": "indian_trail",
+      "category": "real_estate",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://themcmurry.group/contact-form/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://themcmurry.group/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.randd-realestate.com/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://buyingcarolinas.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://countysouth.com/become-an-affiliate.php",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://therossgroupkw.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://therossgroupkw.com/about-us/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1417,
+        1418,
+        1421,
+        1422,
+        1423
+      ],
+      "unresolved": [
+        "The McMurry Group @ eXp Realty: Owned contact page identifies Joseph McMurry and the team; ZIP and visitor-office suitability remain unverified. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-charlotte--real_estate",
+      "area": "charlotte",
+      "category": "real_estate",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://sunvalley-realty.com/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://sunvalley-realty.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://buyingcarolinas.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://cedarstonecommercial.com/contact",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://cedarstonecommercial.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://cedarstonecommercial.com/contact-see-listings",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thepremierteam.com/locations/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thepremierteam.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thepremierteam.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thepremierteam.com/about-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.nitrorealtygroup.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.nitrorealtygroup.com/contact",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.nitrorealtygroup.com/about",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1419,
+        1420,
+        1424,
+        1425,
+        1430
+      ],
+      "unresolved": [
+        "Sun Valley Realty: Charlotte metro service area verified; Charlotte is a service-area label, not a verified street office. Confirm vendor visit arrangements.",
+        "Cedar Stone Commercial LLC: Charlotte industrial real estate service area verified; no current postal or visitor office published on inspected owned pages. Confirm vendor visit arrangements.",
+        "Nitro Realty Group LLC: Charlotte and surrounding cities explicitly served; no verified postal/visitor office on inspected pages. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-ballantyne--real_estate",
+      "area": "ballantyne",
+      "category": "real_estate",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://joinusatone.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thepremierteam.com/locations/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thepremierteam.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thepremierteam.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thepremierteam.com/about-us/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        323,
+        1274
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-indian_land--real_estate",
+      "area": "indian_land",
+      "category": "real_estate",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://thepremierteam.com/locations/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thepremierteam.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thepremierteam.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thepremierteam.com/about-us/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1426
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-charlotte--flooring",
+      "area": "charlotte",
+      "category": "flooring",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.refloor.com/charlotte-north-carolina",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.refloor.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.refloor.com/contact-us",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.refloor.com/locations",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1427
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-charlotte--property_management",
+      "area": "charlotte",
+      "category": "property_management",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.rpmqueencity.com/contact-us",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.rpmqueencity.com/?cid=LSTL_RPM000203",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.rpmqueencity.com/about-us",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1428
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-belmont--real_estate",
+      "area": "belmont",
+      "category": "real_estate",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://joinpremiersouth.net/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thesimpsongrouprealty.com/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thesimpsongrouprealty.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://belmontrealty.net/contact-us-2/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://cbcarverpressley.com/directory/agents/carla-howell-1",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://cbcarverpressley.com",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://cbcarverpressley.com/contact-me",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://cbcarverpressley.com/ab/3145525/about-coldwell-banker",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1137,
+        238,
+        1429,
+        64
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-mount_holly--kitchen",
+      "area": "mount_holly",
+      "category": "kitchen",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://lakenormangranite.com/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://lakenormangranite.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://lakenormangranite.com/about/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1431
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-charlotte--kitchen",
+      "area": "charlotte",
+      "category": "kitchen",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://kitchencabinetpros.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://kitchencabinetpros.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://kitchencabinetpros.com/about-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://aventuscabinetry.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1432,
+        1433
+      ],
+      "unresolved": [
+        "Kitchen Cabinet Pros: Owned source explicitly identifies former Carolina Cabinet Refacing brand, Charlotte metro service area and mobile showroom. No verified visitor/postal office. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-mount_holly--real_estate",
+      "area": "mount_holly",
+      "category": "real_estate",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://melmillerrealty.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.charlotte-lake.com/contact",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.charlotte-lake.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.charlotte-lake.com/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.charlotte-lake.com/about-us/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1434,
+        1436
+      ],
+      "unresolved": [
+        "Mel Miller Realty: Owned site corroborates Mount Holly identity and phone; correspondence address and visitor access remain unknown. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-lake_wylie--property_management",
+      "area": "lake_wylie",
+      "category": "property_management",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://my-rcm.com/reach-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://my-rcm.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://my-rcm.com/about/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://my-rcm.com/about/refer-a-friend/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1435
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-waxhaw--medical",
+      "area": "waxhaw",
+      "category": "medical",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://southernpainspecialists.com/waxhaw-north-carolina-location/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://southernpainspecialists.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://southernpainspecialists.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://southernpainspecialists.com/our-team/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001672
+      ],
+      "unresolved": [
+        "Southern Pain and Spine Specialists - Waxhaw: Waxhaw practice identity and street verified; owned source conflicts between ZIP 28173 and 28105. Mailing remains held. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-ballantyne--medical",
+      "area": "ballantyne",
+      "category": "medical",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://jmmcri.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://jmmcri.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://jmmcri.com/about/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001673
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-matthews--med_spa",
+      "area": "matthews",
+      "category": "med_spa",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://theregenerativecenterspa.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://theregenerativecenterspa.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://theregenerativecenterspa.com/about-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://revivemenc.co/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://revivemenc.co/contact/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001674,
+        1001164
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-waxhaw--professional",
+      "area": "waxhaw",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.chrisfieldingcpa.com/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001675
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-charlotte--professional",
+      "area": "charlotte",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.smbbusinessadvisors.com/contact.php",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://gohillaw.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://gohillaw.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://gohillaw.com/about-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.sussmanlawfirmpllc.com/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.sussmanlawfirmpllc.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.sussmanlawfirmpllc.com/join-our-team/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001676,
+        1001683,
+        1001684
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-ballantyne--professional",
+      "area": "ballantyne",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.epplaw.com/contact-us",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.epplaw.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.epplaw.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.epplaw.com/team/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.crlegalteam.com/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.crlegalteam.com/charlotte-nc/personal-injury-lawyer/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.crlegalteam.com/about-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://bandklaw.com/contact",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://bandklaw.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://bandklaw.com/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://bandklaw.com/our-team/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://ncclosingattorney.com/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://ncclosingattorney.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://ncclosingattorney.com/about/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001677,
+        1001678,
+        1001679,
+        1001680
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-waxhaw--veterinary",
+      "area": "waxhaw",
+      "category": "veterinary",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.waxhaw.providencevets.com/site/contact",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.providencevets.com/site/home",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.charlotte.providencevets.com/site/contact",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1000833
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-marvin--church",
+      "area": "marvin",
+      "category": "church",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.refugeranch.info/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.refugeranch.info/about",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001681
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-indian_trail--professional",
+      "area": "indian_trail",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://hinsonfaulk.com/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://hinsonfaulk.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://hinsonfaulk.com/about/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001682
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-indian_trail--restaurant",
+      "area": "indian_trail",
+      "category": "restaurant",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://tapandvinenc.com/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001685
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-matthews--veterinary",
+      "area": "matthews",
+      "category": "veterinary",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://presslyanimalhospital.net/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://presslyanimalhospital.net/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://presslyanimalhospital.net/matthews-nc-animal-hospital-team/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001687
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-indian_land--childcare",
+      "area": "indian_land",
+      "category": "childcare",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://thelearningexperience.com/centers/indian-land-sc/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://thelearningexperience.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001688
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-matthews--church",
+      "area": "matthews",
+      "category": "church",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.elevationchurch.org/locations?location=matthews",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.elevationchurch.org/about",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001689
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-belmont--dentist",
+      "area": "belmont",
+      "category": "dentist",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.oakridgedentalarts.com/contact-us.htm",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.oakridgedentalarts.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.oakridgedentalarts.com/about-us.htm",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1000353
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-belmont--school",
+      "area": "belmont",
+      "category": "school",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.chestertondrexel.org/contact/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.chestertondrexel.org/contact",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://www.chestertondrexel.org/contact/#page",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001220
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-lake_wylie--med_spa",
+      "area": "lake_wylie",
+      "category": "med_spa",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://aeternumaesthetics.com/contact-us/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://aeternumaesthetics.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://aeternumaesthetics.com/about-us/",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001690
+      ],
+      "unresolved": [
+        "Aeternum Aesthetics and Wellness: Local identity verified; owned contact body says 523 Nautical Drive Suite 3, footer says 534. Street and ZIP held until number conflict resolved. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004a-charlotte--retail",
+      "area": "charlotte",
+      "category": "retail",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://karencoletimelesstreasures.com/",
+          "label": "Reviewed public owned business source"
+        },
+        {
+          "url": "https://karencoletimelesstreasures.com/pages/contact",
+          "label": "Reviewed public owned business source"
+        }
+      ],
+      "reviewedIds": [
+        1001691
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
     }
   ]
 }
