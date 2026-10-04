@@ -68,6 +68,9 @@ test('expanded coverage keeps uncertain registry addresses held and source filte
 });
 
 test('medical, spa, restaurant, lodging and office prospects retain notes and export postal columns',async({page})=>{
+  // This full-catalog test exports and validates Excel plus a backup before filtering;
+  // WebKit tracing takes over 30 seconds as the verified directory grows.
+  test.setTimeout(60000);
   await page.goto('./#mailing');
   await page.getByLabel('Dentist offices',{exact:true}).uncheck();
   await page.getByLabel('Schools',{exact:true}).uncheck();
