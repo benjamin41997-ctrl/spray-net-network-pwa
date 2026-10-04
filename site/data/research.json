@@ -946,8 +946,6 @@
       "reviewedIds": [
         1067,
         1027,
-        1031,
-        1032,
         1033,
         1034,
         1036,
@@ -956,7 +954,6 @@
         1039,
         1041,
         1045,
-        1047,
         1050,
         1051,
         1057,
@@ -979,7 +976,6 @@
         1079,
         1080,
         1082,
-        1083,
         1097
       ],
       "unresolved": [
@@ -1023,7 +1019,8 @@
         "FPG Stone: Company identity researched; complete mailing address still needs review.",
         "Timeless Countertops: Company identity researched; complete mailing address still needs review.",
         "Location/category information updated on 2026-09-30 for previously reviewed IDs 1026, 1040. Their review is retained in the new sweep under the current territory segment.",
-        "Location/category corrected on 2026-10-01 for IDs 1108. Refer to their current company profiles; the prior segment does not represent a separate office."
+        "Location/category corrected on 2026-10-01 for IDs 1108. Refer to their current company profiles; the prior segment does not represent a separate office.",
+        "Location/category corrected on 2026-10-04 for IDs 1031, 1032, 1047, 1083. Refer to their current company profiles; the prior segment does not represent a separate office."
       ],
       "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
       "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
@@ -12624,6 +12621,1094 @@
       "unresolved": [],
       "notes": "Partial verification of saved Maps candidates using independent owned websites. Existing identities and separate offices compared across both directories. Mailing PO boxes are separated from visitor offices.",
       "nextAction": "Continue saved candidate research without Places calls. Confirm unresolved mailing routes and vendor access; ownership and exterior authority remain unknown."
+    },
+    {
+      "id": "maps-20261004-indian_trail--kitchen",
+      "area": "indian_trail",
+      "category": "kitchen",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.albrittoncustomcabinets.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://autumnwooddesigns.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://autumnwooddesigns.com/about-custom-built-ins/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://elitecountertopsandstone.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://elitecountertopsandstone.com/about-us-3/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://topchoicegranite.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://elhardstonegranite.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://elhardstonegranite.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://elhardstonegranite.com/about/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://shop.ashandcointeriors.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://shop.ashandcointeriors.com/policies/contact-information",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1318,
+        1267,
+        1046,
+        1373,
+        1374,
+        1238
+      ],
+      "unresolved": [
+        "Autumnwood Designs: Does 4804 Starcrest Drive use Indian Trail 28079 or Monroe 28110 as its postal city/ZIP? Owned footer gives Indian Trail 28110. Confirm before mailing."
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: cabinet maker cabinet showroom Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-regional--kitchen",
+      "area": "regional",
+      "category": "kitchen",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.vnwoodwork.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.vnwoodwork.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://romerosgranitenc.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://romerosgranitenc.com/contact/",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1370,
+        1082
+      ],
+      "unresolved": [
+        "Romeros Granite: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged."
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: cabinet maker cabinet showroom Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-matthews--kitchen",
+      "area": "matthews",
+      "category": "kitchen",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://britewayremodeling.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://britewayremodeling.com/contact-briteway-custom-cabinetry-and-woodworking/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.avsonskitchen.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.avsonskitchen.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.avsonskitchen.com/about",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.designsunlimitedstaging.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.designsunlimitedstaging.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.designsunlimitedstaging.com/about",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://gomezconstructionnc.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://gomezconstructionnc.com/contact/",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1371,
+        1084,
+        1376,
+        1403
+      ],
+      "unresolved": [
+        "Designs Unlimited Staging: Which office is current: 632 Matthews-Mint Hill Rd, 28105 or 631, Suite A, 28015? Both are on owned pages."
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: cabinet maker cabinet showroom Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-charlotte--kitchen",
+      "area": "charlotte",
+      "category": "kitchen",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://gd-cabinets.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.figtreecabinets.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://eastcoastgranitecharlotte.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://mmgraniteinstallation.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://mmgraniteinstallation.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://mmgraniteinstallation.com/about-us/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://emeraldoakdesign.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://emeraldoakdesign.com/about",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://emeraldoakdesign.com/about/miriam-peters",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://aguilardesignstudio.com/inquire",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://aguilardesignstudio.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.newsouthhome.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.dnicoledecor.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.dnicoledecor.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.dnicoledecor.com/about",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://rudaya.studio/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://rudaya.studio/contact/index.html",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://rudaya.studio/contact/index.html#book",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.lawlerdesignstudio.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://bohemianbungalowdesign.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://bohemianbungalowdesign.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://bohemianbungalowdesign.com/about",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://houseofnomaddesign.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://houseofnomaddesign.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.charlottecabinetinstallation.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.charlottecabinetinstallation.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.charlottecabinetinstallation.com/about-us",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://countertopsgranite.net/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://countertopsgranite.net/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://universalstonenc.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://universalstonenc.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://universalstonenc.com/about-us",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://worldstonefabricators.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://worldstonefabricators.com/contact-us",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://bodesign-studio.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://bodesign-studio.com/contact-us/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://alissaarmstrong.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://alissaarmstrong.com/contact",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1372,
+        1286,
+        1047,
+        1375,
+        1026,
+        261,
+        1377,
+        1378,
+        1379,
+        1380,
+        1031,
+        1032,
+        1401,
+        1083,
+        1086,
+        1402,
+        242,
+        1404
+      ],
+      "unresolved": [
+        "GD Cabinets: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged.",
+        "Fig Tree Cabinets: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged.",
+        "MM Granite LLC: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged.",
+        "Emerald & Oak Design: Is the published numbered address a staffed visitor office or a mailing mailbox? How should referral partners arrange meetings?",
+        "New South Home: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged.",
+        "Rudaya Studio: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged.",
+        "Bohemian Bungalow Design: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged.",
+        "House of Nomad Interior Design: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged.",
+        "Genesis Granite, LLC: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged.",
+        "bodesign Studio: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged.",
+        "Alissa Armstrong Designs LLC: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged."
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: cabinet maker cabinet showroom Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-ballantyne--kitchen",
+      "area": "ballantyne",
+      "category": "kitchen",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://freespacedesign.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://freespacedesign.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://freespacedesign.com/about/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://universalstonenc.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://universalstonenc.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://universalstonenc.com/about-us",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1381,
+        1336
+      ],
+      "unresolved": [],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: interior designer design studio Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-charlotte--flooring",
+      "area": "charlotte",
+      "category": "flooring",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://mikes-renovation.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.northstatetile.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.outlookflooring.com/monroe-nc",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.outlookflooring.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.outlookflooring.com/about-us",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.tileshop.com/store-locator/north-charlotte",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.tileshop.com/customer-service/contact-us",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.tileshop.com/customer-service/about-the-tile-shop",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://theneoconcept.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://theneoconcept.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://theneoconcept.com/about-neo-concept/",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1382,
+        1383,
+        1389,
+        1405,
+        1407
+      ],
+      "unresolved": [
+        "Mike's Renovation: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged.",
+        "Neo Concept: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged."
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: tile installer tile showroom Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-indian_trail--flooring",
+      "area": "indian_trail",
+      "category": "flooring",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://tfpros.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://tfpros.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://tfpros.com/contact/#join-corporate-team",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.lchardwoodfloors.net/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.lchardwoodfloors.net/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.lchardwoodfloors.net/about-us",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://diverzify.com/locations/flooring-solutions-indian-trail/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://diverzify.com/brands/flooring-solutions/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://diverzify.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://diverzify.com/about-us/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://floornc.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://floornc.com/contact-us/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://knighthardwood.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://knighthardwood.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://knighthardwood.com/about/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.dfcoutlet.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.dfcoutlet.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.dfcoutlet.com/home#about",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1384,
+        1385,
+        1386,
+        1387,
+        1237,
+        1210
+      ],
+      "unresolved": [
+        "SK Flooring Inc: Is the published numbered address a staffed visitor office or a mailing mailbox? How should referral partners arrange meetings?"
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: flooring store flooring contractor Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-rock_hill--flooring",
+      "area": "rock_hill",
+      "category": "flooring",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.outlookflooring.com/monroe-nc",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.outlookflooring.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.outlookflooring.com/about-us",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1388
+      ],
+      "unresolved": [],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: flooring store flooring contractor Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-matthews--flooring",
+      "area": "matthews",
+      "category": "flooring",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.dfcoutlet.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.dfcoutlet.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.dfcoutlet.com/home#about",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1211
+      ],
+      "unresolved": [],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: flooring store flooring contractor Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-mint_hill--flooring",
+      "area": "mint_hill",
+      "category": "flooring",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://frontrowflooring.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://frontrowflooring.com/About-us/",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1216
+      ],
+      "unresolved": [],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: flooring store flooring contractor Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-charlotte--property_management",
+      "area": "charlotte",
+      "category": "property_management",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.carodproperties.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.carodproperties.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.carodproperties.com/about",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.souderproperties.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.souderproperties.com/contact-us/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.trlawing.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.trlawing.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.trlawing.com/about-us",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://cusickcompany.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://cusickcompany.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://cusickcompany.com/about-us/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.amgworld.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.amgworld.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.amgworld.com/about-amg",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.cedarmanagementgroup.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.cedarmanagementgroup.com/contact-us/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.cedarmanagementgroup.com/about-cedar/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://communityassociationmanagement.com/florence-sc-hoa-management-company/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://communityassociationmanagement.com/contact-us/",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1390,
+        1391,
+        1273,
+        1396,
+        1368,
+        1369,
+        1192,
+        1170
+      ],
+      "unresolved": [
+        "Cedar Management Group: Is the office already appointment-only, and which year does the website’s November 3 policy date refer to? Are vendor meetings with community managers arranged separately?"
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: residential property management Indian Trail NC; commercial property management Indian Trail NC; residential property management Mount Holly NC; commercial property management Mount Holly NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-charlotte--real_estate",
+      "area": "charlotte",
+      "category": "real_estate",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.rentcharlotteproperty.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.rentcharlotteproperty.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.rentcharlotteproperty.com/about",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.piedmontproperties.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.piedmontproperties.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.piedmontproperties.com/our-story",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        351,
+        1394
+      ],
+      "unresolved": [
+        "Piedmont Properties/CORFAC International: Is the current mailing office 426 Foster Ave or 115 East Park Ave? Owned contact/structured/footer sources conflict."
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: residential property management Indian Trail NC; residential property management Belmont NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-indian_trail--property_management",
+      "area": "indian_trail",
+      "category": "property_management",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.poplintraceliving.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.poplintraceliving.com/contact-us",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.themosergroupinc.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.themosergroupinc.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.themosergroupinc.com/about-us/",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1392,
+        1239
+      ],
+      "unresolved": [],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: residential property management Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-matthews--property_management",
+      "area": "matthews",
+      "category": "property_management",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.williamsbusinessproperties.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.williamsbusinessproperties.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.williamsbusinessproperties.com/about",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1393
+      ],
+      "unresolved": [],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: commercial property management Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-regional--real_estate",
+      "area": "regional",
+      "category": "real_estate",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.urequeencity.com/index.html",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1395
+      ],
+      "unresolved": [
+        "United Real Estate Queen City: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged."
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: commercial property management Indian Trail NC; real estate brokerage office Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-rock_hill--property_management",
+      "area": "rock_hill",
+      "category": "property_management",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://cusickcompany.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://cusickcompany.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://cusickcompany.com/about-us/",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1397
+      ],
+      "unresolved": [],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: commercial property management Indian Trail NC; HOA association management Indian Trail NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-ballantyne--property_management",
+      "area": "ballantyne",
+      "category": "property_management",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.gowithredrock.com/charlotte-hoa-management/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.gowithredrock.com/contact/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.gowithredrock.com/team/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.villageofraintree.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.villageofraintree.com/contact",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        4,
+        1398,
+        1399
+      ],
+      "unresolved": [],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: HOA association management Indian Trail NC; HOA association management Mount Holly NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-belmont--kitchen",
+      "area": "belmont",
+      "category": "kitchen",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.hardwoodcreations.us/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.hardwoodcreations.us/about",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.blacksheepcabinets.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.planitdesign.us/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.planitdesign.us/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.planitdesign.us/copy-of-team",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.aliciadotdesigncollective.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.aliciadotdesigncollective.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.kbninteriors.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.kbninteriors.com/contact-kbn-interiors",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.kbninteriors.com/about-kbn-interiors",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1400,
+        1111,
+        1076,
+        1078,
+        1077
+      ],
+      "unresolved": [
+        "Plan.It Design, LLC: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged."
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: cabinet maker cabinet showroom Belmont NC; cabinet maker cabinet showroom Mount Holly NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-belmont--flooring",
+      "area": "belmont",
+      "category": "flooring",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://barrettsflooring.com/",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1406
+      ],
+      "unresolved": [
+        "Barrett's Floor & Design LLC: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged."
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: tile installer tile showroom Belmont NC; flooring store flooring contractor Belmont NC; flooring store flooring contractor Mount Holly NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-gastonia--flooring",
+      "area": "gastonia",
+      "category": "flooring",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.flooranddecor.com/store/gastonia/NC/28056/377",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.flooranddecor.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.flooranddecor.com/hc?fdid=help-center",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.stpeterflooring.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.stpeterflooring.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.stpeterflooring.com/about",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.gastonfloors.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.gastonfloors.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://www.gastonfloors.com/about-us",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://gregscarpetandtile.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://gregscarpetandtile.com/contact-gregs-carpet-and-tile/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://rocontracting.services/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://rocontracting.services/about-us/",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1161,
+        1132,
+        1129,
+        1229,
+        1157
+      ],
+      "unresolved": [
+        "St. Peter Flooring LLC: What is the current complete business mailing street, postal city and ZIP? The reviewed owned pages do not verify every component. Confirm where vendor meetings should be arranged."
+      ],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: tile installer tile showroom Belmont NC; flooring store flooring contractor Belmont NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
+    },
+    {
+      "id": "maps-20261004-lake_wylie--flooring",
+      "area": "lake_wylie",
+      "category": "flooring",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://flooringhousesc.com/",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://flooringhousesc.com/contact",
+          "label": "Reviewed public business source"
+        },
+        {
+          "url": "https://flooringhousesc.com/about-us",
+          "label": "Reviewed public business source"
+        }
+      ],
+      "reviewedIds": [
+        1148
+      ],
+      "unresolved": [],
+      "notes": "Saved Maps IDs identified in public browser and checked on owned sources. Prior research reconciled; this is a bounded partial pass, not all businesses in a city. Search terms: flooring store flooring contractor Belmont NC",
+      "nextAction": "Continue the saved candidate queue; confirm unresolved questions during calls or visits."
     }
   ]
 }

@@ -2177,11 +2177,12 @@
     },
     {
       "companyId": 242,
-      "checkedOn": "2026-10-01",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
-        "https://bodesign-studio.com/"
+        "https://bodesign-studio.com/",
+        "https://bodesign-studio.com/contact-us/"
       ],
       "accounts": [
         {
@@ -6933,13 +6934,14 @@
     },
     {
       "companyId": 1031,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
         "https://bohemianbungalowdesign.com",
         "https://bohemianbungalowdesign.com/contact/",
-        "https://bohemianbungalowdesign.com/about"
+        "https://bohemianbungalowdesign.com/about",
+        "https://bohemianbungalowdesign.com/"
       ],
       "accounts": [
         {
@@ -6962,12 +6964,13 @@
     },
     {
       "companyId": 1032,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
         "https://houseofnomaddesign.com",
-        "https://houseofnomaddesign.com/contact/"
+        "https://houseofnomaddesign.com/contact/",
+        "https://houseofnomaddesign.com/"
       ],
       "accounts": [
         {
@@ -7340,11 +7343,12 @@
     },
     {
       "companyId": 1047,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
-        "https://eastcoastgranitecharlotte.com"
+        "https://eastcoastgranitecharlotte.com",
+        "https://eastcoastgranitecharlotte.com/"
       ],
       "accounts": [
         {
@@ -8089,7 +8093,7 @@
     },
     {
       "companyId": 1076,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
@@ -8118,7 +8122,7 @@
     },
     {
       "companyId": 1077,
-      "checkedOn": "2026-10-01",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
@@ -8155,7 +8159,7 @@
     },
     {
       "companyId": 1078,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
@@ -8274,7 +8278,7 @@
     },
     {
       "companyId": 1084,
-      "checkedOn": "2026-10-01",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
@@ -8347,7 +8351,7 @@
     },
     {
       "companyId": 1086,
-      "checkedOn": "2026-09-29",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website and available contact/about pages reviewed. Missing platforms remain unverified; no profile names were guessed.",
       "sources": [
@@ -9572,13 +9576,14 @@
     },
     {
       "companyId": 1129,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Official website reviewed. Missing platforms remain unknown.",
       "sources": [
         "https://www.gastonfloors.com/belmont-nc-flooring-experts",
         "https://www.gastonfloors.com/contact",
-        "https://www.gastonfloors.com/about-us"
+        "https://www.gastonfloors.com/about-us",
+        "https://www.gastonfloors.com/"
       ],
       "accounts": [
         {
@@ -9633,7 +9638,7 @@
     },
     {
       "companyId": 1132,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Official website reviewed. Missing platforms remain unknown.",
       "sources": [
@@ -14255,7 +14260,7 @@
     },
     {
       "companyId": 1148,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -16358,13 +16363,14 @@
     },
     {
       "companyId": 1161,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
         "https://www.flooranddecor.com/store/gastonia/nc/28056/377",
         "https://www.flooranddecor.com/contact",
-        "https://www.flooranddecor.com/hc?fdid=help-center"
+        "https://www.flooranddecor.com/hc?fdid=help-center",
+        "https://www.flooranddecor.com/store/gastonia/NC/28056/377"
       ],
       "accounts": [
         {
@@ -18996,13 +19002,14 @@
     },
     {
       "companyId": 1170,
-      "checkedOn": "2026-10-03",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
         "https://communityassociationmanagement.com/",
         "https://communityassociationmanagement.com/contact-us/",
-        "https://communityassociationmanagement.com/charlotte-nc-hoa-management-company/"
+        "https://communityassociationmanagement.com/charlotte-nc-hoa-management-company/",
+        "https://communityassociationmanagement.com/florence-sc-hoa-management-company/"
       ],
       "accounts": [
         {
@@ -21286,13 +21293,14 @@
     },
     {
       "companyId": 1192,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
         "https://www.cedarmanagementgroup.com/tega-cay-hoa-management-company/",
         "https://www.cedarmanagementgroup.com/contact-us/",
-        "https://www.cedarmanagementgroup.com/about-cedar/"
+        "https://www.cedarmanagementgroup.com/about-cedar/",
+        "https://www.cedarmanagementgroup.com/"
       ],
       "accounts": [
         {
@@ -22347,7 +22355,7 @@
     },
     {
       "companyId": 1229,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -22531,7 +22539,7 @@
     },
     {
       "companyId": 1237,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -22552,7 +22560,7 @@
     },
     {
       "companyId": 1238,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -22589,7 +22597,7 @@
     },
     {
       "companyId": 1239,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -23196,11 +23204,12 @@
     },
     {
       "companyId": 1267,
-      "checkedOn": "2026-10-01",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Reviewed business website links. Account activity and response availability remain unverified.",
       "sources": [
-        "https://autumnwooddesigns.com/about-custom-built-ins/"
+        "https://autumnwooddesigns.com/about-custom-built-ins/",
+        "https://autumnwooddesigns.com/"
       ],
       "accounts": [
         {
@@ -24950,7 +24959,7 @@
     },
     {
       "companyId": 1368,
-      "checkedOn": "2026-10-03",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
       "sources": [
@@ -24972,7 +24981,7 @@
     },
     {
       "companyId": 1369,
-      "checkedOn": "2026-10-03",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
       "sources": [
@@ -24989,6 +24998,857 @@
           "scope": "brand",
           "source": "https://amgworld.com",
           "notes": "Reviewed profile link on the owned business website. Shared brand account where applicable; activity and availability not independently checked."
+        }
+      ]
+    },
+    {
+      "companyId": 1370,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.vnwoodwork.com/",
+        "https://www.vnwoodwork.com/contact"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/vnwoodwork",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.vnwoodwork.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/vnwoodwork",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.vnwoodwork.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1371,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://britewayremodeling.com/",
+        "https://britewayremodeling.com/contact-briteway-custom-cabinetry-and-woodworking/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/britewaycustomcabinetryandwoodworking",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://britewayremodeling.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@BritewayCustomCabinetry",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://britewayremodeling.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1375,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://mmgraniteinstallation.com/",
+        "https://mmgraniteinstallation.com/contact/",
+        "https://mmgraniteinstallation.com/about-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/mmgranitecountertop",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mmgraniteinstallation.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1376,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.designsunlimitedstaging.com/",
+        "https://www.designsunlimitedstaging.com/contact",
+        "https://www.designsunlimitedstaging.com/about"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/designsunltd",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.designsunlimitedstaging.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/designsunlimitedstaging",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.designsunlimitedstaging.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1378,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.dnicoledecor.com/",
+        "https://www.dnicoledecor.com/contact",
+        "https://www.dnicoledecor.com/about"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/dnicoledesignstudio",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.dnicoledecor.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1379,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://rudaya.studio/",
+        "https://rudaya.studio/contact/index.html",
+        "https://rudaya.studio/contact/index.html#book"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/rudayastudio2021",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://rudaya.studio/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/rudaya.studio",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://rudaya.studio/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@alena_rudaya.studio",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://rudaya.studio/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1381,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://freespacedesign.com/",
+        "https://freespacedesign.com/contact/",
+        "https://freespacedesign.com/about/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/freespacedesign",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://freespacedesign.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/freespacedesignllc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://freespacedesign.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1382,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://mikes-renovation.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=100070664528075",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mikes-renovation.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/mikeconstruction",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mikes-renovation.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1383,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.northstatetile.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/northstatetile",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.northstatetile.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/northstatetile_designcenter",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.northstatetile.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/north-state-tile-design-center",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.northstatetile.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1384,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://tfpros.com/",
+        "https://tfpros.com/contact/",
+        "https://tfpros.com/contact/#join-corporate-team"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61569220496519",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://tfpros.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/theflooringprosinc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://tfpros.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/the-flooring-pros-inc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://tfpros.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1385,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.lchardwoodfloors.net/",
+        "https://www.lchardwoodfloors.net/contact",
+        "https://www.lchardwoodfloors.net/about-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/lchardwood",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.lchardwoodfloors.net/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/lchardwoodfloors",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.lchardwoodfloors.net/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1386,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://diverzify.com/locations/flooring-solutions-indian-trail/",
+        "https://diverzify.com/brands/flooring-solutions/",
+        "https://diverzify.com/contact/",
+        "https://diverzify.com/about-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/diverzify",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://diverzify.com/locations/flooring-solutions-indian-trail/",
+          "notes": "Diverzify parent-brand account explicitly linked by owned source; no separate local account verified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/diverzify",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://diverzify.com/locations/flooring-solutions-indian-trail/",
+          "notes": "Diverzify parent-brand account explicitly linked by owned source; no separate local account verified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/diverzify",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://diverzify.com/locations/flooring-solutions-indian-trail/",
+          "notes": "Diverzify parent-brand account explicitly linked by owned source; no separate local account verified."
+        }
+      ]
+    },
+    {
+      "companyId": 1387,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://floornc.com/",
+        "https://floornc.com/contact-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=100093333855753",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://floornc.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1390,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.carodproperties.com/",
+        "https://www.carodproperties.com/contact",
+        "https://www.carodproperties.com/about"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/carodproperties",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.carodproperties.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/carodproperties",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.carodproperties.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCC35egDVe_mPYLD3m2BFIzQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.carodproperties.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 351,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.rentcharlotteproperty.com/",
+        "https://www.rentcharlotteproperty.com/contact",
+        "https://www.rentcharlotteproperty.com/about"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/carolinasdynamicrealty",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.rentcharlotteproperty.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/carolinasdynamicrealty",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.rentcharlotteproperty.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/carolinasdynamic",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.rentcharlotteproperty.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1392,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.poplintraceliving.com/",
+        "https://www.poplintraceliving.com/contact-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/poplintrace",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.poplintraceliving.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/poplintracetownhomes",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.poplintraceliving.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1273,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.trlawing.com/",
+        "https://www.trlawing.com/contact",
+        "https://www.trlawing.com/about-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/trlawing",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.trlawing.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/trlawingrealty",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.trlawing.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/TRLawing1",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.trlawing.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1394,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.piedmontproperties.com/",
+        "https://www.piedmontproperties.com/contact",
+        "https://www.piedmontproperties.com/our-story"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/piedmontpropertiesofthecarolinas",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.piedmontproperties.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/piedmont-properties-corfac-international",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.piedmontproperties.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1395,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.urequeencity.com/index.html"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/united-real-estate-queen-city-13658547001206444",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.urequeencity.com/index.html",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC_Yijr3xBhNOq5-OiUsELmg",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.urequeencity.com/index.html",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1396,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://cusickcompany.com/",
+        "https://cusickcompany.com/contact/",
+        "https://cusickcompany.com/about-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/cusickcompany",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://cusickcompany.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/cusick-community-management",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://cusickcompany.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1397,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://cusickcompany.com/",
+        "https://cusickcompany.com/contact/",
+        "https://cusickcompany.com/about-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/cusickcompany",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://cusickcompany.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/cusick-community-management",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://cusickcompany.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1400,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.hardwoodcreations.us/",
+        "https://www.hardwoodcreations.us/about"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/hardwoodcreationsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.hardwoodcreations.us/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1401,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.charlottecabinetinstallation.com/",
+        "https://www.charlottecabinetinstallation.com/contact",
+        "https://www.charlottecabinetinstallation.com/about-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/charlottecabinet.installation",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.charlottecabinetinstallation.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/charlottecabinets",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.charlottecabinetinstallation.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCkjwKPb-Hz4YAx47gNP0Giw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.charlottecabinetinstallation.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1336,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://universalstonenc.com/",
+        "https://universalstonenc.com/contact",
+        "https://universalstonenc.com/about-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/universalstoneballantyne",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://universalstonenc.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/universalstonenc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://universalstonenc.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/universalstonenc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://universalstonenc.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1402,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://worldstonefabricators.com/",
+        "https://worldstonefabricators.com/contact-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/857105784309625",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://worldstonefabricators.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/worldstonefab",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://worldstonefabricators.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCkv45izEMm6roEITVPwyBww",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://worldstonefabricators.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1403,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://gomezconstructionnc.com/",
+        "https://gomezconstructionnc.com/contact/"
+      ],
+      "accounts": []
+    },
+    {
+      "companyId": 1404,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://alissaarmstrong.com/",
+        "https://alissaarmstrong.com/contact"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/alissaarmstrongdesigns",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://alissaarmstrong.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1405,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://www.tileshop.com/store-locator/north-charlotte",
+        "https://www.tileshop.com/customer-service/contact-us",
+        "https://www.tileshop.com/customer-service/about-the-tile-shop"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/thetileshop",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.tileshop.com/store-locator/north-charlotte",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/the-tile-shop",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.tileshop.com/store-locator/north-charlotte",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/thetileshop",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.tileshop.com/store-locator/north-charlotte",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1407,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Public owned-source profile links reviewed; account availability/activity remains unverified. No follow actions performed.",
+      "sources": [
+        "https://theneoconcept.com/",
+        "https://theneoconcept.com/contact/",
+        "https://theneoconcept.com/about-neo-concept/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/_neoconcept",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://theneoconcept.com/",
+          "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
         }
       ]
     }
