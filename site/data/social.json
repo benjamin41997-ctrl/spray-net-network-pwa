@@ -30130,6 +30130,881 @@
           "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
         }
       ]
+    },
+    {
+      "companyId": 1000175,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://ples.ucpsnc.org/about-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/poplinesnc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://ples.ucpsnc.org/about-us",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/poplinesnc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://ples.ucpsnc.org/about-us",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/PoplinESNC",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://ples.ucpsnc.org/about-us",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001162,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://elitemd.net/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61571684550231",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://elitemd.net/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/elitemdnc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://elitemd.net/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001736,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://atriumhealth.org/provider-profile/tamara-alexander-1487822664"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/atriumhealthus",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/tamara-alexander-1487822664",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/atriumhealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/tamara-alexander-1487822664",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/atrium-health-us",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/tamara-alexander-1487822664",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCiD9YK-eV9n0SWR7seZP_DQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/tamara-alexander-1487822664",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001737,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://ssclt.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/surgicalspecialistsclt",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ssclt.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ssclt1",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ssclt.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/surgical-specialists-of-charlotte-p-a-",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ssclt.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001738,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://atriumhealth.org/locations/detail/atrium-health-surgery-center-indian-trail"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/atriumhealthus",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-surgery-center-indian-trail",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/atriumhealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-surgery-center-indian-trail",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/atrium-health-us",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-surgery-center-indian-trail",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCiD9YK-eV9n0SWR7seZP_DQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-surgery-center-indian-trail",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001404,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.medspamagnolia.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/magnoliamedspa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.medspamagnolia.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001740,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.urbanesouth.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/urbanesouth",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.urbanesouth.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/urbanesouth",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.urbanesouth.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001745,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://piedmont-ins.com/contact-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/piedmontinsurance",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://piedmont-ins.com/contact-us/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001746,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://piedmont-ins.com/contact-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/piedmontinsurance",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://piedmont-ins.com/contact-us/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001747,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.hembyinsurance.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/hembyinsurance",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.hembyinsurance.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/hembyins",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.hembyinsurance.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001749,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001750,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001751,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001752,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001753,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001754,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001755,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/vivachicken",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://vivachicken.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001757,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://charbar7.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/charbarno7",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://charbar7.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/charbarno7",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://charbar7.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001758,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://charbar7.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/charbarno7",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://charbar7.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/charbarno7",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://charbar7.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001759,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.charbar7.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/charbarno7",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.charbar7.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/charbarno7",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.charbar7.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001763,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/indian-trail/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/intownsuitesextendedstay",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/indian-trail/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/ExtendedStayLiving",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/indian-trail/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001764,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/east-independence-blvd-2/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/intownsuitesextendedstay",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/east-independence-blvd-2/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/ExtendedStayLiving",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/east-independence-blvd-2/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001262,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://theliftlive.com/",
+        "https://www.fbcit.org/im-new"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/theliftlive",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://theliftlive.com/",
+          "notes": "The LIFT ministry account under existing First Baptist Church Indian Trail; distinct ministry, shared facilities prospect."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/theliftlive",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://theliftlive.com/",
+          "notes": "The LIFT ministry account under existing First Baptist Church Indian Trail; distinct ministry, shared facilities prospect."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/firstbcit",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.fbcit.org/im-new",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/thechurchatindiantrail",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.fbcit.org/im-new",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/fbcit",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.fbcit.org/im-new",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/thechurchatindiantrail",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.fbcit.org/im-new",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCUbScsyZuA_g6WNu2jJC9Kg",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.fbcit.org/im-new",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001770,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://c3churchnc.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61590675867450",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://c3churchnc.org/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/c.3church",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://c3churchnc.org/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001773,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://itpcnc.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/itpcusa",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://itpcnc.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@ITPC",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://itpcnc.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001181,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://simbaeventhall.com/",
+        "https://simbaeventhall.com/contact-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/simbaeventhall",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://simbaeventhall.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/simbaeventhall",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://simbaeventhall.com/contact-us/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@SimbaEventHall",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://simbaeventhall.com/contact-us/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001619,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://belmontabbeycollege.edu/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/belmontabbeycollege",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://belmontabbeycollege.edu/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/belmontabbey",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://belmontabbeycollege.edu/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/belmontabbey",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://belmontabbeycollege.edu/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCZ8A8eyoiYhUk-8NC9J1eoA",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://belmontabbeycollege.edu/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
+        }
+      ]
     }
   ]
 }

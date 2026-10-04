@@ -1329,11 +1329,26 @@
           "url": "https://ples.ucpsnc.org/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://ples.ucpsnc.org/about-us",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://ples.ucpsnc.org/",
-      "phone": "+17042960320"
+      "phone": "+17042960320",
+      "visit": {
+        "status": "call_first",
+        "summary": "Contact school office before networking/vendor entry. Student schedules do not establish vendor access.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://ples.ucpsnc.org/about-us"
+        ]
+      }
     },
     {
       "id": 1000176,
@@ -4680,10 +4695,26 @@
           "url": "https://npiregistry.cms.hhs.gov/api/?version=2.1&number=1235895111",
           "type": "CMS organization registry; last updated 2021-11-15",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://southbelmontortho.com/location/belmont-nc/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "phone": "7049812429",
-      "verified": "2026-09-30"
+      "verified": "2026-10-04",
+      "website": "https://southbelmontortho.com/",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://southbelmontortho.com/location/belmont-nc/"
+        ]
+      }
     },
     {
       "id": 1000355,
@@ -9069,7 +9100,17 @@
       ],
       "phone": "7048213019",
       "verified": "2026-10-04",
-      "website": "https://www.indiantrailfamilydentistry.com/our-locations"
+      "website": "https://www.indiantrailfamilydentistry.com/our-locations",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.indiantrailfamilydentistry.com/contact"
+        ]
+      }
     },
     {
       "id": 1000503,
@@ -11571,11 +11612,26 @@
           "url": "https://www.marriott.com/en-us/hotels/cltbl-courtyard-charlotte-ballantyne/dining/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.marriott.com/en-us/hotels/cltbl-courtyard-charlotte-ballantyne/overview/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-04",
       "website": "https://www.marriott.com/en-us/hotels/cltbl-courtyard-charlotte-ballantyne/dining/",
-      "phone": "+17043410041"
+      "phone": "+17043410041",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.marriott.com/en-us/hotels/cltbl-courtyard-charlotte-ballantyne/overview/"
+        ]
+      }
     },
     {
       "id": 1000644,
@@ -13700,10 +13756,26 @@
           "url": "https://nixoninsuranceagencyllc.com/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://locator.acg.aaa.com/nc/indian-trail/aaa-insurance-the-nixon-insurance-agency",
+          "type": "official organization directory",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-09-30",
-      "website": "https://nixoninsuranceagencyllc.com/"
+      "verified": "2026-10-04",
+      "website": "https://nixoninsuranceagencyllc.com/",
+      "phone": "+17048101690",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://locator.acg.aaa.com/nc/indian-trail/aaa-insurance-the-nixon-insurance-agency"
+        ]
+      }
     },
     {
       "id": 1000785,
@@ -19515,13 +19587,23 @@
         {
           "url": "https://elitemd.net/",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://elitemd.net/",
       "phone": "+17045000535",
-      "email": "info@elitemd.net"
+      "email": "info@elitemd.net",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://elitemd.net/"
+        ]
+      }
     },
     {
       "id": 1001163,
@@ -19810,11 +19892,26 @@
           "url": "https://simbaeventhall.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://simbaeventhall.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://simbaeventhall.com/",
-      "phone": "+19804312009"
+      "phone": "+19804312009",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "Owned venue contact explicitly requires appointments for meetings/tours. Arrange networking vendor introduction; public customer hours do not override this.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://simbaeventhall.com/contact-us/"
+        ]
+      }
     },
     {
       "id": 1001182,
@@ -21079,11 +21176,26 @@
           "url": "https://fbcit.org/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.fbcit.org/im-new",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://fbcit.org/",
-      "phone": "+17048821005"
+      "phone": "+17048821005",
+      "visit": {
+        "status": "call_first",
+        "summary": "Church administrative office3512FaithChurchRoad, IndianTrail28079. Monday-Thursday8AM-5PM, closed Fridays. Main worship campus and mailing PO Box are different routes.",
+        "address": "3512 Faith Church Road, Indian Trail, NC 28079",
+        "hours": "Monday-Thursday 8 AM-5 PM; closed Fridays",
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.fbcit.org/im-new"
+        ]
+      }
     },
     {
       "id": 1001263,
@@ -21169,13 +21281,23 @@
     },
     {
       "id": 1001268,
-      "people": [],
-      "sources": [
+      "people": [
         {
-          "url": "https://atriumhealth.org/provider-profile/douglas-chen-1306860580",
-          "type": "company website",
-          "date": "2026-10-01"
-        },
+          "id": 100058230,
+          "name": "Douglas Chen",
+          "role": "Family Medicine Physician",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://atriumhealth.org/provider-profile/douglas-chen-1306860580",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
         {
           "url": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-lake-park-family-medicine",
           "type": "company website",
@@ -21185,11 +21307,26 @@
           "url": "https://atriumhealth.org/provider-profile/marleen-traywick-1104980374",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://atriumhealth.org/provider-profile/douglas-chen-1306860580",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
       "website": "https://atriumhealth.org/provider-profile/douglas-chen-1306860580",
-      "phone": "+19809937150"
+      "phone": "+19809937150",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://atriumhealth.org/provider-profile/douglas-chen-1306860580"
+        ]
+      }
     },
     {
       "id": 1001269,
@@ -23297,12 +23434,22 @@
         {
           "url": "https://www.medspamagnolia.com/locations",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.medspamagnolia.com/booking",
-      "phone": "+17048781120"
+      "phone": "+17048781120",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.medspamagnolia.com/locations"
+        ]
+      }
     },
     {
       "id": 1001405,
@@ -23798,12 +23945,27 @@
           "url": "https://bestcare-ah.com/about-us/",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://carecharlotte.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
       "website": "https://carecharlotte.com/services/",
       "phone": "+17044572300",
-      "email": "info@bestcare-ah.com"
+      "email": "info@bestcare-ah.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://carecharlotte.com/contact/"
+        ]
+      }
     },
     {
       "id": 1001437,
@@ -24095,12 +24257,27 @@
           "url": "https://cramertonchristian.org/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://cramertonchristian.org/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://cramertonchristian.org/",
       "phone": "+17048242840",
-      "email": "info@cramertonchristian.org"
+      "email": "info@cramertonchristian.org",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange school visitor/vendor access through administrative office; contact route confirmed.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://cramertonchristian.org/contact-us/"
+        ]
+      }
     },
     {
       "id": 1001458,
@@ -24208,11 +24385,26 @@
           "url": "https://imbuehealthnc.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://imbuehealthnc.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://imbuehealthnc.com/",
-      "phone": "+17042189322"
+      "phone": "+17042189322",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://imbuehealthnc.com/contact-us/"
+        ]
+      }
     },
     {
       "id": 1001466,
@@ -24236,11 +24428,26 @@
           "url": "https://www.sunvalleycafe.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.sunvalleycafe.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.sunvalleycafe.com/",
-      "phone": "+17042830808"
+      "phone": "+17042830808",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.sunvalleycafe.com/contact-us"
+        ]
+      }
     },
     {
       "id": 1001468,
@@ -26300,10 +26507,25 @@
           "url": "https://belmontabbeycollege.edu/",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://belmontabbeycollege.edu/about-us/press-inquiries/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
-      "website": "https://belmontabbeycollege.edu/"
+      "website": "https://belmontabbeycollege.edu/",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://belmontabbeycollege.edu/about-us/press-inquiries/"
+        ]
+      }
     },
     {
       "id": 1001620,
@@ -28670,6 +28892,1142 @@
         "checkedAt": "2026-10-04",
         "sources": [
           "https://www.montgomeryandhart.com/testimonials/"
+        ]
+      }
+    },
+    {
+      "id": 1001733,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.trailheadadvanceddentistry.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.trailheadadvanceddentistry.com/contact/",
+      "phone": "+17046844443",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.trailheadadvanceddentistry.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001734,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://toothtownpediatricdentistry.com/locations/dentistry-in-indian-trail-nc/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://toothtownpediatricdentistry.com/locations/dentistry-in-indian-trail-nc/",
+      "phone": "+17043134000",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://toothtownpediatricdentistry.com/locations/dentistry-in-indian-trail-nc/"
+        ]
+      }
+    },
+    {
+      "id": 1001735,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://chestnutfamilypractice.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://chestnutfamilypractice.com/",
+      "phone": "+17045858255",
+      "email": "info@chestnutfamilypractice.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://chestnutfamilypractice.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001736,
+      "people": [
+        {
+          "id": 100058227,
+          "name": "Tamara Alexander",
+          "role": "Family Nurse Practitioner",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://atriumhealth.org/provider-profile/tamara-alexander-1487822664",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        },
+        {
+          "id": 100058228,
+          "name": "Taisiya Netrebko",
+          "role": "Internal Medicine Physician",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://atriumhealth.org/provider-profile/taisiya-netrebko-1376880922",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        },
+        {
+          "id": 100058229,
+          "name": "Andrew Kindel",
+          "role": "Internal Medicine Physician",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://atriumhealth.org/provider-profile/andrew-kindel-1972737930",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/provider-profile/tamara-alexander-1487822664",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://atriumhealth.org/provider-profile/tamara-alexander-1487822664",
+      "phone": "+17042462800",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://atriumhealth.org/provider-profile/tamara-alexander-1487822664"
+        ]
+      }
+    },
+    {
+      "id": 1001737,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://ssclt.com/locations/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://ssclt.com/locations/",
+      "phone": "+17048411444",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://ssclt.com/locations/"
+        ]
+      }
+    },
+    {
+      "id": 1001738,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/locations/detail/atrium-health-surgery-center-indian-trail",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://atriumhealth.org/locations/detail/atrium-health-surgery-center-indian-trail",
+      "phone": "+17048215192",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://atriumhealth.org/locations/detail/atrium-health-surgery-center-indian-trail"
+        ]
+      }
+    },
+    {
+      "id": 1001739,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carecredit.com/doctor-locator/matthews-nc/the-skin-bar-qc-586sdb/",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.theskinbarqc.com/",
+      "phone": "+17048905460",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.carecredit.com/doctor-locator/matthews-nc/the-skin-bar-qc-586sdb/"
+        ]
+      }
+    },
+    {
+      "id": 1001740,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.urbanesouth.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.urbanesouth.com/",
+      "phone": "+19802452529",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.urbanesouth.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001741,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.sarahreamescpa.com/contact",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.sarahreamescpa.com/contact",
+      "phone": "+17043622272",
+      "email": "info@sarahreamescpa.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.sarahreamescpa.com/contact"
+        ]
+      }
+    },
+    {
+      "id": 1001742,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ncdaggroup.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ncdaggroup.com/",
+      "phone": "+17046357123",
+      "email": "deeann@ncdaggroup.com",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "Owned accountant contact explicitly gives Appointment Only hours. PO Box is correspondence only.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ncdaggroup.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001743,
+      "people": [
+        {
+          "id": 100058231,
+          "name": "Jonathan Meek",
+          "role": "Attorney / CEO",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://meeklawfirm.com/contact-us-indian-trail-nc-location/",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://meeklawfirm.com/contact-us-indian-trail-nc-location/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://meeklawfirm.com/contact-us-indian-trail-nc-location/",
+      "phone": "+17048486335",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://meeklawfirm.com/contact-us-indian-trail-nc-location/"
+        ]
+      }
+    },
+    {
+      "id": 1001744,
+      "people": [
+        {
+          "id": 100058232,
+          "name": "Elias J. Ghali",
+          "role": "President",
+          "email": "eghali@pathagencyinc.com",
+          "phone": "7042896266",
+          "sources": [
+            {
+              "url": "https://pathinsuranceagency.com/about-us",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://pathinsuranceagency.com/contact",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://pathinsuranceagency.com/contact",
+      "phone": "+17042896266",
+      "email": "sales@pathagencyinc.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://pathinsuranceagency.com/contact"
+        ]
+      }
+    },
+    {
+      "id": 1001745,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://piedmont-ins.com/locations/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://piedmont-ins.com/locations/",
+      "phone": "+18663084704",
+      "email": "policyservice@piedmont-ins.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://piedmont-ins.com/locations/"
+        ]
+      }
+    },
+    {
+      "id": 1001746,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://piedmont-ins.com/locations/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://piedmont-ins.com/locations/",
+      "phone": "+18038182324",
+      "email": "policyservice@piedmont-ins.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://piedmont-ins.com/locations/"
+        ]
+      }
+    },
+    {
+      "id": 1001747,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hembyinsurance.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.hembyinsurance.com/contact-us/",
+      "phone": "+17048219278",
+      "visit": {
+        "status": "call_first",
+        "summary": "Mailing PO Box610 is separate from visitor office101BlytheDrive; call for vendor arrangements.",
+        "address": "101 Blythe Drive, Indian Trail, NC 28079",
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.hembyinsurance.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1001748,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://web.townplanner.com/calendarPDFs/NC_Indian-Trail_2026.pdf",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "phone": "+17048823343",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://web.townplanner.com/calendarPDFs/NC_Indian-Trail_2026.pdf"
+        ]
+      }
+    },
+    {
+      "id": 1001749,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vivachicken.com/locations/sun-valley/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://vivachicken.com/locations/sun-valley/",
+      "phone": "+19804253497",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://vivachicken.com/locations/sun-valley/"
+        ]
+      }
+    },
+    {
+      "id": 1001750,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vivachicken.com/locations/ballantyne/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://vivachicken.com/locations/ballantyne/",
+      "phone": "+17043418174",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://vivachicken.com/locations/ballantyne/"
+        ]
+      }
+    },
+    {
+      "id": 1001751,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vivachicken.com/locations/redstone/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://vivachicken.com/locations/redstone/",
+      "phone": "+18033362808",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://vivachicken.com/locations/redstone/"
+        ]
+      }
+    },
+    {
+      "id": 1001752,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vivachicken.com/locations/elizabeth/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://vivachicken.com/locations/elizabeth/",
+      "phone": "+19803350176",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://vivachicken.com/locations/elizabeth/"
+        ]
+      }
+    },
+    {
+      "id": 1001753,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vivachicken.com/locations/gastonia/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://vivachicken.com/locations/gastonia/",
+      "phone": "+17046036135",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://vivachicken.com/locations/gastonia/"
+        ]
+      }
+    },
+    {
+      "id": 1001754,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vivachicken.com/locations/park-road/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://vivachicken.com/locations/park-road/",
+      "phone": "+19809995777",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://vivachicken.com/locations/park-road/"
+        ]
+      }
+    },
+    {
+      "id": 1001755,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://vivachicken.com/locations/waverly/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://vivachicken.com/locations/waverly/",
+      "phone": "+19802257059",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://vivachicken.com/locations/waverly/"
+        ]
+      }
+    },
+    {
+      "id": 1001756,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://thebluetaj.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://thebluetaj.com/",
+      "phone": "+17043695777",
+      "email": "asprestaurants@gmail.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://thebluetaj.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001757,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://charbar7.com/locations/mint-hill/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://charbar7.com/locations/mint-hill/",
+      "phone": "+17045734336",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://charbar7.com/locations/mint-hill/"
+        ]
+      }
+    },
+    {
+      "id": 1001758,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://charbar7.com/locations/carmel/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://charbar7.com/locations/carmel/",
+      "phone": "+19804303262",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://charbar7.com/locations/carmel/"
+        ]
+      }
+    },
+    {
+      "id": 1001759,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://charbar7.com/locations/matthews/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://charbar7.com/locations/matthews/",
+      "phone": "+17048140208",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://charbar7.com/locations/matthews/"
+        ]
+      }
+    },
+    {
+      "id": 1001760,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/north-carolina-united-states",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltik/hoteldetail",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/north-carolina-united-states"
+        ]
+      }
+    },
+    {
+      "id": 1001761,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinn/hotels/us/en/charlotte/cltap/hoteldetail",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinn/hotels/us/en/charlotte/cltap/hoteldetail",
+      "phone": "+17043944301",
+      "email": "holidayinnairport@atmahotelgroup.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinn/hotels/us/en/charlotte/cltap/hoteldetail"
+        ]
+      }
+    },
+    {
+      "id": 1001762,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltqu/hoteldetail",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltqu/hoteldetail",
+      "phone": "+17049008100",
+      "email": "fd.cltqu@maya-hotels.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltqu/hoteldetail"
+        ]
+      }
+    },
+    {
+      "id": 1001763,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/indian-trail/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/indian-trail/",
+      "phone": "+17048824768",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/indian-trail/"
+        ]
+      }
+    },
+    {
+      "id": 1001764,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/east-independence-blvd-2/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/east-independence-blvd-2/",
+      "phone": "+17048452001",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/east-independence-blvd-2/"
+        ]
+      }
+    },
+    {
+      "id": 1001765,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.choicehotels.com/en-ca/north-carolina/charlotte/suburban-hotels/nc533",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.choicehotels.com/en-ca/north-carolina/charlotte/suburban-hotels/nc533",
+      "phone": "+19805018941",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.choicehotels.com/en-ca/north-carolina/charlotte/suburban-hotels/nc533"
+        ]
+      }
+    },
+    {
+      "id": 1001766,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bestwestern.com/en_US/book/hotels-in-charlotte/surestay-by-best-western-charlotte-matthews/propertyCode.34191.html",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.bestwestern.com/en_US/book/hotels-in-charlotte/surestay-by-best-western-charlotte-matthews/propertyCode.34191.html",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.bestwestern.com/en_US/book/hotels-in-charlotte/surestay-by-best-western-charlotte-matthews/propertyCode.34191.html"
+        ]
+      }
+    },
+    {
+      "id": 1001767,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.choicehotels.com/en-ca/north-carolina/matthews/econo-lodge-hotels/nc432",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.choicehotels.com/en-ca/north-carolina/matthews/econo-lodge-hotels/nc432",
+      "phone": "+17048475252",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.choicehotels.com/en-ca/north-carolina/matthews/econo-lodge-hotels/nc432"
+        ]
+      }
+    },
+    {
+      "id": 1001768,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.extendedstayamerica.com/hotels/nc/charlotte",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.extendedstayamerica.com/hotels/nc/charlotte/matthews",
+      "phone": "+19809490030",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.extendedstayamerica.com/hotels/nc/charlotte"
+        ]
+      }
+    },
+    {
+      "id": 1001769,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://forkidspreschool.com/tuition/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://forkidspreschool.com/tuition/",
+      "phone": "+19102086609",
+      "email": "info@forkidspreschool.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Preschool is a controlled facility; arrange vendor introduction through the school office.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://forkidspreschool.com/tuition/"
+        ]
+      }
+    },
+    {
+      "id": 1001770,
+      "people": [
+        {
+          "id": 100058233,
+          "name": "John Lofton",
+          "role": "Pastor",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://c3churchnc.org/",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://c3churchnc.org/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://c3churchnc.org/contact-us/",
+      "phone": "+17048217368",
+      "email": "info@c3churchnc.org",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://c3churchnc.org/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1001771,
+      "people": [
+        {
+          "id": 100058234,
+          "name": "Bill Graafsma",
+          "role": "Lead Pastor",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://livingwaync.com/",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://livingwaync.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://livingwaync.com/",
+      "email": "contact@livingwaync.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://livingwaync.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001772,
+      "people": [
+        {
+          "id": 100058235,
+          "name": "Isaias Dantas de Souza Junior",
+          "role": "Elder",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://ccus.org/churches/nc/indian-trail",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://ccus.org/churches/nc/indian-trail",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://ccus.org/churches/nc/indian-trail",
+      "phone": "+13019829338",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://ccus.org/churches/nc/indian-trail"
+        ]
+      }
+    },
+    {
+      "id": 1001773,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://itpcnc.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://itpcnc.com/contact/",
+      "phone": "+17042348402",
+      "email": "helloitpc@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Mailing PO Box187 is separate from campus200SIndianTrailRoad; contact office Monday/Wednesday/Thursday9AM-1PM.",
+        "address": "200 S Indian Trail Road, Indian Trail, NC 28079",
+        "hours": "Monday, Wednesday, Thursday 9 AM-1 PM",
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://itpcnc.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001774,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://bellaterrainc.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://bellaterrainc.com/contact/",
+      "phone": "+17042215176",
+      "email": "info@bellaterrainc.com",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "Owned venue contact explicitly says Monday-Saturday By Appointment. Incomplete Mill Grove Road address remains held.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://bellaterrainc.com/contact/"
         ]
       }
     }

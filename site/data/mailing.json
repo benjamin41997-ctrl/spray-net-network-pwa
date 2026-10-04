@@ -15379,14 +15379,14 @@
       "city": "Indian Trail",
       "state": "NC",
       "zip": "28079",
-      "source": "https://www.ucpsnc.org/about/contact-us",
+      "source": "https://ples.ucpsnc.org/about-us",
       "id": 1000175,
       "attention": "",
       "country": "US",
-      "reviewedOn": "2026-09-22",
+      "reviewedOn": "2026-10-04",
       "status": "published",
-      "addressSourceType": "official_directory",
-      "prospectNotes": "School district directory reviewed September 22. Confirm vendor requirements and arrange any visit.",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Current UCPS subdomain corroborates existing school address. Old /poplin path returned 404, not evidence of closure. Controlled visitor entry; contact office before a vendor visit.",
       "exterior": {
         "route": "central_facilities",
         "reason": "Public school listed by its district. Start with district facilities/procurement; a school office is not evidence of independent contracting authority.",
@@ -19434,7 +19434,7 @@
       "reviewedOn": "2026-09-22",
       "status": "needs_review",
       "addressSourceType": "healthcare_registry",
-      "prospectNotes": "Held: multiple organization names at this delivery address need current-practice confirmation. CMS organization registry practice-location address (NPI 1235895111); registry record last updated 2021-11-15. Current trading name, occupancy, postal deliverability and building ownership are not independently confirmed.",
+      "prospectNotes": "Current owned South Belmont Orthodontics & Oral Surgery verifies address/brand and published 7049812429. Preserve existing Belmont Orthodontics legal ID/name. Website omits suite and has alternative tracking numbers; confirm Suite G and relationship to separately listed oral-surgery Suite F before mailing. No office merge.",
       "exterior": {
         "route": "likely_landlord",
         "reason": "Suite/unit address suggests a shared property. Landlord or association approval may be needed; tenancy and ownership are unverified.",
@@ -22826,8 +22826,8 @@
     {
       "name": "JED E LEVITAS DMD PA",
       "category": "dentist",
-      "address1": "251 Post Office Drive Suite A-1",
-      "address2": "",
+      "address1": "251 Post Office Drive",
+      "address2": "Suite A-1",
       "city": "Indian Trail",
       "state": "NC",
       "zip": "28079",
@@ -22838,7 +22838,7 @@
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified.",
+      "prospectNotes": "Owned practice page identifies Indian Trail Family Dentistry and Jed Levitas. Existing legal-entity ID/name retained; masked email and generic Instagram/Facebook home links excluded.",
       "exterior": {
         "route": "likely_landlord",
         "reason": "Suite/unit address suggests a shared property. Landlord or association approval may be needed; tenancy and ownership are unverified.",
@@ -27343,8 +27343,8 @@
       "state": "NC",
       "zip": "28277",
       "country": "US",
-      "source": "https://www.marriott.com/en-us/hotels/cltbl-courtyard-charlotte-ballantyne/dining/",
-      "reviewedOn": "2026-09-30",
+      "source": "https://www.marriott.com/en-us/hotels/cltbl-courtyard-charlotte-ballantyne/overview/",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -27352,7 +27352,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.marriott.com/en-us/hotels/cltbl-courtyard-charlotte-ballantyne/dining/",
         "reviewedOn": "2026-09-30"
-      }
+      },
+      "prospectNotes": "Current Marriott page verifies hotel at 15635 Don Lochman Lane and explicitly lists The Bistro as its on-site restaurant. Preserve one hotel prospect; no second facilities prospect for the Bistro."
     },
     {
       "id": 1000644,
@@ -30906,22 +30907,23 @@
       "name": "The Nixon Insurance Agency LLC",
       "category": "professional",
       "attention": "",
-      "address1": "120 Unionville Indian Trail Rd West Building C Suite 200",
-      "address2": "",
+      "address1": "120 Unionville Indian Trail Road West",
+      "address2": "Suite 200C",
       "city": "Indian Trail",
       "state": "NC",
       "zip": "28079",
       "country": "US",
-      "source": "https://nixoninsuranceagencyllc.com/",
-      "reviewedOn": "2026-09-30",
+      "source": "https://locator.acg.aaa.com/nc/indian-trail/aaa-insurance-the-nixon-insurance-agency",
+      "reviewedOn": "2026-10-04",
       "status": "published",
-      "addressSourceType": "company_website",
+      "addressSourceType": "official_directory",
       "exterior": {
         "route": "unknown",
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://nixoninsuranceagencyllc.com/",
         "reviewedOn": "2026-09-30"
-      }
+      },
+      "prospectNotes": "AAA brand locator corroborates existing Nixon agency, local suite and phone. Direct crawler returns an empty shell; publicly indexed branch text retained."
     },
     {
       "id": 1000785,
@@ -41946,14 +41948,14 @@
       "name": "Elite MD",
       "category": "med_spa",
       "attention": "",
-      "address1": "2935 Matthews-Weddington Road Suite 300",
-      "address2": "",
+      "address1": "2935 Matthews-Weddington Road",
+      "address2": "Suite 300",
       "city": "Matthews",
       "state": "NC",
       "zip": "28104",
       "country": "US",
       "source": "https://elitemd.net/",
-      "reviewedOn": "2026-10-01",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -41961,7 +41963,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://elitemd.net/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Current owned Matthews office and combined primary-care/medspa identity corroborated. Preserve existing practice ID, category and name."
     },
     {
       "id": 1001163,
@@ -42389,14 +42392,14 @@
       "name": "Simba Event Venue",
       "category": "venue",
       "attention": "",
-      "address1": "1905 Rice Road Extension Suites 105-107",
-      "address2": "",
+      "address1": "1905 Rice Road Extension",
+      "address2": "Suites 105-107",
       "city": "Matthews",
       "state": "NC",
       "zip": "28105",
       "country": "US",
-      "source": "https://simbaeventhall.com/",
-      "reviewedOn": "2026-10-01",
+      "source": "https://simbaeventhall.com/contact-us/",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -42404,7 +42407,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://simbaeventhall.com/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Owned contact gives current 9804312009; older schema phone not selected. Meetings/tours appointment ONLY; networking vendor introduction should be arranged. Masked email not guessed."
     },
     {
       "id": 1001182,
@@ -44264,8 +44268,8 @@
       "state": "NC",
       "zip": "28079",
       "country": "US",
-      "source": "https://fbcit.org/",
-      "reviewedOn": "2026-10-01",
+      "source": "https://www.fbcit.org/im-new",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -44273,7 +44277,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://fbcit.org/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "The LIFT is an explicitly named worship ministry of this existing church. Owned church page distinguishes mailing PO Box 2550, campus 732 Indian Trail Fairview Road and administrative office 3512 Faith Church Road. Office closed Fridays; arrange vendor introduction. Ministry inbox is not substituted for a general church contact."
     },
     {
       "id": 1001263,
@@ -44392,13 +44397,13 @@
       "name": "Atrium Health Primary Care Lake Park Family Medicine",
       "category": "medical",
       "attention": "",
-      "address1": "6066 Hwy 74 W.",
+      "address1": "6066 W Highway 74",
       "address2": "",
       "city": "Indian Trail",
       "state": "NC",
       "zip": "28079",
       "country": "US",
-      "source": "https://atriumhealth.org/provider-profile/marleen-traywick-1104980374",
+      "source": "https://atriumhealth.org/provider-profile/douglas-chen-1306860580",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
@@ -44408,7 +44413,7 @@
         "source": "https://atriumhealth.org/provider-profile/douglas-chen-1306860580",
         "reviewedOn": "2026-10-01"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "Owned Douglas Chen profile identifies this practice, local address and phone. Provider is a contact under the practice, not a separate company. Suite omitted because owned profile does not supply it."
     },
     {
       "id": 1001269,
@@ -47707,7 +47712,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.medspamagnolia.com/locations",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Owned locations source already saved in batch B verifies Mint Hill branch and street but omits ZIP. Preserve other Magnolia branches and keep postal export held."
     },
     {
       "id": 1001405,
@@ -48716,7 +48722,7 @@
       "state": "NC",
       "zip": "28211",
       "country": "US",
-      "source": "https://bestcare-ah.com/about-us/",
+      "source": "https://carecharlotte.com/contact/",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
@@ -48726,7 +48732,7 @@
         "source": "https://carecharlotte.com/services/",
         "reviewedOn": "2026-10-01"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "Owned current contact corroborates existing Charlotte emergency hospital at 3726 Latrobe Drive. Media-only email excluded; 24-hour clinical access does not establish networking/vendor walk-in access."
     },
     {
       "id": 1001437,
@@ -49335,8 +49341,8 @@
       "state": "NC",
       "zip": "28032",
       "country": "US",
-      "source": "https://cramertonchristian.org/",
-      "reviewedOn": "2026-10-01",
+      "source": "https://cramertonchristian.org/contact-us/",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -49344,7 +49350,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://cramertonchristian.org/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Current owned academy contact corroborates existing 426 Woodlawn Avenue, Cramerton NC 28032 and public school inbox. Arrange visitor/vendor access through school office."
     },
     {
       "id": 1001458,
@@ -49615,14 +49622,14 @@
       "name": "Imbue Health",
       "category": "med_spa",
       "attention": "",
-      "address1": "4389 Indian Trail Fairview Rd Suite 7",
-      "address2": "",
+      "address1": "4389 Indian Trail Fairview Road",
+      "address2": "Suite 7",
       "city": "Indian Trail",
       "state": "NC",
       "zip": "28079",
       "country": "US",
-      "source": "https://imbuehealthnc.com/",
-      "reviewedOn": "2026-10-01",
+      "source": "https://imbuehealthnc.com/contact-us/",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -49630,7 +49637,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://imbuehealthnc.com/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Publicly indexed owned source identifies Imbue Health, Suite 7 in the Larry S Helms Insurance building. Preserve existing identity; sharing a building does not imply exterior authority."
     },
     {
       "id": 1319,
@@ -49681,14 +49689,14 @@
       "name": "Sun Valley Cafe",
       "category": "restaurant",
       "attention": "",
-      "address1": "6751 Old Monroe Rd Suite 106",
-      "address2": "",
+      "address1": "6751 Old Monroe Road",
+      "address2": "Suite 106",
       "city": "Indian Trail",
       "state": "NC",
       "zip": "28079",
       "country": "US",
-      "source": "https://www.sunvalleycafe.com/",
-      "reviewedOn": "2026-10-01",
+      "source": "https://www.sunvalleycafe.com/contact-us",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -49696,7 +49704,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.sunvalleycafe.com/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Current publicly indexed owned contact corroborates existing Indian Trail cafe and Suite 106. Direct crawl blocked; no closure inferred."
     },
     {
       "id": 1001468,
@@ -55462,7 +55471,7 @@
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://belmontabbeycollege.edu/",
+      "source": "https://belmontabbeycollege.edu/about-us/press-inquiries/",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
@@ -55472,7 +55481,7 @@
         "source": "https://belmontabbeycollege.edu/",
         "reviewedOn": "2026-10-04"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "Owned campus map explicitly names Loughridge Center for Continuing & Professional Studies, an existing college department at Sacred Heart extension. Preserve college central correspondence record; this is not an independently verified new office. Press/admissions contacts are not facilities approvers."
     },
     {
       "id": 1001620,
@@ -58695,6 +58704,972 @@
         "reviewedOn": "2026-10-04"
       },
       "prospectNotes": "Owned office directory lists two Charlotte offices, separate from Columbia and Summerville SC. Visitor access and exterior approval remain unverified."
+    },
+    {
+      "id": 1001733,
+      "name": "Trailhead Advanced Dentistry",
+      "category": "dentist",
+      "attention": "",
+      "address1": "5614 Potter Road",
+      "address2": "Suite 106",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28104",
+      "country": "US",
+      "source": "https://www.trailheadadvanceddentistry.com/contact/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.trailheadadvanceddentistry.com/contact/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned contact page indexed publicly; direct crawler blocked. Matthews postal city preserved. Fax 7046844453 excluded."
+    },
+    {
+      "id": 1001734,
+      "name": "Tooth Town Dentistry for Kids - Indian Trail",
+      "category": "dentist",
+      "attention": "",
+      "address1": "4514 Old Monroe Road",
+      "address2": "Suites C, D",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://toothtownpediatricdentistry.com/locations/dentistry-in-indian-trail-nc/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://toothtownpediatricdentistry.com/locations/dentistry-in-indian-trail-nc/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned Indian Trail branch page; distinct from Indian Trail Dental Studio Suite E and unrelated Woodstock GA Tooth Town business."
+    },
+    {
+      "id": 1001735,
+      "name": "Chestnut Family Practice PLLC",
+      "category": "medical",
+      "attention": "",
+      "address1": "1013 Chestnut Lane",
+      "address2": "Suite 110",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28104",
+      "country": "US",
+      "source": "https://chestnutfamilypractice.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://chestnutfamilypractice.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Publicly indexed owned source corroborates current practice. Distinct from Chestnut Family and Cosmetic Dentistry Suite 230 at this building."
+    },
+    {
+      "id": 1001736,
+      "name": "Atrium Health Primary Care Dove Internal Medicine",
+      "category": "medical",
+      "attention": "",
+      "address1": "6030 W Highway 74",
+      "address2": "Suite D",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://atriumhealth.org/provider-profile/tamara-alexander-1487822664",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://atriumhealth.org/provider-profile/tamara-alexander-1487822664",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned provider profiles independently place Tamara Alexander, Taisiya Netrebko and Andrew Kindel at this same practice. Publish people under one practice."
+    },
+    {
+      "id": 1001737,
+      "name": "Surgical Specialists of Charlotte - Matthews",
+      "category": "medical",
+      "attention": "",
+      "address1": "1450 Matthews Township Parkway",
+      "address2": "Suite 250",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "country": "US",
+      "source": "https://ssclt.com/locations/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://ssclt.com/locations/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned branch directory verifies Matthews office attached to medical center. Other offices and unrelated hospitals are not duplicates of this practice."
+    },
+    {
+      "id": 1001738,
+      "name": "Atrium Health Surgery Center Indian Trail",
+      "category": "medical",
+      "attention": "",
+      "address1": "6068 W Highway 74",
+      "address2": "",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://atriumhealth.org/locations/detail/atrium-health-surgery-center-indian-trail",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://atriumhealth.org/locations/detail/atrium-health-surgery-center-indian-trail",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Public primary source corroborates correspondence address. Vendor access, property ownership and exterior authority remain unverified."
+    },
+    {
+      "id": 1001739,
+      "name": "The Skin Bar QC",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "101 East Matthews Street",
+      "address2": "Suite 200",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "country": "US",
+      "source": "https://www.carecredit.com/doctor-locator/matthews-nc/the-skin-bar-qc-586sdb/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "official_directory",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.carecredit.com/doctor-locator/matthews-nc/the-skin-bar-qc-586sdb/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "CareCredit provider directory and independent local business listings agree on business office; NC Medical Board corroborates entity. Registry address 8103 Glamorgan Lane is not substituted for operating office. Owned page exceeds crawler size limit."
+    },
+    {
+      "id": 1001740,
+      "name": "Urbane South",
+      "category": "retail",
+      "attention": "",
+      "address1": "",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.urbanesouth.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.urbanesouth.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned store footer explicitly identifies Charlotte and local phone. Complete street/ZIP are not published on inspected pages; Charlotte is a locality label, not a verified visitor office. Masked email excluded."
+    },
+    {
+      "id": 1001741,
+      "name": "Sarah N. Reames CPA PLLC",
+      "category": "professional",
+      "attention": "",
+      "address1": "2548 Plantation Center Drive",
+      "address2": "Suite B",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "country": "US",
+      "source": "https://www.sarahreamescpa.com/contact",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.sarahreamescpa.com/contact",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Publicly indexed owned contact corroborates current Matthews office. Direct crawler blocked; public source retained."
+    },
+    {
+      "id": 1001742,
+      "name": "The D'Agostino Group of NC",
+      "category": "professional",
+      "attention": "",
+      "address1": "PO Box 1651",
+      "address2": "",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://www.ncdaggroup.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ncdaggroup.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned footer explicitly gives mailing PO Box and Appointment Only hours. 9195771040 is another published phone; local 704 route selected. Box is not a visitor office."
+    },
+    {
+      "id": 1001743,
+      "name": "Meek Law Firm - Indian Trail",
+      "category": "professional",
+      "attention": "",
+      "address1": "4389 Indian Trail Fairview Road",
+      "address2": "Suite 25",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://meeklawfirm.com/contact-us-indian-trail-nc-location/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://meeklawfirm.com/contact-us-indian-trail-nc-location/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Correct owned page says Indian Trail, not Indian Land as the stale URL did. Jonathan Meek identified as attorney/CEO. Preserve separate Waxhaw office and unrelated Suite 7 Imbue Health practice."
+    },
+    {
+      "id": 1001744,
+      "name": "Path Insurance Agency",
+      "category": "professional",
+      "attention": "",
+      "address1": "4391 Indian Trail Fairview Road",
+      "address2": "Unit A",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://pathinsuranceagency.com/contact",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://pathinsuranceagency.com/contact",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned contact corroborates distinct local agency. Other insurance firms and overlapping address/phone suggestions require explicit comparison, not automatic merge."
+    },
+    {
+      "id": 1001745,
+      "name": "Piedmont Insurance Associates - Charlotte",
+      "category": "professional",
+      "attention": "",
+      "address1": "233 S Sharon Amity Road",
+      "address2": "Suite 103",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28211",
+      "country": "US",
+      "source": "https://piedmont-ins.com/locations/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://piedmont-ins.com/locations/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned branch directory verifies Charlotte office and published branch route; email is a shared agency service inbox. Mooresville/NY typo in generic contact footer excluded."
+    },
+    {
+      "id": 1001746,
+      "name": "Piedmont Insurance Associates - Rock Hill",
+      "category": "professional",
+      "attention": "",
+      "address1": "155 East Main Street",
+      "address2": "",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29730",
+      "country": "US",
+      "source": "https://piedmont-ins.com/locations/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://piedmont-ins.com/locations/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned branch directory corroborates Rock Hill office, distinct from Charlotte, Mooresville and Stallings branches; email is shared agency service inbox."
+    },
+    {
+      "id": 1001747,
+      "name": "Hemby Insurance and Associates Inc",
+      "category": "professional",
+      "attention": "",
+      "address1": "PO Box 610",
+      "address2": "",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://www.hembyinsurance.com/contact-us/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.hembyinsurance.com/contact-us/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned correspondence header gives PO Box 610 with office at 101 Blythe Drive. Mailing box is not a visitor office; fax 7048216876 excluded."
+    },
+    {
+      "id": 1001748,
+      "name": "Rossini's Italian Restaurant",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "13803 E Independence Boulevard",
+      "address2": "Unit A",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://web.townplanner.com/calendarPDFs/NC_Indian-Trail_2026.pdf",
+      "reviewedOn": "2026-10-04",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://web.townplanner.com/calendarPDFs/NC_Indian-Trail_2026.pdf",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "2026 local calendar business advertisement and independent restaurant listing corroborate identity, phone and Unit A street (US Hwy 74/E Independence aliases). Owned old site is blank. ZIP requires current primary correspondence evidence before export."
+    },
+    {
+      "id": 1001749,
+      "name": "Viva Chicken - Sun Valley",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "6461 Old Monroe Road",
+      "address2": "Suite A",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://vivachicken.com/locations/sun-valley/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://vivachicken.com/locations/sun-valley/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned individual branch page corroborates local address/phone. Shared brand socials; each physical branch compared separately. Approval authority and landlord relationship unverified."
+    },
+    {
+      "id": 1001750,
+      "name": "Viva Chicken - Ballantyne",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "12206 Copper Way",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28277",
+      "country": "US",
+      "source": "https://vivachicken.com/locations/ballantyne/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://vivachicken.com/locations/ballantyne/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned individual branch page corroborates local address/phone. Shared brand socials; each physical branch compared separately. Approval authority and landlord relationship unverified."
+    },
+    {
+      "id": 1001751,
+      "name": "Viva Chicken - Redstone",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "9695 Redstone Drive",
+      "address2": "Suite 500",
+      "city": "Indian Land",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://vivachicken.com/locations/redstone/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://vivachicken.com/locations/redstone/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned individual branch page corroborates local address/phone. Shared brand socials; each physical branch compared separately. Approval authority and landlord relationship unverified."
+    },
+    {
+      "id": 1001752,
+      "name": "Viva Chicken - Elizabeth",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "1617 Elizabeth Avenue",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28204",
+      "country": "US",
+      "source": "https://vivachicken.com/locations/elizabeth/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://vivachicken.com/locations/elizabeth/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned individual branch page corroborates local address/phone. Shared brand socials; each physical branch compared separately. Approval authority and landlord relationship unverified."
+    },
+    {
+      "id": 1001753,
+      "name": "Viva Chicken - Gastonia",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "2205 E Franklin Boulevard",
+      "address2": "Suite 100",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28054",
+      "country": "US",
+      "source": "https://vivachicken.com/locations/gastonia/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://vivachicken.com/locations/gastonia/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned individual branch page corroborates local address/phone. Shared brand socials; each physical branch compared separately. Approval authority and landlord relationship unverified."
+    },
+    {
+      "id": 1001754,
+      "name": "Viva Chicken - Park Road",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "4500 Park Road",
+      "address2": "Suite 100",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28209",
+      "country": "US",
+      "source": "https://vivachicken.com/locations/park-road/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://vivachicken.com/locations/park-road/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned individual branch page corroborates local address/phone. Shared brand socials; each physical branch compared separately. Approval authority and landlord relationship unverified."
+    },
+    {
+      "id": 1001755,
+      "name": "Viva Chicken - Waverly",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "11641 Waverly Center Drive",
+      "address2": "Suite K1",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28277",
+      "country": "US",
+      "source": "https://vivachicken.com/locations/waverly/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://vivachicken.com/locations/waverly/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned individual branch page corroborates local address/phone. Shared brand socials; each physical branch compared separately. Approval authority and landlord relationship unverified."
+    },
+    {
+      "id": 1001756,
+      "name": "The Blue Taj",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "14815 Ballantyne Village Way",
+      "address2": "Suite 170",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28277",
+      "country": "US",
+      "source": "https://thebluetaj.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://thebluetaj.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned source indexed publicly corroborates Charlotte branch, postal fields and general restaurant contact. Crawler blocked; source access limitation retained."
+    },
+    {
+      "id": 1001757,
+      "name": "CharBar No. 7 - Mint Hill",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "7312 Town View Drive",
+      "address2": "",
+      "city": "Mint Hill",
+      "state": "NC",
+      "zip": "28227",
+      "country": "US",
+      "source": "https://charbar7.com/locations/mint-hill/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://charbar7.com/locations/mint-hill/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned branch page and vendor form verified. Use https://charbar7.com/vendors/ for vendor inquiries; live-music performer emails excluded. Brand socials shared across separate branches."
+    },
+    {
+      "id": 1001758,
+      "name": "CharBar No. 7 - Carmel",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "4130 Carmel Road",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28226",
+      "country": "US",
+      "source": "https://charbar7.com/locations/carmel/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://charbar7.com/locations/carmel/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned branch page and vendor form verified. Use https://charbar7.com/vendors/ for vendor inquiries; performer emails excluded. Preserve Matthews/Mint Hill branches."
+    },
+    {
+      "id": 1001759,
+      "name": "CharBar No. 7 - Matthews",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "3118 Fincher Farm Road",
+      "address2": "",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "country": "US",
+      "source": "https://charbar7.com/locations/matthews/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://charbar7.com/locations/matthews/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned branch page verifies Matthews office; brand account shared with Carmel and Mint Hill. Vendor inquiry route https://charbar7.com/vendors/; no artist booking emails used."
+    },
+    {
+      "id": 1001760,
+      "name": "Holiday Inn Express & Suites Charlotte NE - University Area",
+      "category": "lodging",
+      "attention": "",
+      "address1": "6020 University Pointe Boulevard",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28262",
+      "country": "US",
+      "source": "https://www.ihg.com/north-carolina-united-states",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/north-carolina-united-states",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "IHG owned state and city hotel directories independently identify property/address. Direct property request blocked. No reservation/corporate phone guessed; ownership and exterior authority unverified."
+    },
+    {
+      "id": 1001761,
+      "name": "Holiday Inn Charlotte-Airport Conf Ctr",
+      "category": "lodging",
+      "attention": "",
+      "address1": "1626 North Josh Birmingham Parkway",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28214",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinn/hotels/us/en/charlotte/cltap/hoteldetail",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinn/hotels/us/en/charlotte/cltap/hoteldetail",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "IHG property-specific page verifies address and front desk/email. Separate from other Airport and Airport Area Holiday Inn properties."
+    },
+    {
+      "id": 1001762,
+      "name": "Holiday Inn Express & Suites Charlotte Airport",
+      "category": "lodging",
+      "attention": "",
+      "address1": "108 Airport Commons Drive",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28208",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltqu/hoteldetail",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltqu/hoteldetail",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "IHG property-specific page verifies postal route and front desk/email. Property code CLTQU, distinct from CLTCA Airport Area at Cascade Pointe Boulevard."
+    },
+    {
+      "id": 1001763,
+      "name": "InTown Suites Extended Stay Matthews - Indian Trail",
+      "category": "lodging",
+      "attention": "",
+      "address1": "12076 Stallings Commerce Drive",
+      "address2": "",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/indian-trail/",
+      "reviewedOn": "2026-10-04",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/indian-trail/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned property page corroborates Matthews property, street and direct property/guest phone. ZIP omitted in inspected text/schema. National reservation/support numbers excluded; keep postal export held."
+    },
+    {
+      "id": 1001764,
+      "name": "InTown Suites Extended Stay Matthews - East Independence",
+      "category": "lodging",
+      "attention": "",
+      "address1": "9211 East Independence Boulevard",
+      "address2": "",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/east-independence-blvd-2/",
+      "reviewedOn": "2026-10-04",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.intownsuites.com/extended-stay-hotels/north-carolina/matthews/east-independence-blvd-2/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned property page verifies Matthews hotel, street and direct property phone. ZIP absent in inspected text/schema; national reservation phone excluded. Distinct from Stallings Commerce property."
+    },
+    {
+      "id": 1001765,
+      "name": "Suburban Studios Charlotte - Ballantyne",
+      "category": "lodging",
+      "attention": "",
+      "address1": "10225 Feldfarm Lane",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28210",
+      "country": "US",
+      "source": "https://www.choicehotels.com/en-ca/north-carolina/charlotte/suburban-hotels/nc533",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.choicehotels.com/en-ca/north-carolina/charlotte/suburban-hotels/nc533",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Choice property code NC533 corroborates current Charlotte hotel and direct phone; postal ZIP 28210 retained despite Ballantyne brand name."
+    },
+    {
+      "id": 1001766,
+      "name": "SureStay by Best Western Charlotte Matthews",
+      "category": "lodging",
+      "attention": "",
+      "address1": "2501 Sardis Road N",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28227",
+      "country": "US",
+      "source": "https://www.bestwestern.com/en_US/book/hotels-in-charlotte/surestay-by-best-western-charlotte-matthews/propertyCode.34191.html",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.bestwestern.com/en_US/book/hotels-in-charlotte/surestay-by-best-western-charlotte-matthews/propertyCode.34191.html",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Best Western property-specific page corroborates Charlotte postal city and address; Matthews is in hotel brand. Nearby business/airport contacts excluded; no local phone guessed."
+    },
+    {
+      "id": 1001767,
+      "name": "Econo Lodge Inn & Suites Matthews - Charlotte",
+      "category": "lodging",
+      "attention": "",
+      "address1": "1938 Moore Road",
+      "address2": "",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "country": "US",
+      "source": "https://www.choicehotels.com/en-ca/north-carolina/matthews/econo-lodge-hotels/nc432",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.choicehotels.com/en-ca/north-carolina/matthews/econo-lodge-hotels/nc432",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Choice property code NC432 corroborates this hotel. Existing Matthews - Charlotte 1001168 is an unrelated commercial real estate firm at W Worthington Avenue, not this hotel; preserve both identities."
+    },
+    {
+      "id": 1001768,
+      "name": "Extended Stay America Suites - Charlotte - Matthews",
+      "category": "lodging",
+      "attention": "",
+      "address1": "1424 Matthews-Mint Hill Road",
+      "address2": "",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "country": "US",
+      "source": "https://www.extendedstayamerica.com/hotels/nc/charlotte",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.extendedstayamerica.com/hotels/nc/charlotte",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned city directory verifies property-specific Matthews street/ZIP and phone. Other city hotels and national booking contacts excluded."
+    },
+    {
+      "id": 1001769,
+      "name": "FOR Kids Preschool",
+      "category": "childcare",
+      "attention": "",
+      "address1": "10835 Independence Pointe Parkway",
+      "address2": "",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "country": "US",
+      "source": "https://forkidspreschool.com/tuition/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://forkidspreschool.com/tuition/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned current 2026-27 tuition page verifies school mailing footer and published direct contact. 910 area code is explicitly published; no replacement phone guessed. Vendor access unknown."
+    },
+    {
+      "id": 1001770,
+      "name": "Covenant Community Church - C3",
+      "category": "church",
+      "attention": "",
+      "address1": "5805 W Highway 74",
+      "address2": "",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://c3churchnc.org/contact-us/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://c3churchnc.org/contact-us/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned church contact verifies current local route. Published worship times are not vendor walk-in permission; property ownership/exterior authority unknown."
+    },
+    {
+      "id": 1001771,
+      "name": "Living Way",
+      "category": "church",
+      "attention": "",
+      "address1": "",
+      "address2": "",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://livingwaync.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://livingwaync.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned site explicitly identifies Indian Trail church and lead pastor Bill Graafsma; no complete postal or visitor street route in reviewed pages. Locality is a service-area label, not an exportable address. Template filler excluded."
+    },
+    {
+      "id": 1001772,
+      "name": "Christian Congregation in the United States - Indian Trail",
+      "category": "church",
+      "attention": "",
+      "address1": "1503 Waxhaw Indian Trail Road",
+      "address2": "Suite D",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://ccus.org/churches/nc/indian-trail",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://ccus.org/churches/nc/indian-trail",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned public branch directory explicitly publishes this local address and 301 phone; corporate Miami footer excluded. Public ministry names are professional contacts, not verified property owners. Restricted area not accessed."
+    },
+    {
+      "id": 1001773,
+      "name": "Indian Trail Presbyterian Church",
+      "category": "church",
+      "attention": "",
+      "address1": "PO Box 187",
+      "address2": "",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://itpcnc.com/contact/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://itpcnc.com/contact/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned contact explicitly separates mailing PO Box 187 from visitor campus 200 S Indian Trail Road. Current contact Gmail selected; older Windstream mail link not substituted. Office Monday/Wednesday/Thursday 9 AM-1 PM; arrange vendor visit."
+    },
+    {
+      "id": 1001774,
+      "name": "Bella Terra Inc",
+      "category": "venue",
+      "attention": "",
+      "address1": "Mill Grove Road",
+      "address2": "",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://bellaterrainc.com/contact/",
+      "reviewedOn": "2026-10-04",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://bellaterrainc.com/contact/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned contact supplies Mill Grove Road without a street number. No house number inferred; incomplete postal route remains excluded from exports. Arrange a venue/vendor introduction."
     }
   ]
 }
