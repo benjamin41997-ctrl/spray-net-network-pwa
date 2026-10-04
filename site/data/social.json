@@ -4256,7 +4256,7 @@
     },
     {
       "companyId": 1000050,
-      "checkedOn": "2026-09-28",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
@@ -4463,7 +4463,7 @@
     },
     {
       "companyId": 1000058,
-      "checkedOn": "2026-09-28",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
@@ -4731,7 +4731,7 @@
     },
     {
       "companyId": 1000071,
-      "checkedOn": "2026-09-28",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
@@ -5419,7 +5419,7 @@
     },
     {
       "companyId": 1000094,
-      "checkedOn": "2026-09-28",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
@@ -5446,7 +5446,7 @@
     },
     {
       "companyId": 1000095,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
@@ -5492,7 +5492,7 @@
     },
     {
       "companyId": 1000096,
-      "checkedOn": "2026-09-28",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
@@ -6664,7 +6664,7 @@
     },
     {
       "companyId": 1000555,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Website source checked. Profile activity and availability have not been independently verified.",
       "sources": [
@@ -10429,7 +10429,7 @@
     },
     {
       "companyId": 1000598,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -11445,14 +11445,40 @@
     },
     {
       "companyId": 1000627,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
         "https://sargiscpa.com/cpa-fort-mill-sc/",
-        "https://sargiscpa.com/contact"
+        "https://sargiscpa.com/contact",
+        "https://nxtlevelcpa.com/"
       ],
-      "accounts": []
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/892527977285101",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nxtlevelcpa.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/111400956",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nxtlevelcpa.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@nextlevelcpa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nxtlevelcpa.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
     },
     {
       "companyId": 1000628,
@@ -11730,7 +11756,7 @@
     },
     {
       "companyId": 1000435,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -11999,7 +12025,7 @@
     },
     {
       "companyId": 1000642,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -12087,7 +12113,7 @@
     },
     {
       "companyId": 1000644,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -12622,7 +12648,7 @@
     },
     {
       "companyId": 1000658,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -12667,7 +12693,7 @@
     },
     {
       "companyId": 1000659,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -12786,7 +12812,7 @@
     },
     {
       "companyId": 1000662,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -12972,7 +12998,7 @@
     },
     {
       "companyId": 1000667,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -13655,7 +13681,7 @@
     },
     {
       "companyId": 1000688,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -13792,7 +13818,7 @@
     },
     {
       "companyId": 1000691,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -15128,7 +15154,7 @@
     },
     {
       "companyId": 1000728,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -16867,7 +16893,7 @@
     },
     {
       "companyId": 1000780,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -16903,7 +16929,7 @@
     },
     {
       "companyId": 1000781,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -18154,7 +18180,7 @@
     },
     {
       "companyId": 1000820,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -18215,7 +18241,7 @@
     },
     {
       "companyId": 1000821,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -18252,7 +18278,7 @@
     },
     {
       "companyId": 1000822,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -18281,7 +18307,7 @@
     },
     {
       "companyId": 1000823,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -18318,7 +18344,7 @@
     },
     {
       "companyId": 1000413,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -18383,7 +18409,7 @@
     },
     {
       "companyId": 1000825,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -18404,7 +18430,7 @@
     },
     {
       "companyId": 1000411,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -18655,7 +18681,7 @@
     },
     {
       "companyId": 1000831,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -18682,7 +18708,7 @@
     },
     {
       "companyId": 1000832,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -18766,7 +18792,7 @@
     },
     {
       "companyId": 1000834,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -20529,7 +20555,7 @@
     },
     {
       "companyId": 1000881,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -23430,7 +23456,7 @@
     },
     {
       "companyId": 1000424,
-      "checkedOn": "2026-10-01",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Business website account links reviewed; account activity remains unverified.",
       "sources": [
@@ -23767,7 +23793,7 @@
     },
     {
       "companyId": 1000976,
-      "checkedOn": "2026-10-01",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Reviewed owned-site account links; account activity remains unverified.",
       "sources": [
@@ -23794,7 +23820,7 @@
     },
     {
       "companyId": 1000977,
-      "checkedOn": "2026-10-01",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Reviewed owned-site account links; account activity remains unverified.",
       "sources": [
@@ -23907,7 +23933,7 @@
     },
     {
       "companyId": 1000981,
-      "checkedOn": "2026-10-01",
+      "checkedOn": "2026-10-04",
       "status": "checked",
       "notes": "Reviewed company website links; activity unverified.",
       "sources": [
@@ -25849,6 +25875,3043 @@
           "scope": "brand",
           "source": "https://theneoconcept.com/",
           "notes": "Explicitly reviewed owned-site profile link. Shared brand account where applicable; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001288,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://marvindentalstudio.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@marvindentalstudio",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://marvindentalstudio.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/marvindentalstudio",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://marvindentalstudio.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/marvindentalstudio",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://marvindentalstudio.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@marvindentalstudio",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://marvindentalstudio.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001480,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://dentaldesignswaxhaw.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/dentaldesignswaxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://dentaldesignswaxhaw.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/dentaldesignswaxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://dentaldesignswaxhaw.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000412,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://dentalcareatmeadowridge.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/183846794821743",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://dentalcareatmeadowridge.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/dentalcareatmeadowridge",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://dentalcareatmeadowridge.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000414,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.curetondentistry.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/curetoncosmeticdentistry",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.curetondentistry.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000409,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.reafielddental.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/reafielddental",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.reafielddental.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/reafielddental",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.reafielddental.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001481,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.udadentistry.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/university-dental-associates-729843030491890",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.udadentistry.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001075,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://chestnutdentistry.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/chestnutdentistry",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://chestnutdentistry.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000417,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://haysdds.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61576773121914",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://haysdds.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/haysdentistry",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://haysdds.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001295,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.marvinacademy.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/marvinacademy",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.marvinacademy.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/marvinacademywarriors",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.marvinacademy.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCG2nkaPbkCGYAXabUgEdr_A",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.marvinacademy.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000171,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://mes.ucpsnc.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/marvinesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/marvinesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/MarvinESNC",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000172,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://mrhs.ucpsnc.org"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/marvinridgehsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mrhs.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/marvinridgehsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mrhs.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/MarvinRidgeHSNC",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mrhs.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000173,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://mrms.ucpsnc.org"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/marvinridgemsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mrms.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/marvinridgemsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mrms.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/MarvinRidgeMSNC",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://mrms.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000180,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://sres.ucpsnc.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/sandyridgeesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://sres.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/sandyridgeesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://sres.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/SandyRidgeESNC",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://sres.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000183,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://wxes.ucpsnc.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/waxhawesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://wxes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/waxhawesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://wxes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/WaxhawESNC",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://wxes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001482,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.ucpsnc.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ucpsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ucpsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/union-county-public-schools",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/UnionCountyPublicSchools",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000174,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://ntes.ucpsnc.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/newtownesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ntes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/newtownesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ntes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/NewTownESNC",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ntes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001483,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://marvinnc.gov/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/villageofmarvin",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://marvinnc.gov/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/villageofmarvin",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://marvinnc.gov/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCpVvCeV6-qsLfquFQvEesjw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://marvinnc.gov/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001484,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://atriumhealth.org/locations/detail/atrium-health-primary-care-ardrey-kell-family-medicine-i"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/atriumhealthus",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-ardrey-kell-family-medicine-i",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/atriumhealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-ardrey-kell-family-medicine-i",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/atrium-health-us",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-ardrey-kell-family-medicine-i",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCiD9YK-eV9n0SWR7seZP_DQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-ardrey-kell-family-medicine-i",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001051,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.tryonmed.com/waxhaw-primary-care/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/tryonmedical",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.tryonmed.com/waxhaw-primary-care/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/tryonmedical",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.tryonmed.com/waxhaw-primary-care/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/tryonmed",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.tryonmed.com/waxhaw-primary-care/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001485,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://sensenbrennerprimarycare.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/sensenbrennerprimarycare",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://sensenbrennerprimarycare.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/spchealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://sensenbrennerprimarycare.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000937,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://atriumhealth.org/locations/detail/atrium-health-pulmonology-and-sleep-medicine-waxhaw"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/atriumhealthus",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-pulmonology-and-sleep-medicine-waxhaw",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/atriumhealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-pulmonology-and-sleep-medicine-waxhaw",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/atrium-health-us",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-pulmonology-and-sleep-medicine-waxhaw",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCiD9YK-eV9n0SWR7seZP_DQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-pulmonology-and-sleep-medicine-waxhaw",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001487,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.elysianmedspaclt.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/elysianaestheticsandwellness",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.elysianmedspaclt.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/elysianmedspaclt",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.elysianmedspaclt.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/elysian.aesthetics.wellness",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.elysianmedspaclt.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/elysian.medspa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.elysianmedspaclt.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001367,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://pearlaesthetix.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/pearl_aesthetix",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://pearlaesthetix.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001488,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://novaemedlounge.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/novaemedlounge",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://novaemedlounge.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001164,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://revivemenc.co/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=100090078780803",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://revivemenc.co/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/revivemenc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://revivemenc.co/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001489,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.revivesthetics.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/revivesthetics",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.revivesthetics.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@revivesthetics",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.revivesthetics.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001491,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://cosmeticwellnessinstitute.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/108445675329396",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://cosmeticwellnessinstitute.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/cosmeticwellnessinstitute",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://cosmeticwellnessinstitute.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@katherine.fernand31",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://cosmeticwellnessinstitute.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@cosmeticwellnessinstitute",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://cosmeticwellnessinstitute.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001492,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://dermanimedspa.com/ballantyne-charlotte-nc/",
+        "https://dermanimedspa.com/about-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61575874836331",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://dermanimedspa.com/ballantyne-charlotte-nc/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/dermanimedspa_ballantyne",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://dermanimedspa.com/ballantyne-charlotte-nc/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/dermanimed",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://dermanimedspa.com/about-us/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/dermanimedspa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://dermanimedspa.com/about-us/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001493,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://elcpa.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/edlloydassociates",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://elcpa.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/edlloydandassociates",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://elcpa.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCTCBxLfDR_Eg3jEXyIHDnnQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://elcpa.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001494,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://apexbconsulting.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/apexbconsulting",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://apexbconsulting.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/apexbconsulting",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://apexbconsulting.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001496,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://toddgreenecpa.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/toddgreenecpa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://toddgreenecpa.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/toddgreenecpa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://toddgreenecpa.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/todd-greene-cpa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://toddgreenecpa.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001499,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.alf.law/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/andersonlawnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.alf.law/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/andersonlawnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.alf.law/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/the-anderson-law-firm---charlotte-nc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.alf.law/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001500,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://starrettlawfirm.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/starrettlawfirm",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://starrettlawfirm.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/starrettlawfirm",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://starrettlawfirm.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/starrettlawfirm",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://starrettlawfirm.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001370,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.waxhawinsuranceagency.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/waxhawinsuranceagency",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.waxhawinsuranceagency.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/waxhaw.insurance.agency",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.waxhawinsuranceagency.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001501,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://agency.nationwide.com/nc/waxhaw/28173/timothy-g-hausmann"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/nationwide",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://agency.nationwide.com/nc/waxhaw/28173/timothy-g-hausmann",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/nationwide",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://agency.nationwide.com/nc/waxhaw/28173/timothy-g-hausmann",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/2340",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://agency.nationwide.com/nc/waxhaw/28173/timothy-g-hausmann",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001503,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.myagentstaci.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/832546240172341",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.myagentstaci.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001504,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://pruittkeener.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/pruittkeenerinsurance",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://pruittkeener.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/pruittkeener",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://pruittkeener.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/pruitt-keener-insurance-services-inc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://pruittkeener.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001505,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.ohwalkerins.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ohwalkerins",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ohwalkerins.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001506,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.getmoodyinsurance.com/?cmpid=MLLIST"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/238886293208653",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.getmoodyinsurance.com/?cmpid=MLLIST",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/getmoodyinsurance",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.getmoodyinsurance.com/?cmpid=MLLIST",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001507,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://agents.farmers.com/nc/charlotte/dennis-yoney/?SourceID=AMPALFGMAG&y_source=1_MTAwMzg5NzMyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/wearefarmers",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://agents.farmers.com/nc/charlotte/dennis-yoney/?SourceID=AMPALFGMAG&y_source=1_MTAwMzg5NzMyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/dennisyoneyagency1",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://agents.farmers.com/nc/charlotte/dennis-yoney/?SourceID=AMPALFGMAG&y_source=1_MTAwMzg5NzMyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/dennisyoneyagencyllc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://agents.farmers.com/nc/charlotte/dennis-yoney/?SourceID=AMPALFGMAG&y_source=1_MTAwMzg5NzMyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/farmersinsurance",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://agents.farmers.com/nc/charlotte/dennis-yoney/?SourceID=AMPALFGMAG&y_source=1_MTAwMzg5NzMyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/farmers-insurance",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://agents.farmers.com/nc/charlotte/dennis-yoney/?SourceID=AMPALFGMAG&y_source=1_MTAwMzg5NzMyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001508,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://emmetsnc.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/1377764762323740",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://emmetsnc.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/emmetssocialtable",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://emmetsnc.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001509,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "http://www.maxwellstavern.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/maxwellstavernwaxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "http://www.maxwellstavern.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/maxwells_tavern",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "http://www.maxwellstavern.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001510,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "http://www.bdantonio.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/bistro.d.antonio",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "http://www.bdantonio.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/bistroantonio",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "http://www.bdantonio.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001511,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.angelinasitalianmarkets.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61554836245173",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.angelinasitalianmarkets.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/angelinasitalianmarkets",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.angelinasitalianmarkets.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001512,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://maryoneills.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/502984670051553",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://maryoneills.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/maryoneills",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://maryoneills.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001513,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://yafokitchen.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/yafo-kitchen-1006297102764490",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://yafokitchen.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/yafokitchen",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://yafokitchen.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001514,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.queenssouth.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/queenssouthwaxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.queenssouth.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/queenssouth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.queenssouth.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001515,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.ckvhomemadefoods.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/celineskitchenvirundhu",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ckvhomemadefoods.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/celineskitchenvirundhu",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ckvhomemadefoods.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001516,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://eatatdish.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/eatatdishofficial",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://eatatdish.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/eatatdish",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://eatatdish.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001517,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.northitalia.com/locations/ballantyne-nc/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/northitalia",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.northitalia.com/locations/ballantyne-nc/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/eatnorthitalia",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.northitalia.com/locations/ballantyne-nc/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@eatnorthitalia",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.northitalia.com/locations/ballantyne-nc/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001518,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://trio-charlotte.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/triorestaurantcharlotte",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://trio-charlotte.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001519,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.iniziopizza.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/iniziopizza",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.iniziopizza.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/iniziopizza",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.iniziopizza.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001521,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.charlotte.carolinavet.com/site/home"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/carolina-veterinary-specialists-charlotte-133340856718823",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.charlotte.carolinavet.com/site/home",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001125,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.ballantynevet.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ballantynevet",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ballantynevet.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ballantynevet",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ballantynevet.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001522,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.piperglenanimalhospital.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/469433046483338",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.piperglenanimalhospital.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/piperglenanimalhospital",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.piperglenanimalhospital.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001358,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://pinevilleanimalclinic.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/pinevilleanimalclinic",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://pinevilleanimalclinic.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/pinevilleanimalclinic",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://pinevilleanimalclinic.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001359,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://bbmacademy.com/location/waxhaw/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/bigbluemarbleacademy",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://bbmacademy.com/location/waxhaw/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/bbmacademy",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://bbmacademy.com/location/waxhaw/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001523,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://thelearningexperience.com/centers/waxhaw-nc-providence/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/tlechildcarecenters",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thelearningexperience.com/centers/waxhaw-nc-providence/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/thelearningexperiencewaxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thelearningexperience.com/centers/waxhaw-nc-providence/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/thelearningexperience",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thelearningexperience.com/centers/waxhaw-nc-providence/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/tle.waxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thelearningexperience.com/centers/waxhaw-nc-providence/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/the-learning-experience",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thelearningexperience.com/centers/waxhaw-nc-providence/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC63yakz5IV4rRLvSqwdf19Q",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://thelearningexperience.com/centers/waxhaw-nc-providence/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001524,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.laurelwoodcommunitypreschool.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/laurelwoodcommunitypreschool",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.laurelwoodcommunitypreschool.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001525,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.everbrookacademy.com/our-schools/charlotte-nc-4608/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/everbrookacademy",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.everbrookacademy.com/our-schools/charlotte-nc-4608/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/everbrookacademy",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.everbrookacademy.com/our-schools/charlotte-nc-4608/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCpLzZDROfslfDEj1lhCVEMA",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.everbrookacademy.com/our-schools/charlotte-nc-4608/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001526,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.ivybrookacademy.com/weddington/",
+        "https://www.ivybrookacademy.com/contact/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ivybrookacademyweddington",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ivybrookacademy.com/weddington/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ivybrookacademyweddington",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ivybrookacademy.com/weddington/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ivybrookacademy",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ivybrookacademy.com/contact/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ivybrookacademypreschools",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ivybrookacademy.com/contact/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/ivybrook-academy",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ivybrookacademy.com/contact/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001527,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://kiddieacademy.com/academies/charlotte-blakeney/",
+        "https://kiddieacademy.com/contact-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/kiddieacademyblakeney",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://kiddieacademy.com/academies/charlotte-blakeney/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/kiddieacademy",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://kiddieacademy.com/contact-us/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/kiddieacademyhq",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://kiddieacademy.com/contact-us/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001529,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.spiritedsproutplay.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/spiritedsproutplay",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.spiritedsproutplay.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/spiritedsproutplay",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.spiritedsproutplay.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001530,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.ballancrestacademy.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ballancrestacademy",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ballancrestacademy.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/ballancrest-academy",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ballancrestacademy.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001531,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://kidsrkids.com/blakeney/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/kids-r-kids-academy-at-blakeney-107913692611561",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://kidsrkids.com/blakeney/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001532,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://themiraclechurch.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/gcccharlotte",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://themiraclechurch.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/themiraclechurch",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://themiraclechurch.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCn0Iz1CdTKhpgVuKakcGXuA",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://themiraclechurch.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001533,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.bcfcog.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/cogbcf",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.bcfcog.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/bcfcog",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.bcfcog.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001534,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.ascendchurchnc.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ascendchurchnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ascendchurchnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001362,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.kingdm.church/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/kingdomchurchwaxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.kingdm.church/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/kingdomchurchwaxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.kingdm.church/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@kingdomchurchwaxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.kingdm.church/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001536,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.southbrookchurch.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/southbrook",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.southbrookchurch.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/southbrookchurch",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.southbrookchurch.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC3t2h5hivGbG05-8Tictv0g",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.southbrookchurch.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001537,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.waxhawbible.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/waxhawbiblechurch",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.waxhawbible.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@WaxhawBibleChurch",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.waxhawbible.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001538,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://unionumc.net/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/unionumc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://unionumc.net/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/unionumcwaxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://unionumc.net/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001154,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.calvarychurch.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/calvaryclt",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.calvarychurch.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/calvaryclt",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.calvarychurch.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001363,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.saintmargarets.net/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/stmwaxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.saintmargarets.net/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/stmwaxhaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.saintmargarets.net/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001414,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.gordonfuneralservice.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/gfsandcrematory",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.gordonfuneralservice.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001160,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.magnoliafuneral.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61565198606326",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.magnoliafuneral.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/magnoliafunerals",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.magnoliafuneral.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001296,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.invitedclubs.com/clubs/country-club-of-the-carolinas/membership-hlp?contactType=membership&ic_inquiry_type=Membership&ic_club_code=02775&ic_campaign_source=Website&ic_promo_type=GoogleMyBusiness&ic_campaign_description=CCCarolinasGMBLink",
+        "https://www.invitedclubs.com/company/management-team"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/countryclubofthecarolinas",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.invitedclubs.com/clubs/country-club-of-the-carolinas/membership-hlp?contactType=membership&ic_inquiry_type=Membership&ic_club_code=02775&ic_campaign_source=Website&ic_promo_type=GoogleMyBusiness&ic_campaign_description=CCCarolinasGMBLink",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/country_club_of_the_carolinas",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.invitedclubs.com/clubs/country-club-of-the-carolinas/membership-hlp?contactType=membership&ic_inquiry_type=Membership&ic_club_code=02775&ic_campaign_source=Website&ic_promo_type=GoogleMyBusiness&ic_campaign_description=CCCarolinasGMBLink",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/whereyoubelongclubs",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.invitedclubs.com/company/management-team",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/invitedclubs",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.invitedclubs.com/company/management-team",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/invitedclubs",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.invitedclubs.com/company/management-team",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/clubcorp",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.invitedclubs.com/company/management-team",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001379,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://waxhawwomansclub.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/waxhawwomansclub",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://waxhawwomansclub.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/waxhawwomansclub",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://waxhawwomansclub.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001542,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.heritageconferencecenter.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/heritageconferencecenter",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.heritageconferencecenter.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/himconferencecenter",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.heritageconferencecenter.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1410,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.teamhortoncharlotte.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/teamhortoncharlotte",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.teamhortoncharlotte.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001544,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://forrestandforrest.com/about-us/doctors/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/forrestandforrestfamilydentistry",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://forrestandforrest.com/about-us/doctors/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/forrest_and_forrest",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://forrestandforrest.com/about-us/doctors/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000500,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://indiantraildentalstudio.com/meet-the-dr/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/indiantraildentalstudio",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://indiantraildentalstudio.com/meet-the-dr/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/indiantraildentalstudio",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://indiantraildentalstudio.com/meet-the-dr/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001545,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.firstinsmilesdentistry.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/firstinsmilesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.firstinsmilesdentistry.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001546,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.ofscarolinas.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ofscarolinas",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.ofscarolinas.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001547,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.metrolinachristian.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/metrolinachristian",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.metrolinachristian.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/metrolinachristian",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.metrolinachristian.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001548,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.arborbrook.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/arborbrook",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.arborbrook.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/arborbrook_christian",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.arborbrook.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001549,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.abundantlifenc.academy/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/alcanc17",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.abundantlifenc.academy/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/abundantlifenc_academy",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.abundantlifenc.academy/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000169,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://ites.ucpsnc.org"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/indiantrailesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ites.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/indiantrailesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ites.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCczSgtuv5rYmVCc-eryKaFg",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://ites.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000168,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://hbes.ucpsnc.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/hembybridgeesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://hbes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/hembybridgeesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://hbes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/HembyBridgeESNC",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://hbes.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000176,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://pres.ucpsnc.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/porterridgeesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://pres.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/porterridgeesnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://pres.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/PorterRidgeESNC",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://pres.ucpsnc.org/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000182,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://svms.ucpsnc.org"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/sunvalleymiddle",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://svms.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/sunvalleymsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://svms.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/SunValleyMSNC",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://svms.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000178,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://prms.ucpsnc.org"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/porterridgemsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://prms.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/porterridgemsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://prms.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/PorterRidgeMSNC",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://prms.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000177,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://prhs.ucpsnc.org"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/porterridgehsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://prhs.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/porterridgehsnc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://prhs.ucpsnc.org",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001268,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://atriumhealth.org/locations/detail/atrium-health-primary-care-lake-park-family-medicine"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/atriumhealthus",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-lake-park-family-medicine",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/atriumhealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-lake-park-family-medicine",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/atrium-health-us",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-lake-park-family-medicine",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCiD9YK-eV9n0SWR7seZP_DQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-lake-park-family-medicine",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000931,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://atriumhealth.org/locations/detail/atrium-health-primary-care-one-health-family-medicine-matthews"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/atriumhealthus",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-one-health-family-medicine-matthews",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/atriumhealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-one-health-family-medicine-matthews",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/atrium-health-us",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-one-health-family-medicine-matthews",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCiD9YK-eV9n0SWR7seZP_DQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/locations/detail/atrium-health-primary-care-one-health-family-medicine-matthews",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1000933,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://atriumhealth.org/provider-profile/tina-lovings-1063731453"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/atriumhealthus",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/tina-lovings-1063731453",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/atriumhealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/tina-lovings-1063731453",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/atrium-health-us",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/tina-lovings-1063731453",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCiD9YK-eV9n0SWR7seZP_DQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/tina-lovings-1063731453",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001550,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://doctorscotts.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/drscottswellness",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://doctorscotts.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/drscottcharlotte",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://doctorscotts.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCH2fyVSLgl9VjOvORmVUOuA",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://doctorscotts.com/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001551,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://urologyspecialistsnc.com/union-west/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/urologyclt",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://urologyspecialistsnc.com/union-west/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/urology-specialists-of-the-carolinas",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://urologyspecialistsnc.com/union-west/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001552,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://urologyspecialistsnc.com/matthews/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/urologyclt",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://urologyspecialistsnc.com/matthews/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/urology-specialists-of-the-carolinas",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://urologyspecialistsnc.com/matthews/",
+          "notes": "Explicitly reviewed profile link on the owned business source. Shared parent-brand account where applicable; current activity/availability and follow state are unverified."
         }
       ]
     }

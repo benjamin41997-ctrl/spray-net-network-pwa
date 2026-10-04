@@ -37,8 +37,12 @@ for(const r of rows){
  const c=d.companies.find(c=>c.id===id);if(id<1000000&&!c)throw Error('Missing referral identity '+id);
  const prior=m.recipients.find(q=>q.id===id);if(r.disposition==='existing')report.existing++;
  if(!prior){
-  const recipient={id,name:c?.name||r.name,category:c?.category||r.category,attention:'',address1:r.address1,address2:r.address2,city:r.city,state:r.state,zip:r.zip,country:'US',source:r.source,reviewedOn:reviewedOn,status:'needs_review',addressSourceType:'company_website',exterior:{route:'unknown',reason:'Business identity/location researched. Property ownership and exterior approval authority remain unverified.',source:r.source,reviewedOn:reviewedOn}};
-  if(completeAddress(recipient)){recipient.status='published';report.newAddresses++;}
+  const mailingSource=r.source.startsWith('https://')?r.source:'';
+  const recipient={id,name:c?.name||r.name,category:c?.category||r.category,attention:'',address1:r.address1,address2:r.address2,city:r.city,state:r.state,zip:r.zip,country:'US',source:mailingSource,reviewedOn:reviewedOn,status:'needs_review',addressSourceType:'company_website'};
+  // HTTP evidence remains in business details; do not invent an HTTPS route
+  // or promote an explicitly held address to an exportable mailing record.
+  if(mailingSource)recipient.exterior={route:'unknown',reason:'Business identity/location researched. Property ownership and exterior approval authority remain unverified.',source:mailingSource,reviewedOn:reviewedOn};
+  if(completeAddress(recipient)&&mailingSource&&!r.mailingHold){recipient.status='published';report.newAddresses++;}
   m.recipients.push(recipient);
   if(r.disposition==='new'&&!mapping[r.key]){if(c)report.newReferral++;else report.newBusiness++;}
  }
