@@ -189,6 +189,31 @@
       "phone": "+17042431122"
     },
     {
+      "id": 1000059,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://newtowndds.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://newtowndds.com/contact-us/",
+      "phone": "+17043736040",
+      "email": "info@newtowndds.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://newtowndds.com/contact-us/"
+        ]
+      }
+    },
+    {
       "id": 1000061,
       "people": [],
       "sources": [
@@ -782,10 +807,27 @@
           "url": "https://magnoliamedicalaesthetics.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://magnoliamedicalaesthetics.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
-      "website": "https://magnoliamedicalaesthetics.com/"
+      "verified": "2026-10-04",
+      "website": "https://magnoliamedicalaesthetics.com/",
+      "phone": "+18036710234",
+      "email": "contact@magnoliamedicalaesthetics.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://magnoliamedicalaesthetics.com/contact-us/"
+        ]
+      }
     },
     {
       "id": 1000113,
@@ -888,12 +930,22 @@
         {
           "url": "https://www.blood-law.com/",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.blood-law.com/",
-      "phone": "+17042860570"
+      "phone": "+17042860570",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.blood-law.com/"
+        ]
+      }
     },
     {
       "id": 1000126,
@@ -1117,6 +1169,54 @@
       "phone": "+17042963005"
     },
     {
+      "id": 1000166,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://chs.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://chs.ucpsnc.org/",
+      "phone": "+17042960105",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://chs.ucpsnc.org/"
+        ]
+      }
+    },
+    {
+      "id": 1000167,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://cms.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://cms.ucpsnc.org/",
+      "phone": "+17042960107",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://cms.ucpsnc.org/"
+        ]
+      }
+    },
+    {
       "id": 1000168,
       "people": [],
       "sources": [
@@ -1287,12 +1387,22 @@
         {
           "url": "https://rves.ucpsnc.org/",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://rves.ucpsnc.org/",
-      "phone": "+17042901524"
+      "phone": "+17042901524",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://rves.ucpsnc.org/"
+        ]
+      }
     },
     {
       "id": 1000180,
@@ -1307,6 +1417,30 @@
       "verified": "2026-10-04",
       "website": "https://sres.ucpsnc.org/",
       "phone": "+17042901505"
+    },
+    {
+      "id": 1000181,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sps.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://sps.ucpsnc.org/",
+      "phone": "+17042901580",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://sps.ucpsnc.org/"
+        ]
+      }
     },
     {
       "id": 1000182,
@@ -1373,6 +1507,30 @@
       "verified": "2026-10-01",
       "website": "https://whs.ucpsnc.org/",
       "phone": "+17042966319"
+    },
+    {
+      "id": 1000187,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://wues.ucpsnc.org/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://wues.ucpsnc.org/",
+      "phone": "+17042966355",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://wues.ucpsnc.org/"
+        ]
+      }
     },
     {
       "id": 1000197,
@@ -10461,13 +10619,28 @@
           "url": "https://smilesinthesun.com/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://smilesinthesun.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "website": "https://smilesinthesun.com/",
       "phone": "8035479786",
       "services": "Dental office.",
       "subcategory": "Dental office",
-      "verified": "2026-09-30"
+      "verified": "2026-10-04",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://smilesinthesun.com/contact-us/"
+        ]
+      }
     },
     {
       "id": 1000582,
@@ -17522,12 +17695,22 @@
         {
           "url": "https://www.tryonmed.com/locations/",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.tryonmed.com/locations/",
-      "phone": "+17044956036"
+      "phone": "+17044956036",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.tryonmed.com/locations/"
+        ]
+      }
     },
     {
       "id": 1001041,
@@ -22849,7 +23032,22 @@
     },
     {
       "id": 1001390,
-      "people": [],
+      "people": [
+        {
+          "id": 100058215,
+          "name": "Danielle Roberts",
+          "role": "Physician Assistant",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://dremedspa.com/",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "url": "https://dremedspa.janeapp.com/locations/dre-medical-spa/book",
@@ -22860,12 +23058,27 @@
           "url": "https://www.dremedspa.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://dremedspa.com/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.dremedspa.com/",
       "phone": "+17047772286",
-      "email": "danielle@dremedspa.com"
+      "email": "danielle@dremedspa.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://dremedspa.com/"
+        ]
+      }
     },
     {
       "id": 1001391,
@@ -23059,12 +23272,23 @@
         {
           "url": "https://www.medspamagnolia.com/locations",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.medspamagnolia.com/booking",
-      "phone": "+17048781120"
+      "phone": "+17048781120",
+      "email": "frontdesk@medspamagnolia.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.medspamagnolia.com/locations"
+        ]
+      }
     },
     {
       "id": 1001404,
@@ -23087,12 +23311,23 @@
         {
           "url": "https://www.medspamagnolia.com/locations",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.medspamagnolia.com/booking",
-      "phone": "+17048781120"
+      "phone": "+17048781120",
+      "email": "frontdesk@medspamagnolia.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.medspamagnolia.com/locations"
+        ]
+      }
     },
     {
       "id": 1001406,
@@ -23374,11 +23609,26 @@
           "url": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/charlotte/cltjr/hoteldetail",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://lodging.charlottesgotalot.com/property/5156/holiday-inn-express-suites-charlotte-ballantyne-an-ihg-hotel",
+          "type": "official organization directory",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/charlotte/cltjr/hoteldetail",
-      "phone": "+17045419004"
+      "phone": "+17045419004",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://lodging.charlottesgotalot.com/property/5156/holiday-inn-express-suites-charlotte-ballantyne-an-ihg-hotel"
+        ]
+      }
     },
     {
       "id": 1001426,
@@ -23402,11 +23652,26 @@
           "url": "https://www.lbjcpa.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.lbjcpa.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.lbjcpa.com/",
-      "phone": "+17049191754"
+      "phone": "+17049191754",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.lbjcpa.com/contact-us/"
+        ]
+      }
     },
     {
       "id": 1001428,
@@ -24192,10 +24457,26 @@
           "url": "https://www.ucpsnc.org/",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://www.ucpsnc.org/students-families/student-support",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
-      "website": "https://www.ucpsnc.org/"
+      "website": "https://www.ucpsnc.org/",
+      "phone": "+17042969898",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ucpsnc.org/students-families/student-support"
+        ]
+      }
     },
     {
       "id": 1001483,
@@ -27184,6 +27465,1211 @@
         "checkedAt": "2026-10-04",
         "sources": [
           "https://karencoletimelesstreasures.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001692,
+      "people": [
+        {
+          "id": 100058211,
+          "name": "Melissa H. Ratliff",
+          "role": "Founder / Family Medicine Physician",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://www.ncafp.com/ncafp-member-spotlight-melissa-ratliff",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://drmelissaratliff.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://drmelissaratliff.com/",
+      "phone": "+17044438530",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://drmelissaratliff.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001693,
+      "people": [
+        {
+          "id": 100058212,
+          "name": "Augustus Parker IV",
+          "role": "Family Medicine Physician",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://www.novanthealth.org/pf/providers/1285868117/augustus-parker",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.novanthealth.org/locations/clinics/blakeney-family-physicians/location/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.novanthealth.org/locations/clinics/blakeney-family-physicians/location/",
+      "phone": "+17043165080",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.novanthealth.org/locations/clinics/blakeney-family-physicians/location/"
+        ]
+      }
+    },
+    {
+      "id": 1001694,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinafamilyhealthcare.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.carolinafamilyhealthcare.com/contact/",
+      "phone": "+17048474000",
+      "email": "info@carolinafamilyhc.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.carolinafamilyhealthcare.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001695,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.piedmontmedicalnetwork.com/locations/detail/primary---specialty-care-center---piedmont-physician-network",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.piedmontmedicalnetwork.com/locations/detail/primary---specialty-care-center---piedmont-physician-network",
+      "phone": "+18037108012",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.piedmontmedicalnetwork.com/locations/detail/primary---specialty-care-center---piedmont-physician-network"
+        ]
+      }
+    },
+    {
+      "id": 1001696,
+      "people": [
+        {
+          "id": 100058213,
+          "name": "Michael McKeown",
+          "role": "Chiropractor",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://revlismedical.com/contact-us/",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://revlismedical.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://revlismedical.com/contact-us/",
+      "phone": "+18035482310",
+      "email": "info@revlismedical.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://revlismedical.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1001697,
+      "people": [
+        {
+          "id": 100058214,
+          "name": "Megan Burns Sanborn",
+          "role": "Family Medicine Physician",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://atriumhealth.org/provider-profile/megan-sanborn-1659862605",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://atriumhealth.org/provider-profile/megan-sanborn-1659862605",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://atriumhealth.org/provider-profile/megan-sanborn-1659862605",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://atriumhealth.org/provider-profile/megan-sanborn-1659862605"
+        ]
+      }
+    },
+    {
+      "id": 1001698,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://viomedspa.com/charlotte/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://viomedspa.com/charlotte/",
+      "phone": "+19804704846",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://viomedspa.com/charlotte/"
+        ]
+      }
+    },
+    {
+      "id": 1001699,
+      "people": [
+        {
+          "id": 100058216,
+          "name": "Joel Beck",
+          "role": "Founder / Plastic Surgeon",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://www.beckaestheticsurgery.com/about/surface-medspa-qanda/",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.beckaestheticsurgery.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.beckaestheticsurgery.com/contact/",
+      "phone": "+17048172597",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.beckaestheticsurgery.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001700,
+      "people": [
+        {
+          "id": 100058217,
+          "name": "Alona Shimonov",
+          "role": "Owner / Licensed Esthetician",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://www.mossandblacksalon.com/skinandlashesbyalona",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.mossandblacksalon.com/skinandlashesbyalona",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.mossandblacksalon.com/skinandlashesbyalona",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.mossandblacksalon.com/skinandlashesbyalona"
+        ]
+      }
+    },
+    {
+      "id": 1001701,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.evexipel.com/hormone-replacement-therapy-provider/pure-primary-wellness-waxhaw-nc/",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.evexipel.com/hormone-replacement-therapy-provider/pure-primary-wellness-waxhaw-nc/",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.evexipel.com/hormone-replacement-therapy-provider/pure-primary-wellness-waxhaw-nc/"
+        ]
+      }
+    },
+    {
+      "id": 1001702,
+      "people": [
+        {
+          "id": 100058218,
+          "name": "Carol Culpepper",
+          "role": "Owner",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://skintherapyofcharlotte.com/",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://skintherapyofcharlotte.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://skintherapyofcharlotte.com/",
+      "phone": "+17046041272",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://skintherapyofcharlotte.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001703,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://mulebarnmercantile.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://mulebarnmercantile.com/",
+      "phone": "+19802697592",
+      "visit": {
+        "status": "walk_in",
+        "summary": "Owned retail page publishes storefront and customer opening hours. Confirm the appropriate person for a vendor introduction and actual exterior-approval authority.",
+        "address": "121 South Broome Street Waxhaw NC",
+        "hours": "Monday-Thursday 10 AM-5 PM; Friday-Saturday 10 AM-7 PM; Sunday 1 PM-5 PM",
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://mulebarnmercantile.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001704,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.jovani.com/product/ruffle-tiered-mermaid-prom-dress-47329/",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://irisandpoppy.com/",
+      "phone": "+17042561516",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.jovani.com/product/ruffle-tiered-mermaid-prom-dress-47329/"
+        ]
+      }
+    },
+    {
+      "id": 1001705,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://specialtyshopssouthpark.com/about/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://specialtyshopssouthpark.com/about/",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://specialtyshopssouthpark.com/about/"
+        ]
+      }
+    },
+    {
+      "id": 1001706,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://mainstreamboutiquecharlotte.com/pages/hours-location",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://mainstreamboutiquecharlotte.com/pages/hours-location",
+      "visit": {
+        "status": "walk_in",
+        "summary": "Owned retail page publishes storefront and customer opening hours. Confirm the appropriate person for a vendor introduction and actual exterior-approval authority.",
+        "address": "7314 Waverly Walk Avenue E-5 Charlotte NC 28277",
+        "hours": "Monday-Saturday 10 AM-6 PM; Sunday noon-4 PM",
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://mainstreamboutiquecharlotte.com/pages/hours-location"
+        ]
+      }
+    },
+    {
+      "id": 1001707,
+      "people": [
+        {
+          "id": 100058219,
+          "name": "Christine A. Cook Carlini",
+          "role": "Founder / CPA",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://carlinicpa.com/about/",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://carlinicpa.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://carlinicpa.com/contact/",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://carlinicpa.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001708,
+      "people": [
+        {
+          "id": 100058220,
+          "name": "J. Erik Groves",
+          "role": "Attorney",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://groveslaw.com/",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://groveslaw.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://groveslaw.com/contact-us/",
+      "phone": "+17048437575",
+      "email": "jeg@groveslaw.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Explicit correspondence route is PO Box 895. Visitor office is 604 Old Providence Road, Waxhaw; mailing box does not imply walk-in access. Confirm vendor visitor arrangements.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://groveslaw.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1001709,
+      "people": [
+        {
+          "id": 100058221,
+          "name": "Melanie Cox",
+          "role": "Attorney",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://coxlawfirm.com/about/",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        },
+        {
+          "id": 100058222,
+          "name": "Christopher Cox",
+          "role": "Attorney",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://coxlawfirm.com/about/",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://coxlawfirm.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://coxlawfirm.com/contact/",
+      "phone": "+17042439693",
+      "email": "info@coxlawfirm.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Explicit correspondence route is PO Box 178. Visitor office is 400 North Broome Street Suite 100, Waxhaw; arrange vendor visit separately. Confirm vendor visitor arrangements.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://coxlawfirm.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001710,
+      "people": [
+        {
+          "id": 100058223,
+          "name": "Christine A. Rodriguez",
+          "role": "Founder / Attorney",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://crodlaw.net/",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://crodlaw.net/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://crodlaw.net/",
+      "phone": "+17049811767",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://crodlaw.net/"
+        ]
+      }
+    },
+    {
+      "id": 1001711,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.jawillifordlaw.com/appointments",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.jawillifordlaw.com/appointments",
+      "phone": "+17045650016",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.jawillifordlaw.com/appointments"
+        ]
+      }
+    },
+    {
+      "id": 1001712,
+      "people": [
+        {
+          "id": 100058224,
+          "name": "Matthew D. Pierce",
+          "role": "Attorney",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://www.pierceimmigrationlaw.com/",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.pierceimmigrationlaw.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.pierceimmigrationlaw.com/",
+      "phone": "+19809872187",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "Owned attorney page requests calling to arrange an appointment. Arrange networking introduction in advance.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.pierceimmigrationlaw.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001713,
+      "people": [
+        {
+          "id": 100058225,
+          "name": "Kevin Godfrey",
+          "role": "Insurance Agent",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://agents.allstate.com/kevin-godfrey-waxhaw-nc1.html",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://agents.allstate.com/kevin-godfrey-waxhaw-nc1.html",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://agents.allstate.com/kevin-godfrey-waxhaw-nc1.html",
+      "phone": "+17045731113",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://agents.allstate.com/kevin-godfrey-waxhaw-nc1.html"
+        ]
+      }
+    },
+    {
+      "id": 1001714,
+      "people": [
+        {
+          "id": 100058226,
+          "name": "Arthur Stover",
+          "role": "Insurance Agent",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://agents.allstate.com/arthur-stover-waxhaw-nc.html",
+              "type": "public primary source",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://agents.allstate.com/arthur-stover-waxhaw-nc.html",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://agents.allstate.com/arthur-stover-waxhaw-nc.html",
+      "phone": "+17045415118",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://agents.allstate.com/arthur-stover-waxhaw-nc.html"
+        ]
+      }
+    },
+    {
+      "id": 1001715,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.comparioninsurance.com/insurance-agent/north-carolina/charlotte-048c",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.comparioninsurance.com/insurance-agent/north-carolina/charlotte-048c",
+      "phone": "+17044965965",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.comparioninsurance.com/insurance-agent/north-carolina/charlotte-048c"
+        ]
+      }
+    },
+    {
+      "id": 1001716,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://movementinsurance.com/about/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://movementinsurance.com/about/",
+      "phone": "+18775875327",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://movementinsurance.com/about/"
+        ]
+      }
+    },
+    {
+      "id": 1001717,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hanover.com/about-hanover/about-our-company/our-locations",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.hanover.com/about-hanover/about-our-company/our-locations",
+      "phone": "+17049192640",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.hanover.com/about-hanover/about-our-company/our-locations"
+        ]
+      }
+    },
+    {
+      "id": 1001718,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.theflipsiderestaurant.com/sip---cinder",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.theflipsiderestaurant.com/sip---cinder",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.theflipsiderestaurant.com/sip---cinder"
+        ]
+      }
+    },
+    {
+      "id": 1001719,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://carolinacharcuterieandcatering.com/catering/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://carolinacharcuterieandcatering.com/catering/",
+      "phone": "+17042564900",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://carolinacharcuterieandcatering.com/catering/"
+        ]
+      }
+    },
+    {
+      "id": 1001720,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://littlemamasitalian.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://littlemamasitalian.com/",
+      "phone": "+19802090323",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://littlemamasitalian.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001721,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://littlemamasitalian.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://littlemamasitalian.com/",
+      "phone": "+17045203601",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://littlemamasitalian.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001722,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://zinicolaitalian.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://zinicolaitalian.com/contact/",
+      "phone": "+19802992979",
+      "email": "info@zinicolaitalian.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://zinicolaitalian.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001723,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.truvaturkishkitchencharlotte.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.truvaturkishkitchencharlotte.com/",
+      "phone": "+19802074372",
+      "email": "truva@truvaturkishkitchencharlotte.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.truvaturkishkitchencharlotte.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001724,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.veg.com/locations/north-carolina",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.veg.com/locations/north-carolina",
+      "phone": "+19808806062",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.veg.com/locations/north-carolina"
+        ]
+      }
+    },
+    {
+      "id": 1001725,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://foresthill.org/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://foresthill.org/",
+      "phone": "+17047168700",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://foresthill.org/"
+        ]
+      }
+    },
+    {
+      "id": 1001726,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://transformationchurch.tc/indianland/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://transformationchurch.tc/indianland/",
+      "phone": "+18038350630",
+      "visit": {
+        "status": "unknown",
+        "summary": "Owned office information says Friday building closed with remote office hours. Arrange vendor introduction; worship/office hours are not access permission.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://transformationchurch.tc/indianland/"
+        ]
+      }
+    },
+    {
+      "id": 1001727,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.newlivingword.org/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.newlivingword.org/",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.newlivingword.org/"
+        ]
+      }
+    },
+    {
+      "id": 1001728,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.throbertson.com/contact-us/charlotte-nc",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.throbertson.com/contact-us/charlotte-nc",
+      "phone": "+17047527710",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.throbertson.com/contact-us/charlotte-nc"
+        ]
+      }
+    },
+    {
+      "id": 1001729,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.stephenson-gaskin.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.stephenson-gaskin.com/",
+      "phone": "+17048826733",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.stephenson-gaskin.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001730,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.nexusdentalassociates.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.nexusdentalassociates.com/",
+      "phone": "+17048938126",
+      "email": "frontdesk@nexusdentalassociates.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public source reviewed. Vendor access, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.nexusdentalassociates.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001731,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.montgomeryandhart.com/testimonials/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.montgomeryandhart.com/testimonials/",
+      "visit": {
+        "status": "unknown",
+        "summary": "Owned office directory corroborates separate Charlotte branch. Arrange vendor introduction; exterior authority/property ownership remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.montgomeryandhart.com/testimonials/"
+        ]
+      }
+    },
+    {
+      "id": 1001732,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.montgomeryandhart.com/testimonials/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.montgomeryandhart.com/testimonials/",
+      "visit": {
+        "status": "unknown",
+        "summary": "Owned office directory corroborates separate Charlotte branch. Arrange vendor introduction; exterior authority/property ownership remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.montgomeryandhart.com/testimonials/"
         ]
       }
     }

@@ -29719,6 +29719,417 @@
           "notes": "Explicit business/brand profile linked by the owned source. Availability/activity unverified."
         }
       ]
+    },
+    {
+      "companyId": 1001040,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.tryonmed.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/tryonmedical",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.tryonmed.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/tryonmedical",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.tryonmed.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/tryonmed",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.tryonmed.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001697,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://atriumhealth.org/provider-profile/megan-sanborn-1659862605"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/atriumhealthus",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/megan-sanborn-1659862605",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/atriumhealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/megan-sanborn-1659862605",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/atrium-health-us",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/megan-sanborn-1659862605",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCiD9YK-eV9n0SWR7seZP_DQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://atriumhealth.org/provider-profile/megan-sanborn-1659862605",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001403,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.medspamagnolia.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/magnoliamedspa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.medspamagnolia.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001405,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.medspamagnolia.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/magnoliamedspa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.medspamagnolia.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001698,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://viomedspa.com/charlotte/",
+        "https://viomedspa.com/contact-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/162019516987393",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://viomedspa.com/charlotte/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/viomedspa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://viomedspa.com/contact-us/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/viomedspa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://viomedspa.com/contact-us/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001699,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.beckaestheticsurgery.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/beckaestheticsurgery",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.beckaestheticsurgery.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/beckaestheticsurgery",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.beckaestheticsurgery.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@beckaestheticsurgery",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.beckaestheticsurgery.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001703,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://mulebarnmercantile.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/mulebarnwxw",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://mulebarnmercantile.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/mulebarnmercantile",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://mulebarnmercantile.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001706,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://mainstreamboutiquecharlotte.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/mainstreamboutiquecharlotte",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://mainstreamboutiquecharlotte.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/mainstreamboutiquecharlotte",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://mainstreamboutiquecharlotte.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@mainstreamboutcharlotte",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://mainstreamboutiquecharlotte.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001717,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.hanover.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/hanoverinsurance",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.hanover.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/the.hanover",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.hanover.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/the-hanover-insurance-group",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.hanover.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@thehanoverinsurancegroup",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.hanover.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001720,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://littlemamasitalian.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/littlemamasitalian",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://littlemamasitalian.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/littlemamasitalian",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://littlemamasitalian.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001721,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://littlemamasitalian.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/littlemamasitalian",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://littlemamasitalian.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/littlemamasitalian",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://littlemamasitalian.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001722,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://zinicolaitalian.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/zinicolaitalian",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://zinicolaitalian.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/zinicolaitalian",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://zinicolaitalian.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001723,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.truvaturkishkitchencharlotte.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/truvacharlotte",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.truvaturkishkitchencharlotte.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001729,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.stephenson-gaskin.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61560710407177",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.stephenson-gaskin.com/",
+          "notes": "Explicit business/brand account linked by reviewed public source. Brand-level accounts are shared by offices; activity and availability unverified."
+        }
+      ]
     }
   ]
 }
