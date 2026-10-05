@@ -32338,6 +32338,68 @@
           "notes": "Shop-specific Facebook link in Downtown Belmont official business listing. Public account availability/activity unverified; no follow performed."
         }
       ]
+    },
+    {
+      "companyId": 1441,
+      "checkedOn": "2026-10-05",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://lakenormanwaterfrontrealestate.com/contact-lake-norman-waterfront-realtors/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/homesonlakenorman",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://lakenormanwaterfrontrealestate.com/contact-lake-norman-waterfront-realtors/",
+          "notes": "Explicit business profile linked by owned website. Activity unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/lakeandtownrealty",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://lakenormanwaterfrontrealestate.com/contact-lake-norman-waterfront-realtors/",
+          "notes": "Explicit business profile linked by owned website. Activity unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/lakenormanwaterfront",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://lakenormanwaterfrontrealestate.com/contact-lake-norman-waterfront-realtors/",
+          "notes": "Explicit business profile linked by owned website. Activity unverified; no follow performed."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/lake-norman-waterfront-real-estate",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://lakenormanwaterfrontrealestate.com/contact-lake-norman-waterfront-realtors/",
+          "notes": "Explicit business profile linked by owned website. Activity unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1443,
+      "checkedOn": "2026-10-05",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.carolinahomehub.com/contact/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/carolina-real-estate-experts-the-dan-jones-group-143010512451642",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.carolinahomehub.com/contact/",
+          "notes": "Explicit business profile linked by owned website. Activity unverified; no follow performed."
+        }
+      ]
     }
   ]
 }

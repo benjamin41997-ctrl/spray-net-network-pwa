@@ -24440,6 +24440,222 @@
       "unresolved": [],
       "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
       "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261005g-ballantyne--professional",
+      "area": "ballantyne",
+      "category": "professional",
+      "searchedOn": "2026-10-05",
+      "sources": [
+        {
+          "url": "https://paulbasspllc.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001840
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261005g-indian_trail--veterinary",
+      "area": "indian_trail",
+      "category": "veterinary",
+      "searchedOn": "2026-10-05",
+      "sources": [
+        {
+          "url": "https://carolinavetrec.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001468
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261005g-waxhaw--church",
+      "area": "waxhaw",
+      "category": "church",
+      "searchedOn": "2026-10-05",
+      "sources": [
+        {
+          "url": "https://stmatthewcatholic.org/about-us/directions-campus-map/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://stmatthewcatholic.org/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://stmatthewcatholic.org/about-us/contact/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://stmatthewcatholic.org/about-us/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001841
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261005g-matthews--funeral",
+      "area": "matthews",
+      "category": "funeral",
+      "searchedOn": "2026-10-05",
+      "sources": [
+        {
+          "url": "https://www.carriageservices.com/businesses/forest-lawn-east-cemetery/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001842
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261005g-indian_trail--real_estate",
+      "area": "indian_trail",
+      "category": "real_estate",
+      "searchedOn": "2026-10-05",
+      "sources": [
+        {
+          "url": "https://kingandcorealestate.kw.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1439
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261005g-charlotte--real_estate",
+      "area": "charlotte",
+      "category": "real_estate",
+      "searchedOn": "2026-10-05",
+      "sources": [
+        {
+          "url": "https://shugartrealty.com/accessibility",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1440
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261005g-cornelius--property_management",
+      "area": "cornelius",
+      "category": "property_management",
+      "searchedOn": "2026-10-05",
+      "sources": [
+        {
+          "url": "https://lakenormanwaterfrontrealestate.com/contact-lake-norman-waterfront-realtors/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://lakenormanwaterfrontrealestate.com/huntersville-property-management/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://lakenormanwaterfrontrealestate.com/contact-lake-norman-waterfront-realtors-buying-lake-norman/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://lakenormanwaterfrontrealestate.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://lakenormanwaterfrontrealestate.com/about-us-property-management/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1441
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261005g-huntersville--property_management",
+      "area": "huntersville",
+      "category": "property_management",
+      "searchedOn": "2026-10-05",
+      "sources": [
+        {
+          "url": "https://kuester.com/hoa-locations/hoa-management-huntersville-nc/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://kuester.com/contact-us/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://kuester.com/about-us/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://kuester.com/hoa-locations/davidson-nc-office/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1442
+      ],
+      "unresolved": [
+        "Kuester Management Group - Huntersville: Owned page verifies physical Huntersville branch distinct from FortMill6, but specifies correspondence POBox3340FortMillSC29716. Physical office is not promoted to mailing export until accepted mail route is confirmed. Central contact says closed to public; arrange remote/vendor contact rather than drop-in. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261005g-huntersville--real_estate",
+      "area": "huntersville",
+      "category": "real_estate",
+      "searchedOn": "2026-10-05",
+      "sources": [
+        {
+          "url": "https://www.carolinahomehub.com/contact/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.carolinahomehub.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.carolinahomehub.com/about/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.carolinahomehub.com/agents/dan-jones/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1443
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
     }
   ]
 }

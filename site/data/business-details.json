@@ -24899,12 +24899,23 @@
         {
           "url": "https://carolinavetrec.com/",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-05"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-05",
       "website": "https://carolinavetrec.com/",
-      "phone": "+17048217161"
+      "phone": "+17048217161",
+      "email": "carolinavetrec@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the business contact route. Public business address does not confirm walk-in access, property ownership or exterior approval authority.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-05",
+        "sources": [
+          "https://carolinavetrec.com/"
+        ]
+      }
     },
     {
       "id": 1001469,
@@ -32269,6 +32280,77 @@
         "checkedAt": "2026-10-04",
         "sources": [
           "https://www.nvrss.com/contacts/"
+        ]
+      }
+    },
+    {
+      "id": 1001840,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://paulbasspllc.com/",
+          "type": "company website",
+          "date": "2026-10-05"
+        }
+      ],
+      "verified": "2026-10-05",
+      "website": "https://paulbasspllc.com/",
+      "phone": "+17046441855",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the business contact route. Public business address does not confirm walk-in access, property ownership or exterior approval authority.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-05",
+        "sources": [
+          "https://paulbasspllc.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001841,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://stmatthewcatholic.org/about-us/directions-campus-map/",
+          "type": "company website",
+          "date": "2026-10-05"
+        }
+      ],
+      "verified": "2026-10-05",
+      "website": "https://stmatthewcatholic.org/",
+      "visit": {
+        "status": "call_first",
+        "summary": "Separate worship campus verified. Contact central administration to confirm vendor access and whether correspondence belongs at the campus or central parish.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-05",
+        "sources": [
+          "https://stmatthewcatholic.org/about-us/directions-campus-map/"
+        ]
+      }
+    },
+    {
+      "id": 1001842,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carriageservices.com/businesses/forest-lawn-east-cemetery/",
+          "type": "company website",
+          "date": "2026-10-05"
+        }
+      ],
+      "verified": "2026-10-05",
+      "website": "https://forestlawneast.com/",
+      "phone": "+17048461068",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the business contact route. Public business address does not confirm walk-in access, property ownership or exterior approval authority.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-05",
+        "sources": [
+          "https://www.carriageservices.com/businesses/forest-lawn-east-cemetery/"
         ]
       }
     }

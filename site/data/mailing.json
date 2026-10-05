@@ -49736,7 +49736,7 @@
       "zip": "28079",
       "country": "US",
       "source": "https://carolinavetrec.com/",
-      "reviewedOn": "2026-10-01",
+      "reviewedOn": "2026-10-05",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -49744,7 +49744,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://carolinavetrec.com/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Current owned indexed clinic pages confirm exact name,address and7048217161, matching existing clinic1001468. Public clinic email added; no duplicate facility."
     },
     {
       "id": 1001469,
@@ -61206,6 +61207,190 @@
         "reviewedOn": "2026-10-04"
       },
       "prospectNotes": "NVR Settlement Services current partner contact directory identifies this Galbreath Costner office and branch-specific phone. Separate Charlotte branches are preserved; original Belmont office remains uncorroborated. Firm inbox and other branch contacts not attributed to local staff."
+    },
+    {
+      "id": 1001840,
+      "name": "Law Office of Paul H. Bass, PLLC",
+      "category": "professional",
+      "attention": "",
+      "address1": "16928 Lancaster Hwy",
+      "address2": "Suite 109",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28277",
+      "country": "US",
+      "source": "https://paulbasspllc.com/",
+      "reviewedOn": "2026-10-05",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://paulbasspllc.com/",
+        "reviewedOn": "2026-10-05"
+      },
+      "prospectNotes": "Current owned indexed contact footer and 2026public auction closing instructions corroborate firm correspondence atSuite109. Arrange vendor visit; professional contact is not verified exterior approver."
+    },
+    {
+      "id": 1001841,
+      "name": "St Matthew Catholic Church - Waxhaw Campus",
+      "category": "church",
+      "attention": "",
+      "address1": "4116 Waxhaw-Marvin Road",
+      "address2": "",
+      "city": "Waxhaw",
+      "state": "NC",
+      "zip": "28173",
+      "country": "US",
+      "source": "https://stmatthewcatholic.org/about-us/directions-campus-map/",
+      "reviewedOn": "2026-10-05",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://stmatthewcatholic.org/about-us/directions-campus-map/",
+        "reviewedOn": "2026-10-05"
+      },
+      "prospectNotes": "Current owned directions page explicitly identifies this separate Waxhaw campus. Existing central parish1001028 at8015BallantyneCommons retained. Confirm whether mail should go through central administration; no branch-specific phone or administrative office inferred from worship venue."
+    },
+    {
+      "id": 1001842,
+      "name": "Forest Lawn East Cemetery",
+      "category": "funeral",
+      "attention": "",
+      "address1": "3700 Forest Lawn Drive",
+      "address2": "",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28104",
+      "country": "US",
+      "source": "https://www.carriageservices.com/businesses/forest-lawn-east-cemetery/",
+      "reviewedOn": "2026-10-05",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.carriageservices.com/businesses/forest-lawn-east-cemetery/",
+        "reviewedOn": "2026-10-05"
+      },
+      "prospectNotes": "Business parent Carriage Services provides cemetery-specific name,address and phone. Cemetery visitor access or24hour grounds listing does not establish administrative office hours or approval authority."
+    },
+    {
+      "id": 1439,
+      "name": "King & Co Real Estate Group at Keller Williams Select",
+      "category": "real_estate",
+      "attention": "",
+      "address1": "6431 Old Monroe Road",
+      "address2": "Suite 201",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "28079",
+      "country": "US",
+      "source": "https://kingandcorealestate.kw.com/",
+      "reviewedOn": "2026-10-05",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://kingandcorealestate.kw.com/",
+        "reviewedOn": "2026-10-05"
+      },
+      "prospectNotes": "Current broker-owned team/profile explicitly identifies Danny King, license283192, contact and Union County office. Team record is distinct from broker1418 and RossGroup1423 at same suite; no separate legal entity asserted."
+    },
+    {
+      "id": 1440,
+      "name": "Jason Mitchell Real Estate - Charlotte",
+      "category": "real_estate",
+      "attention": "",
+      "address1": "1515 Mockingbird Lane",
+      "address2": "Suite 400",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28209",
+      "country": "US",
+      "source": "https://shugartrealty.com/accessibility",
+      "reviewedOn": "2026-10-05",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://shugartrealty.com/accessibility",
+        "reviewedOn": "2026-10-05"
+      },
+      "prospectNotes": "Current owned correspondence footer explicitly identifies Jason Mitchell Real Estate, Billy Shugart andSuite400. This is a brokerage office/agent affiliation, not an extra property-listing address or standalone firm inferred from Shugart domain. Direct Billy email is attached to the person, not general inbox."
+    },
+    {
+      "id": 1441,
+      "name": "Lake and Town Realty Property Management",
+      "category": "property_management",
+      "attention": "",
+      "address1": "19109 West Catawba Avenue",
+      "address2": "Suite 200",
+      "city": "Cornelius",
+      "state": "NC",
+      "zip": "28031",
+      "country": "US",
+      "source": "https://lakenormanwaterfrontrealestate.com/contact-lake-norman-waterfront-realtors/",
+      "reviewedOn": "2026-10-05",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://lakenormanwaterfrontrealestate.com/contact-lake-norman-waterfront-realtors/",
+        "reviewedOn": "2026-10-05"
+      },
+      "prospectNotes": "Owned contact page distinguishes real-estate phone7045659873 from property-management7045773306; exact Cornelius office verified and user-authorized. Unmasked general info@lakeandtown.com published by current owned index. Brokerage and property-management services retained under this one office."
+    },
+    {
+      "id": 1442,
+      "name": "Kuester Management Group - Huntersville",
+      "category": "property_management",
+      "attention": "",
+      "address1": "13420 Reese Blvd W",
+      "address2": "Suite 12",
+      "city": "Huntersville",
+      "state": "NC",
+      "zip": "28078",
+      "country": "US",
+      "source": "https://kuester.com/hoa-locations/hoa-management-huntersville-nc/",
+      "reviewedOn": "2026-10-05",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://kuester.com/hoa-locations/hoa-management-huntersville-nc/",
+        "reviewedOn": "2026-10-05"
+      },
+      "prospectNotes": "Owned page verifies physical Huntersville branch distinct from FortMill6, but specifies correspondence POBox3340FortMillSC29716. Physical office is not promoted to mailing export until accepted mail route is confirmed. Central contact says closed to public; arrange remote/vendor contact rather than drop-in."
+    },
+    {
+      "id": 1443,
+      "name": "Carolina Real Estate Experts - The Dan Jones Group",
+      "category": "real_estate",
+      "attention": "",
+      "address1": "15905 Brookway Dr",
+      "address2": "Unit 4108",
+      "city": "Huntersville",
+      "state": "NC",
+      "zip": "28078",
+      "country": "US",
+      "source": "https://www.carolinahomehub.com/contact/",
+      "reviewedOn": "2026-10-05",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.carolinahomehub.com/contact/",
+        "reviewedOn": "2026-10-05"
+      },
+      "prospectNotes": "Current owned contact and agent pages corroborate Huntersville business correspondence. Unit4108 may be a residential/appointment or correspondence route; no storefront/walk-in office inferred. Dan Jones professional role does not prove property ownership/exterior authority."
     }
   ]
 }
