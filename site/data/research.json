@@ -23830,6 +23830,445 @@
       "unresolved": [],
       "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
       "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-belmont--dentist",
+      "area": "belmont",
+      "category": "dentist",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://tworiversdentalnc.com/meet-our-doctor/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1000361
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-belmont--other",
+      "area": "belmont",
+      "category": "other",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://cityofbelmont.civicweb.net/Portal/Default.aspx",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001624
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-belmont--school",
+      "area": "belmont",
+      "category": "school",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://belmontabbeycollege.edu/alumni/donation/st-josephs-chapel-fund-email/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001619
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-belmont--venue",
+      "area": "belmont",
+      "category": "venue",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.camelotmeadowsevent.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001607
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-belmont--lodging",
+      "area": "belmont",
+      "category": "lodging",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://sdwis.epa.gov/ords/safewater/f?p=136%3A103%3A%3A%3A%3ARP%2C103%3AP103_STATE%3ANC",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001820
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-charlotte--district",
+      "area": "charlotte",
+      "category": "district",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.cmsk12.org/office-of-the-superintendent/contact-superintendent",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001037
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-ballantyne--med_spa",
+      "area": "ballantyne",
+      "category": "med_spa",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://classpass.com/studios/velvet-skin-and-aesthetics-charlotte",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001821
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-ballantyne--professional",
+      "area": "ballantyne",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.rjrinsuranceagency.com/service/business-insurance-charlotte-nc-general-liability-insurance-north-carolina-agency/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001822
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-fort_mill--lodging",
+      "area": "fort_mill",
+      "category": "lodging",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/fort-mill/cltmf/hoteldetail/directions",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001823
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-charlotte--lodging",
+      "area": "charlotte",
+      "category": "lodging",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltar/hoteldetail/directions",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltaw/hoteldetail/directions",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltcr/hoteldetail/directions",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001824,
+        1001826,
+        1001828
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-rock_hill--lodging",
+      "area": "rock_hill",
+      "category": "lodging",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/rock-hill/rkhtw/hoteldetail",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.ihg.com/holidayinn/hotels/us/en/rock-hill/clthi/hoteldetail/directions",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001825,
+        1001829
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-matthews--lodging",
+      "area": "matthews",
+      "category": "lodging",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/matthews/staie/hoteldetail/directions",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001827
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-marvin--childcare",
+      "area": "marvin",
+      "category": "childcare",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://spanishforfun.com/spanish-lessons-landing/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://spanishforfun.com/daycare-waxhaw-nc/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://spanishforfun.com/contact-us/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001830
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-waxhaw--church",
+      "area": "waxhaw",
+      "category": "church",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://mamez.org/womens-conference/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001831
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-ballantyne--funeral",
+      "area": "ballantyne",
+      "category": "funeral",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.heritagecares.com/our-services/live-stream",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.heritagecares.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1000842
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-indian_trail--funeral",
+      "area": "indian_trail",
+      "category": "funeral",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.heritagecares.com/our-services/live-stream",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.heritagecares.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1000840
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-indian_land--funeral",
+      "area": "indian_land",
+      "category": "funeral",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.palmettofuneralgroup.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.palmettofuneralgroup.com/about-us/indian-land-sc-funeral-home",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.palmettofuneralgroup.com/about-us/contact-us",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.palmettofuneralgroup.com/about-us",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001832
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-fort_mill--funeral",
+      "area": "fort_mill",
+      "category": "funeral",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.palmettofuneralgroup.com/about-us/fort-mill-sc-funeral-home",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.palmettofuneralgroup.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.palmettofuneralgroup.com/about-us/contact-us",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.palmettofuneralgroup.com/about-us",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001833
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-indian_trail--dentist",
+      "area": "indian_trail",
+      "category": "dentist",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://indiantraildentalstudio.com/contact/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1000500
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-matthews--med_spa",
+      "area": "matthews",
+      "category": "med_spa",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.solasalonstudios.com/locations/matthews",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001834
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004e-charlotte--restaurant",
+      "area": "charlotte",
+      "category": "restaurant",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.aahaar25.com/product/banana-leaf-unlimited-meals-weekdays-/324",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.aahaar25.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001835
+      ],
+      "unresolved": [
+        "Aahaar25 - Rea Road: Owned pickup page identifies Aahaar25 at9824ReaRdSteBCharlotteNC. ZIP and branch-specific public contact route remain unverified, so this basic record stays excluded from mailing exports. Do not substitute the separate PotterRoad property. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
     }
   ]
 }

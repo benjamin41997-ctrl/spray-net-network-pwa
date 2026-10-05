@@ -32149,6 +32149,176 @@
           "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
         }
       ]
+    },
+    {
+      "companyId": 1001607,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.camelotmeadowsevent.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/camelotmeadowsevent",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.camelotmeadowsevent.com/",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/camelotmeadows",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.camelotmeadowsevent.com/",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001037,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.cmsk12.org/office-of-the-superintendent/contact-superintendent"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/charmeckschools",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.cmsk12.org/office-of-the-superintendent/contact-superintendent",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/charmeckschools",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.cmsk12.org/office-of-the-superintendent/contact-superintendent",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/CharMeckSchools",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.cmsk12.org/office-of-the-superintendent/contact-superintendent",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001821,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://classpass.com/studios/velvet-skin-and-aesthetics-charlotte"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/velvetskinandaesthetics",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://classpass.com/studios/velvet-skin-and-aesthetics-charlotte",
+          "notes": "Studio-specific Instagram explicitly linked by its public provider booking page, alongside Square website and exact office. Activity/availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001830,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://spanishforfun.com/daycare-waxhaw-nc/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/spanishforfun",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://spanishforfun.com/daycare-waxhaw-nc/",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/spanishforfun",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://spanishforfun.com/daycare-waxhaw-nc/",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/spanish-for-funn",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://spanishforfun.com/daycare-waxhaw-nc/",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001832,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.palmettofuneralgroup.com/about-us/indian-land-sc-funeral-home"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/palmettofuneralgroup",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.palmettofuneralgroup.com/about-us/indian-land-sc-funeral-home",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCY-Zj-726I6y55qQGRN2A1w",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.palmettofuneralgroup.com/about-us/indian-land-sc-funeral-home",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001833,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.palmettofuneralgroup.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/palmettofuneralgroup",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.palmettofuneralgroup.com/",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCY-Zj-726I6y55qQGRN2A1w",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.palmettofuneralgroup.com/",
+          "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
+        }
+      ]
     }
   ]
 }

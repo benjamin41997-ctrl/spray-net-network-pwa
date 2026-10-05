@@ -19589,15 +19589,15 @@
       "address2": "",
       "city": "Belmont",
       "state": "NC",
-      "zip": "28012-8687",
-      "source": "https://tworiversdentalnc.com/contact-us/",
+      "zip": "28012",
+      "source": "https://tworiversdentalnc.com/meet-our-doctor/",
       "id": 1000361,
       "attention": "",
       "country": "US",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified.",
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown.",
       "exterior": {
         "route": "unknown",
         "reason": "Published business address only. Building ownership, exterior approval authority and walk-in access have not been established.",
@@ -22787,14 +22787,14 @@
       "city": "Indian Trail",
       "state": "NC",
       "zip": "28079",
-      "source": "https://indiantraildentalstudio.com/about-us/",
+      "source": "https://indiantraildentalstudio.com/contact/",
       "id": 1000500,
       "attention": "",
       "country": "US",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified.",
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown.",
       "exterior": {
         "route": "likely_landlord",
         "reason": "Suite/unit address suggests a shared property. Landlord or association approval may be needed; tenancy and ownership are unverified.",
@@ -32367,7 +32367,7 @@
       "zip": "28079",
       "country": "US",
       "source": "https://www.heritagecares.com/our-services/live-stream",
-      "reviewedOn": "2026-09-30",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -32375,7 +32375,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.heritagecares.com/our-services/live-stream",
         "reviewedOn": "2026-09-30"
-      }
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
     },
     {
       "id": 1000841,
@@ -32411,7 +32412,7 @@
       "zip": "28277",
       "country": "US",
       "source": "https://www.heritagecares.com/our-services/live-stream",
-      "reviewedOn": "2026-09-30",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -32419,7 +32420,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.heritagecares.com/our-services/live-stream",
         "reviewedOn": "2026-09-30"
-      }
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
     },
     {
       "id": 1170,
@@ -39111,7 +39113,7 @@
       "state": "NC",
       "zip": "28230-0035",
       "country": "US",
-      "source": "https://www.cmsk12.org/contact-us",
+      "source": "https://www.cmsk12.org/office-of-the-superintendent/contact-superintendent",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
@@ -39121,7 +39123,7 @@
         "source": "https://www.cmsk12.org/",
         "reviewedOn": "2026-10-01"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
     },
     {
       "id": 1001038,
@@ -55203,13 +55205,13 @@
       "name": "Camelot Meadows",
       "category": "venue",
       "attention": "",
-      "address1": "1335 Armstrong Rd",
+      "address1": "1335 Armstrong Road",
       "address2": "",
       "city": "Belmont",
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://www.camelotmeadowsevent.com/about",
+      "source": "https://www.camelotmeadowsevent.com/",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
@@ -55219,7 +55221,7 @@
         "source": "https://www.camelotmeadowsevent.com/about",
         "reviewedOn": "2026-10-04"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
     },
     {
       "id": 1001608,
@@ -55485,7 +55487,7 @@
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://belmontabbeycollege.edu/about-us/press-inquiries/",
+      "source": "https://belmontabbeycollege.edu/alumni/donation/st-josephs-chapel-fund-email/",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
@@ -55495,7 +55497,7 @@
         "source": "https://belmontabbeycollege.edu/",
         "reviewedOn": "2026-10-04"
       },
-      "prospectNotes": "Owned campus map explicitly names Loughridge Center for Continuing & Professional Studies, an existing college department at Sacred Heart extension. Preserve college central correspondence record; this is not an independently verified new office. Press/admissions contacts are not facilities approvers."
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
     },
     {
       "id": 1001620,
@@ -55594,17 +55596,17 @@
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://www.cityofbelmont.org/contact/",
+      "source": "https://cityofbelmont.civicweb.net/Portal/Default.aspx",
       "reviewedOn": "2026-10-04",
       "status": "published",
-      "addressSourceType": "company_website",
+      "addressSourceType": "official_directory",
       "exterior": {
         "route": "unknown",
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.cityofbelmont.org/contact/",
         "reviewedOn": "2026-10-04"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
     },
     {
       "id": 1001625,
@@ -60719,6 +60721,374 @@
         "reviewedOn": "2026-10-04"
       },
       "prospectNotes": "Current IRS public e-file provider directory names ChristyMortonCPAPLLC,102AWaxhawProfessionalPkDr28173 andbusinessphone/ChristiannaMorton. Provider-registry confidence, not direct business confirmation. No personal NPI namesake used; visit/owner approval unknown."
+    },
+    {
+      "id": 1001820,
+      "name": "Abbey Inn",
+      "category": "lodging",
+      "attention": "",
+      "address1": "7008 Wilkinson Boulevard",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012-6220",
+      "country": "US",
+      "source": "https://sdwis.epa.gov/ords/safewater/f?p=136%3A103%3A%3A%3A%3ARP%2C103%3AP103_STATE%3ANC",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "official_directory",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://sdwis.epa.gov/ords/safewater/f?p=136%3A103%3A%3A%3A%3ARP%2C103%3AP103_STATE%3ANC",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "EPA public water-system directory supplies this business address/phone; Belmont tourism November2025 account summary independently lists Abbey Inn (ND Properties). No recorded property ownership or vendor approval inferred."
+    },
+    {
+      "id": 1001821,
+      "name": "Velvet Skin & Aesthetics",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "16147 Lancaster Highway",
+      "address2": "Suite 110",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28277",
+      "country": "US",
+      "source": "https://classpass.com/studios/velvet-skin-and-aesthetics-charlotte",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "official_directory",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://classpass.com/studios/velvet-skin-and-aesthetics-charlotte",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Provider booking profile publishes studio-specific postal address, phone, Square business site and Instagram; listing is corroboration, not direct confirmation of occupancy or exterior authority."
+    },
+    {
+      "id": 1001822,
+      "name": "RJR Insurance Agency",
+      "category": "professional",
+      "attention": "",
+      "address1": "11220 Elm Lane",
+      "address2": "Suite 200",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28277",
+      "country": "US",
+      "source": "https://www.rjrinsuranceagency.com/service/business-insurance-charlotte-nc-general-liability-insurance-north-carolina-agency/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.rjrinsuranceagency.com/service/business-insurance-charlotte-nc-general-liability-insurance-north-carolina-agency/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
+    },
+    {
+      "id": 1001823,
+      "name": "Holiday Inn Express & Suites Fort Mill",
+      "category": "lodging",
+      "attention": "",
+      "address1": "1655 Carolina Place Drive",
+      "address2": "",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29708",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/fort-mill/cltmf/hoteldetail/directions",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/fort-mill/cltmf/hoteldetail/directions",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
+    },
+    {
+      "id": 1001824,
+      "name": "Holiday Inn Express & Suites Charlotte Southwest",
+      "category": "lodging",
+      "attention": "",
+      "address1": "7808 Savoy Corporate Drive",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28273",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltar/hoteldetail/directions",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltar/hoteldetail/directions",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
+    },
+    {
+      "id": 1001825,
+      "name": "Holiday Inn Express & Suites Rock Hill",
+      "category": "lodging",
+      "attention": "",
+      "address1": "680 Tinsley Way",
+      "address2": "",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29730",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/rock-hill/rkhtw/hoteldetail",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/rock-hill/rkhtw/hoteldetail",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
+    },
+    {
+      "id": 1001826,
+      "name": "Holiday Inn Express & Suites Charlotte - Arrowood",
+      "category": "lodging",
+      "attention": "",
+      "address1": "805 West Arrowood Road",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28217",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltaw/hoteldetail/directions",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltaw/hoteldetail/directions",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
+    },
+    {
+      "id": 1001827,
+      "name": "Holiday Inn Express & Suites Charlotte Southeast - Matthews",
+      "category": "lodging",
+      "attention": "",
+      "address1": "9420 East Independence Boulevard",
+      "address2": "",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/matthews/staie/hoteldetail/directions",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/matthews/staie/hoteldetail/directions",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
+    },
+    {
+      "id": 1001828,
+      "name": "Holiday Inn Express & Suites Charlotte - South End",
+      "category": "lodging",
+      "attention": "",
+      "address1": "1617 South Tryon Street",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28203",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltcr/hoteldetail/directions",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltcr/hoteldetail/directions",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
+    },
+    {
+      "id": 1001829,
+      "name": "Holiday Inn Rock Hill",
+      "category": "lodging",
+      "attention": "",
+      "address1": "503 Galleria Boulevard",
+      "address2": "",
+      "city": "Rock Hill",
+      "state": "SC",
+      "zip": "29730",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinn/hotels/us/en/rock-hill/clthi/hoteldetail/directions",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinn/hotels/us/en/rock-hill/clthi/hoteldetail/directions",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
+    },
+    {
+      "id": 1001830,
+      "name": "SPANISH FOR FUN! Marvin",
+      "category": "childcare",
+      "attention": "",
+      "address1": "9917 Rea Road",
+      "address2": "",
+      "city": "Marvin",
+      "state": "NC",
+      "zip": "28173",
+      "country": "US",
+      "source": "https://spanishforfun.com/spanish-lessons-landing/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://spanishforfun.com/spanish-lessons-landing/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned Marvin preschool and Spanish lesson pages explicitly publish9917ReaRd MarvinNC28173. Phone9199372050 is the published central routing number, not a verified local direct line. Arrange administrative introduction; no unannounced childcare visit."
+    },
+    {
+      "id": 1001831,
+      "name": "Marvin AME Zion Church",
+      "category": "church",
+      "attention": "",
+      "address1": "1525 Crane Road",
+      "address2": "",
+      "city": "Waxhaw",
+      "state": "NC",
+      "zip": "28173",
+      "country": "US",
+      "source": "https://mamez.org/womens-conference/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://mamez.org/womens-conference/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
+    },
+    {
+      "id": 1001832,
+      "name": "Palmetto Funeral Home & Cremation Service - Indian Land",
+      "category": "funeral",
+      "attention": "",
+      "address1": "9380 Charlotte Highway",
+      "address2": "",
+      "city": "Indian Land",
+      "state": "SC",
+      "zip": "29707",
+      "country": "US",
+      "source": "https://www.palmettofuneralgroup.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.palmettofuneralgroup.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
+    },
+    {
+      "id": 1001833,
+      "name": "Palmetto Funeral Home & Cremation Service - Fort Mill",
+      "category": "funeral",
+      "attention": "",
+      "address1": "2049 Carolina Place Drive",
+      "address2": "",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29708",
+      "country": "US",
+      "source": "https://www.palmettofuneralgroup.com/about-us/fort-mill-sc-funeral-home",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.palmettofuneralgroup.com/about-us/fort-mill-sc-funeral-home",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Location-specific public primary evidence checked on 2026-10-04; full indexed evidence retained in focused-search files. Direct HTML may be blocked or render a shell. Property ownership, exterior approval and vendor access remain unknown."
+    },
+    {
+      "id": 1001834,
+      "name": "YULI ROYAL SKIN CARE COSMETOLOGY",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "10418 East Independence Boulevard",
+      "address2": "Studio 116",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "country": "US",
+      "source": "https://www.solasalonstudios.com/locations/matthews",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "official_directory",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.solasalonstudios.com/locations/matthews",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Current Sola host directory names Iuliia Leshcheva/Yuli Royal Skin Care, Studio116, at Matthews Festival10418EastIndependence. Host leasing phone/email/socials are excluded from the independent operator record. Arrange provider introduction; exterior decisions may involve host/landlord."
+    },
+    {
+      "id": 1001835,
+      "name": "Aahaar25 - Rea Road",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "9824 Rea Road",
+      "address2": "Suite B",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.aahaar25.com/product/banana-leaf-unlimited-meals-weekdays-/324",
+      "reviewedOn": "2026-10-04",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.aahaar25.com/product/banana-leaf-unlimited-meals-weekdays-/324",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned pickup page identifies Aahaar25 at9824ReaRdSteBCharlotteNC. ZIP and branch-specific public contact route remain unverified, so this basic record stays excluded from mailing exports. Do not substitute the separate PotterRoad property."
     }
   ]
 }

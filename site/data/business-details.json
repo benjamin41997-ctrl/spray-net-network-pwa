@@ -5008,6 +5008,34 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        {
+          "id": 100058248,
+          "name": "Jonathan Blowe",
+          "role": "Dentist",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://tworiversdentalnc.com/meet-our-doctor/",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        },
+        {
+          "id": 100058249,
+          "name": "Evan Erickson",
+          "role": "Dentist",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://tworiversdentalnc.com/meet-our-doctor/",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
         }
       ],
       "sources": [
@@ -5025,12 +5053,27 @@
           "url": "https://tworiversdentalnc.com/contact-us/",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://tworiversdentalnc.com/meet-our-doctor/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "phone": "7048293700",
       "verified": "2026-10-04",
       "website": "https://tworiversdentalnc.com/",
-      "email": "frontdesk@tworiversdentalnc.com"
+      "email": "frontdesk@tworiversdentalnc.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://tworiversdentalnc.com/meet-our-doctor/"
+        ]
+      }
     },
     {
       "id": 1000362,
@@ -9086,12 +9129,27 @@
           "url": "https://indiantraildentalstudio.com/about-us/",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://indiantraildentalstudio.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "phone": "7048392434",
       "verified": "2026-10-04",
       "website": "https://indiantraildentalstudio.com/meet-the-dr/",
-      "email": "info@indiantraildentalstudio.com"
+      "email": "info@indiantraildentalstudio.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://indiantraildentalstudio.com/contact/"
+        ]
+      }
     },
     {
       "id": 1000501,
@@ -14790,13 +14848,23 @@
         {
           "url": "https://www.heritagecares.com/our-services/live-stream",
           "type": "company website",
-          "date": "2026-09-30"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-04",
       "website": "https://www.heritagecares.com/our-services/live-stream",
       "phone": "+17048212960",
-      "email": "robert@heritagecares.com"
+      "email": "robert@heritagecares.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.heritagecares.com/our-services/live-stream"
+        ]
+      }
     },
     {
       "id": 1000841,
@@ -14820,13 +14888,23 @@
         {
           "url": "https://www.heritagecares.com/our-services/live-stream",
           "type": "company website",
-          "date": "2026-09-30"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-04",
       "website": "https://www.heritagecares.com/our-services/live-stream",
       "phone": "+17047141540",
-      "email": "robin@heritagecares.com"
+      "email": "robin@heritagecares.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.heritagecares.com/our-services/live-stream"
+        ]
+      }
     },
     {
       "id": 1000843,
@@ -17879,11 +17957,26 @@
           "url": "https://www.cmsk12.org/contact-us",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://www.cmsk12.org/office-of-the-superintendent/contact-superintendent",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
       "website": "https://www.cmsk12.org/",
-      "phone": "+19803433000"
+      "phone": "+19803433000",
+      "visit": {
+        "status": "call_first",
+        "summary": "Published PO Box is correspondence only, not a visitor destination. Contact district administration/procurement before a vendor visit.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.cmsk12.org/office-of-the-superintendent/contact-superintendent"
+        ]
+      }
     },
     {
       "id": 1001038,
@@ -26670,17 +26763,48 @@
     },
     {
       "id": 1001607,
-      "people": [],
+      "people": [
+        {
+          "id": 100058250,
+          "name": "Deborah Baxa",
+          "role": "Venue founder",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://historicbelmont.com/places/camelot-meadows/",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "url": "https://www.camelotmeadowsevent.com/about",
+          "type": "company website",
+          "date": "2026-10-04"
+        },
+        {
+          "url": "https://www.camelotmeadowsevent.com/",
           "type": "company website",
           "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
       "website": "https://www.camelotmeadowsevent.com/",
-      "email": "info@camelotmeadowsevent.com"
+      "email": "info@camelotmeadowsevent.com",
+      "phone": "+17042776275",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.camelotmeadowsevent.com/"
+        ]
+      }
     },
     {
       "id": 1001608,
@@ -26842,20 +26966,27 @@
           "url": "https://belmontabbeycollege.edu/about-us/press-inquiries/",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://belmontabbeycollege.edu/alumni/donation/st-josephs-chapel-fund-email/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
       "website": "https://belmontabbeycollege.edu/",
       "visit": {
-        "status": "unknown",
-        "summary": "Public business route verified. Vendor visitor arrangements, property ownership and authority to approve exterior work remain unverified; arrange an introduction.",
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
         "address": null,
         "hours": null,
         "checkedAt": "2026-10-04",
         "sources": [
-          "https://belmontabbeycollege.edu/about-us/press-inquiries/"
+          "https://belmontabbeycollege.edu/alumni/donation/st-josephs-chapel-fund-email/"
         ]
-      }
+      },
+      "phone": "+17044616700",
+      "email": "info@bac.edu"
     },
     {
       "id": 1001620,
@@ -26917,10 +27048,27 @@
           "url": "https://www.cityofbelmont.org/contact/",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://cityofbelmont.civicweb.net/Portal/Default.aspx",
+          "type": "official organization directory",
+          "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
-      "website": "https://www.cityofbelmont.org"
+      "website": "https://www.cityofbelmont.org",
+      "phone": "+17048255586",
+      "email": "customerservice@cityofbelmont.org",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://cityofbelmont.civicweb.net/Portal/Default.aspx"
+        ]
+      }
     },
     {
       "id": 1001625,
@@ -31599,6 +31747,412 @@
         "checkedAt": "2026-10-04",
         "sources": [
           "https://www.irs.gov/ko/efile-index-taxpros-search?bureau=All&developer=All&ero=1&page=4534&state=All&transmitter=All&zip="
+        ]
+      }
+    },
+    {
+      "id": 1001820,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sdwis.epa.gov/ords/safewater/f?p=136%3A103%3A%3A%3A%3ARP%2C103%3AP103_STATE%3ANC",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "phone": "+17048255506",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://sdwis.epa.gov/ords/safewater/f?p=136%3A103%3A%3A%3A%3ARP%2C103%3AP103_STATE%3ANC"
+        ]
+      }
+    },
+    {
+      "id": 1001821,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://classpass.com/studios/velvet-skin-and-aesthetics-charlotte",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://velvet-skin-aesthetics.square.site",
+      "phone": "+13478784713",
+      "visit": {
+        "status": "call_first",
+        "summary": "Private skincare/salon studio: contact the operator before a vendor introduction. Treatment bookings are not networking permission; host/landlord exterior authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://classpass.com/studios/velvet-skin-and-aesthetics-charlotte"
+        ]
+      }
+    },
+    {
+      "id": 1001822,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rjrinsuranceagency.com/service/business-insurance-charlotte-nc-general-liability-insurance-north-carolina-agency/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.rjrinsuranceagency.com/service/business-insurance-charlotte-nc-general-liability-insurance-north-carolina-agency/",
+      "phone": "+17045432700",
+      "email": "ruff@rjrinsuranceagency.com",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "Owned Charlotte office explicitly states BY APPT ONLY. Arrange an appointment; separate SC correspondence lead does not establish another walk-in office.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.rjrinsuranceagency.com/service/business-insurance-charlotte-nc-general-liability-insurance-north-carolina-agency/"
+        ]
+      }
+    },
+    {
+      "id": 1001823,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/fort-mill/cltmf/hoteldetail/directions",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/fort-mill/cltmf/hoteldetail/directions",
+      "phone": "+18038020300",
+      "email": "gm.cltmf@swamihotelgroup.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Hotel property and local front-desk route verified. Contact hotel management before a vendor visit; public lobby/check-in hours do not establish manager availability or exterior approval.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinnexpress/hotels/us/en/fort-mill/cltmf/hoteldetail/directions"
+        ]
+      }
+    },
+    {
+      "id": 1001824,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltar/hoteldetail/directions",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltar/hoteldetail/directions",
+      "phone": "+17045041000",
+      "email": "gm@hiecharlotte.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Hotel property and local front-desk route verified. Contact hotel management before a vendor visit; public lobby/check-in hours do not establish manager availability or exterior approval.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltar/hoteldetail/directions"
+        ]
+      }
+    },
+    {
+      "id": 1001825,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/rock-hill/rkhtw/hoteldetail",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/rock-hill/rkhtw/hoteldetail",
+      "phone": "+18036308452",
+      "email": "fdhieroc@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Hotel property and local front-desk route verified. Contact hotel management before a vendor visit; public lobby/check-in hours do not establish manager availability or exterior approval.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinnexpress/hotels/us/en/rock-hill/rkhtw/hoteldetail"
+        ]
+      }
+    },
+    {
+      "id": 1001826,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltaw/hoteldetail/directions",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltaw/hoteldetail/directions",
+      "phone": "+17049718720",
+      "email": "frontoffice805@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Hotel property and local front-desk route verified. Contact hotel management before a vendor visit; public lobby/check-in hours do not establish manager availability or exterior approval.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltaw/hoteldetail/directions"
+        ]
+      }
+    },
+    {
+      "id": 1001827,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/matthews/staie/hoteldetail/directions",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/matthews/staie/hoteldetail/directions",
+      "phone": "+17044433100",
+      "email": "fd.hiematthews@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Hotel property and local front-desk route verified. Contact hotel management before a vendor visit; public lobby/check-in hours do not establish manager availability or exterior approval.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinnexpress/hotels/us/en/matthews/staie/hoteldetail/directions"
+        ]
+      }
+    },
+    {
+      "id": 1001828,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltcr/hoteldetail/directions",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltcr/hoteldetail/directions",
+      "phone": "+17044969050",
+      "email": "frontdesk@hiesouthend.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Hotel property and local front-desk route verified. Contact hotel management before a vendor visit; public lobby/check-in hours do not establish manager availability or exterior approval.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltcr/hoteldetail/directions"
+        ]
+      }
+    },
+    {
+      "id": 1001829,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinn/hotels/us/en/rock-hill/clthi/hoteldetail/directions",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinn/hotels/us/en/rock-hill/clthi/hoteldetail/directions",
+      "phone": "+18033231900",
+      "email": "holidayrockhill@cnhotels.net",
+      "visit": {
+        "status": "call_first",
+        "summary": "Hotel property and local front-desk route verified. Contact hotel management before a vendor visit; public lobby/check-in hours do not establish manager availability or exterior approval.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinn/hotels/us/en/rock-hill/clthi/hoteldetail/directions"
+        ]
+      }
+    },
+    {
+      "id": 1001830,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://spanishforfun.com/spanish-lessons-landing/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://spanishforfun.com/spanish-lessons-landing/",
+      "phone": "+19199372050",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://spanishforfun.com/spanish-lessons-landing/"
+        ]
+      }
+    },
+    {
+      "id": 1001831,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://mamez.org/womens-conference/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://mamez.org/womens-conference/",
+      "phone": "+17048433611",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://mamez.org/womens-conference/"
+        ]
+      }
+    },
+    {
+      "id": 1001832,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.palmettofuneralgroup.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.palmettofuneralgroup.com/",
+      "phone": "+18033961071",
+      "email": "palmetto@palmettofuneralgroup.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.palmettofuneralgroup.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001833,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.palmettofuneralgroup.com/about-us/fort-mill-sc-funeral-home",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.palmettofuneralgroup.com/about-us/fort-mill-sc-funeral-home",
+      "phone": "+18038027788",
+      "email": "palmetto@palmettofuneralgroup.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a brief vendor introduction using the public business contact. Customer/patient schedules do not establish vendor access; property ownership and exterior approval remain unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.palmettofuneralgroup.com/about-us/fort-mill-sc-funeral-home"
+        ]
+      }
+    },
+    {
+      "id": 1001834,
+      "people": [
+        {
+          "id": 100058251,
+          "name": "Iuliia Leshcheva",
+          "role": "Independent skincare studio professional",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://www.solasalonstudios.com/locations/matthews",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.solasalonstudios.com/locations/matthews",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://book.solasalonstudios.com/yuli-royal-skin-care-cosmetology/pro",
+      "visit": {
+        "status": "call_first",
+        "summary": "Private skincare/salon studio: contact the operator before a vendor introduction. Treatment bookings are not networking permission; host/landlord exterior authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.solasalonstudios.com/locations/matthews"
+        ]
+      }
+    },
+    {
+      "id": 1001835,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.aahaar25.com/product/banana-leaf-unlimited-meals-weekdays-/324",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.aahaar25.com/",
+      "visit": {
+        "status": "unknown",
+        "summary": "Owned restaurant pickup location is verified, but ZIP, branch contact and vendor visit arrangements remain unverified; excluded from mailing export.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.aahaar25.com/product/banana-leaf-unlimited-meals-weekdays-/324"
         ]
       }
     }
