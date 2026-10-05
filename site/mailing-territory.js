@@ -11,6 +11,7 @@ export const mailingAreas = [
   ['mount_holly','Mount Holly','NC',['Mount Holly','Mt Holly','Mt. Holly']],
   ['gastonia','Gastonia','NC',['Gastonia']],['cramerton','Cramerton','NC',['Cramerton']],
   ['mcadenville','McAdenville','NC',['McAdenville']],['lowell','Lowell','NC',['Lowell']],
+  ['huntersville','Huntersville','NC',['Huntersville']],['cornelius','Cornelius','NC',['Cornelius']],
   ['regional','Other regional offices','',[]]
 ].map(([id,label,state,cities])=>({id,label,state,cities}));
 export function mailingArea(r){

@@ -32319,6 +32319,25 @@
           "notes": "Explicit organization account linked on reviewed public source; activity/availability unverified and no follow performed."
         }
       ]
+    },
+    {
+      "companyId": 1001837,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://downtownbelmont.org/directory/jeri-lyns-consignment-boutique/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=100028285197000",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://downtownbelmont.org/directory/jeri-lyns-consignment-boutique/",
+          "notes": "Shop-specific Facebook link in Downtown Belmont official business listing. Public account availability/activity unverified; no follow performed."
+        }
+      ]
     }
   ]
 }

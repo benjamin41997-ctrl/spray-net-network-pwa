@@ -23020,7 +23020,17 @@
       ],
       "verified": "2026-10-04",
       "website": "https://bbmacademy.com/location/waxhaw/",
-      "phone": "+17046668700"
+      "phone": "+17046668700",
+      "visit": {
+        "status": "call_first",
+        "summary": "Existing school facility verified under current BBMA brand; original candidate former-name continuity unresolved. Contact administration before a vendor visit.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://bbmacademy.com/location/waxhaw/"
+        ]
+      }
     },
     {
       "id": 1001360,
@@ -24372,13 +24382,23 @@
         {
           "url": "https://magnoliahouseandgardens.com/",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://magnoliahouseandgardens.com/",
       "phone": "+17046085681",
-      "email": "magnolia_house@hotmail.com"
+      "email": "magnolia_house@hotmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Contact the public business route before a vendor introduction. Customer hours do not establish vendor access, property ownership or exterior approval authority.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://magnoliahouseandgardens.com/"
+        ]
+      }
     },
     {
       "id": 1001442,
@@ -32153,6 +32173,102 @@
         "checkedAt": "2026-10-04",
         "sources": [
           "https://www.aahaar25.com/product/banana-leaf-unlimited-meals-weekdays-/324"
+        ]
+      }
+    },
+    {
+      "id": 1001836,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.theivorybarn.net/contact",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.theivorybarn.net/contact",
+      "phone": "+17042662249",
+      "visit": {
+        "status": "call_first",
+        "summary": "Venue address verified in newly authorized Huntersville territory. Arrange a venue/networking appointment; photographer credits are not venue social accounts. Ownership and exterior authority unverified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.theivorybarn.net/contact"
+        ]
+      }
+    },
+    {
+      "id": 1001837,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://downtownbelmont.org/directory/jeri-lyns-consignment-boutique/",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://jerilynsconsignment.com/",
+      "email": "jerilynsbtq341@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Verified retail storefront. Email before visiting to confirm current hours and appropriate contact; two published telephone routes conflict. Exterior approval and property ownership unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://downtownbelmont.org/directory/jeri-lyns-consignment-boutique/"
+        ]
+      }
+    },
+    {
+      "id": 1001838,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.nvrss.com/contacts/",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://galbreathcostner.com/",
+      "phone": "+17049001130",
+      "visit": {
+        "status": "call_first",
+        "summary": "Public professional-partner directory verifies a distinct Charlotte law office. Arrange a vendor introduction; no individual branch decision-maker or exterior authority verified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.nvrss.com/contacts/"
+        ]
+      }
+    },
+    {
+      "id": 1001839,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.nvrss.com/contacts/",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://galbreathcostner.com/",
+      "phone": "+19802197637",
+      "visit": {
+        "status": "call_first",
+        "summary": "Public professional-partner directory verifies a distinct Charlotte law office. Arrange a vendor introduction; no individual branch decision-maker or exterior authority verified.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.nvrss.com/contacts/"
         ]
       }
     }

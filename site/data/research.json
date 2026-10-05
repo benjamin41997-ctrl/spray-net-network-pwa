@@ -595,7 +595,6 @@
         }
       ],
       "reviewedIds": [
-        38,
         1102,
         1104
       ],
@@ -605,7 +604,8 @@
         "PMI Charlotte Metro: Company identity researched; complete mailing address still needs review.",
         "Magnolia PMG LLC: Company identity researched; complete mailing address still needs review.",
         "Location/category corrected on 2026-10-01 for IDs 1100. Refer to their current company profiles; the prior segment does not represent a separate office.",
-        "Location/category corrected on 2026-10-01 for IDs 39. Refer to their current company profiles; the prior segment does not represent a separate office."
+        "Location/category corrected on 2026-10-01 for IDs 39. Refer to their current company profiles; the prior segment does not represent a separate office.",
+        "User authorized Huntersville/Cornelius as separate territory filters on2026-10-04. IDs 38 are now grouped there; their postal addresses are unchanged. This grouping change is not a physical move or an exhaustive search."
       ],
       "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
       "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
@@ -944,7 +944,6 @@
         }
       ],
       "reviewedIds": [
-        1067,
         1027,
         1033,
         1034,
@@ -960,14 +959,11 @@
         1058,
         1060,
         1061,
-        1062,
         1063,
         1064,
         1065,
         1066,
-        1068,
         1069,
-        1070,
         1071,
         1072,
         1073,
@@ -1020,7 +1016,8 @@
         "Timeless Countertops: Company identity researched; complete mailing address still needs review.",
         "Location/category information updated on 2026-09-30 for previously reviewed IDs 1026, 1040. Their review is retained in the new sweep under the current territory segment.",
         "Location/category corrected on 2026-10-01 for IDs 1108. Refer to their current company profiles; the prior segment does not represent a separate office.",
-        "Location/category corrected on 2026-10-04 for IDs 1031, 1032, 1047, 1083. Refer to their current company profiles; the prior segment does not represent a separate office."
+        "Location/category corrected on 2026-10-04 for IDs 1031, 1032, 1047, 1083. Refer to their current company profiles; the prior segment does not represent a separate office.",
+        "User authorized Huntersville/Cornelius as separate territory filters on2026-10-04. IDs 1067, 1062, 1068, 1070 are now grouped there; their postal addresses are unchanged. This grouping change is not a physical move or an exhaustive search."
       ],
       "notes": "Partial regional Maps/web discovery followed by business website research. These records were reviewed; this does not mean every business or every city/category search was covered. Service-area pages do not prove a local office.",
       "nextAction": "Continue individual city/category searches, verify additional candidates and business contacts, resolve held identities, and review missing social accounts and visitor policies."
@@ -14583,10 +14580,10 @@
           "label": "Reviewed owned public business source"
         }
       ],
-      "reviewedIds": [
-        1000598
+      "reviewedIds": [],
+      "unresolved": [
+        "User authorized Huntersville/Cornelius as separate territory filters on2026-10-04. IDs 1000598 are now grouped there; their postal addresses are unchanged. This grouping change is not a physical move or an exhaustive search."
       ],
-      "unresolved": [],
       "notes": "Full saved 954-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
       "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
     },
@@ -19868,12 +19865,13 @@
         }
       ],
       "reviewedIds": [
-        245,
         1060,
         1071,
         1063
       ],
-      "unresolved": [],
+      "unresolved": [
+        "User authorized Huntersville/Cornelius as separate territory filters on2026-10-04. IDs 245 are now grouped there; their postal addresses are unchanged. This grouping change is not a physical move or an exhaustive search."
+      ],
       "notes": "Full saved 954-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
       "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
     },
@@ -24267,6 +24265,179 @@
       "unresolved": [
         "Aahaar25 - Rea Road: Owned pickup page identifies Aahaar25 at9824ReaRdSteBCharlotteNC. ZIP and branch-specific public contact route remain unverified, so this basic record stays excluded from mailing exports. Do not substitute the separate PotterRoad property. Confirm vendor visit arrangements."
       ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004f-huntersville--venue",
+      "area": "huntersville",
+      "category": "venue",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.theivorybarn.net/contact",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.theivorybarn.net/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.theivorybarn.net/about-us",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001836
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004f-cornelius--kitchen",
+      "area": "cornelius",
+      "category": "kitchen",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://cabinetconnectofcharlotte.com/contact",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://cabinetconnectofcharlotte.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1437
+      ],
+      "unresolved": [
+        "Cabinet Connect - Cornelius: Cabinet Connect lists7042921111 for Cornelius; East Coast lists7049808612 for the same showroom. Confirm preferred branch contact and hours before a vendor visit."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004f-charlotte--kitchen",
+      "area": "charlotte",
+      "category": "kitchen",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://cabinetconnectofcharlotte.com/contact",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://cabinetconnectofcharlotte.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://eastcoastgranitecharlotte.com/contacts",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://ecgraniteandtile.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1047
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004f-belmont--retail",
+      "area": "belmont",
+      "category": "retail",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://downtownbelmont.org/directory/jeri-lyns-consignment-boutique/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001837
+      ],
+      "unresolved": [
+        "Jeri Lyn's Consignment Boutique: Which business phone is current:7048258615 in the official Downtown Belmont directory or7046005437 on the owned indexed site? Confirm current hours and appropriate vendor introduction contact."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004f-lake_wylie--lodging",
+      "area": "lake_wylie",
+      "category": "lodging",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://magnoliahouseandgardens.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001441
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004f-belmont--real_estate",
+      "area": "belmont",
+      "category": "real_estate",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.coldwellbanker.com/nc/belmont/offices/coldwell-banker-carver-pressley-realtors/oid-P00400000FDdqYeItXJd3GDHA10YKrw2wXNUidek",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        64
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004f-waxhaw--childcare",
+      "area": "waxhaw",
+      "category": "childcare",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://bbmacademy.com/location/waxhaw/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001359
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004f-charlotte--professional",
+      "area": "charlotte",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.nvrss.com/contacts/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001838,
+        1001839
+      ],
+      "unresolved": [],
       "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
       "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
     }

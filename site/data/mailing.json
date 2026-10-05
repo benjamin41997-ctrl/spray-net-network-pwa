@@ -4127,10 +4127,10 @@
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://cbcarverpressley.com/directory/agents/carla-howell-1",
+      "source": "https://www.coldwellbanker.com/nc/belmont/offices/coldwell-banker-carver-pressley-realtors/oid-P00400000FDdqYeItXJd3GDHA10YKrw2wXNUidek",
       "reviewedOn": "2026-10-04",
       "status": "published",
-      "prospectNotes": "Owned source corroborates correspondence address. Vendor access, property ownership and exterior authority remain unverified.",
+      "prospectNotes": "Brand-owned current office and Nolan Raby professional profile identify this existing Belmont brokerage. Preserve legal name and previously recorded Suite110; omission of suite from a brand page is not a move.",
       "addressSourceType": "company_website"
     },
     {
@@ -46527,7 +46527,7 @@
         "source": "https://bbmacademy.com/location/waxhaw/",
         "reviewedOn": "2026-10-01"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "Current BBMA owned Waxhaw page confirms the already published facility3930ProvidenceRdS,28173 and7046668700. Original WaxhawChildDevelopmentCenter operating-name continuity remains unresolved; no legal identity merged."
     },
     {
       "id": 1001360,
@@ -48892,7 +48892,7 @@
       "zip": "29710",
       "country": "US",
       "source": "https://magnoliahouseandgardens.com/",
-      "reviewedOn": "2026-10-01",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -48900,7 +48900,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://magnoliahouseandgardens.com/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Current owned indexed source confirms the existing Clover venue/inn name,221NMain,29710,7046085681 and magnolia_house@hotmail.com. Preserve existing ID and name; no second record."
     },
     {
       "id": 1001442,
@@ -51299,7 +51300,7 @@
       "state": "NC",
       "zip": "28217",
       "country": "US",
-      "source": "https://eastcoastgranitecharlotte.com/",
+      "source": "https://eastcoastgranitecharlotte.com/contacts",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
@@ -51308,7 +51309,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://eastcoastgranitecharlotte.com/",
         "reviewedOn": "2026-10-04"
-      }
+      },
+      "prospectNotes": "Owned East Coast and Cabinet Connect branch pages corroborate this already published Clanton showroom and9809989555 branch phone; parent brand page identifies Cabinet Connect. Preserve original1047name and own website; no extra Charlotte office. Hours differ between the two owned pages; call first."
     },
     {
       "id": 1373,
@@ -61089,6 +61091,121 @@
         "reviewedOn": "2026-10-04"
       },
       "prospectNotes": "Owned pickup page identifies Aahaar25 at9824ReaRdSteBCharlotteNC. ZIP and branch-specific public contact route remain unverified, so this basic record stays excluded from mailing exports. Do not substitute the separate PotterRoad property."
+    },
+    {
+      "id": 1001836,
+      "name": "The Ivory Barn",
+      "category": "venue",
+      "attention": "",
+      "address1": "14418 NC 73",
+      "address2": "",
+      "city": "Huntersville",
+      "state": "NC",
+      "zip": "28078",
+      "country": "US",
+      "source": "https://www.theivorybarn.net/contact",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.theivorybarn.net/contact",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Public primary source corroborates correspondence address. Vendor access, property ownership and exterior authority remain unverified."
+    },
+    {
+      "id": 1437,
+      "name": "Cabinet Connect - Cornelius",
+      "category": "kitchen",
+      "attention": "",
+      "address1": "18910 Statesville Road",
+      "address2": "",
+      "city": "Cornelius",
+      "state": "NC",
+      "zip": "28031",
+      "country": "US",
+      "source": "https://cabinetconnectofcharlotte.com/contact",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://cabinetconnectofcharlotte.com/contact",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned branch page verifies this separate Cornelius location and branch phone; existing Indian Trail branch1333 is retained. Visitor arrangements and exterior approval unverified."
+    },
+    {
+      "id": 1001837,
+      "name": "Jeri Lyn's Consignment Boutique",
+      "category": "retail",
+      "attention": "",
+      "address1": "423 E Catawba St",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://downtownbelmont.org/directory/jeri-lyns-consignment-boutique/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "official_directory",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://downtownbelmont.org/directory/jeri-lyns-consignment-boutique/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Downtown Belmont official business directory verifies street, current shop, email and website; independent exact-address directory corroborates ZIP28012. Official directory phone7048258615 conflicts with owned-site indexed7046005437, so no phone selected; confirm current phone before calling. Retail shop access is not exterior approval."
+    },
+    {
+      "id": 1001838,
+      "name": "Galbreath Costner - South Charlotte",
+      "category": "professional",
+      "attention": "",
+      "address1": "7400 Carmel Executive Park Dr",
+      "address2": "Suite 200",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28226",
+      "country": "US",
+      "source": "https://www.nvrss.com/contacts/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "official_directory",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.nvrss.com/contacts/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "NVR Settlement Services current partner contact directory identifies this Galbreath Costner office and branch-specific phone. Separate Charlotte branches are preserved; original Belmont office remains uncorroborated. Firm inbox and other branch contacts not attributed to local staff."
+    },
+    {
+      "id": 1001839,
+      "name": "Galbreath Costner - North Charlotte",
+      "category": "professional",
+      "attention": "",
+      "address1": "10130 Mallard Creek Rd",
+      "address2": "Suite 208",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28262",
+      "country": "US",
+      "source": "https://www.nvrss.com/contacts/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "official_directory",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.nvrss.com/contacts/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "NVR Settlement Services current partner contact directory identifies this Galbreath Costner office and branch-specific phone. Separate Charlotte branches are preserved; original Belmont office remains uncorroborated. Firm inbox and other branch contacts not attributed to local staff."
     }
   ]
 }
