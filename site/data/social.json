@@ -31005,6 +31005,1150 @@
           "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified."
         }
       ]
+    },
+    {
+      "companyId": 1001775,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.gaston.k12.nc.us/about-us/list-of-schools"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/gastoncountyschools",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/gastoncoschools",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC7jIDakcSOOcb-DAhlCCQNA",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001776,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.gaston.k12.nc.us/about-us/list-of-schools"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/gastoncountyschools",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/gastoncoschools",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC7jIDakcSOOcb-DAhlCCQNA",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001204,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.gaston.k12.nc.us/about-us/list-of-schools"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/gastoncountyschools",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/gastoncoschools",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC7jIDakcSOOcb-DAhlCCQNA",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001778,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.carolinadigestive.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/carolinadigestive",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.carolinadigestive.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCdPP2SAjRjxx-_ffU5V85Wg",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.carolinadigestive.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001779,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.carolinadigestive.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/carolinadigestive",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.carolinadigestive.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCdPP2SAjRjxx-_ffU5V85Wg",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.carolinadigestive.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001629,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://entcarolina.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/entcarolina",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://entcarolina.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ent_carolina",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://entcarolina.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC-aAa1b6lmB_80H4soualMQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://entcarolina.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001780,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://entcarolina.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/entcarolina",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://entcarolina.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ent_carolina",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://entcarolina.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC-aAa1b6lmB_80H4soualMQ",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://entcarolina.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001258,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "http://www.ppsd.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/piedmontplasticandderm",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "http://www.ppsd.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/piedmontplasticsurgeryderm",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "http://www.ppsd.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@piedmontplasticsurgeryderm",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "http://www.ppsd.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001782,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://skinpharm.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/skinpharm.co",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://skinpharm.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/skin_pharm",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://skinpharm.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@skin_pharm",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://skinpharm.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001217,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://gigisconsignmentboutique.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/gigisconsignmentboutique",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://gigisconsignmentboutique.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/gigisconsignmentboutique",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://gigisconsignmentboutique.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001783,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://admissionshopping.com/",
+        "https://admissionshopping.com/mystery-box-locations"
+      ],
+      "accounts": [
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@admissionshoppingking",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://admissionshopping.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/mbgastonianc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://admissionshopping.com/mystery-box-locations",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001218,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.holyangelsnc.org/market-on-main"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/market.on.main.belmont",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.holyangelsnc.org/market-on-main",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/marketonmainbelmont",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.holyangelsnc.org/market-on-main",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001412,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://thecatalystmercantile.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/catalystmerc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://thecatalystmercantile.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/catalystmerc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://thecatalystmercantile.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001784,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://moxiemercantile.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/moxiemercantile",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://moxiemercantile.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/moxiemercantile",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://moxiemercantile.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001785,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://moxiemercantile.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/moxiemercantile",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://moxiemercantile.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/moxiemercantile",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://moxiemercantile.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001786,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://moxiemercantile.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/moxiemercantile",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://moxiemercantile.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/moxiemercantile",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://moxiemercantile.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001787,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://juliesclothing.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/juliesboutique1",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://juliesclothing.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/juliesboutique",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://juliesclothing.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001788,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://juliesclothing.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/juliesboutique1",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://juliesclothing.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/juliesboutique",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://juliesclothing.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001789,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://nc.xmartinelaw.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61586548844180",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nc.xmartinelaw.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/nccriminaldefenseattorney",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nc.xmartinelaw.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/martinelawpllc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nc.xmartinelaw.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@xmartinelaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nc.xmartinelaw.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@MartineLawFirm",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nc.xmartinelaw.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001790,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://nc.xmartinelaw.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61586548844180",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nc.xmartinelaw.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/nccriminaldefenseattorney",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nc.xmartinelaw.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/martinelawpllc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nc.xmartinelaw.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@xmartinelaw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nc.xmartinelaw.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@MartineLawFirm",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://nc.xmartinelaw.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001209,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://watsoninsurance.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/watsonins",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://watsoninsurance.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/watsoninsagency",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://watsoninsurance.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001210,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://watsoninsurance.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/watsonins",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://watsoninsurance.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/watsoninsagency",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://watsoninsurance.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001792,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://watsoninsurance.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/watsonins",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://watsoninsurance.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/watsoninsagency",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://watsoninsurance.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001793,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://goallcare.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/allcareinsuranceagency",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://goallcare.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/allcare-insurance-services",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://goallcare.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001794,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://goallcare.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/allcareinsuranceagency",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://goallcare.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/allcare-insurance-services",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://goallcare.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001795,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://2nationsinsurance.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61561479071282",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://2nationsinsurance.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001797,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.theeverydaymarketcharlotte.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/theeverydaymkt",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.theeverydaymarketcharlotte.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001798,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.theeverydaymarketcharlotte.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/theeverydaymkt",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.theeverydaymarketcharlotte.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001799,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.pitawheel.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/pitawheel",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.pitawheel.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/pitawheel",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.pitawheel.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001800,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.pitawheel.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/pitawheel",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.pitawheel.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/pitawheel",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.pitawheel.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001809,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://upperroombelmont.org/visit/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/upperroombelmont",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://upperroombelmont.org/visit/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/urcbelmont",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://upperroombelmont.org/visit/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001811,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.holyangelsnc.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/holyangelsbelmont",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.holyangelsnc.org/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/holy_angelsnc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.holyangelsnc.org/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCCpNmrVmGoZrDhPEi5nBlOw",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.holyangelsnc.org/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001812,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://lhcbelmont.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/lhcbelmont",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://lhcbelmont.org/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/lhcofbelmont",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://lhcbelmont.org/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC4mU8Z8g3gSF2YKSqV__caQ",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://lhcbelmont.org/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001814,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.muddyriverdistillery.com/upcoming-book-event-space"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/carolinarum",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.muddyriverdistillery.com/upcoming-book-event-space",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/muddyriverdistillery",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.muddyriverdistillery.com/upcoming-book-event-space",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@muddyriverdistillery",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.muddyriverdistillery.com/upcoming-book-event-space",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCg3js5LGg3Rrwv1Nq9vMiWw",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.muddyriverdistillery.com/upcoming-book-event-space",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001815,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.wedgewoodweddings.com/venues/separk-mansion"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/wedgewoodweddings",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.wedgewoodweddings.com/venues/separk-mansion",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/wedgewoodweddings",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.wedgewoodweddings.com/venues/separk-mansion",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/wedgewood-weddings",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.wedgewoodweddings.com/venues/separk-mansion",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@wedgewood.weddings",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.wedgewoodweddings.com/venues/separk-mansion",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/WedgewoodWeddings",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.wedgewoodweddings.com/venues/separk-mansion",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001816,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://www.purpletoothdental.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/purpletoothdental",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.purpletoothdental.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/purpletoothdental",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.purpletoothdental.com/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001818,
+      "checkedOn": "2026-10-04",
+      "status": "checked",
+      "notes": "Explicit business/brand profile links reviewed on public owned sources. Activity and availability unverified; no accounts followed.",
+      "sources": [
+        "https://turningpointnc.org/second-chance-stores/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/turningpointuc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://turningpointnc.org/second-chance-stores/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/turningpointuc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://turningpointnc.org/second-chance-stores/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/turningpointinc",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://turningpointnc.org/second-chance-stores/",
+          "notes": "Explicit organization/brand account linked by reviewed public source. Activity and availability unverified; no follow performed."
+        }
+      ]
     }
   ]
 }

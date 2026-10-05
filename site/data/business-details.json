@@ -394,13 +394,23 @@
         {
           "url": "https://www.mcleanfuneral.com/",
           "type": "company website",
-          "date": "2026-09-30"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-04",
       "website": "https://www.mcleanfuneral.com/",
       "phone": "+17048653451",
-      "email": "info@mcleanfuneral.com"
+      "email": "info@mcleanfuneral.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.mcleanfuneral.com/"
+        ]
+      }
     },
     {
       "id": 1000075,
@@ -409,13 +419,23 @@
         {
           "url": "https://www.mcleanfuneral.com/",
           "type": "company website",
-          "date": "2026-09-30"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-04",
       "website": "https://www.mcleanfuneral.com/",
       "phone": "+17048255301",
-      "email": "info@mcleanfuneral.com"
+      "email": "info@mcleanfuneral.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.mcleanfuneral.com/"
+        ]
+      }
     },
     {
       "id": 1000076,
@@ -580,12 +600,27 @@
           "url": "https://www.goddardschool.com/schools/nc/waxhaw/waxhaw",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://www.goddardschool.com/schools/nc/waxhaw/waxhaw/our-teachers",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
       "website": "https://www.goddardschool.com/schools/sc/fort-mill",
       "phone": "+17042430120",
-      "email": "enrollment@lc.waxhawpreschools.com"
+      "email": "enrollment@lc.waxhawpreschools.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the public administrative office; campus/customer schedules do not establish vendor access.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.goddardschool.com/schools/nc/waxhaw/waxhaw/our-teachers"
+        ]
+      }
     },
     {
       "id": 1000091,
@@ -1039,6 +1074,46 @@
       "verified": "2026-10-04",
       "website": "https://northbelmont.gaston.k12.nc.us/resources",
       "phone": "+17048369135"
+    },
+    {
+      "id": 1000140,
+      "people": [
+        {
+          "id": 100058236,
+          "name": "Bill Kessler",
+          "role": "Principal",
+          "email": "bckessler@gaston.k12.nc.us",
+          "phone": "7048369116",
+          "sources": [
+            {
+              "url": "https://pageprimary.gaston.k12.nc.us/about-us/school-improvement-team",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://pageprimary.gaston.k12.nc.us/about-us/school-improvement-team",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://pageprimary.gaston.k12.nc.us/about-us/school-improvement-team",
+      "phone": "+17048369116",
+      "email": "bckessler@gaston.k12.nc.us",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the public administrative office; campus/customer schedules do not establish vendor access.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://pageprimary.gaston.k12.nc.us/about-us/school-improvement-team"
+        ]
+      }
     },
     {
       "id": 1000141,
@@ -10368,12 +10443,23 @@
         {
           "url": "https://www.stationbelmont.com/",
           "type": "company website",
-          "date": "2026-09-30"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-04",
       "website": "https://www.stationbelmont.com/",
-      "phone": "+17044618115"
+      "phone": "+17044618115",
+      "email": "info@stationbelmont.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.stationbelmont.com/"
+        ]
+      }
     },
     {
       "id": 1000563,
@@ -10403,6 +10489,31 @@
       "website": "https://www.miriammed.com/",
       "phone": "+18033664206",
       "email": "miriammedicalclinic1926@gmail.com"
+    },
+    {
+      "id": 1000566,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://marrellis.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://marrellis.com/",
+      "phone": "+17048298232",
+      "email": "info@marrellis.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://marrellis.com/"
+        ]
+      }
     },
     {
       "id": 1000567,
@@ -13285,11 +13396,27 @@
           "url": "https://www.neilbrockagency.com/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.neilbrockagency.com/contact",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-04",
       "website": "https://www.neilbrockagency.com/",
-      "phone": "+17048296868"
+      "phone": "+17048296868",
+      "email": "nbrock@neilbrockagency.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.neilbrockagency.com/contact"
+        ]
+      }
     },
     {
       "id": 1000754,
@@ -13303,7 +13430,17 @@
       ],
       "verified": "2026-10-04",
       "website": "https://www.catawbariverantiquemall.com/",
-      "phone": "+17048252383"
+      "phone": "+17048252383",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.catawbariverantiquemall.com/"
+        ]
+      }
     },
     {
       "id": 1000755,
@@ -14046,11 +14183,27 @@
           "url": "https://www.siskgreenecpa.com/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://www.siskgreenecpa.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-09-30",
+      "verified": "2026-10-04",
       "website": "https://www.siskgreenecpa.com/",
-      "phone": "+17048221551"
+      "phone": "+17048221551",
+      "email": "accounting@siskgreenecpa.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.siskgreenecpa.com/contact-us"
+        ]
+      }
     },
     {
       "id": 1000803,
@@ -20263,11 +20416,26 @@
           "url": "https://www.gaston.k12.nc.us/about-us/school-bonds",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
       "website": "https://www.gaston.k12.nc.us/",
-      "phone": "+17048666100"
+      "phone": "+17048666100",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the public administrative office; campus/customer schedules do not establish vendor access.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.gaston.k12.nc.us/about-us/list-of-schools"
+        ]
+      }
     },
     {
       "id": 1001205,
@@ -20351,11 +20519,26 @@
           "url": "https://watsoninsurance.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://watsoninsurance.com/",
-      "phone": "+17048658584"
+      "phone": "+17048658584",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/"
+        ]
+      }
     },
     {
       "id": 1001210,
@@ -20365,11 +20548,26 @@
           "url": "https://watsoninsurance.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://watsoninsurance.com/",
-      "phone": "+17048259641"
+      "phone": "+17048259641",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/"
+        ]
+      }
     },
     {
       "id": 1001211,
@@ -20486,12 +20684,27 @@
           "url": "https://thecollectivebelmont.com/pages/contact",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://gigisconsignmentboutique.com/pages/visit-us-1",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
       "website": "https://thecollectivebelmont.com/pages/visit-us",
       "phone": "+17044618043",
-      "email": "shopthecollectivebelmont@gmail.com"
+      "email": "shopthecollectivebelmont@gmail.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://gigisconsignmentboutique.com/pages/visit-us-1"
+        ]
+      }
     },
     {
       "id": 1001218,
@@ -20501,11 +20714,26 @@
           "url": "https://bryan-andrea-455n.squarespace.com/market-on-main",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.holyangelsnc.org/market-on-main",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://bryan-andrea-455n.squarespace.com/market-on-main",
-      "phone": "+17044618407"
+      "phone": "+17044618407",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.holyangelsnc.org/market-on-main"
+        ]
+      }
     },
     {
       "id": 1001219,
@@ -21119,11 +21347,22 @@
         {
           "url": "https://www.ppsd.com/locations/gastonia-937-cox-rd/",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
-      "website": "https://www.ppsd.com/locations/gastonia-937-cox-rd/"
+      "verified": "2026-10-04",
+      "website": "https://www.ppsd.com/locations/gastonia-937-cox-rd/",
+      "phone": "+17048988014",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ppsd.com/locations/gastonia-937-cox-rd/"
+        ]
+      }
     },
     {
       "id": 1001259,
@@ -23573,11 +23812,21 @@
         {
           "url": "https://thecatalystmercantile.com/",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
-      "website": "https://thecatalystmercantile.com/"
+      "verified": "2026-10-04",
+      "website": "https://thecatalystmercantile.com/",
+      "visit": {
+        "status": "walk_in",
+        "summary": "Owned source publishes a physical retail store and customer opening hours. A brief introduction may be appropriate during open hours; manager availability and exterior approval remain unknown.",
+        "address": "123 S Main St, Mount Holly, NC",
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://thecatalystmercantile.com/"
+        ]
+      }
     },
     {
       "id": 1001413,
@@ -24151,17 +24400,57 @@
     },
     {
       "id": 1001450,
-      "people": [],
+      "people": [
+        {
+          "id": 100058243,
+          "name": "Danny R. Peterson",
+          "role": "Lead Pastor",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://www.eastbelmontcog.com/team-1",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        },
+        {
+          "id": 100058244,
+          "name": "Sandra Barnes",
+          "role": "Executive Secretary",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://www.eastbelmontcog.com/team-1",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "url": "https://www.eastbelmontcog.com/",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.eastbelmontcog.com/",
-      "phone": "+17048258845"
+      "phone": "+17048258845",
+      "email": "eastbelmontcog@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the public administrative office; campus/customer schedules do not establish vendor access.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.eastbelmontcog.com/"
+        ]
+      }
     },
     {
       "id": 1001451,
@@ -24185,12 +24474,22 @@
         {
           "url": "https://www.skinnovations.us/",
           "type": "company website",
-          "date": "2026-10-01"
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://www.skinnovations.us/",
-      "email": "info@skinnnovations.us"
+      "email": "info@skinnnovations.us",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.skinnovations.us/"
+        ]
+      }
     },
     {
       "id": 1001453,
@@ -24243,11 +24542,27 @@
           "url": "https://honeycombcafenc.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://honeycombcafenc.com/tags/fajitas",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://honeycombcafenc.com/",
-      "phone": "+19802837103"
+      "phone": "+19802837103",
+      "email": "info@honeycombcafenc.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://honeycombcafenc.com/tags/fajitas"
+        ]
+      }
     },
     {
       "id": 1001457,
@@ -24329,11 +24644,26 @@
           "url": "https://gastonfamilypractice.com/",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://gastonfamilypractice.com/business-form/",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-04",
       "website": "https://gastonfamilypractice.com/",
-      "phone": "+17048671402"
+      "phone": "+17048671402",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://gastonfamilypractice.com/business-form/"
+        ]
+      }
     },
     {
       "id": 1001462,
@@ -26647,16 +26977,47 @@
     },
     {
       "id": 1001629,
-      "people": [],
+      "people": [
+        {
+          "id": 100058238,
+          "name": "Mark T. Emery",
+          "role": "ENT physician",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://entcarolina.com/about-us/providers/mark-t.-emery",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "url": "https://entcarolina.com/locations/belmont",
           "type": "company website",
           "date": "2026-10-04"
+        },
+        {
+          "url": "https://entcarolina.com/about-us/providers/mark-t.-emery",
+          "type": "company website",
+          "date": "2026-10-04"
         }
       ],
       "verified": "2026-10-04",
-      "website": "https://entcarolina.com/locations/belmont"
+      "website": "https://entcarolina.com/locations/belmont",
+      "phone": "+17048688400",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://entcarolina.com/about-us/providers/mark-t.-emery"
+        ]
+      }
     },
     {
       "id": 1001630,
@@ -30028,6 +30389,1216 @@
         "checkedAt": "2026-10-04",
         "sources": [
           "https://bellaterrainc.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001775,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+      "phone": "+17048666129",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the public administrative office; campus/customer schedules do not establish vendor access.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.gaston.k12.nc.us/about-us/list-of-schools"
+        ]
+      }
+    },
+    {
+      "id": 1001776,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+      "phone": "+17048666146",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the public administrative office; campus/customer schedules do not establish vendor access.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.gaston.k12.nc.us/about-us/list-of-schools"
+        ]
+      }
+    },
+    {
+      "id": 1001777,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.clover.k12.sc.us/page/social-work-contacts",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.clover.k12.sc.us/page/social-work-contacts",
+      "phone": "+18038108000",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the public administrative office; campus/customer schedules do not establish vendor access.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.clover.k12.sc.us/page/social-work-contacts"
+        ]
+      }
+    },
+    {
+      "id": 1001778,
+      "people": [
+        {
+          "id": 100058237,
+          "name": "Sagar Patel",
+          "role": "Gastroenterology physician",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://www.carolinadigestive.com/provider/sagar-patel-md-mha",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.carolinadigestive.com/location/belmont-nc",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.carolinadigestive.com/location/belmont-nc",
+      "phone": "+17043727974",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.carolinadigestive.com/location/belmont-nc"
+        ]
+      }
+    },
+    {
+      "id": 1001779,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carolinadigestive.com/location/matthews-nc",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.carolinadigestive.com/location/matthews-nc",
+      "phone": "+17043727974",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.carolinadigestive.com/location/matthews-nc"
+        ]
+      }
+    },
+    {
+      "id": 1001780,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://entcarolina.com/locations",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://entcarolina.com/locations",
+      "phone": "+17048688400",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://entcarolina.com/locations"
+        ]
+      }
+    },
+    {
+      "id": 1001781,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.skinncave.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.skinncave.com/",
+      "phone": "+17049416999",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.skinncave.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001782,
+      "people": [
+        {
+          "id": 100058239,
+          "name": "Missy Kudlak",
+          "role": "Physician Assistant",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://skinpharm.com/pages/skincare-charlotte",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        },
+        {
+          "id": 100058240,
+          "name": "Taylor Peck",
+          "role": "Nurse Practitioner",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://skinpharm.com/pages/skincare-charlotte",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        },
+        {
+          "id": 100058241,
+          "name": "Lori Cappello",
+          "role": "Nurse Practitioner",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://skinpharm.com/pages/skincare-charlotte",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://skinpharm.com/pages/skincare-charlotte",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://skinpharm.com/pages/skincare-charlotte",
+      "phone": "+19808803899",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://skinpharm.com/pages/skincare-charlotte"
+        ]
+      }
+    },
+    {
+      "id": 1001783,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://admissionshopping.com/mystery-box-locations",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://admissionshopping.com/mystery-box-locations",
+      "phone": "+17048791775",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://admissionshopping.com/mystery-box-locations"
+        ]
+      }
+    },
+    {
+      "id": 1001784,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://moxiemercantile.com/pages/locations",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://moxiemercantile.com/pages/locations",
+      "phone": "+17048777879",
+      "visit": {
+        "status": "walk_in",
+        "summary": "Owned source publishes a physical retail store and customer opening hours. A brief introduction may be appropriate during open hours; manager availability and exterior approval remain unknown.",
+        "address": "2008 Commonwealth Avenue, Charlotte, NC, 28205",
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://moxiemercantile.com/pages/locations"
+        ]
+      }
+    },
+    {
+      "id": 1001785,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://moxiemercantile.com/pages/locations",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://moxiemercantile.com/pages/locations",
+      "phone": "+19808757827",
+      "visit": {
+        "status": "walk_in",
+        "summary": "Owned source publishes a physical retail store and customer opening hours. A brief introduction may be appropriate during open hours; manager availability and exterior approval remain unknown.",
+        "address": "159 N Trade Street, Matthews, NC, 28105",
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://moxiemercantile.com/pages/locations"
+        ]
+      }
+    },
+    {
+      "id": 1001786,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://moxiemercantile.com/pages/locations",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://moxiemercantile.com/pages/locations",
+      "phone": "+19808757828",
+      "visit": {
+        "status": "walk_in",
+        "summary": "Owned source publishes a physical retail store and customer opening hours. A brief introduction may be appropriate during open hours; manager availability and exterior approval remain unknown.",
+        "address": "1219 Thomas Avenue, Charlotte, NC, 28205",
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://moxiemercantile.com/pages/locations"
+        ]
+      }
+    },
+    {
+      "id": 1001787,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://juliesclothing.com/pages/locations",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://juliesclothing.com/pages/locations",
+      "phone": "+17045259552",
+      "email": "customerservice@juliesclothing.com",
+      "visit": {
+        "status": "walk_in",
+        "summary": "Owned source publishes a physical retail store and customer opening hours. A brief introduction may be appropriate during open hours; manager availability and exterior approval remain unknown.",
+        "address": "4145 Park Road, Charlotte, NC, 28209",
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://juliesclothing.com/pages/locations"
+        ]
+      }
+    },
+    {
+      "id": 1001788,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://juliesclothing.com/pages/locations",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://juliesclothing.com/pages/locations",
+      "phone": "+17048651851",
+      "email": "customerservice@juliesclothing.com",
+      "visit": {
+        "status": "walk_in",
+        "summary": "Owned source publishes a physical retail store and customer opening hours. A brief introduction may be appropriate during open hours; manager availability and exterior approval remain unknown.",
+        "address": "401 Cox Road, Gastonia, NC, 28054",
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://juliesclothing.com/pages/locations"
+        ]
+      }
+    },
+    {
+      "id": 1001789,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://nc.xmartinelaw.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://nc.xmartinelaw.com/contact-us/",
+      "phone": "+17048423411",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://nc.xmartinelaw.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1001790,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://nc.xmartinelaw.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://nc.xmartinelaw.com/contact-us/",
+      "phone": "+17048423411",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://nc.xmartinelaw.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1001791,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.knipplaw.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.knipplaw.com/",
+      "phone": "+17046104276",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.knipplaw.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001792,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/",
+      "phone": "+18038312058",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/"
+        ]
+      }
+    },
+    {
+      "id": 1001793,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://goallcare.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://goallcare.com/contact/",
+      "phone": "+17048257000",
+      "email": "allcare1@goallcare.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://goallcare.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001794,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://goallcare.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://goallcare.com/contact/",
+      "phone": "+17048257000",
+      "email": "allcare1@goallcare.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://goallcare.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001795,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://2nationsinsurance.com/contact.html",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://2nationsinsurance.com/contact.html",
+      "phone": "+17047186634",
+      "email": "info@2nationsinsurance.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://2nationsinsurance.com/contact.html"
+        ]
+      }
+    },
+    {
+      "id": 1001796,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.nelliessouthernkitchen.com/info",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.nelliessouthernkitchen.com/info",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.nelliessouthernkitchen.com/info"
+        ]
+      }
+    },
+    {
+      "id": 1001797,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.theeverydaymarketcharlotte.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.theeverydaymarketcharlotte.com/",
+      "phone": "+19802837170",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.theeverydaymarketcharlotte.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001798,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.theeverydaymarketcharlotte.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.theeverydaymarketcharlotte.com/",
+      "phone": "+19802837170",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.theeverydaymarketcharlotte.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001799,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.pitawheel.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.pitawheel.com/",
+      "phone": "+17047473224",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.pitawheel.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001800,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.pitawheel.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.pitawheel.com/",
+      "phone": "+17044618024",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.pitawheel.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001801,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.gocnc.org/monthly-meetings",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://thebeardedbuffalo.com/",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.gocnc.org/monthly-meetings"
+        ]
+      }
+    },
+    {
+      "id": 1001802,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.webbcustomkitchen.com/reservations",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.webbcustomkitchen.com/reservations",
+      "phone": "+17048648385",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.webbcustomkitchen.com/reservations"
+        ]
+      }
+    },
+    {
+      "id": 1001803,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/belmont/mthly/hoteldetail",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/belmont/mthly/hoteldetail",
+      "phone": "+17048122000",
+      "email": "gm.mthly@maya-hotels.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinnexpress/hotels/us/en/belmont/mthly/hoteldetail"
+        ]
+      }
+    },
+    {
+      "id": 1001804,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/gastonia/gstnc/hoteldetail/directions.html",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/gastonia/gstnc/hoteldetail/directions.html",
+      "phone": "+17048843300",
+      "email": "frontdesk.gstnc.ihg@gmail.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinnexpress/hotels/gb/en/gastonia/gstnc/hoteldetail/directions.html"
+        ]
+      }
+    },
+    {
+      "id": 1001805,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltnl/hoteldetail",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltnl/hoteldetail",
+      "phone": "+17047901700",
+      "email": "holidayinnexpressnorthlake@gmail.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltnl/hoteldetail"
+        ]
+      }
+    },
+    {
+      "id": 1001806,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hilton.com/en/hotels/cltblhx-hampton-charlotte-belmont-at-montcross/hotel-info/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.hilton.com/en/hotels/cltblhx-hampton-charlotte-belmont-at-montcross/hotel-info/",
+      "phone": "+17048256100",
+      "email": "cltbl_hampton@hilton.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.hilton.com/en/hotels/cltblhx-hampton-charlotte-belmont-at-montcross/hotel-info/"
+        ]
+      }
+    },
+    {
+      "id": 1001807,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hilton.com/en/hotels/cltbtht-home2-suites-charlotte-belmont/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.hilton.com/en/hotels/cltbtht-home2-suites-charlotte-belmont/",
+      "phone": "+17047551770",
+      "email": "cltbt_home2@hilton.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.hilton.com/en/hotels/cltbtht-home2-suites-charlotte-belmont/"
+        ]
+      }
+    },
+    {
+      "id": 1001808,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.marriott.com/en-us/hotels/cltfh-fairfield-inn-and-suites-charlotte-belmont/overview/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.marriott.com/en-us/hotels/cltfh-fairfield-inn-and-suites-charlotte-belmont/overview/",
+      "phone": "+17043172777",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.marriott.com/en-us/hotels/cltfh-fairfield-inn-and-suites-charlotte-belmont/overview/"
+        ]
+      }
+    },
+    {
+      "id": 1001809,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://upperroombelmont.org/visit/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://upperroombelmont.org/visit/",
+      "phone": "+17048250604",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the public administrative office; campus/customer schedules do not establish vendor access.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://upperroombelmont.org/visit/"
+        ]
+      }
+    },
+    {
+      "id": 1001810,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.corechurch.cc/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.corechurch.cc/",
+      "phone": "+17048228033",
+      "email": "info@corechurch.cc",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction through the public administrative office; campus/customer schedules do not establish vendor access.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.corechurch.cc/"
+        ]
+      }
+    },
+    {
+      "id": 1001811,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.holyangelsnc.org/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.holyangelsnc.org/",
+      "phone": "+17048254161",
+      "email": "hainfo@holyangelsnc.org",
+      "visit": {
+        "status": "call_first",
+        "summary": "Mailing PO Box710 is separate from owned campus6600Wilkinson. Contact administrative office before a vendor visit; nonprofit exterior approval authority unknown.",
+        "address": "6600 Wilkinson Boulevard, Belmont, NC",
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.holyangelsnc.org/"
+        ]
+      }
+    },
+    {
+      "id": 1001812,
+      "people": [
+        {
+          "id": 100058242,
+          "name": "Mark Forbes",
+          "role": "Pastor",
+          "email": "mforbes@lhcbelmont.org",
+          "phone": "7046851335",
+          "sources": [
+            {
+              "url": "https://lhcbelmont.org/contact/",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://lhcbelmont.org/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://lhcbelmont.org/contact/",
+      "phone": "+17046851335",
+      "email": "mforbes@lhcbelmont.org",
+      "visit": {
+        "status": "call_first",
+        "summary": "Owned source separates mailing PO Box223 from worship meeting901ECatawbaStreet. Contact pastor/office before vendor visit; no physical postal ZIP inferred.",
+        "address": "901 E Catawba Street, Belmont, NC",
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://lhcbelmont.org/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001813,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lowmeadowsestate.com/contact/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://lowmeadowsestate.com/contact/",
+      "phone": "+17045789581",
+      "email": "lowmeadowsbarn140@gmail.com",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "Owned contact explicitly states By Appointments Only. Arrange any networking tour in advance.",
+        "address": null,
+        "hours": "Monday-Friday 10 AM-5 PM by appointment; weekends closed",
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://lowmeadowsestate.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1001814,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.muddyriverdistillery.com/upcoming-book-event-space",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.muddyriverdistillery.com/upcoming-book-event-space",
+      "phone": "+17048208001",
+      "email": "events@muddyriverdistillery.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.muddyriverdistillery.com/upcoming-book-event-space"
+        ]
+      }
+    },
+    {
+      "id": 1001815,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.wedgewoodweddings.com/venues/separk-mansion",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.wedgewoodweddings.com/venues/separk-mansion",
+      "phone": "+18669663009",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.wedgewoodweddings.com/venues/separk-mansion"
+        ]
+      }
+    },
+    {
+      "id": 1001816,
+      "people": [
+        {
+          "id": 100058245,
+          "name": "Jonathan Rainier Kaczmarski",
+          "role": "Dentist / named practice operator",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://www.purpletoothdental.com/our-team/",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        },
+        {
+          "id": 100058246,
+          "name": "Katie",
+          "role": "Office Manager",
+          "email": null,
+          "phone": null,
+          "sources": [
+            {
+              "url": "https://www.purpletoothdental.com/our-team/",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.purpletoothdental.com/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.purpletoothdental.com/",
+      "phone": "+17048852266",
+      "email": "hello@purpletoothdental.com",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.purpletoothdental.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001817,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fresha.com/a/skin-vision-waxhaw-400-east-south-main-street-l6tspuez",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://www.fresha.com/a/skin-vision-waxhaw-400-east-south-main-street-l6tspuez",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.fresha.com/a/skin-vision-waxhaw-400-east-south-main-street-l6tspuez"
+        ]
+      }
+    },
+    {
+      "id": 1001818,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://turningpointnc.org/second-chance-stores/",
+          "type": "company website",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "website": "https://turningpointnc.org/second-chance-stores/",
+      "phone": "+17042881898",
+      "email": "twagner@turntoday.net",
+      "visit": {
+        "status": "walk_in",
+        "summary": "Owned source publishes a physical retail store and customer opening hours. A brief introduction may be appropriate during open hours; manager availability and exterior approval remain unknown.",
+        "address": "1201 N Broome Street, Unit B, Waxhaw, NC, 28173",
+        "hours": "Tuesday-Saturday 10 AM-5 PM; closed Mondays and Sundays",
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://turningpointnc.org/second-chance-stores/"
+        ]
+      }
+    },
+    {
+      "id": 1001819,
+      "people": [
+        {
+          "id": 100058247,
+          "name": "Christianna Morton",
+          "role": "Public e-file provider contact",
+          "email": null,
+          "phone": "7042581007",
+          "sources": [
+            {
+              "url": "https://www.irs.gov/ko/efile-index-taxpros-search?bureau=All&developer=All&ero=1&page=4534&state=All&transmitter=All&zip=",
+              "type": "public primary source; professional role, exterior authority unverified",
+              "date": "2026-10-04"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.irs.gov/ko/efile-index-taxpros-search?bureau=All&developer=All&ero=1&page=4534&state=All&transmitter=All&zip=",
+          "type": "official organization directory",
+          "date": "2026-10-04"
+        }
+      ],
+      "verified": "2026-10-04",
+      "phone": "+17042581007",
+      "visit": {
+        "status": "unknown",
+        "summary": "Public business route verified; vendor visit arrangements, property ownership and exterior approval authority remain unverified. Arrange an introduction.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-04",
+        "sources": [
+          "https://www.irs.gov/ko/efile-index-taxpros-search?bureau=All&developer=All&ero=1&page=4534&state=All&transmitter=All&zip="
         ]
       }
     }

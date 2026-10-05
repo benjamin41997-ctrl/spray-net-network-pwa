@@ -22798,6 +22798,1038 @@
       "unresolved": [],
       "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
       "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-belmont--school",
+      "area": "belmont",
+      "category": "school",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://pageprimary.gaston.k12.nc.us/about-us/school-improvement-team",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1000140
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-gastonia--district",
+      "area": "gastonia",
+      "category": "district",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001775,
+        1001776,
+        1001204
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-lake_wylie--district",
+      "area": "lake_wylie",
+      "category": "district",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.clover.k12.sc.us/page/social-work-contacts",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.clover.k12.sc.us/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001777
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-gastonia--medical",
+      "area": "gastonia",
+      "category": "medical",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://gastonfamilypractice.com/business-form/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/locations",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/about-us",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/about-us/providers/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/locations/walk-in-clinic",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/about-us/providers/mark-t.-emery",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001461,
+        1001780
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-belmont--medical",
+      "area": "belmont",
+      "category": "medical",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.carolinadigestive.com/location/belmont-nc",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.carolinadigestive.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.carolinadigestive.com/about",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.carolinadigestive.com/location/matthews-nc",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/about-us/providers/mark-t.-emery",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/about-us",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/about-us/providers/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/locations",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://entcarolina.com/locations/walk-in-clinic",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001778,
+        1001629
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-matthews--medical",
+      "area": "matthews",
+      "category": "medical",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.carolinadigestive.com/location/matthews-nc",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.carolinadigestive.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.carolinadigestive.com/about",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.carolinadigestive.com/location/belmont-nc",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001779
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-belmont--med_spa",
+      "area": "belmont",
+      "category": "med_spa",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.skinnovations.us/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001452
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-gastonia--med_spa",
+      "area": "gastonia",
+      "category": "med_spa",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.ppsd.com/locations/gastonia-937-cox-rd/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.skinncave.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001258,
+        1001781
+      ],
+      "unresolved": [
+        "Skinn Cave: Publicly indexed owned source verifiesGastonia skin-care business and directcall/text7049416999. Postalstreet/ZIP notcorroborated; basic business only, exportheld. Same-day treatmentappointments do not imply networkingwalk-ins. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-charlotte--med_spa",
+      "area": "charlotte",
+      "category": "med_spa",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://skinpharm.com/pages/skincare-charlotte",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://skinpharm.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://skinpharm.com/blogs/blog/about-us",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001782
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-belmont--retail",
+      "area": "belmont",
+      "category": "retail",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://gigisconsignmentboutique.com/pages/visit-us-1",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://gigisconsignmentboutique.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://gigisconsignmentboutique.com/pages/contact-us",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.catawbariverantiquemall.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.holyangelsnc.org/market-on-main",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.holyangelsnc.org/contact",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001217,
+        1000754,
+        1001218
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-gastonia--retail",
+      "area": "gastonia",
+      "category": "retail",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://admissionshopping.com/mystery-box-locations",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://admissionshopping.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://admissionshopping.com/about-us",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://juliesclothing.com/pages/locations",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://juliesclothing.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://juliesclothing.com/pages/contact-us",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001783,
+        1001788
+      ],
+      "unresolved": [
+        "The Mystery Box Warehouse - Gastonia: Ownedbrand locationpage explicitly identifiesGastonia(Ranlo) street andlocalphone; ZIPmissing, mailingheld. Preservepostal Gastoniaasprinted, flagmunicipalRanloscope ifneeded. OtherFairmont/Greensboro storesandGoDaddyfillerexcluded. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-mount_holly--retail",
+      "area": "mount_holly",
+      "category": "retail",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://thecatalystmercantile.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://thecatalystmercantile.com/pages/about-us",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001412
+      ],
+      "unresolved": [
+        "The Catalyst Mercantile: Ownedcurrentstorefooter confirms123SMainMountHolly andretailhours, butZIPnotpublished. Existingpostcode remainsmissing; exportheld. Vendorcommunityapplication isstoremakersprogram, not exteriorcontractorregistration. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-charlotte--retail",
+      "area": "charlotte",
+      "category": "retail",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://moxiemercantile.com/pages/locations",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://moxiemercantile.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://juliesclothing.com/pages/locations",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://juliesclothing.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://juliesclothing.com/pages/contact-us",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001784,
+        1001786,
+        1001787
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-matthews--retail",
+      "area": "matthews",
+      "category": "retail",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://moxiemercantile.com/pages/locations",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://moxiemercantile.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001785
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-regional--professional",
+      "area": "regional",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.siskgreenecpa.com/contact-us",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.siskgreenecpa.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.siskgreenecpa.com/about-us",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1000802
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-charlotte--professional",
+      "area": "charlotte",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://nc.xmartinelaw.com/contact-us/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://nc.xmartinelaw.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://nc.xmartinelaw.com/contact-us/#areas-served",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001789
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-belmont--professional",
+      "area": "belmont",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://nc.xmartinelaw.com/contact-us/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://nc.xmartinelaw.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://nc.xmartinelaw.com/contact-us/#areas-served",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.knipplaw.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://watsoninsurance.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://watsoninsurance.com/about-our-agency/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.neilbrockagency.com/contact",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://goallcare.com/contact/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://goallcare.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://goallcare.com/about-us/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://2nationsinsurance.com/contact.html",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://2nationsinsurance.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://2nationsinsurance.com/about-us.html",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001790,
+        1001791,
+        1001210,
+        1000753,
+        1001794,
+        1001795
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-gastonia--professional",
+      "area": "gastonia",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://watsoninsurance.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://watsoninsurance.com/about-our-agency/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://goallcare.com/contact/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://goallcare.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://goallcare.com/about-us/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001209,
+        1001793
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-lake_wylie--professional",
+      "area": "lake_wylie",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://watsoninsurance.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://watsoninsurance.com/about-our-agency/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001792
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-belmont--restaurant",
+      "area": "belmont",
+      "category": "restaurant",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.nelliessouthernkitchen.com/info",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.nelliessouthernkitchen.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://marrellis.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://honeycombcafenc.com/tags/fajitas",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.stationbelmont.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.theeverydaymarketcharlotte.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.pitawheel.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.pitawheel.com/about",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.gocnc.org/monthly-meetings",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001796,
+        1000566,
+        1001456,
+        1000562,
+        1001797,
+        1001800,
+        1001801
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-charlotte--restaurant",
+      "area": "charlotte",
+      "category": "restaurant",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.theeverydaymarketcharlotte.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001798
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-gastonia--restaurant",
+      "area": "gastonia",
+      "category": "restaurant",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.pitawheel.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.pitawheel.com/about",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.webbcustomkitchen.com/reservations",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001799,
+        1001802
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-belmont--lodging",
+      "area": "belmont",
+      "category": "lodging",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/belmont/mthly/hoteldetail",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.hilton.com/en/hotels/cltblhx-hampton-charlotte-belmont-at-montcross/hotel-info/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.hilton.com/en/hotels/cltbtht-home2-suites-charlotte-belmont/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.marriott.com/en-us/hotels/cltfh-fairfield-inn-and-suites-charlotte-belmont/overview/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001803,
+        1001806,
+        1001807,
+        1001808
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-gastonia--lodging",
+      "area": "gastonia",
+      "category": "lodging",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/gastonia/gstnc/hoteldetail/directions.html",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001804
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-charlotte--lodging",
+      "area": "charlotte",
+      "category": "lodging",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltnl/hoteldetail",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001805
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-belmont--other",
+      "area": "belmont",
+      "category": "other",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://upperroombelmont.org/visit/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.corechurch.cc/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.holyangelsnc.org/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.holyangelsnc.org/contact",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://lhcbelmont.org/contact/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://lhcbelmont.org/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://lhcbelmont.org/about/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001809,
+        1001810,
+        1001811,
+        1001812
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-belmont--church",
+      "area": "belmont",
+      "category": "church",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.eastbelmontcog.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001450
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-gastonia--funeral",
+      "area": "gastonia",
+      "category": "funeral",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.mcleanfuneral.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1000074
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-belmont--funeral",
+      "area": "belmont",
+      "category": "funeral",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.mcleanfuneral.com/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1000075
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-mount_holly--venue",
+      "area": "mount_holly",
+      "category": "venue",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://lowmeadowsestate.com/contact/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://lowmeadowsestate.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.muddyriverdistillery.com/upcoming-book-event-space",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001813,
+        1001814
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-gastonia--venue",
+      "area": "gastonia",
+      "category": "venue",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.wedgewoodweddings.com/venues/separk-mansion",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.wedgewoodweddings.com/contact-us",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001815
+      ],
+      "unresolved": [
+        "Separk Mansion: Owned Wedgewood venue page confirms historic estate/street but prints28042 ZIP, conflicting with local postal expectations; ZIP intentionally blank pending corroboration. Phone is brand central, not local manager. Basic verified venue may publish with mailing held. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-mount_holly--dentist",
+      "area": "mount_holly",
+      "category": "dentist",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.purpletoothdental.com/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.purpletoothdental.com/about-us/",
+          "label": "Reviewed public primary business/location source"
+        },
+        {
+          "url": "https://www.purpletoothdental.com/our-team/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001816
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-waxhaw--med_spa",
+      "area": "waxhaw",
+      "category": "med_spa",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.fresha.com/a/skin-vision-waxhaw-400-east-south-main-street-l6tspuez",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001817
+      ],
+      "unresolved": [
+        "Skin Vision: Current business booking profile verifies SkinVisionWaxhaw at400ESouthMainSuite7. Generic IndianLand nearby-results page isnot location evidence. ZIP and directphone notprinted in inspected profile; do not guess; mailingheld. Appointment services do not imply networking access. Confirm vendor visit arrangements."
+      ],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-waxhaw--retail",
+      "area": "waxhaw",
+      "category": "retail",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://turningpointnc.org/second-chance-stores/",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001818
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-waxhaw--professional",
+      "area": "waxhaw",
+      "category": "professional",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.irs.gov/ko/efile-index-taxpros-search?bureau=All&developer=All&ero=1&page=4534&state=All&transmitter=All&zip=",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1001819
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
+    },
+    {
+      "id": "held-investigation-20261004d-waxhaw--childcare",
+      "area": "waxhaw",
+      "category": "childcare",
+      "searchedOn": "2026-10-04",
+      "sources": [
+        {
+          "url": "https://www.goddardschool.com/schools/nc/waxhaw/waxhaw/our-teachers",
+          "label": "Reviewed public primary business/location source"
+        }
+      ],
+      "reviewedIds": [
+        1000086
+      ],
+      "unresolved": [],
+      "notes": "Focused investigation of previously held sources. Offices compared against both directories; separate branches preserved. Records without full postal evidence remain excluded from mailing exports. This is not exhaustive territory coverage.",
+      "nextAction": "Continue remaining public-source questions; confirm visit arrangements and exterior approval authority with businesses."
     }
   ]
 }

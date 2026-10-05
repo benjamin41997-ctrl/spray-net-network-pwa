@@ -1628,8 +1628,8 @@
       "state": "NC",
       "zip": "28054",
       "country": "US",
-      "source": "https://www.mcleanfuneral.com/contact/contact-us",
-      "reviewedOn": "2026-09-21",
+      "source": "https://www.mcleanfuneral.com/",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -1637,7 +1637,8 @@
         "reason": "The business describes itself as family owned and operated. Start with its owners/management; this does not prove ownership of the building.",
         "source": "https://www.mcleanfuneral.com/",
         "reviewedOn": "2026-09-22"
-      }
+      },
+      "prospectNotes": "Current indexed owned location directory verifies700SNewHopeRoadGastonia28054; retain distinct Belmont office and existing legal IDs."
     },
     {
       "id": 1000075,
@@ -1650,8 +1651,8 @@
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://www.mcleanfuneral.com/contact/contact-us",
-      "reviewedOn": "2026-09-21",
+      "source": "https://www.mcleanfuneral.com/",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -1659,7 +1660,8 @@
         "reason": "The business describes itself as family owned and operated. Start with its owners/management; this does not prove ownership of the building.",
         "source": "https://www.mcleanfuneral.com/",
         "reviewedOn": "2026-09-22"
-      }
+      },
+      "prospectNotes": "Current indexed owned directory verifies515NCentralAveBelmont28012; distinct Gastonia branch retained. Arrange a vendor introduction appropriate to funeral office."
     },
     {
       "id": 1000076,
@@ -1892,7 +1894,7 @@
       "state": "NC",
       "zip": "28173",
       "country": "US",
-      "source": "https://www.goddardschool.com/schools/nc/waxhaw/waxhaw",
+      "source": "https://www.goddardschool.com/schools/nc/waxhaw/waxhaw/our-teachers",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
@@ -1902,7 +1904,7 @@
         "source": "https://www.goddardschool.com/schools/sc/fort-mill",
         "reviewedOn": "2026-09-21"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "Brand-owned current GoddardSchoolWaxhaw page corroborates1528ProvidenceRoadS28173/7042430120. Alternatewaxhawpreschools.com contactusesGoddard name andsamestreet/phone, but exactsaved genericWaxhawPreschool identity unconfirmed; no secondschool or guessed affiliation created."
     },
     {
       "id": 1000087,
@@ -14574,14 +14576,14 @@
       "city": "Belmont",
       "state": "NC",
       "zip": "28012",
-      "source": "https://www.gaston.k12.nc.us/elementary",
+      "source": "https://pageprimary.gaston.k12.nc.us/about-us/school-improvement-team",
       "id": 1000140,
       "attention": "",
       "country": "US",
-      "reviewedOn": "2026-09-22",
+      "reviewedOn": "2026-10-04",
       "status": "published",
-      "addressSourceType": "official_directory",
-      "prospectNotes": "School district directory reviewed September 22. Confirm vendor requirements and arrange any visit.",
+      "addressSourceType": "company_website",
+      "prospectNotes": "Owned current school page verifies215EwingDriveBelmont28012 and principal BillKessler. Administrative professional contact, not exterior approver; arrange school visitor access.",
       "exterior": {
         "route": "central_facilities",
         "reason": "Public school listed by its district. Start with district facilities/procurement; a school office is not evidence of independent contracting authority.",
@@ -24521,10 +24523,10 @@
       "zip": "28012",
       "country": "US",
       "source": "https://www.stationbelmont.com/",
-      "reviewedOn": "2026-09-22",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
-      "prospectNotes": "Customer-facing dining location. Standalone structure, property title and exterior approval are separate research questions.",
+      "prospectNotes": "Ownedsitelocation4NMainBelmont28012 matchesexistingStation, nota secondoffice. info@mysite.comfillerexcluded;currentbusinessmailbox retained.",
       "exterior": {
         "route": "unknown",
         "reason": "Business location verified; owner and exterior authority not established.",
@@ -24846,7 +24848,7 @@
       "zip": "28012",
       "country": "US",
       "source": "https://marrellis.com/",
-      "reviewedOn": "2026-09-29",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -24854,7 +24856,8 @@
         "reason": "Current business address published by the business. Ownership and authority to approve exterior work are not verified.",
         "source": "https://marrellis.com/",
         "reviewedOn": "2026-09-29"
-      }
+      },
+      "prospectNotes": "Currentpubliclyindexedownedsourcedetails33GlenwayBelmont28012. No closureinferredfromcrawler403; sharedplaceholder/template contacts excluded."
     },
     {
       "id": 1000567,
@@ -30067,8 +30070,8 @@
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://www.neilbrockagency.com/",
-      "reviewedOn": "2026-09-30",
+      "source": "https://www.neilbrockagency.com/contact",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -30076,7 +30079,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.neilbrockagency.com/",
         "reviewedOn": "2026-09-30"
-      }
+      },
+      "prospectNotes": "Ownedpubliclyindexedcontactcorroborates4702SNewHopeBelmont28012, distinctfromShelby. WeekendByAppointmenthours; arrangevendorintroduction."
     },
     {
       "id": 1156,
@@ -30121,7 +30125,7 @@
         "source": "https://www.catawbariverantiquemall.com/",
         "reviewedOn": "2026-09-30"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "Hostantiquemall ownedpage explicitly namesboutique inits406CatawbaStreet building; independentlisting corroborates. Mallphone isnotassigned asboutiquedirectcontact. OldCommentSold404notclosure; suite/vendorapprovalunknown."
     },
     {
       "id": 1000755,
@@ -31446,8 +31450,8 @@
       "state": "NC",
       "zip": "28164-2126",
       "country": "US",
-      "source": "https://www.siskgreenecpa.com/",
-      "reviewedOn": "2026-09-30",
+      "source": "https://www.siskgreenecpa.com/contact-us",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -31455,7 +31459,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.siskgreenecpa.com/",
         "reviewedOn": "2026-09-30"
-      }
+      },
+      "prospectNotes": "Ownedcurrentcontact corroboratesexistingStanley716SMain office; staleaboutpagetitleMountHollydoesnotestablishanotherbranch. Existingpostalrecordretained; no newlyexpandedStanleydiscovery."
     },
     {
       "id": 1000803,
@@ -42911,7 +42916,7 @@
       "state": "NC",
       "zip": "28054",
       "country": "US",
-      "source": "https://www.gaston.k12.nc.us/about-us/school-bonds",
+      "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
@@ -42921,7 +42926,7 @@
         "source": "https://www.gaston.k12.nc.us/",
         "reviewedOn": "2026-10-01"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "Owned district directory corroborates administrative943OsceolaGastonia28054. Different resource/maintenance departments preserved at distinct addresses."
     },
     {
       "id": 1001205,
@@ -43025,8 +43030,8 @@
       "state": "NC",
       "zip": "28052",
       "country": "US",
-      "source": "https://watsoninsurance.com/",
-      "reviewedOn": "2026-10-01",
+      "source": "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -43034,7 +43039,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://watsoninsurance.com/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "OwnedagencydirectorycorroboratesexistingGastonia245ESecond28052, separatefromBelmont andLakeWylie offices; corporatefaxexcluded."
     },
     {
       "id": 1001210,
@@ -43047,8 +43053,8 @@
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://watsoninsurance.com/",
-      "reviewedOn": "2026-10-01",
+      "source": "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -43056,7 +43062,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://watsoninsurance.com/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "OwnedagencydirectorycorroboratesexistingBelmont302ECatawba28012. Sharedwebsite notofficeidentitymerge."
     },
     {
       "id": 1001211,
@@ -43224,7 +43231,7 @@
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://thecollectivebelmont.com/pages/contact",
+      "source": "https://gigisconsignmentboutique.com/pages/visit-us-1",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
@@ -43234,7 +43241,7 @@
         "source": "https://thecollectivebelmont.com/pages/visit-us",
         "reviewedOn": "2026-10-01"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "OwnedVisitUs identifiesboutique insideTheCollective andpublishes sharedstoreinbox. Contactpageemail hasmisspelleddomain; currentVisitUsmailbox selected. Consignmentappointments versuscustomerretailhours distinguished; tenant exteriorauthorityunknown."
     },
     {
       "id": 1001218,
@@ -43247,8 +43254,8 @@
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://bryan-andrea-455n.squarespace.com/market-on-main",
-      "reviewedOn": "2026-10-01",
+      "source": "https://www.holyangelsnc.org/market-on-main",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -43256,7 +43263,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://bryan-andrea-455n.squarespace.com/market-on-main",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Owned branch verifies124NMainBelmont28012 retailstore. HolyAngels corporate6600Wilkinson/POBox710 andCherubsrestaurantmailbox aredifferent routes; no tenant/brandmerge."
     },
     {
       "id": 1001219,
@@ -44181,7 +44189,7 @@
       "zip": "28054",
       "country": "US",
       "source": "https://www.ppsd.com/locations/gastonia-937-cox-rd/",
-      "reviewedOn": "2026-10-01",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -44189,7 +44197,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.ppsd.com/locations/gastonia-937-cox-rd/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Owned current branch gives937CoxRoadGastonia28054, explicit959Coxoffice moved nextdoor to937. Preserve existing937ID/name; do not create959as currentsecond office."
     },
     {
       "id": 1001259,
@@ -47913,7 +47922,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://thecatalystmercantile.com/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Ownedcurrentstorefooter confirms123SMainMountHolly andretailhours, butZIPnotpublished. Existingpostcode remainsmissing; exportheld. Vendorcommunityapplication isstoremakersprogram, not exteriorcontractorregistration."
     },
     {
       "id": 1294,
@@ -49144,7 +49154,7 @@
       "zip": "28012",
       "country": "US",
       "source": "https://www.eastbelmontcog.com/",
-      "reviewedOn": "2026-10-01",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -49152,7 +49162,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.eastbelmontcog.com/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Current indexed owned church source confirms320CatawbaStreetBelmont28012. Staff page identifies professional ministry/administrative roles, not property ownership."
     },
     {
       "id": 1312,
@@ -49210,7 +49221,7 @@
       "zip": "28012",
       "country": "US",
       "source": "https://www.skinnovations.us/",
-      "reviewedOn": "2026-10-01",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -49218,7 +49229,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://www.skinnovations.us/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Publicly indexed owned source verifies29EWoodrowAveBelmont28012 despite crawler404. Published email info@skinnnovations.us appears with extra n compared withdomain; do not correct/guess deliverability. Local operating route verified; email needsconfirmation."
     },
     {
       "id": 1001453,
@@ -49319,8 +49331,8 @@
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://honeycombcafenc.com/",
-      "reviewedOn": "2026-10-01",
+      "source": "https://honeycombcafenc.com/tags/fajitas",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -49328,7 +49340,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://honeycombcafenc.com/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Currentpubliclyindexedownedcontactcorroborates31NMainBelmont28012. NeighborEverydayMarketphone9802837170 isdifferentbusiness, notthiscafe."
     },
     {
       "id": 1001457,
@@ -49452,8 +49465,8 @@
       "state": "NC",
       "zip": "28054",
       "country": "US",
-      "source": "https://gastonfamilypractice.com/",
-      "reviewedOn": "2026-10-01",
+      "source": "https://gastonfamilypractice.com/business-form/",
+      "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
       "exterior": {
@@ -49461,7 +49474,8 @@
         "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
         "source": "https://gastonfamilypractice.com/",
         "reviewedOn": "2026-10-01"
-      }
+      },
+      "prospectNotes": "Publicly indexed owned business form corroborates2290RemountRoadGastonia28054. Current site temporary power-outage notice is not permanent closure; no clinical access assumed as vendor access."
     },
     {
       "id": 1001462,
@@ -55689,13 +55703,13 @@
       "name": "ENT Carolina - Belmont",
       "category": "medical",
       "attention": "",
-      "address1": "209 Park Street Ste 500",
-      "address2": "",
+      "address1": "209 Park Street",
+      "address2": "Suite 500",
       "city": "Belmont",
       "state": "NC",
       "zip": "28012",
       "country": "US",
-      "source": "https://entcarolina.com/locations/belmont",
+      "source": "https://entcarolina.com/about-us/providers/mark-t.-emery",
       "reviewedOn": "2026-10-04",
       "status": "published",
       "addressSourceType": "company_website",
@@ -55705,7 +55719,7 @@
         "source": "https://entcarolina.com/locations/belmont",
         "reviewedOn": "2026-10-04"
       },
-      "prospectNotes": "Business identity and this postal route corroborated on owned public sources. Visitor access, property ownership and authority to approve exterior work remain unverified."
+      "prospectNotes": "Owned physician page linksMarkTEmery to exactBelmont office; public walk-in clinic is patient care, not vendor permission."
     },
     {
       "id": 1001630,
@@ -59670,6 +59684,1041 @@
         "reviewedOn": "2026-10-04"
       },
       "prospectNotes": "Owned contact supplies Mill Grove Road without a street number. No house number inferred; incomplete postal route remains excluded from exports. Arrange a venue/vendor introduction."
+    },
+    {
+      "id": 1001775,
+      "name": "Gaston County Schools - Resource Management",
+      "category": "district",
+      "attention": "",
+      "address1": "1351 Bradford Heights Road",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28054",
+      "country": "US",
+      "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned district directory identifies distinct ResourceManagement finance/HR/technology office. Separate from central943Osceola and Facilities941Osceola; no campus merge."
+    },
+    {
+      "id": 1001776,
+      "name": "Gaston County Schools - Facilities and Maintenance",
+      "category": "district",
+      "attention": "",
+      "address1": "941 Osceola Street",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28054",
+      "country": "US",
+      "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.gaston.k12.nc.us/about-us/list-of-schools",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned district directory publishes Facilities/Maintenance department office and phone, a relevant central facilities inquiry route. Actual contract approval process and vendor registration unknown; arrange contact."
+    },
+    {
+      "id": 1001777,
+      "name": "Clover School District Office",
+      "category": "district",
+      "attention": "",
+      "address1": "604 Bethel Street",
+      "address2": "",
+      "city": "Clover",
+      "state": "SC",
+      "zip": "29710",
+      "country": "US",
+      "source": "https://www.clover.k12.sc.us/page/social-work-contacts",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.clover.k12.sc.us/page/social-work-contacts",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned current district footer and registration instructions corroborate district correspondence office. School social-worker/student assignment inboxes are not general facilities contacts."
+    },
+    {
+      "id": 1001778,
+      "name": "Carolina Digestive Health Associates - Belmont",
+      "category": "medical",
+      "attention": "",
+      "address1": "1105 Spruce Street",
+      "address2": "Suite 101",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.carolinadigestive.com/location/belmont-nc",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.carolinadigestive.com/location/belmont-nc",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned branch page confirmsBelmont practice and shared published booking phone; fax excluded. Doctor profiles belong under practice, not new companies."
+    },
+    {
+      "id": 1001779,
+      "name": "Carolina Digestive Health Associates - Matthews",
+      "category": "medical",
+      "attention": "",
+      "address1": "1450 Matthews Township Parkway",
+      "address2": "Suite 460",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "country": "US",
+      "source": "https://www.carolinadigestive.com/location/matthews-nc",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.carolinadigestive.com/location/matthews-nc",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned branch page confirmsMatthews office, distinct from SurgicalSpecialistsSuite250 at same medical campus; shared booking phone acrossDigestive offices."
+    },
+    {
+      "id": 1001780,
+      "name": "ENT Carolina - Gastonia",
+      "category": "medical",
+      "attention": "",
+      "address1": "2520 Aberdeen Boulevard",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28054",
+      "country": "US",
+      "source": "https://entcarolina.com/locations",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://entcarolina.com/locations",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned directory verifies distinctGastonia office and shared booking phone; Shelby excluded outside grid."
+    },
+    {
+      "id": 1001781,
+      "name": "Skinn Cave",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.skinncave.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.skinncave.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Publicly indexed owned source verifiesGastonia skin-care business and directcall/text7049416999. Postalstreet/ZIP notcorroborated; basic business only, exportheld. Same-day treatmentappointments do not imply networkingwalk-ins."
+    },
+    {
+      "id": 1001782,
+      "name": "Skin Pharm - Charlotte",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "4600 Park Road",
+      "address2": "Suite 450",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28209",
+      "country": "US",
+      "source": "https://skinpharm.com/pages/skincare-charlotte",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://skinpharm.com/pages/skincare-charlotte",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned location confirmsCharlotteclinic; national brand and named clinical providers distinctfrompropertyowners. ProviderInstagramaccounts excluded fromorganization follows unlessseparatelyreviewed."
+    },
+    {
+      "id": 1001783,
+      "name": "The Mystery Box Warehouse - Gastonia",
+      "category": "retail",
+      "attention": "",
+      "address1": "1820 Spencer Mountain Road",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://admissionshopping.com/mystery-box-locations",
+      "reviewedOn": "2026-10-04",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://admissionshopping.com/mystery-box-locations",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Ownedbrand locationpage explicitly identifiesGastonia(Ranlo) street andlocalphone; ZIPmissing, mailingheld. Preservepostal Gastoniaasprinted, flagmunicipalRanloscope ifneeded. OtherFairmont/Greensboro storesandGoDaddyfillerexcluded."
+    },
+    {
+      "id": 1001784,
+      "name": "Moxie Mercantile - Plaza Midwood",
+      "category": "retail",
+      "attention": "",
+      "address1": "2008 Commonwealth Avenue",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28205",
+      "country": "US",
+      "source": "https://moxiemercantile.com/pages/locations",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://moxiemercantile.com/pages/locations",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Ownedbranch directory corroboratesdistinctstore location andlocalphone. PetersonMADEhosted-maker comparison requiresseparateidentity review; sharedbranddoesnotcollapsephysicalstores."
+    },
+    {
+      "id": 1001785,
+      "name": "Moxie Mercantile - Matthews",
+      "category": "retail",
+      "attention": "",
+      "address1": "159 N Trade Street",
+      "address2": "",
+      "city": "Matthews",
+      "state": "NC",
+      "zip": "28105",
+      "country": "US",
+      "source": "https://moxiemercantile.com/pages/locations",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://moxiemercantile.com/pages/locations",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Ownedbranch directory corroboratesdistinctstore location andlocalphone. PetersonMADEhosted-maker comparison requiresseparateidentity review; sharedbranddoesnotcollapsephysicalstores."
+    },
+    {
+      "id": 1001786,
+      "name": "Betty by Moxie Mercantile",
+      "category": "retail",
+      "attention": "",
+      "address1": "1219 Thomas Avenue",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28205",
+      "country": "US",
+      "source": "https://moxiemercantile.com/pages/locations",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://moxiemercantile.com/pages/locations",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Ownedbranch directory corroboratesdistinctstore location andlocalphone. PetersonMADEhosted-maker comparison requiresseparateidentity review; sharedbranddoesnotcollapsephysicalstores."
+    },
+    {
+      "id": 1001787,
+      "name": "Julie's Boutique - Park Road",
+      "category": "retail",
+      "attention": "",
+      "address1": "4145 Park Road",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28209",
+      "country": "US",
+      "source": "https://juliesclothing.com/pages/locations",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://juliesclothing.com/pages/locations",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Ownedstore directory verifiesCharlotte branch; email sharedbrand customer-care, notlocalmanager. PreserveseparateGastonMallandoutside-gridBirkdale."
+    },
+    {
+      "id": 1001788,
+      "name": "Julie's Boutique - Gaston Mall",
+      "category": "retail",
+      "attention": "",
+      "address1": "401 Cox Road",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28054",
+      "country": "US",
+      "source": "https://juliesclothing.com/pages/locations",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://juliesclothing.com/pages/locations",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Ownedstore directory verifiesGastonia branch andphone. Nationalcustomer-care ispublicbrandroute; exterior authority unknown."
+    },
+    {
+      "id": 1001789,
+      "name": "Martine Law - Charlotte Fairview",
+      "category": "professional",
+      "attention": "",
+      "address1": "5960 Fairview Road",
+      "address2": "Suite 438",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28210",
+      "country": "US",
+      "source": "https://nc.xmartinelaw.com/contact-us/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://nc.xmartinelaw.com/contact-us/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Ownedhome/contact corroborateFairviewoffice;24/7legalphone issharedfirmroute, notvendoraccess. OwnedTryonaddress haswrong28120ZIP; thatbranchnotadded."
+    },
+    {
+      "id": 1001790,
+      "name": "Martine Law - Belmont",
+      "category": "professional",
+      "attention": "",
+      "address1": "6640 W Wilkinson Boulevard",
+      "address2": "Suite 400",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://nc.xmartinelaw.com/contact-us/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://nc.xmartinelaw.com/contact-us/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Ownedcontact/home corroborateBelmontsuite distinctfrom2NationsInsuranceSuite600. Othercityoffices andTryonpostalconflictexcluded."
+    },
+    {
+      "id": 1001791,
+      "name": "Knipp Law Office - Belmont",
+      "category": "professional",
+      "attention": "",
+      "address1": "425 E Catawba Street",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.knipplaw.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.knipplaw.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Current indexed owned footer verifies Belmont425ECatawba28012 and sharedfirmphone7046104276; no localmanager orapprovalauthority inferred."
+    },
+    {
+      "id": 1001792,
+      "name": "Watson Insurance - Lake Wylie",
+      "category": "professional",
+      "attention": "",
+      "address1": "4569 Charlotte Highway",
+      "address2": "",
+      "city": "Lake Wylie",
+      "state": "SC",
+      "zip": "29710",
+      "country": "US",
+      "source": "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://watsoninsurance.com/contact-auto-home-insurance-business-insurance-gastonia-charlotte-nc-columbia-sc/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "OwnedagencydirectorycorroboratesdistinctLakeWyliebranch. Lincolntonoutsidegridscopeexcluded; noCharlottelocationinferredfromSEOheading."
+    },
+    {
+      "id": 1001793,
+      "name": "AllCare Insurance Services - Gastonia",
+      "category": "professional",
+      "attention": "",
+      "address1": "4835 Wilkinson Boulevard",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28056",
+      "country": "US",
+      "source": "https://goallcare.com/contact/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://goallcare.com/contact/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Ownedbranchdirectory verifiesdistinctGastoniabranch; sharedbranddoesnotcollapseBelmont/Charlotte/sistercompany offices."
+    },
+    {
+      "id": 1001794,
+      "name": "AllCare Insurance Services - Belmont",
+      "category": "professional",
+      "attention": "",
+      "address1": "7005 Wilkinson Boulevard",
+      "address2": "Unit E",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://goallcare.com/contact/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://goallcare.com/contact/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "OwnedbranchdirectorycorroboratesBelmontlocationandpublishedbranchroute. Faxandotherbranchcontacts excluded; approvalauthorityunknown."
+    },
+    {
+      "id": 1001795,
+      "name": "2 Nations Insurance Services",
+      "category": "professional",
+      "attention": "",
+      "address1": "6640 Wilkinson Boulevard",
+      "address2": "Suite 600",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://2nationsinsurance.com/contact.html",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://2nationsinsurance.com/contact.html",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "OwnedcontactexplicitlygivesBelmontoffice; Charlottegenericfooter isservice-area wording. DistinctfromMartineSuite400 inbuilding; propertyapprovalunknown."
+    },
+    {
+      "id": 1001796,
+      "name": "Nellie's Southern Kitchen - Belmont",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "36 N Main Street",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.nelliessouthernkitchen.com/info",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.nelliessouthernkitchen.com/info",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "CurrentownedbrandinfoverifiesBelmontrestaurant. OwnedstorynamesJonasfamilyfounders; propertyownership/exteriorauthority andlocalphoneunverified."
+    },
+    {
+      "id": 1001797,
+      "name": "The Everyday Market - Belmont",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "7 S Main Street",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.theeverydaymarketcharlotte.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.theeverydaymarketcharlotte.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "OwnedsiteverifiesBelmontbranch andsharedpublicphone; incompleteinfo@everydaymarketemailnotguessed. SeparatefromHoneycombCafe31NMain."
+    },
+    {
+      "id": 1001798,
+      "name": "The Everyday Market - LoSo",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "3541 Dewitt Lane",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28217",
+      "country": "US",
+      "source": "https://www.theeverydaymarketcharlotte.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.theeverydaymarketcharlotte.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "OwnedsiteverifiesdistinctCharlotteLoSobranch. Sharedbrandphone; localmanagerandapprovalauthorityunknown."
+    },
+    {
+      "id": 1001799,
+      "name": "Pita Wheel - Gastonia",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "110 S York Street",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28052",
+      "country": "US",
+      "source": "https://www.pitawheel.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.pitawheel.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "OwnedbranchlistverifiesGastoniarestaurant;preserveBelmontseparate. Dallasbranchoutsidegridandsister238CherokeeGrillnotselected."
+    },
+    {
+      "id": 1001800,
+      "name": "Pita Wheel - Belmont",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "55 Glenway Street",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.pitawheel.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.pitawheel.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "OwnedbranchlistverifiesBelmontrestaurant andlocalphone. Sharedbranddoesnotcollapsephysicalrestaurants."
+    },
+    {
+      "id": 1001801,
+      "name": "The Bearded Buffalo",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "16 N Main Street",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.gocnc.org/monthly-meetings",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "official_directory",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.gocnc.org/monthly-meetings",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Current local community organization names its meeting venue and exact address; independent navigation directory corroborates. Owned site is a blank shell. Public venue presence confirmed; management and vendor access unknown."
+    },
+    {
+      "id": 1001802,
+      "name": "Webb Custom Kitchen",
+      "category": "restaurant",
+      "attention": "",
+      "address1": "182 S Street",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28052",
+      "country": "US",
+      "source": "https://www.webbcustomkitchen.com/reservations",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.webbcustomkitchen.com/reservations",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Publicly indexed owned reservations page prints 182 S. Street, Gastonia28052 and phone. Street retained as printed; website blocking is not closure. Management/exterior authority unknown."
+    },
+    {
+      "id": 1001803,
+      "name": "Holiday Inn Express & Suites Charlotte Arpt-Belmont",
+      "category": "lodging",
+      "attention": "",
+      "address1": "250 Beatty Drive",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/belmont/mthly/hoteldetail",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/belmont/mthly/hoteldetail",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Brand-owned page verifies North Carolina property and local front desk plus published GM role inbox. California Belmont namesakes excluded. Local property ownership and exterior approval remain unknown."
+    },
+    {
+      "id": 1001804,
+      "name": "Holiday Inn Express Charlotte West - Gastonia",
+      "category": "lodging",
+      "attention": "",
+      "address1": "1911 Broadcast Street",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "28052",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/gastonia/gstnc/hoteldetail/directions.html",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/gastonia/gstnc/hoteldetail/directions.html",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Brand-owned directions page verifies local property address and front desk. Published Gmail is the property inbox, not guessed from name; reservation call center excluded."
+    },
+    {
+      "id": 1001805,
+      "name": "Holiday Inn Express & Suites Charlotte North",
+      "category": "lodging",
+      "attention": "",
+      "address1": "7230 Smith Corners Boulevard",
+      "address2": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28269",
+      "country": "US",
+      "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltnl/hoteldetail",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/charlotte/cltnl/hoteldetail",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Brand-owned page verifies property and local front desk/inbox. Guest-room renovation notice is not closure or evidence of exterior condition; authority unknown."
+    },
+    {
+      "id": 1001806,
+      "name": "Hampton Inn Charlotte-Belmont at Montcross",
+      "category": "lodging",
+      "attention": "",
+      "address1": "820 Cecilia Alexander Drive",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.hilton.com/en/hotels/cltblhx-hampton-charlotte-belmont-at-montcross/hotel-info/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.hilton.com/en/hotels/cltblhx-hampton-charlotte-belmont-at-montcross/hotel-info/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Hilton-owned location and information pages verify North Carolina hotel, front desk and property inbox. Manager/owner and exterior approval remain unverified."
+    },
+    {
+      "id": 1001807,
+      "name": "Home2 Suites by Hilton Charlotte Belmont",
+      "category": "lodging",
+      "attention": "",
+      "address1": "871 Hawley Avenue",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.hilton.com/en/hotels/cltbtht-home2-suites-charlotte-belmont/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.hilton.com/en/hotels/cltbtht-home2-suites-charlotte-belmont/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Hilton-owned property page corroborates address and local phone/inbox. California Belmont search results excluded; public customer reception does not establish vendor walk-in permission."
+    },
+    {
+      "id": 1001808,
+      "name": "Fairfield Inn & Suites Charlotte Belmont",
+      "category": "lodging",
+      "attention": "",
+      "address1": "1 Caldwell Drive",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.marriott.com/en-us/hotels/cltfh-fairfield-inn-and-suites-charlotte-belmont/overview/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.marriott.com/en-us/hotels/cltfh-fairfield-inn-and-suites-charlotte-belmont/overview/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Marriott-owned current property page verifies North Carolina hotel and front desk; fax excluded. No owner or general manager guessed."
+    },
+    {
+      "id": 1001809,
+      "name": "Upper Room Church",
+      "category": "other",
+      "attention": "",
+      "address1": "1405 Armstrong Ford Road",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://upperroombelmont.org/visit/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://upperroombelmont.org/visit/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned visit page verifies campus and office phone. Other UpperRoom churches and generic religious name matches excluded. Worship schedules do not establish networking vendor access."
+    },
+    {
+      "id": 1001810,
+      "name": "CORE Church",
+      "category": "other",
+      "attention": "",
+      "address1": "2316 Acme Road",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://www.corechurch.cc/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.corechurch.cc/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Publicly indexed owned home/contact pages corroborate exact Belmont campus. Blocked crawler is not closure; office/vendor access and approval authority unknown."
+    },
+    {
+      "id": 1001811,
+      "name": "Holy Angels",
+      "category": "other",
+      "attention": "",
+      "address1": "PO Box 710",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012-0710",
+      "country": "US",
+      "source": "https://www.holyangelsnc.org/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.holyangelsnc.org/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned source separates mailing PO Box710 from campus6600WilkinsonBoulevard. Disability-care nonprofit, not a church based on name. Existing Market on Main retail subsidiary preserved separately; arrange campus introduction."
+    },
+    {
+      "id": 1001812,
+      "name": "Living Hope Church",
+      "category": "other",
+      "attention": "",
+      "address1": "PO Box 223",
+      "address2": "",
+      "city": "Belmont",
+      "state": "NC",
+      "zip": "28012",
+      "country": "US",
+      "source": "https://lhcbelmont.org/contact/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://lhcbelmont.org/contact/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned contact gives correspondence PO Box223, pastor MarkForbes and separate meeting901ECatawbaStreet. No physical ZIP guessed or ownership inferred from pastor role."
+    },
+    {
+      "id": 1001813,
+      "name": "Low Meadows Estate",
+      "category": "venue",
+      "attention": "",
+      "address1": "140 Low Meadow Drive",
+      "address2": "",
+      "city": "Mount Holly",
+      "state": "NC",
+      "zip": "28120",
+      "country": "US",
+      "source": "https://lowmeadowsestate.com/contact/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://lowmeadowsestate.com/contact/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned contact confirms address and explicitly By Appointments Only. Marketing service areas Raleigh/Fayetteville are not branch locations; approval authority unknown."
+    },
+    {
+      "id": 1001814,
+      "name": "Top of the Mill at Muddy River Distillery",
+      "category": "venue",
+      "attention": "",
+      "address1": "250 N Main Street",
+      "address2": "",
+      "city": "Mount Holly",
+      "state": "NC",
+      "zip": "28120",
+      "country": "US",
+      "source": "https://www.muddyriverdistillery.com/upcoming-book-event-space",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.muddyriverdistillery.com/upcoming-book-event-space",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned distillery page identifies named Top of the Mill event space under MuddyRiver at250NMain. Venue and distillery may share facilities; review existing identities before creating another organization. Event inquiry inbox published; tour arrangements unknown."
+    },
+    {
+      "id": 1001815,
+      "name": "Separk Mansion",
+      "category": "venue",
+      "attention": "",
+      "address1": "209 W 2nd Avenue",
+      "address2": "",
+      "city": "Gastonia",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.wedgewoodweddings.com/venues/separk-mansion",
+      "reviewedOn": "2026-10-04",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.wedgewoodweddings.com/venues/separk-mansion",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned Wedgewood venue page confirms historic estate/street but prints28042 ZIP, conflicting with local postal expectations; ZIP intentionally blank pending corroboration. Phone is brand central, not local manager. Basic verified venue may publish with mailing held."
+    },
+    {
+      "id": 1001816,
+      "name": "Purple Tooth Pediatric Dentistry and Braces",
+      "category": "dentist",
+      "attention": "",
+      "address1": "112 Woodlawn Avenue",
+      "address2": "",
+      "city": "Mount Holly",
+      "state": "NC",
+      "zip": "28120",
+      "country": "US",
+      "source": "https://www.purpletoothdental.com/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.purpletoothdental.com/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned dental office source gives address/phone/inbox and states owned/operated byJonathanRainierKaczmarskiDMDPLLC. Public professional/office-manager roles do not establish property ownership."
+    },
+    {
+      "id": 1001817,
+      "name": "Skin Vision",
+      "category": "med_spa",
+      "attention": "",
+      "address1": "400 E South Main Street",
+      "address2": "Suite 7",
+      "city": "Waxhaw",
+      "state": "NC",
+      "zip": "",
+      "country": "US",
+      "source": "https://www.fresha.com/a/skin-vision-waxhaw-400-east-south-main-street-l6tspuez",
+      "reviewedOn": "2026-10-04",
+      "status": "needs_review",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.fresha.com/a/skin-vision-waxhaw-400-east-south-main-street-l6tspuez",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Current business booking profile verifies SkinVisionWaxhaw at400ESouthMainSuite7. Generic IndianLand nearby-results page isnot location evidence. ZIP and directphone notprinted in inspected profile; do not guess; mailingheld. Appointment services do not imply networking access."
+    },
+    {
+      "id": 1001818,
+      "name": "Second Chance Boutique by Turning Point - Waxhaw",
+      "category": "retail",
+      "attention": "",
+      "address1": "1201 N Broome Street",
+      "address2": "Unit B",
+      "city": "Waxhaw",
+      "state": "NC",
+      "zip": "28173",
+      "country": "US",
+      "source": "https://turningpointnc.org/second-chance-stores/",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "company_website",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://turningpointnc.org/second-chance-stores/",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Owned nonprofit directory gives Waxhaw1201-BNBroome andstorephone; officialVisitWaxhaw corroboratesZIP28173. Public StoreDirector role mailbox issharedretail route; Monroe store andshelterPOBox952 aredifferent. No private shelter/client data used."
+    },
+    {
+      "id": 1001819,
+      "name": "Christy Morton CPA PLLC",
+      "category": "professional",
+      "attention": "",
+      "address1": "102A Waxhaw Professional Pk Drive",
+      "address2": "",
+      "city": "Waxhaw",
+      "state": "NC",
+      "zip": "28173",
+      "country": "US",
+      "source": "https://www.irs.gov/ko/efile-index-taxpros-search?bureau=All&developer=All&ero=1&page=4534&state=All&transmitter=All&zip=",
+      "reviewedOn": "2026-10-04",
+      "status": "published",
+      "addressSourceType": "official_directory",
+      "exterior": {
+        "route": "unknown",
+        "reason": "Business identity/location researched. Property ownership and exterior approval authority remain unverified.",
+        "source": "https://www.irs.gov/ko/efile-index-taxpros-search?bureau=All&developer=All&ero=1&page=4534&state=All&transmitter=All&zip=",
+        "reviewedOn": "2026-10-04"
+      },
+      "prospectNotes": "Current IRS public e-file provider directory names ChristyMortonCPAPLLC,102AWaxhawProfessionalPkDr28173 andbusinessphone/ChristiannaMorton. Provider-registry confidence, not direct business confirmation. No personal NPI namesake used; visit/owner approval unknown."
     }
   ]
 }
