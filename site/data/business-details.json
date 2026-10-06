@@ -1715,12 +1715,22 @@
         {
           "url": "https://caromonthealth.org/locations/caromont-family-medicine-mcadenville",
           "type": "company website",
-          "date": "2026-10-04"
+          "date": "2026-10-06"
         }
       ],
-      "verified": "2026-10-04",
+      "verified": "2026-10-06",
       "website": "https://caromonthealth.org/locations/caromont-family-medicine-mcadenville/",
-      "phone": "+17048245323"
+      "phone": "+17048245323",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://caromonthealth.org/locations/caromont-family-medicine-mcadenville"
+        ]
+      }
     },
     {
       "id": 1000203,
@@ -4536,11 +4546,26 @@
           "url": "https://dentalcareoflakewylie.com/",
           "type": "company website",
           "date": "2026-09-30"
+        },
+        {
+          "url": "https://dentalcareoflakewylie.com/meet-our-team#celeste-a-lantis-dds",
+          "type": "company website",
+          "date": "2026-10-06"
         }
       ],
       "phone": "8036194511",
-      "verified": "2026-09-30",
-      "website": "https://dentalcareoflakewylie.com/"
+      "verified": "2026-10-06",
+      "website": "https://dentalcareoflakewylie.com/",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://dentalcareoflakewylie.com/meet-our-team#celeste-a-lantis-dds"
+        ]
+      }
     },
     {
       "id": 1000347,
@@ -13662,12 +13687,22 @@
         {
           "url": "https://pegramandnoyes.com/contact/",
           "type": "company website",
-          "date": "2026-10-04"
+          "date": "2026-10-06"
         }
       ],
-      "verified": "2026-10-04",
+      "verified": "2026-10-06",
       "website": "https://pegramandnoyes.com/contact/locations/",
-      "phone": "+17048239495"
+      "phone": "+17048239495",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://pegramandnoyes.com/contact/"
+        ]
+      }
     },
     {
       "id": 1000759,
@@ -25266,11 +25301,27 @@
           "url": "https://toast.app/r/terra-mia",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.terramiaristoranteandbar.com/",
+          "type": "company website",
+          "date": "2026-10-06"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-06",
       "website": "https://toast.app/r/terra-mia",
-      "phone": "+17048794023"
+      "phone": "+17048794023",
+      "email": "terramiamcadenvillecatering@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.terramiaristoranteandbar.com/"
+        ]
+      }
     },
     {
       "id": 1001472,
@@ -35493,6 +35544,741 @@
         "checkedAt": "2026-10-05",
         "sources": [
           "https://www.evergreenhomeloans.com/offices/belmont-north-carolina"
+        ]
+      }
+    },
+    {
+      "id": 1001963,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.truthdrivenjustice.com/contact",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.truthdrivenjustice.com/",
+      "phone": "+17048658684",
+      "email": "lloydkelsolaw@yahoo.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.truthdrivenjustice.com/contact"
+        ]
+      }
+    },
+    {
+      "id": 1001964,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://sheffieldins.com/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://sheffieldins.com/",
+      "phone": "+17046714779",
+      "email": "sia@sheffieldins.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://sheffieldins.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001965,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.315loso.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.315loso.com/",
+      "phone": "+17049100273",
+      "email": "losohotel315@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.315loso.com/contact-us"
+        ]
+      }
+    },
+    {
+      "id": 1001966,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.lakewyliederm.com/services/medical/contact-dermatitis/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.lakewyliederm.com/",
+      "phone": "+18039062100",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.lakewyliederm.com/services/medical/contact-dermatitis/"
+        ]
+      }
+    },
+    {
+      "id": 1001967,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://savoryrestaurantnc.com/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://savoryrestaurantnc.com/",
+      "phone": "+19804151329",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://savoryrestaurantnc.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001968,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://local.churchofjesuschrist.org/en/us/nc/gastonia/2710-redbud-drive?y_source=1_MjM3Mzc2OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://local.churchofjesuschrist.org/en/us/nc/gastonia/2710-redbud-drive?y_source=1_MjM3Mzc2OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "phone": "+19803890248",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://local.churchofjesuschrist.org/en/us/nc/gastonia/2710-redbud-drive?y_source=1_MjM3Mzc2OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+        ]
+      }
+    },
+    {
+      "id": 1001969,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.holyangelsnc.org/gooseco",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.holyangelsnc.org/gooseco",
+      "phone": "+17048797612",
+      "email": "cherubs@holyangelsnc.org",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.holyangelsnc.org/gooseco"
+        ]
+      }
+    },
+    {
+      "id": 1001970,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.kintegra.org/locations/kintegra-adult-pediatric-medicine-xray-dr/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.kintegra.org/locations/kintegra-adult-pediatric-medicine-xray-dr/",
+      "phone": "+17048742255",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.kintegra.org/locations/kintegra-adult-pediatric-medicine-xray-dr/"
+        ]
+      }
+    },
+    {
+      "id": 1001971,
+      "people": [],
+      "sources": [
+        {
+          "url": "http://shopbonico.com/contact-1#contact",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "http://shopbonico.com/contact-1#contact",
+      "phone": "+19804164688"
+    },
+    {
+      "id": 1001972,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.matchmadeusa.com/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.matchmadeusa.com/",
+      "email": "matchmadeusa@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.matchmadeusa.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001973,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.redroof.com/property/nc/gastonia/rri1433",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.redroof.com/property/nc/gastonia/rri1433",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.redroof.com/property/nc/gastonia/rri1433"
+        ]
+      }
+    },
+    {
+      "id": 1001974,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.choicehotels.com/en-ca/north-carolina/charlotte/rodeway-inn-hotels/ncb42?msockid=38619ae80f3b688b034a8c150eaf69ec",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.choicehotels.com/en-ca/north-carolina/charlotte/rodeway-inn-hotels/ncb42?msockid=38619ae80f3b688b034a8c150eaf69ec",
+      "phone": "+17045253033",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.choicehotels.com/en-ca/north-carolina/charlotte/rodeway-inn-hotels/ncb42?msockid=38619ae80f3b688b034a8c150eaf69ec"
+        ]
+      }
+    },
+    {
+      "id": 1001975,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.marriott.com/en-us/hotels/cltst-towneplace-suites-charlotte-loso-airport/overview/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.marriott.com/en-us/hotels/cltst-towneplace-suites-charlotte-loso-airport/overview/",
+      "phone": "+17045252600",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.marriott.com/en-us/hotels/cltst-towneplace-suites-charlotte-loso-airport/overview/"
+        ]
+      }
+    },
+    {
+      "id": 1001976,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hilton.com/en/hotels/clttdgi-hilton-garden-inn-steele-creek-charlotte/?displayCurrency=USD&numAdults=1&numChildren=0&numRooms=1&room1AdultAges=&room1ChildAges=",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.hilton.com/en/hotels/clttdgi-hilton-garden-inn-steele-creek-charlotte/?displayCurrency=USD&numAdults=1&numChildren=0&numRooms=1&room1AdultAges=&room1ChildAges=",
+      "phone": "+17042353035",
+      "email": "clttd_gm@hilton.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.hilton.com/en/hotels/clttdgi-hilton-garden-inn-steele-creek-charlotte/?displayCurrency=USD&numAdults=1&numChildren=0&numRooms=1&room1AdultAges=&room1ChildAges="
+        ]
+      }
+    },
+    {
+      "id": 1001977,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://kasa.com/properties/kasa-freemorewest-charlotte",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://kasa.com/properties/kasa-freemorewest-charlotte",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://kasa.com/properties/kasa-freemorewest-charlotte"
+        ]
+      }
+    },
+    {
+      "id": 1001978,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.aspendental.com/dentist/nc/gastonia/3051-e-franklin-blvd-ste-100/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.aspendental.com/dentist/nc/gastonia/3051-e-franklin-blvd-ste-100/",
+      "phone": "+17046910208",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.aspendental.com/dentist/nc/gastonia/3051-e-franklin-blvd-ste-100/"
+        ]
+      }
+    },
+    {
+      "id": 1001979,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.529artistry.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.529artistry.com/contact-us",
+      "phone": "+15409152675",
+      "email": "529artistry@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.529artistry.com/contact-us"
+        ]
+      }
+    },
+    {
+      "id": 1001980,
+      "people": [],
+      "sources": [
+        {
+          "url": "http://www.firststreethome.com/contact-us",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "http://www.firststreethome.com/contact-us",
+      "phone": "+17048243312",
+      "email": "info@firststreethome.com"
+    },
+    {
+      "id": 1001981,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.sewmuchfun4you.com/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.sewmuchfun4you.com/",
+      "phone": "+17048241961",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.sewmuchfun4you.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001982,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://armadilloapparelco.com/contact-us/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://armadilloapparelco.com/contact-us/",
+      "phone": "+17048813596",
+      "email": "hello@armadilloapparelco.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://armadilloapparelco.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1001983,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://rickbeamlaw.com/contact-info/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://rickbeamlaw.com/contact-info/",
+      "phone": "+19808880027",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://rickbeamlaw.com/contact-info/"
+        ]
+      }
+    },
+    {
+      "id": 1001984,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://moecom.net/soulonlowell/menu.php",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://moecom.net/soulonlowell/menu.php",
+      "phone": "+13369178968",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://moecom.net/soulonlowell/menu.php"
+        ]
+      }
+    },
+    {
+      "id": 1001985,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.toochisgastonia.com/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.toochisgastonia.com/",
+      "phone": "+18285518989",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.toochisgastonia.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001986,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.hillbillysbbqsteaks.com/lowell-hillbilly-s-barbeque-and-steaks-about",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.hillbillysbbqsteaks.com/lowell-hillbilly-s-barbeque-and-steaks-about",
+      "phone": "+17048248838",
+      "email": "hillbillybbq@bellsouth.net",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.hillbillysbbqsteaks.com/lowell-hillbilly-s-barbeque-and-steaks-about"
+        ]
+      }
+    },
+    {
+      "id": 1001987,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://eatatlotus.com/contact",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://eatatlotus.com/contact",
+      "phone": "+17048531698",
+      "email": "psprdu@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://eatatlotus.com/contact"
+        ]
+      }
+    },
+    {
+      "id": 1001988,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://lowellcog.churchcenter.com/home",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://lowellcog.churchcenter.com/home",
+      "phone": "+17048243383",
+      "email": "info@lowellcog.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://lowellcog.churchcenter.com/home"
+        ]
+      }
+    },
+    {
+      "id": 1001989,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.lowellfreewillbaptistchurch.org/contact-us",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.lowellfreewillbaptistchurch.org/contact-us",
+      "email": "lowellfwbchurch@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.lowellfreewillbaptistchurch.org/contact-us"
+        ]
+      }
+    },
+    {
+      "id": 1001990,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.presbyterywnc.org/congregation/86-lowell",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.presbyterywnc.org/congregation/86-lowell",
+      "phone": "+17048243807",
+      "email": "lowellpres@gmail.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.presbyterywnc.org/congregation/86-lowell"
+        ]
+      }
+    },
+    {
+      "id": 1001991,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.mcclurehillfarm.com/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.mcclurehillfarm.com/",
+      "email": "contact@mcclurehillfarm.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.mcclurehillfarm.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001992,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://southminsterchurch.com/weekday-school/",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://southminsterchurch.com/weekday-school/",
+      "phone": "+17048682914",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://southminsterchurch.com/weekday-school/"
+        ]
+      }
+    },
+    {
+      "id": 1001993,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.smilecarolina.com/our-offices/charlotte-office",
+          "type": "company website",
+          "date": "2026-10-06"
+        }
+      ],
+      "verified": "2026-10-06",
+      "website": "https://www.smilecarolina.com/our-offices/charlotte-office",
+      "phone": "+19803725201",
+      "email": "office@smilecarolina.com",
+      "visit": {
+        "status": "call_first",
+        "summary": "Business postal/contact route corroborated. Arrange a vendor introduction before visiting; customer or patient access does not establish networking walk-in suitability. Mailing boxes are not visitor offices. Exterior approval authority remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-06",
+        "sources": [
+          "https://www.smilecarolina.com/our-offices/charlotte-office"
         ]
       }
     }

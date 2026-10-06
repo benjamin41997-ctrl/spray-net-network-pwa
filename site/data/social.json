@@ -14244,7 +14244,7 @@
     },
     {
       "companyId": 1000346,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-06",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -16130,7 +16130,7 @@
     },
     {
       "companyId": 1000758,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-06",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -17390,7 +17390,7 @@
     },
     {
       "companyId": 1000202,
-      "checkedOn": "2026-09-30",
+      "checkedOn": "2026-10-06",
       "status": "checked",
       "notes": "Public business website checked during the territory sweep. Missing platforms, named decision-makers and approval authority remain unknown.",
       "sources": [
@@ -24985,7 +24985,7 @@
     },
     {
       "companyId": 1368,
-      "checkedOn": "2026-10-04",
+      "checkedOn": "2026-10-06",
       "status": "checked",
       "notes": "Owned website profile links reviewed. Account activity and availability are unverified. No follow actions performed.",
       "sources": [
@@ -35271,6 +35271,554 @@
           "scope": "brand",
           "source": "https://bassdentistry.com/",
           "notes": "Individually reviewed explicit business or parent-brand profile on owned source. Activity, account availability and follow state unverified."
+        }
+      ]
+    },
+    {
+      "companyId": 1001964,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://sheffieldins.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/medicareinsurancegastonia",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://sheffieldins.com/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/sheffieldinsurance",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://sheffieldins.com/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001965,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.315loso.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/315loso",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.315loso.com/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/315loso",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.315loso.com/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001966,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.lakewyliederm.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=61569299386495",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.lakewyliederm.com/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/lake_wylie_dermatology",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.lakewyliederm.com/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@lake_wylie_dermatology",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.lakewyliederm.com/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001968,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://local.churchofjesuschrist.org/en/us/nc/gastonia/2710-redbud-drive?y_source=1_MjM3Mzc2OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/churchofjesuschrist",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://local.churchofjesuschrist.org/en/us/nc/gastonia/2710-redbud-drive?y_source=1_MjM3Mzc2OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/comeuntochrist",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://local.churchofjesuschrist.org/en/us/nc/gastonia/2710-redbud-drive?y_source=1_MjM3Mzc2OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/churchofjesuschrist",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://local.churchofjesuschrist.org/en/us/nc/gastonia/2710-redbud-drive?y_source=1_MjM3Mzc2OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001969,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.holyangelsnc.org/gooseco"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/gooseco.mcadenville",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.holyangelsnc.org/gooseco",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/gooseco.mcadenville",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.holyangelsnc.org/gooseco",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001970,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.kintegra.org/locations/kintegra-adult-pediatric-medicine-xray-dr/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/kintegrahealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.kintegra.org/locations/kintegra-adult-pediatric-medicine-xray-dr/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/kintegrahealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.kintegra.org/locations/kintegra-adult-pediatric-medicine-xray-dr/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/kintegrahealth",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.kintegra.org/locations/kintegra-adult-pediatric-medicine-xray-dr/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UC4B416FFgeDBJ-6yaX-OA3A",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.kintegra.org/locations/kintegra-adult-pediatric-medicine-xray-dr/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001971,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "http://shopbonico.com/contact-1#contact"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/shopbonico",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "http://shopbonico.com/contact-1#contact",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001972,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.matchmadeusa.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/matchmadeusa",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.matchmadeusa.com/",
+          "notes": "Business profile explicitly linked on rendered owned page or decoded owned-page outbound redirect; no guessed handle and no accounts followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/matchmadeusa",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.matchmadeusa.com/",
+          "notes": "Business profile explicitly linked on rendered owned page or decoded owned-page outbound redirect; no guessed handle and no accounts followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001471,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.terramiaristoranteandbar.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/104389021808066",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.terramiaristoranteandbar.com/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/terramia_ristorantenc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.terramiaristoranteandbar.com/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001977,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://kasa.com/properties/kasa-freemorewest-charlotte"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/staykasa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://kasa.com/properties/kasa-freemorewest-charlotte",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/staykasa",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://kasa.com/properties/kasa-freemorewest-charlotte",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001978,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.aspendental.com/dentist/nc/gastonia/3051-e-franklin-blvd-ste-100/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/aspendental",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.aspendental.com/dentist/nc/gastonia/3051-e-franklin-blvd-ste-100/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aspendental",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.aspendental.com/dentist/nc/gastonia/3051-e-franklin-blvd-ste-100/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/aspen-dental",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.aspendental.com/dentist/nc/gastonia/3051-e-franklin-blvd-ste-100/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@aspendental",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.aspendental.com/dentist/nc/gastonia/3051-e-franklin-blvd-ste-100/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/user/smilestories",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.aspendental.com/dentist/nc/gastonia/3051-e-franklin-blvd-ste-100/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001980,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "http://www.firststreethome.com/contact-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/firststreethome",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "http://www.firststreethome.com/contact-us",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001981,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.sewmuchfun4you.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/sewmuchfun",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.sewmuchfun4you.com/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001982,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://armadilloapparelco.com/contact-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/armadilloapparel",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://armadilloapparelco.com/contact-us/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/armadilloappnc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://armadilloapparelco.com/contact-us/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001985,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.toochisgastonia.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/toochis.gastonia",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.toochisgastonia.com/",
+          "notes": "Business profile explicitly linked on rendered owned page or decoded owned-page outbound redirect; no guessed handle and no accounts followed."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/toochis.gastonia",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.toochisgastonia.com/",
+          "notes": "Business profile explicitly linked on rendered owned page or decoded owned-page outbound redirect; no guessed handle and no accounts followed."
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@toochisgastonia",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.toochisgastonia.com/",
+          "notes": "Business profile explicitly linked on rendered owned page or decoded owned-page outbound redirect; no guessed handle and no accounts followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001986,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.hillbillysbbqsteaks.com/lowell-hillbilly-s-barbeque-and-steaks-about"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/hillbillysbbq1989",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.hillbillysbbqsteaks.com/lowell-hillbilly-s-barbeque-and-steaks-about",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001989,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.lowellfreewillbaptistchurch.org/contact-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/lowellfreewillbaptistchurch",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.lowellfreewillbaptistchurch.org/contact-us",
+          "notes": "Business profile explicitly linked on rendered owned page or decoded owned-page outbound redirect; no guessed handle and no accounts followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001990,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.presbyterywnc.org/congregation/86-lowell"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/pclowell",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.presbyterywnc.org/congregation/86-lowell",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001992,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://southminsterchurch.com/weekday-school/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/southminster-church-249424242050",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://southminsterchurch.com/weekday-school/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCTE4qEkcmBx0DwMr5p-mi9Q",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://southminsterchurch.com/weekday-school/",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
+        }
+      ]
+    },
+    {
+      "companyId": 1001993,
+      "checkedOn": "2026-10-06",
+      "status": "checked",
+      "notes": "Owned business profile links explicitly reviewed. Account activity and availability are unverified; no accounts followed.",
+      "sources": [
+        "https://www.smilecarolina.com/our-offices/charlotte-office"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/mcneelyfamilydentistry",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.smilecarolina.com/our-offices/charlotte-office",
+          "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
         }
       ]
     }

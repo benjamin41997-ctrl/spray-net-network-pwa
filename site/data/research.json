@@ -26938,6 +26938,490 @@
       "unresolved": [],
       "notes": "Full saved 603-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
       "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-gastonia--professional",
+      "area": "gastonia",
+      "category": "professional",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.truthdrivenjustice.com/contact",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.truthdrivenjustice.com/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://sheffieldins.com/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://rickbeamlaw.com/contact-info/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://rickbeamlaw.com/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://pegramandnoyes.com/contact/",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001963,
+        1001964,
+        1001983,
+        1000758
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-charlotte--lodging",
+      "area": "charlotte",
+      "category": "lodging",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.315loso.com/contact-us",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.315loso.com/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.choicehotels.com/en-ca/north-carolina/charlotte/rodeway-inn-hotels/ncb42?msockid=38619ae80f3b688b034a8c150eaf69ec",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.marriott.com/en-us/hotels/cltst-towneplace-suites-charlotte-loso-airport/overview/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.hilton.com/en/hotels/clttdgi-hilton-garden-inn-steele-creek-charlotte/?displayCurrency=USD&numAdults=1&numChildren=0&numRooms=1&room1AdultAges=&room1ChildAges=",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://kasa.com/properties/kasa-freemorewest-charlotte",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://kasa.com/about",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001965,
+        1001974,
+        1001975,
+        1001976,
+        1001977
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-lake_wylie--dentist",
+      "area": "lake_wylie",
+      "category": "dentist",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://dentalcareoflakewylie.com/meet-our-team#celeste-a-lantis-dds",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://dentalcareoflakewylie.com/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://dentalcareoflakewylie.com/meet-our-team",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1000346
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-lake_wylie--medical",
+      "area": "lake_wylie",
+      "category": "medical",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.lakewyliederm.com/services/medical/contact-dermatitis/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.lakewyliederm.com/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.lakewyliederm.com/contact/",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001966
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-gastonia--restaurant",
+      "area": "gastonia",
+      "category": "restaurant",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://savoryrestaurantnc.com/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://moecom.net/soulonlowell/menu.php",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.toochisgastonia.com/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://eatatlotus.com/contact",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001967,
+        1001984,
+        1001985,
+        1001987
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-gastonia--church",
+      "area": "gastonia",
+      "category": "church",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://local.churchofjesuschrist.org/en/us/nc/gastonia/2710-redbud-drive?y_source=1_MjM3Mzc2OTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.lowellfreewillbaptistchurch.org/contact-us",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.lowellfreewillbaptistchurch.org/",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001968,
+        1001989
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-mcadenville--restaurant",
+      "area": "mcadenville",
+      "category": "restaurant",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.holyangelsnc.org/gooseco",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.holyangelsnc.org/contact",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.terramiaristoranteandbar.com/",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001969,
+        1001471
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-mcadenville--medical",
+      "area": "mcadenville",
+      "category": "medical",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://caromonthealth.org/locations/caromont-family-medicine-mcadenville",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://caromonthealth.org/about-us/contact-us/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://caromonthealth.org/about-us/history/",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1000202
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-gastonia--medical",
+      "area": "gastonia",
+      "category": "medical",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.kintegra.org/locations/kintegra-adult-pediatric-medicine-xray-dr/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.kintegra.org/contact-affordable-healthcare-nc/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.kintegra.org/about/",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001970
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-lowell--retail",
+      "area": "lowell",
+      "category": "retail",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.matchmadeusa.com/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.sewmuchfun4you.com/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.sewmuchfun4you.com/contact-us.htm",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.sewmuchfun4you.com/about-us.htm",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://armadilloapparelco.com/contact-us/",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://armadilloapparelco.com/",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001972,
+        1001981,
+        1001982
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-gastonia--lodging",
+      "area": "gastonia",
+      "category": "lodging",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.redroof.com/property/nc/gastonia/rri1433",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.mcclurehillfarm.com/",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001973,
+        1001991
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-gastonia--dentist",
+      "area": "gastonia",
+      "category": "dentist",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.aspendental.com/dentist/nc/gastonia/3051-e-franklin-blvd-ste-100/",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001978
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-gastonia--other",
+      "area": "gastonia",
+      "category": "other",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.529artistry.com/contact-us",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001979
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-lowell--restaurant",
+      "area": "lowell",
+      "category": "restaurant",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.hillbillysbbqsteaks.com/lowell-hillbilly-s-barbeque-and-steaks-about",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.hillbillysbbqsteaks.com/",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001986
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-lowell--church",
+      "area": "lowell",
+      "category": "church",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://lowellcog.churchcenter.com/home",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.presbyterywnc.org/congregation/86-lowell",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.presbyterywnc.org/about-us/contact-us",
+          "label": "Reviewed owned public business source"
+        },
+        {
+          "url": "https://www.presbyterywnc.org/about-us/pwnc-maps",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001988,
+        1001990
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-gastonia--childcare",
+      "area": "gastonia",
+      "category": "childcare",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://southminsterchurch.com/weekday-school/",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001992
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-charlotte--property_management",
+      "area": "charlotte",
+      "category": "property_management",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.amgworld.com/charlotte",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1368
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
+    },
+    {
+      "id": "maps-reviewed-20261006-charlotte--dentist",
+      "area": "charlotte",
+      "category": "dentist",
+      "searchedOn": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.smilecarolina.com/our-offices/charlotte-office",
+          "label": "Reviewed owned public business source"
+        }
+      ],
+      "reviewedIds": [
+        1001993
+      ],
+      "unresolved": [],
+      "notes": "Full saved 117-candidate evidence review. Verified businesses compared against both directories; incomplete addresses and identity conflicts retained separately. This records sources checked and is not an exhaustive city inventory.",
+      "nextAction": "Research held source questions and missing contacts/socials. Confirm visit suitability and exterior authority with businesses; no property ownership inferred."
     }
   ]
 }
