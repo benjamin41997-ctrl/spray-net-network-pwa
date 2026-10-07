@@ -19788,11 +19788,28 @@
           "url": "https://www.riverhillscc.org/weddings-and-events",
           "type": "company website",
           "date": "2026-10-01"
+        },
+        {
+          "url": "https://www.riverhillscc.org/golf",
+          "type": "owned public website",
+          "date": "2026-10-07"
         }
       ],
-      "verified": "2026-10-01",
+      "verified": "2026-10-07",
       "website": "https://www.riverhillscc.org/weddings-and-events",
-      "phone": "+18038312126"
+      "phone": "+18038312126",
+      "subcategory": "Country clubs / golf / social clubs",
+      "services": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured.",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.riverhillscc.org/golf"
+        ]
+      }
     },
     {
       "id": 1001146,
@@ -36279,6 +36296,635 @@
         "checkedAt": "2026-10-06",
         "sources": [
           "https://www.smilecarolina.com/our-offices/charlotte-office"
+        ]
+      }
+    },
+    {
+      "id": 1001994,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.carmelcountryclub.org/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.carmelcountryclub.org/",
+      "phone": "+17049459630",
+      "subcategory": "Country clubs / golf / social clubs",
+      "services": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.carmelcountryclub.org/"
+        ]
+      }
+    },
+    {
+      "id": 1001995,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.myersparkcc.com/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.myersparkcc.com/",
+      "phone": "+17043760741",
+      "subcategory": "Country clubs / golf / social clubs",
+      "services": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.myersparkcc.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001996,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://charlottecountryclub.org//",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.charlottecountryclub.org/",
+      "phone": "+17043340836",
+      "subcategory": "Country clubs / golf / social clubs / Tennis / pickleball / racquet clubs",
+      "services": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://charlottecountryclub.org//"
+        ]
+      }
+    },
+    {
+      "id": 1001997,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.quailhollowclub.com/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.quailhollowclub.com/",
+      "phone": "+17045521800",
+      "subcategory": "Country clubs / golf / social clubs",
+      "services": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.quailhollowclub.com/"
+        ]
+      }
+    },
+    {
+      "id": 1001998,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.thepeninsulaclub.com/home-page",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.thepeninsulaclub.com/home-page",
+      "phone": "+17048967080",
+      "subcategory": "Country clubs / golf / social clubs / Tennis / pickleball / racquet clubs",
+      "services": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.thepeninsulaclub.com/home-page"
+        ]
+      }
+    },
+    {
+      "id": 1001999,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.rockhillcountryclub.net/contact",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.rockhillcountryclub.net/contact",
+      "phone": "+18033281894",
+      "subcategory": "Country clubs / golf / social clubs",
+      "services": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.rockhillcountryclub.net/contact"
+        ]
+      }
+    },
+    {
+      "id": 1002000,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://playfortmill.com/contact-us/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://playfortmill.com/",
+      "phone": "+18035472044",
+      "subcategory": "Country clubs / golf / social clubs",
+      "services": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://playfortmill.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1002001,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://playspringfield.com/contact-us/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://playspringfield.com/",
+      "phone": "+18035483318",
+      "subcategory": "Country clubs / golf / social clubs",
+      "services": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://playspringfield.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1002002,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://charlottecityclub.com/contact-us/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://charlottecityclub.com/",
+      "email": "frontdesk@charlottecityclub.com",
+      "phone": "+17043343200",
+      "subcategory": "Country clubs / golf / social clubs",
+      "services": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://charlottecityclub.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1002003,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.oprctennis.com/contact-directions",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.oprctennis.com/",
+      "email": "events@oprctennis.com",
+      "phone": "+17043669817",
+      "subcategory": "Tennis / pickleball / racquet clubs",
+      "services": "Local tennis or racquet community with recurring leagues, lessons or membership activity. Relevant shared interest; participation does not establish income or homeownership.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.oprctennis.com/contact-directions"
+        ]
+      }
+    },
+    {
+      "id": 1002004,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://charlottetennisassociation.com/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://charlottetennisassociation.com/",
+      "subcategory": "Tennis / pickleball / racquet clubs",
+      "services": "Local tennis or racquet community with recurring leagues, lessons or membership activity. Relevant shared interest; participation does not establish income or homeownership.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Organization or service-area identity verified; a complete postal route and visitor office have not been established. No mailing export or drop-in address supplied.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://charlottetennisassociation.com/"
+        ]
+      }
+    },
+    {
+      "id": 1002005,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.peninsulayacht.com/contact",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.peninsulayacht.com/contact",
+      "phone": "+17048929858",
+      "subcategory": "Boating / sailing / yacht clubs",
+      "services": "Local boating or sailing community. Relevant to lake-area visibility and introductions; account follows do not guarantee exposure to members.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.peninsulayacht.com/contact"
+        ]
+      }
+    },
+    {
+      "id": 1002006,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://fallenleaffarms.com/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://fallenleaffarms.com/",
+      "phone": "+19256992555",
+      "subcategory": "Equestrian / riding / polo",
+      "services": "Local riding or equestrian activities. A potential shared-interest community and facility contact; members and property owners have not been identified.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "Owned source explicitly requires appointments. Arrange an appointment before visiting; exterior approval remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://fallenleaffarms.com/"
+        ]
+      }
+    },
+    {
+      "id": 1002007,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.fivefillyfarm.com/fffcontact",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.fivefillyfarm.com/fffcontact",
+      "email": "kdonovan@questnc.com",
+      "subcategory": "Equestrian / riding / polo",
+      "services": "Local riding or equestrian activities. A potential shared-interest community and facility contact; members and property owners have not been identified.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "appointment_only",
+        "summary": "Owned source explicitly requires appointments. Arrange an appointment before visiting; exterior approval remains unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.fivefillyfarm.com/fffcontact"
+        ]
+      }
+    },
+    {
+      "id": 1002008,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.ascgreenway.org/about/contact-us/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.ascgreenway.org/",
+      "phone": "+18035474575",
+      "subcategory": "Equestrian / riding / polo",
+      "services": "Local riding or equestrian activities. A potential shared-interest community and facility contact; members and property owners have not been identified.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.ascgreenway.org/about/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1002009,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://metrogreenscape.com/contact-us/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://metrogreenscape.com/",
+      "phone": "+17044862596",
+      "subcategory": "Premium landscaping / outdoor living",
+      "services": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://metrogreenscape.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1002010,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://morganlandscapegroup.com/contact-us/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://morganlandscapegroup.com/about-us/",
+      "email": "info@morganlandscapegroup.com",
+      "phone": "+17045882292",
+      "subcategory": "Premium landscaping / outdoor living",
+      "services": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://morganlandscapegroup.com/contact-us/"
+        ]
+      }
+    },
+    {
+      "id": 1002011,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.greenlinedesign.net/contact",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.greenlinedesign.net/",
+      "email": "hcrump@greenlinedesign.net",
+      "phone": "+17043925433",
+      "subcategory": "Premium landscaping / outdoor living",
+      "services": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Published correspondence route; not a verified visitor office. Arrange an introduction and obtain a visitor address before travelling.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.greenlinedesign.net/contact"
+        ]
+      }
+    },
+    {
+      "id": 1002012,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.bakerdesignstudio.com/contact",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.bakerdesignstudio.com/",
+      "email": "justin@bakerdesignstudio.com",
+      "phone": "+17049169508",
+      "subcategory": "Premium landscaping / outdoor living",
+      "services": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Published correspondence route; not a verified visitor office. Arrange an introduction and obtain a visitor address before travelling.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.bakerdesignstudio.com/contact"
+        ]
+      }
+    },
+    {
+      "id": 1002013,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.enterradesigngroup.com/contact",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.enterradesigngroup.com/",
+      "email": "info@enterradesigngroup.com",
+      "subcategory": "Premium landscaping / outdoor living",
+      "services": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Published correspondence route; not a verified visitor office. Arrange an introduction and obtain a visitor address before travelling.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.enterradesigngroup.com/contact"
+        ]
+      }
+    },
+    {
+      "id": 1002014,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://landmarkaos.com/contact/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://landmarkaos.com/",
+      "email": "dan@landmarkaos.com",
+      "phone": "+17047064019",
+      "subcategory": "Premium landscaping / outdoor living",
+      "services": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Organization or service-area identity verified; a complete postal route and visitor office have not been established. No mailing export or drop-in address supplied.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://landmarkaos.com/contact/"
+        ]
+      }
+    },
+    {
+      "id": 1002015,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.freedomboatclub.com/franchises/weirkraft-llc/lake-norman-cornelius",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.freedomboatclub.com/franchises/weirkraft-llc/lake-norman-cornelius/",
+      "phone": "+17042374274",
+      "subcategory": "Boating / sailing / yacht clubs",
+      "services": "Local boating or sailing community. Relevant to lake-area visibility and introductions; account follows do not guarantee exposure to members.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Arrange a vendor introduction before visiting. Member/customer access does not establish permission for vendor drop-ins; ownership and exterior approval remain unknown.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.freedomboatclub.com/franchises/weirkraft-llc/lake-norman-cornelius"
+        ]
+      }
+    },
+    {
+      "id": 1002016,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.lnsailing.org/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.lnsailing.org/",
+      "phone": "+17049477245",
+      "subcategory": "Boating / sailing / yacht clubs",
+      "services": "Local boating or sailing community. Relevant to lake-area visibility and introductions; account follows do not guarantee exposure to members.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Published correspondence route; not a verified visitor office. Arrange an introduction and obtain a visitor address before travelling.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.lnsailing.org/"
+        ]
+      }
+    },
+    {
+      "id": 1002017,
+      "people": [],
+      "sources": [
+        {
+          "url": "https://www.outriggeryachtclub.org/",
+          "type": "owned public website",
+          "date": "2026-10-07"
+        }
+      ],
+      "website": "https://www.outriggeryachtclub.org/",
+      "email": "outriggeryachtclubnc@gmail.com",
+      "subcategory": "Boating / sailing / yacht clubs",
+      "services": "Local boating or sailing community. Relevant to lake-area visibility and introductions; account follows do not guarantee exposure to members.",
+      "verified": "2026-10-07",
+      "visit": {
+        "status": "call_first",
+        "summary": "Organization or service-area identity verified; a complete postal route and visitor office have not been established. No mailing export or drop-in address supplied.",
+        "address": null,
+        "hours": null,
+        "checkedAt": "2026-10-07",
+        "sources": [
+          "https://www.outriggeryachtclub.org/"
         ]
       }
     }

@@ -1,4 +1,6 @@
 export const platforms={instagram:'Instagram',facebook:'Facebook',tiktok:'TikTok',linkedin:'LinkedIn',youtube:'YouTube'};
+export const audienceInterests={clubs:'Country clubs / golf / social clubs',racquet:'Tennis / pickleball / racquet clubs',boating:'Boating / sailing / yacht clubs',equestrian:'Equestrian / riding / polo',landscaping:'Premium landscaping / outdoor living'};
+export function matchesAudience(review,interest){if(!interest)return true;if(interest==='suggested')return !!review?.audienceGroups?.length;return !!review?.audienceGroups?.includes(interest);}
 const hosts={instagram:'instagram.com',facebook:'facebook.com',tiktok:'tiktok.com',linkedin:'linkedin.com',youtube:'youtube.com'};
 export function accountUrl(raw){
  try{
@@ -22,6 +24,7 @@ export function validateSocial(data,companies){
  for(const r of data.reviews){
   if(!ids.has(r.companyId)||seen.has(r.companyId)||!/^\d{4}-\d{2}-\d{2}$/.test(r.checkedOn)||!['checked','blocked'].includes(r.status)||typeof r.notes!=='string'||r.notes.length>1500||!Array.isArray(r.accounts)||!Array.isArray(r.sources))throw Error('Invalid social research record.');
   seen.add(r.companyId);const accounts=new Set();
+  if(r.audienceGroups!==undefined){if(!Array.isArray(r.audienceGroups)||!r.audienceGroups.length||new Set(r.audienceGroups).size!==r.audienceGroups.length||r.audienceGroups.some(g=>!Object.hasOwn(audienceInterests,g))||typeof r.audienceReason!=='string'||!r.audienceReason.trim()||r.audienceReason.length>1000)throw Error('Invalid audience-interest research.');}
   for(const source of r.sources){const u=new URL(source);if(!['https:','http:'].includes(u.protocol)||u.username||u.password)throw Error('Invalid social source.');}
   for(const a of r.accounts){const canonical=accountUrl(a.url);if(!canonical||canonical.url!==a.url||canonical.platform!==a.platform||accounts.has(a.url)||!['website_linked','possible'].includes(a.evidence)||!['business','brand','unclear'].includes(a.scope)||!r.sources.includes(a.source)||typeof a.notes!=='string'||a.notes.length>1000)throw Error('Invalid business social account.');accounts.add(a.url);}
  }

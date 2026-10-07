@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-01",
+  "publishedAt": "2026-10-07",
   "reviews": [
     {
       "companyId": 1,
@@ -35821,6 +35821,681 @@
           "notes": "Explicit business or parent-brand link on reviewed primary source. Parent-brand profile is not a branch-specific account. Activity and account availability unverified; no account followed."
         }
       ]
+    },
+    {
+      "companyId": 1001994,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization identity verified, but no owned-site-linked social account established in this pass. Use account search links or the public website; no handles guessed.",
+      "sources": [
+        "https://www.carmelcountryclub.org/"
+      ],
+      "accounts": [],
+      "audienceGroups": [
+        "clubs"
+      ],
+      "audienceReason": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured."
+    },
+    {
+      "companyId": 1001995,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization identity verified, but no owned-site-linked social account established in this pass. Use account search links or the public website; no handles guessed.",
+      "sources": [
+        "https://www.myersparkcc.com/"
+      ],
+      "accounts": [],
+      "audienceGroups": [
+        "clubs"
+      ],
+      "audienceReason": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured."
+    },
+    {
+      "companyId": 1001996,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://charlottecountryclub.org//"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/charlottecountryclubnc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://charlottecountryclub.org//",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/charlottecountryclub",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://charlottecountryclub.org//",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "clubs",
+        "racquet"
+      ],
+      "audienceReason": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured."
+    },
+    {
+      "companyId": 1001997,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization identity verified, but no owned-site-linked social account established in this pass. Use account search links or the public website; no handles guessed.",
+      "sources": [
+        "https://www.quailhollowclub.com/"
+      ],
+      "accounts": [],
+      "audienceGroups": [
+        "clubs"
+      ],
+      "audienceReason": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured."
+    },
+    {
+      "companyId": 1001998,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://www.thepeninsulaclub.com/home-page"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/thepeninsulaclb",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.thepeninsulaclub.com/home-page",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/thepeninsulaclb",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.thepeninsulaclub.com/home-page",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "clubs",
+        "racquet"
+      ],
+      "audienceReason": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured."
+    },
+    {
+      "companyId": 1001999,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://www.rockhillcountryclub.net/contact"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/rockhill.countryclub",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.rockhillcountryclub.net/contact",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/rhcc_1934",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.rockhillcountryclub.net/contact",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "clubs"
+      ],
+      "audienceReason": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured."
+    },
+    {
+      "companyId": 1002000,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://playfortmill.com/contact-us/",
+        "https://playfortmill.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/playfortmill",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://playfortmill.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "clubs"
+      ],
+      "audienceReason": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured."
+    },
+    {
+      "companyId": 1002001,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://playspringfield.com/contact-us/",
+        "https://playspringfield.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/playspringfield",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://playspringfield.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "clubs"
+      ],
+      "audienceReason": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured."
+    },
+    {
+      "companyId": 1001145,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization identity verified, but no owned-site-linked social account established in this pass. Use account search links or the public website; no handles guessed.",
+      "sources": [
+        "https://www.riverhillscc.org/golf"
+      ],
+      "accounts": [],
+      "audienceGroups": [
+        "clubs"
+      ],
+      "audienceReason": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured."
+    },
+    {
+      "companyId": 1002002,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://charlottecityclub.com/contact-us/",
+        "https://charlottecityclub.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/charlottecityclub",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://charlottecityclub.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/charlottecityclub",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://charlottecityclub.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/charlotte-city-club",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://charlottecityclub.com/contact-us/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "clubs"
+      ],
+      "audienceReason": "Local club, golf or social membership community. A potential audience for home improvement introductions; overlap with Spray-Net customers is an estimate, not measured."
+    },
+    {
+      "companyId": 1002003,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://www.oprctennis.com/contact-directions",
+        "https://www.oprctennis.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/oldeprovidenceracquetclub",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.oprctennis.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/oprc.charlotte",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.oprctennis.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "racquet"
+      ],
+      "audienceReason": "Local tennis or racquet community with recurring leagues, lessons or membership activity. Relevant shared interest; participation does not establish income or homeownership."
+    },
+    {
+      "companyId": 1002004,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://charlottetennisassociation.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/charlottetennisassociation",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://charlottetennisassociation.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/charlottetennisassociation",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://charlottetennisassociation.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/charlotte-tennis-association",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://charlottetennisassociation.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "racquet"
+      ],
+      "audienceReason": "Local tennis or racquet community with recurring leagues, lessons or membership activity. Relevant shared interest; participation does not establish income or homeownership."
+    },
+    {
+      "companyId": 1002005,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization identity verified, but no owned-site-linked social account established in this pass. Use account search links or the public website; no handles guessed.",
+      "sources": [
+        "https://www.peninsulayacht.com/contact"
+      ],
+      "accounts": [],
+      "audienceGroups": [
+        "boating"
+      ],
+      "audienceReason": "Local boating or sailing community. Relevant to lake-area visibility and introductions; account follows do not guarantee exposure to members."
+    },
+    {
+      "companyId": 1002006,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://fallenleaffarms.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/102753909267862",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://fallenleaffarms.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/fallenleaffarms",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://fallenleaffarms.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "equestrian"
+      ],
+      "audienceReason": "Local riding or equestrian activities. A potential shared-interest community and facility contact; members and property owners have not been identified."
+    },
+    {
+      "companyId": 1002007,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization identity verified, but no owned-site-linked social account established in this pass. Use account search links or the public website; no handles guessed.",
+      "sources": [
+        "https://www.fivefillyfarm.com/fffcontact"
+      ],
+      "accounts": [],
+      "audienceGroups": [
+        "equestrian"
+      ],
+      "audienceReason": "Local riding or equestrian activities. A potential shared-interest community and facility contact; members and property owners have not been identified."
+    },
+    {
+      "companyId": 1002008,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://www.ascgreenway.org/about/contact-us/",
+        "https://www.ascgreenway.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/ascgreenway",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.ascgreenway.org/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/ascgreenway",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.ascgreenway.org/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "equestrian"
+      ],
+      "audienceReason": "Local riding or equestrian activities. A potential shared-interest community and facility contact; members and property owners have not been identified."
+    },
+    {
+      "companyId": 1002009,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://metrogreenscape.com/contact-us/",
+        "https://metrogreenscape.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/mgscharlotte",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://metrogreenscape.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/metrogreenscape",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://metrogreenscape.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/metro-greenscape-inc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://metrogreenscape.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCnkFEbZLRnz71hwbooNQtfQ",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://metrogreenscape.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "landscaping"
+      ],
+      "audienceReason": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests."
+    },
+    {
+      "companyId": 1002010,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://morganlandscapegroup.com/contact-us/",
+        "https://morganlandscapegroup.com/about-us/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/morganlandscapegroupinc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://morganlandscapegroup.com/about-us/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/themorganlandscapegroup",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://morganlandscapegroup.com/about-us/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "landscaping"
+      ],
+      "audienceReason": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests."
+    },
+    {
+      "companyId": 1002011,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization identity verified, but no owned-site-linked social account established in this pass. Use account search links or the public website; no handles guessed.",
+      "sources": [
+        "https://www.greenlinedesign.net/contact"
+      ],
+      "accounts": [],
+      "audienceGroups": [
+        "landscaping"
+      ],
+      "audienceReason": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests."
+    },
+    {
+      "companyId": 1002012,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://www.bakerdesignstudio.com/contact",
+        "https://www.bakerdesignstudio.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/bakerdesignstudio",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.bakerdesignstudio.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/bakerdesignstudio",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.bakerdesignstudio.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "landscaping"
+      ],
+      "audienceReason": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests."
+    },
+    {
+      "companyId": 1002013,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://www.enterradesigngroup.com/contact",
+        "https://www.enterradesigngroup.com/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/enterradesign",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.enterradesigngroup.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/enterra_design",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.enterradesigngroup.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/c/EnterradesigngroupNC",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.enterradesigngroup.com/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "landscaping"
+      ],
+      "audienceReason": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests."
+    },
+    {
+      "companyId": 1002014,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization identity verified, but no owned-site-linked social account established in this pass. Use account search links or the public website; no handles guessed.",
+      "sources": [
+        "https://landmarkaos.com/contact/"
+      ],
+      "accounts": [],
+      "audienceGroups": [
+        "landscaping"
+      ],
+      "audienceReason": "Residential landscape design, maintenance or outdoor living services. Potential complementary referral relationships and shared home-improvement interests."
+    },
+    {
+      "companyId": 1002015,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://www.freedomboatclub.com/franchises/weirkraft-llc/lake-norman-cornelius",
+        "https://www.freedomboatclub.com/contact-us"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/freedomboatclub",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.freedomboatclub.com/franchises/weirkraft-llc/lake-norman-cornelius",
+          "notes": "National brand profile linked by the local location website; not a Cornelius-only account."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/freedomboatclubworldwide",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.freedomboatclub.com/contact-us",
+          "notes": "National brand profile linked by the local location website; not a Cornelius-only account."
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@FreedomBoatClubWorldwide",
+          "evidence": "website_linked",
+          "scope": "brand",
+          "source": "https://www.freedomboatclub.com/franchises/weirkraft-llc/lake-norman-cornelius",
+          "notes": "National brand profile linked by the local location website; not a Cornelius-only account."
+        }
+      ],
+      "audienceGroups": [
+        "boating"
+      ],
+      "audienceReason": "Local boating or sailing community. Relevant to lake-area visibility and introductions; account follows do not guarantee exposure to members."
+    },
+    {
+      "companyId": 1002016,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://www.lnsailing.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/lnsailing.org",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.lnsailing.org/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/lkncommunitysailing",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.lnsailing.org/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "boating"
+      ],
+      "audienceReason": "Local boating or sailing community. Relevant to lake-area visibility and introductions; account follows do not guarantee exposure to members."
+    },
+    {
+      "companyId": 1002017,
+      "checkedOn": "2026-10-07",
+      "status": "checked",
+      "notes": "Public organization website reviewed. Profile availability and activity are not independently verified. No accounts followed.",
+      "sources": [
+        "https://www.outriggeryachtclub.org/"
+      ],
+      "accounts": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/outriggeryachtclubnc",
+          "evidence": "website_linked",
+          "scope": "business",
+          "source": "https://www.outriggeryachtclub.org/",
+          "notes": "Profile explicitly linked by the reviewed organization website. Check its current name and activity before following."
+        }
+      ],
+      "audienceGroups": [
+        "boating"
+      ],
+      "audienceReason": "Local boating or sailing community. Relevant to lake-area visibility and introductions; account follows do not guarantee exposure to members."
     }
   ]
 }

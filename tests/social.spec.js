@@ -1,7 +1,7 @@
 import {test,expect} from '@playwright/test';
 import {readFile} from 'node:fs/promises';
 const directoryCompanyCount=String(JSON.parse(await readFile(new URL('../site/data/directory.json',import.meta.url),'utf8')).counts.companies);
-import {accountUrl,validateSocial,socialCompanies,progressKey} from '../site/social-model.js';
+import {accountUrl,validateSocial,socialCompanies,progressKey,matchesAudience} from '../site/social-model.js';
 import {parseSocialBackup,validateProgress} from '../site/social-store.js';
 test('social research rejects unsafe links and preserves distinct account identity',async({},info)=>{
  test.skip(info.project.name!=='desktop','Model checks run once');
@@ -45,4 +45,33 @@ test('shared brand progress applies across offices and storage failure never imp
  await page.addInitScript(()=>{const open=IDBFactory.prototype.open;IDBFactory.prototype.open=function(name,...args){if(name==='spray-net-social-progress')throw Error('Social storage unavailable');return open.call(this,name,...args)}});
  await page.reload();await expect(page.locator('#social-storage')).toContainText('status is unknown');await page.locator('#social-progress').selectOption('pending');await expect(page.locator('[data-social-url]')).toHaveCount(0);
  await page.getByRole('button',{name:'Back to directory'}).click();await expect(page.locator('#company-count')).toHaveText(directoryCompanyCount);
+});
+
+test('audience research validates interests without changing account progress identities',async({},info)=>{
+ test.skip(info.project.name!=='desktop','Model checks run once');
+ const d=JSON.parse(await readFile('site/data/directory.json')),m=JSON.parse(await readFile('site/data/mailing.json')),s=JSON.parse(await readFile('site/data/social.json'));
+ const suggested=s.reviews.find(r=>r.audienceGroups?.includes('boating'));
+ expect(matchesAudience(suggested,'suggested')).toBe(true);expect(matchesAudience(suggested,'boating')).toBe(true);expect(matchesAudience(suggested,'landscaping')).toBe(false);
+ expect(matchesAudience(undefined,'')).toBe(true);expect(matchesAudience(undefined,'suggested')).toBe(false);
+ const broken=structuredClone(s);const row=broken.reviews.find(r=>r.companyId===suggested.companyId);row.audienceGroups=['unreviewed_interest'];
+ expect(()=>validateSocial(broken,socialCompanies(d,m))).toThrow('Invalid audience-interest');
+ row.audienceGroups=['boating'];row.audienceReason='';expect(()=>validateSocial(broken,socialCompanies(d,m))).toThrow('Invalid audience-interest');
+});
+
+test('audience follow queue includes research gaps and keeps a followed account across filters and reload',async({page})=>{
+ await page.goto('./#social?interest=suggested');
+ await expect(page.locator('#social-interest')).toHaveValue('suggested');
+ await expect(page.locator('#social-count')).toContainText('25 businesses');
+ await expect(page.locator('#social-rows')).toContainText('Carmel Country Club');
+ const club=page.locator('.social-card').filter({has:page.getByRole('heading',{name:'Charlotte Country Club',exact:true})});
+ await expect(club).toContainText('overlap with Spray-Net customers is an estimate');
+ await page.locator('#social-platform').selectOption('instagram');
+ const followed=club.locator('[data-social-url="https://www.instagram.com/charlottecountryclub"]');await followed.selectOption('followed');await expect(page.locator('#social-message')).toContainText('No platform action');
+ await page.locator('#social-interest').selectOption('landscaping');await expect(page.locator('#social-rows')).toContainText('MetroGreenscape');await expect(club).toHaveCount(0);
+ await page.locator('#social-interest').selectOption('clubs');await expect(followed).toHaveValue('followed');
+ await page.reload();await expect(followed).toHaveValue('followed');
+ await page.locator('#social-platform').selectOption('');await page.locator('#social-interest').selectOption('boating');
+ await expect(page.locator('#social-count')).toContainText('4 businesses');
+ await expect(page.locator('#social-rows')).toContainText('Shared brand account');
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
 });
