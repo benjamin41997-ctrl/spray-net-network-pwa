@@ -1,7 +1,12 @@
 import {mailingCategories,mergeMailingCatalog} from './mailing-model.js';
 import {unknownVisit,validateVisit} from './visits.js';
-export const specialties={interior_design:'Interior designers',cabinetry:'Cabinet makers / dealers / showrooms',countertops:'Countertop installers / suppliers / showrooms'};
-export function matchesSpecialty(c,value){if(!value)return true;const text=[c.subcategory,c.services,c.name].join(' ');return ({interior_design:/interior\s*design/i,cabinetry:/cabinet|millwork|woodwork/i,countertops:/countertop|granite|quartz|stone slab/i})[value]?.test(text)||false;}
+export const specialties={interior_design:'Interior / home designers',cabinetry:'Cabinet makers / dealers / showrooms',countertops:'Countertop installers / suppliers / showrooms'};
+export function isHomeDesigner(c){
+ const text=[c.subcategory,c.services,c.name].join(' ');
+ return /\binterior\s*design(?:er|ers)?\b|\b(?:custom\s+)?(?:home|house|residential)\s+design(?:er|ers)?\b/i.test(text)||
+  (c.category==='kitchen'&&/^Designers(?:\s*,|$)/i.test(c.subcategory||''));
+}
+export function matchesSpecialty(c,value){if(!value)return true;if(value==='interior_design')return isHomeDesigner(c);const text=[c.subcategory,c.services,c.name].join(' ');return ({cabinetry:/cabinet|millwork|woodwork/i,countertops:/countertop|granite|quartz|stone slab/i})[value]?.test(text)||false;}
 
 export function validateBusinessDetails(data,recipients){
  if(data?.schemaVersion!==1||!Array.isArray(data.records))throw Error('Unsupported business details.');
@@ -27,6 +32,10 @@ export function buildNetwork(directory,mailing,details){
  const referrals=directory.companies.map(c=>({...c,audiences:c.category==='property_management'?['referral','business']:['referral'],mailing:byId.get(c.id)}));
  const businesses=catalog.filter(r=>r.id>=1000000).map(r=>({id:r.id,name:r.name,category:r.category,city:r.city,state:r.state,zip:r.zip,website:'',email:'',phone:'',services:'',subcategory:mailingCategories[r.category],serviceArea:'',verified:r.reviewedOn,people:[],sources:r.source?[{url:r.source,type:r.addressSourceType||'address source',date:r.reviewedOn}]:[],shortlist:null,visit:{...unknownVisit},...extras.get(r.id),mailing:r,audiences:['business']}));
  const companies=[...referrals,...businesses];
- for(const c of companies)c.search=[c.name,c.city,c.state,c.zip,c.subcategory,c.services,c.serviceArea,c.mailing?.address1,...c.people.map(p=>p.name)].filter(Boolean).join(' ').toLowerCase();
- return {...directory,categories:{...mailingCategories,...directory.categories},companies};
+ for(const c of companies){
+  c.directoryCategory=isHomeDesigner(c)?'interior_design':c.category;
+  if(c.directoryCategory==='interior_design')c.audiences=['referral','business'];
+  c.search=[c.name,c.city,c.state,c.zip,c.subcategory,c.services,c.serviceArea,c.mailing?.address1,...c.people.map(p=>p.name)].filter(Boolean).join(' ').toLowerCase();
+ }
+ return {...directory,categories:{interior_design:specialties.interior_design,...mailingCategories,...directory.categories},companies};
 }

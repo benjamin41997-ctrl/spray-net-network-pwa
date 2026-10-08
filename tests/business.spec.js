@@ -1,10 +1,36 @@
 import {test,expect} from '@playwright/test';
 import {readFile} from 'node:fs/promises';
-import {buildNetwork,validateBusinessDetails} from '../site/business-model.js';
+import {buildNetwork,validateBusinessDetails,isHomeDesigner} from '../site/business-model.js';
 const read=async name=>JSON.parse(await readFile(new URL('../site/data/'+name+'.json',import.meta.url),'utf8'));
 const directory=await read('directory'),mailing=await read('mailing'),details=await read('business-details');
 const network=buildNetwork(directory,mailing,details),businesses=network.companies.filter(c=>c.audiences.includes('business'));
 const clinic=businesses.find(c=>c.people.some(p=>p.role?.startsWith('Registry authorized official')));
+
+test('interior and home designers have a dedicated category in both directories',async({page})=>{
+ const designers=network.companies.filter(c=>c.directoryCategory==='interior_design');
+ expect(designers.length).toBeGreaterThan(0);
+ for(const route of ['directory','businesses']){
+  await page.goto('./#'+route);
+  await page.locator('#category').selectOption('interior_design');
+  await expect(page.locator('#result-count')).toHaveText(designers.length.toLocaleString('en-US')+' companies');
+  await expect(page.locator('.company-card .category').first()).toHaveText('Interior / home designers');
+  await expect(page.locator('#specialty-filter')).toBeVisible();
+  const city=designers[0].city;
+  await page.locator('#city').selectOption(city);
+  await page.reload();
+  await expect(page.locator('#category')).toHaveValue('interior_design');
+  await expect(page.locator('#city')).toHaveValue(city);
+  await expect(page.locator('#result-count')).toHaveText(designers.filter(c=>c.city===city).length.toLocaleString('en-US')+' companies');
+ }
+});
+
+test('designer classification uses specific services and preserves original records',async({},info)=>{
+ test.skip(info.project.name!=='desktop','Pure validation runs once.');
+ for(const c of [{subcategory:'Designers',category:'kitchen'},{services:'Kitchen, bath and custom home design'},{subcategory:'Interior Designer'}])expect(isHomeDesigner(c)).toBe(true);
+ for(const c of [{name:'Landscape Design Studio',services:'Landscape design'},{name:'House Painting',services:'Interior painting'},{subcategory:'Architects, Cabinets, Carpentry',services:'Residential construction'},{name:'Graphic Design'}])expect(isHomeDesigner(c)).toBe(false);
+ for(const c of directory.companies){const published=network.companies.find(n=>n.id===c.id);expect(published.category).toBe(c.category);expect(published.people).toEqual(c.people);}
+ expect(network.companies.filter(c=>c.directoryCategory==='interior_design').every(c=>c.audiences.includes('referral')&&c.audiences.includes('business'))).toBe(true);
+});
 
 test('business directory exposes profiles, mailing addresses and socials; property managers share their existing identity',async({page})=>{
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
